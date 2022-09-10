@@ -1,5 +1,7 @@
+---
 layout: page
 title: "Brendan Enrick's Tech Blog"
+---
 
 # Welcome to Brendan Enrick's Tech Blog
 
