@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Brendan Enrick's Tech Blog"
+permalink: /
 ---
 
 # Welcome to Brendan Enrick's Tech Blog
