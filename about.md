@@ -1,5 +1,8 @@
+---
 layout: page
 title: "About Brendan Enrick"
+---
+
 # About Brendan Enrick
 
 Brendan is a passionate software developer who started programming in the late '90s making gaming websites. Brendan works as a coach and mentor for software develoeprs, so you should inquire if you want Brendan to help your team improve their coding.
