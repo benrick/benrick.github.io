@@ -14,6 +14,7 @@ github_username: "DevChatter"
 #pinterest_username: username
 youtube_username: "c/DevChatter"
 #googleplus_username: +username
+twitch_username: "DevChatter"
 
 paginate: 10
 paginate_path: "/page:num/"
