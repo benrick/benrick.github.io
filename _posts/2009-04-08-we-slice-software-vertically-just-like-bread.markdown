@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/We-Slice-Software-Vertically-Just-Like-Bread", "/post/we-slice-software-vertically-just-like-bread"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p><img style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/WeSliceSoftwareVerticallyJustLikeBread_8737/Bread_3.jpg" border="0" alt="Bread" width="240" height="179" align="right" /> When working on a feature or some other aspect of a software project, it is important to figure out what piece you want to do at any given time. There are two primary routes you could take. Perhaps you want to go and create the whole UI, but have nothing wired up. Maybe you want to go and write all the business logic first, and you might want to go create the data layer and underlying infrastructure. If you do one of those then I will call you crazy.</p>
 <p>I believe in vertically slicing an application. You never know at the beginning of a project what scope creep is going to occur, and you also don't know which aspects of your initial design will be completely unnecessary. One of the main reasons why so many people are against "big design up front" is because we don't know what we're going to need in the end.</p>
 <p>If we're working in vertical slices, we can complete an entire piece of functionality that we know we need. This is why we work with vertical slices. We can stop at any time, and there are no unused pieces. Everything we've completed is there and working.</p>

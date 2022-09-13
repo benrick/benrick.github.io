@@ -8,8 +8,10 @@ categories: ["blog", "archives"]
 tags: ["Blog"]
 alias: ["/post/Deleting-Git-Branches-Carefully", "/post/deleting-git-branches-carefully"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+
+
 <p>I noticed someone recently using a “hard delete” in the git command line recently. I commented on it being brave, but it turns out that he didn’t realize there was a different way to delete a branch in git. In case anyone else is wondering the difference, here is a quick tip on it.</p> <p>In the git command line, you can use the “-D” parameter to delete a branch. It looks like this:</p><pre class="brush: ps;">git branch –D my-branch-name
 </pre>
 <p>This will delete the branch regardless of whether it’s been merged back in. This can be dangerous, since you may lose changes that you’ve not yet merged elsewhere.</p>

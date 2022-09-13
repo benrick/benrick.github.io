@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Time-Tested-Testing-Tips-Part-5", "/post/time-tested-testing-tips-part-5"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Welcome back for another exciting tip for those developers writing unit tests. Today we will be looking at assertions in unit tests.</p>
 <h3>Only Assert On One Case Per Test</h3>
 <p>When people start writing unit tests they do the natural thing with their <em>Assert</em> statements; they write a bunch of them in the test. This makes a bunch of sense, because you don't want to repeat yourself in your tests. This is not bad <em>as long as all of the asserts are asserting the same expectation with different values</em>. If you are testing different <em>cases</em> then they need to be separate test.</p>

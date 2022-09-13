@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/ASPNET-MVC-Beta-Released", "/post/aspnet-mvc-beta-released"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Just in case you missed the blog post from Scott Guthrie yesterday, I will post this.</p>
 <p><a href="http://weblogs.asp.net/scottgu/archive/2008/10/16/asp-net-mvc-beta-released.aspx" target="_blank">Scott Guthrie's MVC Beta Announcement</a></p>
 <p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=A24D1E00-CD35-4F66-BAA0-2362BDDE0766&amp;displaylang=en" target="_blank">ASP.NET MVC Beta Download</a></p>

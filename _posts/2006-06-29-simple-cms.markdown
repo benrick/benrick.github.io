@@ -8,8 +8,10 @@ categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Simple-CMS", "/post/simple-cms"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+
+
 <p>&nbsp;&nbsp;&nbsp; Lately I have been working on a simple content management system. This CMS will not be like a lot of what is currently available. The software applications that currently exist tend to be applications which <em>are</em> the site. Simple CMS will plug into an existing web page. This is beneficial because it will allow people who have one or more web sites to quickly and easily add content to that site.</p>
 <p>&nbsp;&nbsp;&nbsp; So far I have been able to keep the install down to one executed SQL script, a dll file, and some copying and pasting into a web.config. This may be changing a bit as I add more to the functionality of the system.</p>
 <p>&nbsp;&nbsp;&nbsp; I have been working with the httphandlerfactory class. I have my SimpleCms handler factory inherit from that class, and I use to handle the content which the system creates. Creating these pages often gets complicated, because I have to find ways to get the controls to render correctly. Sometimes I cannot use the controls I want to use because I cannot get them to render. I am working still to get them working, but for the time being I want to have a working CMS.</p>

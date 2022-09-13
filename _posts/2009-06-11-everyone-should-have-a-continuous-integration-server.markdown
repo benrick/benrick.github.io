@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Everyone-Should-Have-a-Continuous-Integration-Server", "/post/everyone-should-have-a-continuous-integration-server"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p><strong>Have you ever heard another developer say, "it works on <em>my</em> machine"?</strong> Well I am sure a lot of people have heard that common phrase. Heck I've used it, but a lot of the time I will point out that it also works on the <em>build server</em>. That last part is what really counts in my opinion.</p>
 <p>Any and all code you write should be checked into a source control repository. I think most people agree with that statement. Another very important thing is that your code actually <em>work</em> after being checked out from the repository. I wrote a blog post a while back about <a href="http://brendan.enrick.com/post/2009/02/12/Organizing-Software-Projects.aspx" target="_blank">how to structure software projects</a>.</p>
 <blockquote>

@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Time-Tested-Testing-Tips-Part-1", "/post/time-tested-testing-tips-part-1"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>These days more and more people seem to be testing. I admit I am one of the developers who has been writing unit, integration, acceptance, regression, and other tests. The idea of testing has been around for a long time, but it seems lately there has been a surge of people beginning to use them. Some are having great success and some are seeing their success fall away. Simply <em>writing</em> tests does not suddenly make great code.</p>
 <p>Something I think everyone should know is that testing code is desired because it allows us a few benefits; the confidence that everything is working, the confidence that a bug has been eliminated, ease of maintainability, and extra documentation of a system written in code.</p>
 <h3>Tests as Documentation</h3>

@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Copying-Data-From-SQL-Server-Management-Studio", "/post/copying-data-from-sql-server-management-studio"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I often write queries in SQL Server Management Studio to find different bits of information about which I am curious. This is quite easy and I discover a lot of useful and interesting things this way. You might ask why I am writing this blog post. I'll first say that I try to share these little tidbits with others. Sure I could bring people over to my computer and show them these nifty collections of data with certain meanings, but that would just be silly. I need to store it elsewhere and email it.</p>
 <p>Maybe I'm just going about things the wrong way, but I've tried to copy and paste from SSMS into Outlook and that doesn't usually work well. Outlook doesn't seem to figure out that I would like my data pasted as a table, so I usually throw it into Excel first. Doing this will get my data into a nice tabular format.</p>
 <p>Now that I've finally gotten my tabular data into a table everything is great. Right? No. I lose once again. I don't have the column names with my data so I end up with something like this and without column names people will not know what I am trying to tell them.</p>

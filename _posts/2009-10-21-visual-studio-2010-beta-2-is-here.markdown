@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Visual-Studio-2010-Beta-2-is-Here", "/post/visual-studio-2010-beta-2-is-here"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>As of today Visual Studio Beta 2 is available to the general public. There is a <a href="http://bit.ly/3q8M64" target="_blank">VS 2010 Beta 2 iso</a> available for download. It has some really nifty features. I&rsquo;ve been playing around with it.</p>
 <p>First off I will say that it actually looks very cool.</p>
 <p><a href="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/VisualStudio2010Beta2ishere_7D21/StartPage_2.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="StartPage" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/VisualStudio2010Beta2ishere_7D21/StartPage_thumb.png" border="0" alt="StartPage" width="414" height="277" /></a></p>

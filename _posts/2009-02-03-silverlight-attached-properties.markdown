@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Silverlight-Attached-Properties", "/post/silverlight-attached-properties"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>One cool feature of XAML is the concept of an attached property. These properties are a way of extending the properties of an element in XAML. By this I don't mean that you can add any arbitrary extra property to an element. What I mean is that child elements have certain properties from their parents attached to them. This is often used as a way of allowing a child element to interact with a parent.</p>
 <p>A couple of examples of what I mean can be found in the DockPanel and the Canvas elements. Some attached properties you will find from the Canvas element are Canvas.Top, Canvas.Left, and Canvas.ZOrder. These three let you control the location of the child element within the canvas. A DockPanel element gives DockPanel.Dock, because it is important to know where on the DockPanel your child element is docked.</p>
 <p>You have probably noticed by now the naming of these attached properties. They are named in the following way.</p>

@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
 alias: ["/post/Unpacking-Tuples-in-Python", "/post/unpacking-tuples-in-python"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>There are plenty of reasons why I like the Python language. Yes, I know it is an interpreted language and it is very dynamic. While looking at some JavaScript mere moments ago, I saw someone pass back two values from a function. This is one thing that bothers me when I am writing in a lot of languages. I will need to pass back two or more values from my function. So I need to change the return value to some type of a sequence perhaps an array. Then I need to adjust the location where I call the function so that it accepts and array. It then needs to take each value of the array and place the returned value into each variable that needs the value.... Yuck! What a pain just to get a couple of values!</p>
 <p>A lot of times I just want a simple solution to my problem. I'd like to type 2 lines of code instead of 5. Python has plenty of problems, but one of my favorites assets of the Python language is the ability to Unpack tuples from functions. So lets say that I want to return three values from my function. I just separate them by commas and it works. I then in my function call just list each variable to which those values correspond separated by commas and away I go.</p>
 <p>&nbsp;</p>

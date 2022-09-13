@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Viewing-Disassembled-IL-with-ILDASM", "/post/viewing-disassembled-il-with-ildasm"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>For those of you who are simply computer geeks I present to you an easy way to view the generated intermediate language code that is generated when you&rsquo;re using the .NET Framework. So if you&rsquo;ve ever wanted to see what is generated from your compiler, so you can see what code gets executed at run-time you just need to take a few simple steps.</p>
 <p>Open up the Visual Studio Command Prompt. You can find this command prompt in the Start Menu inside of the tools folder for Visual Studio.</p>
 <p><img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="VS-Command-Prompt" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/ViewingDisassembledILwithILDASM_D350/VS-Command-Prompt_3.jpg" border="0" alt="VS-Command-Prompt" width="500" height="251" /></p>

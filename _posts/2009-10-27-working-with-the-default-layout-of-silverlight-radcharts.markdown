@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Working-with-the-Default-Layout-of-Silverlight-RadCharts", "/post/working-with-the-default-layout-of-silverlight-radcharts"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>The default layout for a RadChart works for most situations. It has a ChartArea, a ChartLegend, and a ChartTitle. These are easy to work with, and if you want you can break from the norm and create your own <a href="http://brendan.enrick.com/post/2009/09/14/Create-a-Custom-Layout-in-a-RadChart-for-Silverlight.aspx" target="_blank">custom Silverlight Rad Chart layout</a>. If you&rsquo;re sticking with the default you almost certainly have some settings and properties to which you will want to make adjustments. In order to do that you might define these in the XAML.</p>
 <div id="codeSnippetWrapper" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; width: 97.5%; font-family: 'Courier New', courier, monospace; direction: ltr; max-height: 750px; font-size: 8pt; overflow: auto; cursor: text; border: silver 1px solid; padding: 4px;">
 <div id="codeSnippet" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; width: 100%; font-family: 'Courier New', courier, monospace; direction: ltr; color: black; font-size: 8pt; overflow: visible; border-style: none; padding: 0px;">

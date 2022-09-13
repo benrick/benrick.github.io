@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Productive-Typing", "/post/productive-typing"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>In software development it is very important that you type quickly. Now some people are going to be thinking that simple words/minute is important. I agree that it is important to be able to type quickly in general while programming. There are other aspects to this as well. Now consider if you have two programmers and one types twice as fast as the other. Which one is more valuable to the company? So I might have oversimplified this, but I would assume most people who go and read blogs are probably trying to improve their skills as a developer and if you're not considering your programming (typing) speed then you're not considering enough.</p>
 <p>As a said moments ago, I am not going to talk words per minute. That isn't always relevant since we're not always typing words. Ours are a lot of the same words as well as a lot of symbols. It isn't normal typing. What I am going to say is that developers need to be taking advantage of keyboard shortcuts and snippets; from the standard ones which work in many applications down to Visual Studio specific shortcuts. A lot of developers use add-ins like CodeRush and Resharper to increase their development speed.</p>
 <h3>Program Agnostic Shortcuts</h3>

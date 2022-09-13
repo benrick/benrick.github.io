@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
 alias: ["/post/Handling-Keyboard-Input-in-Silverlight", "/post/handling-keyboard-input-in-silverlight"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Keyboard input is one of the most important aspects of truly rich programming environments. I understand that one usually identifies a rich interface as one which can interacted with visually. This interaction feels more natural than keyboard interaction. The mouse allows the user to feel as if he can truly manipulate the environment in which he is working. One cannot, however, ignore the importance of the keyboard in any environment expecting to be able to perform much meaningful work. Again I'll be talking about some code that I wrote many months ago. Sorry for being so late mentioning this stuff. I just need to find more time in the day. I'll find that 25th hour eventually.</p>
 <p>Handling keyboard input with Silverlight 2.0 is very easy. In Silverlight 1.1 there wasn't even an enumeration for the keys. Now that it is included one simply has to wire up some handlers for keyboard input. For my purposes I've been using it for gaming, but others could be using this for almost anything. Keep that in mind and use this by adapting it to your needs at the time.</p>
 <p>Initializing the key up and key down event handlers is very easy. You just call a couple of lines like these and create a couple of empty methods which we will write later, so we start with this.</p>

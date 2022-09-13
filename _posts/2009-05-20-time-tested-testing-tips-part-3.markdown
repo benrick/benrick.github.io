@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Time-Tested-Testing-Tips-Part-3", "/post/time-tested-testing-tips-part-3"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Context switching is very costly and this same issue can be seen when writing tests, but I would argue most importantly in maintaining and reading tests.</p>
 <ul>
 <li><a href="http://brendan.enrick.com/post/2009/05/19/Time-Tested-Testing-Tips-Part-1.aspx" target="_blank">Time-Tested Testing Tips - Part 1</a></li>

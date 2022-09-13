@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Validating-Entity-objects", "/post/validating-entity-objects"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>While working with an entity object I wanted to validate, I took some time to do some Googling. I was planning on creating an IValidator&lt;T&gt; interface so I could keep the validation separate from my classes, and I was going to implement this interface for every entity that needed it. Since validation is pretty common I figured I would take a look around first to see if there were some good ways of performing validation which differed slightly from how I had done things previously or offered any insight on a good solution similar to what I mention above. I found a link to a blog post that had exactly what I was looking for. It turns out that <a href="http://www.lostechies.com/blogs/jimmy_bogard/default.aspx">Jimmy Bogard</a> already had a great post on this topic. His post, <a href="http://www.lostechies.com/blogs/jimmy_bogard/archive/2007/10/24/entity-validation-with-visitors-and-extension-methods.aspx">Entity validation with visitors and extension methods</a>, demonstrates a very cool IValidator implementation.</p>
 <p>He combines a couple of cool interfaces to get this working. He uses an IValidator&lt;T&gt; interface like I mentioned I wanted to use. His implementation of this is pretty nice. (I made a slight adjustment to it here, because his example code had a bug.)</p>
 <div>

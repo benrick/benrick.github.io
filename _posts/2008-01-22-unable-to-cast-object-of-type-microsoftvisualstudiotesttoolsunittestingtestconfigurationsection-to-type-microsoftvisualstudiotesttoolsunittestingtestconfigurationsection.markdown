@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Unable-to-cast-object-of-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection-to-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection", "/post/unable-to-cast-object-of-type-microsoftvisualstudiotesttoolsunittestingtestconfigurationsection-to-type-microsoftvisualstudiotesttoolsunittestingtestconfigurationsection"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Earlier today I was trying to track down this error.</p>
 <blockquote>
 <p>Unit Test Adapter threw exception: The type initializer for 'Microsoft.VisualStudio.TestTools.UnitTesting.TestConfiguration' threw an exception. Unable to cast object of type 'Microsoft.VisualStudio.TestTools.UnitTesting.TestConfigurationSection' to type 'Microsoft.VisualStudio.TestTools.UnitTesting.TestConfigurationSection'</p>

@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Separation-of-Code-Responsibilities", "/post/separation-of-code-responsibilities"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p><img src="http://images.amazon.com/images/P/0131177052.01.MZZZZZZZ.jpg" alt="" align="right" /></p>
 <p>One book I would highly recommend reading is <a href="http://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052" target="_blank">Working Effectively with Legacy Code</a>.&nbsp; I should write a review of this book at some point, but for now I just want to mention one great thing about it. Reading the book is very valuable, but it is an excellent reference book. Many of the chapters of the book are devoted to certain scenarios which might arise when dealing with legacy code. It then goes on to explain how to handle these situations.</p>
 <p>At the moment I am attempting to change some code which needs to make a bunch of API calls. Right now the code is not neatly written and methods are directly interacting with the API, performing in-memory work, and calling methods to save data. Since I am relatively new to this stuff, I figured I'd read the chapter titled, "My Application Is All API Calls".</p>

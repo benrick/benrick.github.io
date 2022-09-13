@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/A-New-Face-for-RegExLib", "/post/a-new-face-for-regexlib"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p><img src="http://static.flickr.com/2013/2105231161_124bbc64de.jpg" border="0" alt="RegExLib_logo_header" width="500" height="33" /></p>
 <p>With some recent efforts from an excellent designer named <a href="http://craig.palenshus.com/" target="_blank">Craig Palenshus</a>, everyone's favorite regular expression library has received a nice visual upgrade. You'll notice the site is much cleaner and more presentable now. The overall design is excellent IMHO. The site seems to be much easier to use and navigate. The links are more clearly defined and laid out. The page is not quite so cluttered. In the past the site had been added to and altered plenty of times, and this created layers of clutter and bad layouts. <a href="http://stevesmithblog.com/" target="_blank">Steve Smith</a> and I have taken some time to fix some of the bugs from the previous system as well as getting some of Craig's alterations functioning well.</p>
 <p>A long time ago on web site far, far away there was a regular expression tester that worked pretty well. Since then the client side tester broke, but no one really had the time to fix it. With the advent of the new look for the site soon coming, it was important to make sure that all aspects were functioning within the operational standards. One man, Brendan Enrick, set out on an adventure to complete the regular expression tester. It received an overhaul from its previous design. It not only works as it previously did, but the client side testing seems to functioning once again within normal parameters.</p>

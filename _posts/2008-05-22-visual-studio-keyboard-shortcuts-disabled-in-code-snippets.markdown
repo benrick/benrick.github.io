@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Visual-Studio-Keyboard-Shortcuts-Disabled-in-Code-Snippets", "/post/visual-studio-keyboard-shortcuts-disabled-in-code-snippets"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Since Visual Studio 2008 came out I've been extremely impressed with the software. One shortcut which I believe probably exists in CodeRush and Resharper is the ability to find the using directive needed at any given time. in VS2008 you can press <em>ctrl</em> +<em> .</em> and a little menu will appear which will add using directives for you. This makes writing code so much easier, because I don't have to go to the top of my file to add using statements. I type the name of what I need, press <em>ctrl</em> + <em>.</em> and keep going. I also love using the <a href="http://msdn.microsoft.com/en-us/library/z4c5cc9b(VS.80).aspx" target="_blank">shortcut snippets in Visual Studio</a>.</p>
 <p>These snippets allow me to quickly and easily write properties, for loops, etc. I pretty much use these snippets whenever I have one for the task. They only require you fill in the necessary fields. The problem is that when you are filling in the information for one of these snippets it disables keyboard shortcuts. I can no longer have it automatically add my using directive to the top of the file. It will not bring up the menu.</p>
 <p>In order to get this functionality to work again I have to complete the code snippet I am working on and go back to what needed the namespace added to it. I am then able to use the shortcut to add in my using directive.</p>

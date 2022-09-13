@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Teaching-Introduction-to-Computer-Programming", "/post/teaching-introduction-to-computer-programming"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I recently started teaching a course for the <a href="http://www.cs.kent.edu/">Computer Science Department</a> at <a href="http://www.kent.edu/">Kent State University</a>. I am teaching a course called Introduction to Computer Programming. It is a course teaching non-computer science majors the basics of programming.</p>
 <p>In this course the students learn simple concepts and ideas behind programming, and along the way will learn to develop simple applications. The students who take this course come from many different areas: Technology, Education, Art History, Visual Communication Design, etc.</p>
 <p>I am enjoying teaching the course, and it is beneficial not just to the students but to me as well. As I am teaching this course I am refreshing my memory on a lot of different areas of computer science which I believe are very important to software development.</p>

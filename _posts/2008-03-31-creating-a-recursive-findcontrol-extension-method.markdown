@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Creating-a-Recursive-FindControl-Extension-Method", "/post/creating-a-recursive-findcontrol-extension-method"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>So one of the most useful methods for ASP.NET development that never seems to be included in ASP.NET is a recursive find control method. This problem results from the standard FindControl method on controls only searching within that control. It only finds child controls not grandchildren or anything farther down the line. This means that anything nested within other controls is a pain to access.</p>
 <p>This limitation of the standard FindControl is annoying and has prompted me as well as many other people to use homegrown FindControl methods to solve this problem. This is a big problem when trying to <a href="http://aspadvice.com/blogs/name/archive/2007/10/26/Accessing-Controls-inside-of-Templated-Controls.aspx" target="_blank">programmatically access controls within templates</a>. So earlier today I read on a list someone having trouble with the built-in find control, and it made me thing that a recursive find control would make a great extension method since it is a method plenty of people want to see on the control class anyway. So I went and wrote this simple little extension method.</p>
 <p>For this nifty example I'll use this as my Page class. I've nested some Panels here to make sure that a standard find control would not work.</p>

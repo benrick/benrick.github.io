@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/When-Should-You-Comment-Your-Code", "/post/when-should-you-comment-your-code"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Comment your code when it is hard to understand or determine your intent, because your code is crap. Yep, that is pretty much the best time to comment your code. When I was in college I was told to make sure that I commented my code. I always wondered why. Now I know. Comments really tended to clutter things and make it less clear what I was trying to achieve. I’ve written plenty of comments, but I know that when I use a comment that it means my code sucks.</p>
 <p>Comments take time to write, they take up valuable space, they add clutter, and they’re often out of date. So why do we write them? We write them because there is something confusing about some code. Or something that we need to tell future readers about the code.</p>
 <p>I very much enjoy being reassured of the way I do things by the books I read. I’ve been reading Code Complete, and it makes me glad they I blatantly disagreed with the people who told me to comment my code. Why? Because the author of the book tells me the exact opposite. I’ve often used the phrase, “code should be self-documenting.” I am not sure from whom or from where I first heard that, but it also affirmed my belief about comments.</p>

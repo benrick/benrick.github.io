@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Just-In-Time-Properties", "/post/just-in-time-properties"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Properties with backing fields can easily be null. I often see properties which check the backing field to see if it is null. This is commonly done with an if statement with one line of initialization. One way to get around this is to use the coalescing operator in C#. If we use this in combination with an expressions, which might be a method, we are able to easily handle this property with one line.</p>
 <p>Here is an example of what I am talking about.</p>
 <div>

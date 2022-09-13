@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Windows-7-Keyboard-Tips", "/post/windows-7-keyboard-tips"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Anyone who would be reading my blog probably already knows that you can use the keys [alt] + [tab] to switch between programs running on your windows system. This functionality has been around for a while. There are a lot of new and beneficial keyboard shortcuts that you might not know. Some came with Windows Vista and some with Windows 7, but after some time using the new Windows 7 interface I deem a lot of these shortcuts to be essential.</p>
 <h3>Opening Applications Using the Keyboard in Windows 7</h3>
 <p>Opening an application takes a good amount of time if you don&rsquo;t have quick easy access to a lot of applications. I believe keyboard access is essential. Certainly I use quick-launch still, but I use it in combination with a keyboard in Windows 7, because of a slight deficiency in the new taskbar.</p>

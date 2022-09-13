@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Moving-Away-From-Large-Event-Handling-Methods", "/post/moving-away-from-large-event-handling-methods"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>A big issue which can be seen when looking at a lot of ASP.NET code is the classic "do everything" method. This is often some kind of an event handler. It is sometimes one for the page such as with Page Load. Other times it is a control on that page that owns the event. Either way this is a nasty piece of code whether you're testing or not.</p>
 <p>These dangerous pieces of muck are difficult to work with, and I'll say they scare the crap out of me when I need to work with them. So I am sure everyone knows why they are difficult in general to work with. Obviously there is a lot of code there in one place doing a lot of different stuff.</p>
 <p>When we think about what might be in one such method we come up with a lot of nasty stuff.</p>

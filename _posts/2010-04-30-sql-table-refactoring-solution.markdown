@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Sql-Table-Refactoring-Solution", "/post/sql-table-refactoring-solution"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Steve Smith posted an interesting <a href="http://stevesmithblog.com/blog/sql-table-refactoring-challenge/" target="_blank">SQL Table Refactoring Challenge</a> on his blog. I am prepared to go out on a limb and share my solution for how to make a table more efficient.</p>
 <p>The first step I would take is to change the columns of the table a little bit.</p>
 <ul>

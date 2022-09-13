@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Recent-Article-Writing", "/post/recent-article-writing"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Over the past month, I've written a few articles for <a href="http://aspalliance.com/" target="_blank">ASP Alliance</a>. I now need to shamelessly plug my own stuff. If I didn't post this kind of stuff on my blog, I wouldn't really be doing my job. I wrote these articles so people could read them, and linking to them here should help with that. Enjoy.</p>
 <h4>Standard Type Casting and "as" Operator Conversions</h4>
 <p>In early February, I wrote this article, which discusses in fairly easy to understand language when, why, and how to use each of these types of conversion. I am hoping that anyone who doesn't know the difference or doesn't know when to use each one, learns a little bit more about that from this article. I tried to keep things fairly basic, so people could really understand this well.</p>

@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Creating-a-Simple-Hello-World-Application-Using-MVC", "/post/creating-a-simple-hello-world-application-using-mvc"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>So I am finally sitting down to play with the ASP.NET MVC Framework. I've installed Visual Studio 2008 on my machine. You can obtain a <a href="http://msdn2.microsoft.com/en-us/vstudio/products/aa700831.aspx" target="_blank">90 day free trial of Visual Studio 2008</a> from Microsoft if you don't own a copy. There are also <a href="http://www.microsoft.com/express/" target="_blank">Express Editions of Visual Studio 2008</a>.</p>
 <p>After installing Visual Studio 2008 I installed the <a href="http://www.asp.net/downloads/3.5-extensions/" target="_blank">ASP.NET 3.5 Extensions Preview</a>. It contains the required components to use the new MVC Framework. Now that you have it installed open up Visual Studio and create a new project. Choose the <em>web</em> section and select <em>ASP.NET MVC Web Application</em>. I named my project "HelloMvc".</p>
 <p>&nbsp;<img src="http://static.flickr.com/2264/2142110166_2130b37b69.jpg" border="0" alt="NewProjectHelloMvc" /></p>

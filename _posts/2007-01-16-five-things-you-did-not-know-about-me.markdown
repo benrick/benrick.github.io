@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Five-Things-you-did-not-know-about-me", "/post/five-things-you-did-not-know-about-me"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Like everyone else, I&rsquo;ve now been tagged into this game. <a href="http://aspadvice.com/blogs/ssmith/archive/2007/01/14/Five-Things.aspx">Steve Smith tagged me</a>&nbsp;so now I will tell you five things about me that you may not know.</p>
 <p>1. I have lived in one city my entire life. I&rsquo;ve been living in Kent, Ohio since I was born, and I have yet to move elsewhere. I&rsquo;ve lived in 3 homes in Kent. I am currently attending Kent State University, so am still not out of Kent. Not sure when I will leave Kent, but I doubt I will be living here for too many more years.</p>
 <p>2. I&rsquo;ve been a world traveler since I was 10 years old. This is when my family started going on trips. Though my travels have been much more extensive than most people of my age, I have not seen nearly everything I wish to in my life. I have been to Venezuela twice,&nbsp;most islands in the Caribbean, Mexico a few times, Canada more times than I can remember, Hawaii once, England twice, France twice, Corsica once, once to Italy, once to Spain, and I&rsquo;ve probably forgotten something. Sadly I have not yet been to Germany.&nbsp;I wish to see much more though, and hope to see&nbsp;many places in Africa, Asia, and Australia.</p>

@@ -8,6 +8,6 @@ categories: ["blog", "archives"]
 tags: []
 alias: ["/post/DevChatter-Chat-Bot", "/post/devchatter-chat-bot"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
 Took a week off due to being sick, but I’m getting back to the chat bot soon. We started a chat bot using TwitchLib a bit over a week ago. It’s been going well so far. We’re not going super fast, but we’re building a bot to build off of. We’re adding a bit of complexity as we cut a nice vertical slice for the project.

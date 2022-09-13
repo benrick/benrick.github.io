@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Web-Application-Projects-are-better-than-Web-Sites", "/post/web-application-projects-are-better-than-web-sites"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Recently I was explaining the difference between the web application project and the web site to the budding developers I've been working with. I suffered greatly while using web sites instead of web application projects. I remember having a great deal of pain while my <a href="http://weblogs.asp.net/scottgu/archive/2006/07/30/Common-Gotcha_3A00_-Slow-VS-2005-Web-Site-Build-Performance-Because-of-_1C20_Dueling-Assembly-References_1D20_.aspx" target="_blank">assemblies dueled</a> each other. Scott Guthrie posted about the dueling assembly problem.</p>
 <blockquote>
 <p><strong>Dueling Assembly Reference Problem</strong></p>

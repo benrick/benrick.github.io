@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Using-a-DropDownList-without-ViewState", "/post/using-a-dropdownlist-without-viewstate"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>One of the most ViewState heavy controls is the DropDownList. It stores in ViewState the Text and Value for every ListItem in the DropDownList. This means large Lists can get really nasty when ViewState comes into play. They also include all of these entries a second time because they're all in the html. Being in the html will only slow the page down as it is sent to the user, but the ViewState is downloaded by the user and also must be uploaded back up to the web server. This is a horrible user experience if the page has a large amount of ViewState. Since upload speeds are usually worse than download, the user will probably not like the amount of time the postbacks on the site take. In the following example I am going to show how much ViewState can be saved by simply reloading the data into the DropDownList each time the page is requested.</p>
 <p>This is how much ViewState my hundred item DropDownList contains at the beginning of this example.</p>
 <div>

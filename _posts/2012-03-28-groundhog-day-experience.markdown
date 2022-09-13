@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Groundhog-Day-Experience", "/post/groundhog-day-experience"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>One of my all-time favorite movies is <a href="http://en.wikipedia.org/wiki/Groundhog_Day_(film)" target="_blank">Groundhog Day</a>. In the film,&nbsp;the main character, Phil, repeats the same day for thousands of days. I've heard rumor before that the author said that Phil had repeated the day enough times to have been trapped in the loop for 40 years. I don't know if the author really said this, but it seems like enough time to have learned and experienced everything that he claims to have experienced in the film.</p>
 <p>I believe this comedy offers a lot more meaning that what it appears on the surface. I think that we should all be striving to live our lives as Phil did in this one. No, ignore all of the silly, crazy, and suicidal days. Focus on the days where he was focusing on improving himself. Phil did a great thing in motivating himself to learn to speak French, play the piano, and genuinely change his character and outlook on life. He attained many artistic abilities and social skills. He also learned a great deal by varying his days. He repeated the same day over, but he never really repeated the day the same as he did before.</p>
 <p>One of the greatest weaknesses that we as humans have is our urge to do today the same things we do every day. If we don't get out of our confort zone and try new things we will never learn, grow, or master anything new. I think I should strive to live my normal life more like Phil's.&nbsp;</p>

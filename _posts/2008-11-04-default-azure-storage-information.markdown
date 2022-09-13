@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Default-Azure-Storage-Information", "/post/default-azure-storage-information"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>The cloud is nice and useful, but there is one feature which is vitally important to most applications in my opinion. The storage which is used in Azure pretty much will need to be used by every application. One of the reasons for this is because there is a little bit of management of processes which needs to be done. This I've noticed requires a combination of the Queues and the Tables.</p>
 <p>Queues are great because roles are able to queue up work which needs to be done. This helps make sure that all required tasks can be completed. Without these communication between the processes could get a bit messy. Also the information being worked with needs to be stored in a shared location which all of the roles and their instances have access to. The storage makes this work.</p>
 <p>For these apps you don't use the standard configuration files to store your config settings. There is a file in the Cloud project called <strong>ServiceConfiguration.csfg</strong>, and this file is where the ConfigurationSection is located. This is where you define the settings for connecting to your storage when it is in the cloud. You will also have your configuration information stored in your web.config, and this will make things nice and easy. Since there are methods to get your configuration information which know to check the correct location.</p>

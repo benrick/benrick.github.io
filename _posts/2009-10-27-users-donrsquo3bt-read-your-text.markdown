@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Users-Donrsquo3bt-Read-Your-Text", "/post/users-donrsquo3bt-read-your-text"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>A few days ago Jeff Atwood wrote a <a href="http://www.codinghorror.com/blog/archives/001306.html" target="_blank">great post about users</a>. This is my post adding to his.</p>
 <p>I also develop applications, and user interfaces is a common topic of discussion. The interface of an application is one of the most important aspects of it. What a lot of people seem not to realize and Jeff nicely highlights is that users don&rsquo;t read <em>anything</em>. Trust me. I use a lot of applications, and I avoid reading anything that is more than six or seven letters long.</p>
 <p>If I have to read something to use an application you&rsquo;re probably going to lose me. I am not here to learn your application I am here to <em>use</em> your application. Jeff shows this image as what a user sees on Stack Overflow when writing a question.</p>

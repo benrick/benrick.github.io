@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/A-Developers-Guide-to-QA-Testing", "/post/a-developers-guide-to-qa-testing"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>No project should be released without some level kom verification. Someone has to test that things are up to some standard. Contrary to the popular belief, this is not just an important task, it's a difficult skill. Many clients I've worked with hire pretty much any person to be a QA tester. The belief here seems to be that anyone can find bugs. Well, they're right, however, they're also terribly wrong about the role testers play in software development. Your QA testers can make or break your development team, and I think many people value the traits that will lead them toward failure.</p>
 <p>At this point in my development career, I've worked on internal development projects, external development projects, and "product" development. I've worked on in-house and consulting projects. I've run full teams as well as augmented existing teams. I've worked with good QA testers, mediocre QA testers, and people who log bugs. Not sure which group you're in/working with? By the end of this, you'll know that (and hopefully picked up a few pointers).</p>
 <h3>Why QA Testers Are Needed</h3>

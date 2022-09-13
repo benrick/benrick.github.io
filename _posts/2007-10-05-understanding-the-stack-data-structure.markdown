@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Understanding-the-Stack-Data-Structure", "/post/understanding-the-stack-data-structure"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I found myself recently explaining a few times how the data structure commonly called a stack works. The technical term for a stack would be a Last in First out Data Structure (LIFO). To practically repeat myself, this means that the last object to go into the structure is the first one which will come out of the structure.</p>
 <p>I've heard plenty of interesting analogies for this behavior. All too often I hear this being described as a stack of plates. Plates can be added easily onto the top of the stack, and can be removed from the top of the stack easily. Working with any plates not on the top is difficult because there are other plates on top of them. This is basically how a stack works.</p>
 <p>While explaining the push() and pop() methods of stacks, I came up with an analogy which I think is far more interesting. To my students I described the stack as a Pez&nbsp;dispenser. You load the dispenser from the top and unload it from the top.</p>

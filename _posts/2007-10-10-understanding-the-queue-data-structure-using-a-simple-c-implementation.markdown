@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
 alias: ["/post/Understanding-the-Queue-Data-Structure-Using-a-Simple-C-Implementation", "/post/understanding-the-queue-data-structure-using-a-simple-c-implementation"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p><strong>Introduction</strong></p>
 <p><img src="http://static.flickr.com/2331/1534356662_f97bada3ae.jpg" border="0" alt="Queue" align="right" /></p>
 <p>The Queue is a very important and common Data Structure in Computer Science. As the name queue suggests, this data structure can be described with an analogy of waiting in a line. There is no cutting allowed in the line, so the first person in the line is the first person out of the line. With the data structure it is the same way First In First Out (FIFO).</p>

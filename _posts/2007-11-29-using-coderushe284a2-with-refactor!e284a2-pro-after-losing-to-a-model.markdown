@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Using-CodeRushe284a2-with-Refactor!e284a2-Pro-After-Losing-to-a-Model", "/post/using-coderushe284a2-with-refactor!e284a2-pro-after-losing-to-a-model"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Recently I've started using CodeRush&trade; with Refactor!&trade; Pro after being defeated in a programming competition at DevConnections by Sarah (a hired model) at the <a href="http://www.devexpress.com/" target="_blank">DevExpress</a> booth. There should be two recordings of my painful defeat. <a href="http://aspadvice.com/blogs/ssmith/" target="_blank">Steve Smith</a> made one and <a href="http://www.intellectualhedonism.com/" target="_blank">Carl Franklin</a> made the other recording of my battle. Just for the record Steve faced her days earlier when she was still learning and he also lost.</p>
 <p>Overall I've found the tools to be extremely useful. They make a lot of tasks quick and painless. Classes, methods, and properties are extremely quick to write now. Refactoring catches me off guard sometimes, but I am often pleasantly surprised.</p>
 <p>For simplicity I was calling a method inside of a foreach loop. I did this because I didn't need the collection except that I was performing an action on each of the returned elements in the collection. When I realized that I needed to perform an extra action with that collection I decided I would move it from the foreach loop.</p>

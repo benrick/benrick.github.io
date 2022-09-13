@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Time-Tested-Testing-Tips-e28093-Part-6", "/post/time-tested-testing-tips-e28093-part-6"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>If you haven&rsquo;t seen my earlier posts on this topic. I&rsquo;ve mentioned a bunch of tips which should make your testing easier and more effective. If you&rsquo;re looking for more tips check out these previous posts.</p>
 <p><a href="http://brendan.enrick.com/post/2009/05/19/Time-Tested-Testing-Tips-Part-1.aspx" target="_blank">Time-Tested Testing Tips - Part 1</a></p>
 <p><a href="http://brendan.enrick.com/post/2009/05/19/Time-Tested-Testing-Tips-Part-2.aspx" target="_blank">Time-Tested Testing Tips - Part 2</a></p>

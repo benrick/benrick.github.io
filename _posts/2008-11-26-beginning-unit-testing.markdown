@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Beginning-Unit-Testing", "/post/beginning-unit-testing"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Getting started unit testing is a difficult task. I've seen plenty of people learning to unit test and it took some time for me and seems to take some time for everyone before unit testing really clicks. Part of the reason why unit testing is difficult for people to get started with is that the code most developers write is not testable. Yes, not only is it important to test, but it is important for your code to be testable. Most code is so difficult to test that anyone who doesn't know how to unit test will have a great deal of trouble testing anything.</p>
 <p>Most testing is difficult because the code you're trying to test has too many dependencies. So we all know that we write code which depends on other code we write. There are a few important dependencies that a lot of people forget about.</p>
 <h3>Breaking the DateTime Dependency</h3>

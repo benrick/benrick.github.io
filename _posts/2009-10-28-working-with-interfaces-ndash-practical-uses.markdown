@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Working-with-Interfaces-ndash-Practical-Uses", "/post/working-with-interfaces-ndash-practical-uses"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Expanding on an article I wrote a couple of years ago where I explained <a href="http://aspalliance.com/1516_Understanding_Interfaces_in_C" target="_blank">interfaces in C#</a>, I&rsquo;d like to explain why people should use interfaces. I received an email from a reader of my ASP Alliance article. He understands <em>how</em> interfaces work, but he&rsquo;s trying to see why so many people are raving wildly about their greatness. His questioning of them is great, because it really is not obvious why interfaces are useful. Anyone who says otherwise is just trying to brag.</p>
 <blockquote>
 <p>A couple of years ago, you wrote an article for ASP Alliance called "Understanding Interfaces." Once again, I saw how the code works, once again, I failed to see how it will benefit me.</p>

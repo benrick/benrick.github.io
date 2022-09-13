@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Return-Within-a-C-Using-Statement", "/post/return-within-a-c-using-statement"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>While writing some code earlier today I needed to return from within a using statement. Doing these sorts of things always makes me appreciate the using statement and how wonderful it really is, so I decided to write about it here. As many of you know the using statement in C# is a good tool for managing types which will be accessing unmanaged resources. Some examples of these are SqlConnections, FileReaders, and plenty of other similar types. The key to these is that they all implement the IDisposable interface. This means that they all need to be cleaned up carefully after using them.</p>
 <p>The using statement is great because it guarantees that the declared object is disposed no matter how the execution completes. Whether you reach the end curly brace marking the end of the using statement, throw and exception, or return from a function, the using statement will call the dispose method and clean up the object.</p>
 <p>This was important in my code because I was able to return directly from within the using statement without worrying about whether or not eh dispose method will fire. Whenever I use an object which accesses unmanaged resources I always always always put it in a using statement.</p>

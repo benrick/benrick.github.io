@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Updating-RSS-Feed-Location", "/post/updating-rss-feed-location"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I have set up a new feed on feedburner. I am hoping most of my readers will be willing to switch to the new RSS feed. <a title="http://feeds.feedburner.com/BrendanEnrick" href="http://feeds.feedburner.com/BrendanEnrick">http://feeds.feedburner.com/BrendanEnrick</a></p>
 <p>Please update your subscription to <a title="http://feeds.feedburner.com/BrendanEnrick" href="http://feeds.feedburner.com/BrendanEnrick">http://feeds.feedburner.com/BrendanEnrick</a></p>
 <p>Looking forward to posting more and better content since this blog should be easier for me to use.</p>

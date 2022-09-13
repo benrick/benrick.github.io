@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Go-Try-NuGet-Seriously", "/post/go-try-nuget-seriously"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>NuGet is best described as the tool from Microsoft that lets you add references to your project directly from the NuGet feed while storing and managing them locally. It lets you keep your <a href="http://brendan.enrick.com/post/Organizing-Software-Projects.aspx" target="_blank">references local to your source code</a>, which will help you keep your software project encapsulated. When a package you use gets an update, you can ask NuGet to update your local version of the package.</p>
 <p>When telling people about <a href="http://nuget.org/">NuGet</a>&nbsp;it is important to explain how powerful it really is. NuGet is not just a collection of libraries to include in your bin folder. It will actually install the package into your project. I will show you what I mean.</p>
 <h3>Installing NuGet</h3>

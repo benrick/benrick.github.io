@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/CodeMash-2014-Software-Craftsmanship-Precompiler-Workshop", "/post/codemash-2014-software-craftsmanship-precompiler-workshop"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p><a href="http://CodeMash.org" target="_blank">CodeMash</a> 2.0.1.4 started as one of the coldest CodeMashes on record. On Monday, during the set up time for the event, the temperature in Sandusky dropped below negative ten degrees and the wind chill kept it feeling much colder. It was severely lacking in snow, but the cold was enough to cancel many of the Tuesday precompiler sessions whose speakers were not able to arrive at CodeMash on time to run the workshops.</p>
 <p>The conference has grown to the point where it now has two initial days of workshops on Tuesday and Wednesday. Then the conference has two normal conference days filled with sessions. Considering that all of my favorite content is always the precompiler workshops on the first two days, I would love to see the conference have workshops through the entire event. I am usually one of the precompiler workshops speakers, so I might be a bit opinionated on that. From another viewpoint though, since I am one of the speakers during that time, I am often wishing I could attend workshops during the same time as mine! I love running the workshops though, so I gladly give up the other ones. I just need to figure out how to be in two plaes at once (future goal).</p>
 <h2>CodeMash Precompiler Workshop Details</h2>

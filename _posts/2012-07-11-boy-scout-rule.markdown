@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Boy-Scout-Rule", "/post/boy-scout-rule"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>When and how much time to spend refactoring out code is one of the best questions that a budding software craftsman will ask. It&rsquo;s one I&rsquo;ve asked and answered many times. There isn&rsquo;t one specific answer that is better than all of the others. It always depends on your personal preference, the restrictions of you client, company, or team, your code base, your language, your version control, and many other issues.</p>
 <p>One rule, which is the one that I follow and encourage others to follow, is the Boy Scout Rule. It&rsquo;s based on the &ldquo;leave the campsite better than you found it&rdquo; idea. It&rsquo;s often said to be a line related to the scouts, but it seems to work well for code also.</p>
 <p>If you have some old code that needs refactoring, I would guess it&rsquo;s not tested. Since it&rsquo;s not tested, you run the risk of creating bugs <em>even if you&rsquo;re testing it while refactoring.</em> Some small changes will need to be made in order to test the code. You could miss <em>something</em>. That makes it dangerous. This is why you want to keep your refactoring to small pieces at a time. When and where you refactor are the next questions.</p>

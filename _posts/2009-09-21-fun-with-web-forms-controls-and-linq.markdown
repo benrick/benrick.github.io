@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Fun-With-Web-Forms-Controls-and-LINQ", "/post/fun-with-web-forms-controls-and-linq"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Since LINQ has come out I&rsquo;ve been very fascinated with it. LINQ to SQL is kind of cool, but working with in-memory collections is my favorite. Sure anything we can do with LINQ we could have done before, but now it&rsquo;s easy. While not exactly the most practical and certainly not the most efficient method of handling things, working with a page&rsquo;s Controls collection can be a lot of fun.</p>
 <p>So perhaps I want to change the text of all of the TextBoxes on a page. I can easily grab that collection like this.</p>
 <div id="codeSnippetWrapper" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; width: 97.5%; font-family: 'Courier New', courier, monospace; direction: ltr; max-height: 200px; font-size: 8pt; overflow: auto; cursor: text; border: silver 1px solid; padding: 4px;">

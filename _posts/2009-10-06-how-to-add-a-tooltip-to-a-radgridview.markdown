@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/How-to-Add-a-ToolTip-to-a-RadGridView", "/post/how-to-add-a-tooltip-to-a-radgridview"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>So I was using a RadGridView to display some data and I wanted to add a tooltip with more information. Shouldn&rsquo;t be too difficult. I of course checked through intellisense to see if there were any obviously named properties for setting a tooltip.</p>
 <p>I checked on the RadGridView tag for the properties and I also checked the GridViewDataColumn for it. Didn&rsquo;t come up with anything so I Binged until I found a potential solution. It didn&rsquo;t really make sense to me and the solution had me doing a lot of what seemed like extra stuff. It was adjusting the tooltip using the styles for the cell. So, then it hit me that I was thinking about this the wrong way. Since I just wanted text and a tooltip why don&rsquo;t I just add that in?</p>
 <p>So I took control of things and I just used a template for the column instead. Here is the quick and easy way to add a tooltip into a RadGridView.</p>

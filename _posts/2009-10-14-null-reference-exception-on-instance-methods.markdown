@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Null-Reference-Exception-on-Instance-Methods", "/post/null-reference-exception-on-instance-methods"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Recently I was reading through a bunch of interesting blog posts. I was looking for information about the use of <a href="http://msdn.microsoft.com/en-us/library/system.reflection.emit.opcodes.callvirt.aspx" target="_blank">callvirt</a> in C#. Callvirt can be used to call both virtual and non-virtual methods, and in fact is how all methods are called in C#. I don&rsquo;t know how much of a performance decrease there is based on this, but I doubt it is much of one. I stumbled across this interesting post covering <a href="http://blogs.msdn.com/ericgu/archive/2008/07/02/why-does-c-always-use-callvirt.aspx" target="_blank">why C# uses callvirt</a> from <a href="http://blogs.msdn.com/ericgu/default.aspx" target="_blank">Eric Gunnerson&rsquo;s blog</a>.</p>
 <blockquote>
 <p>We had gotten a report from somebody (likely one of the .NET groups using C# (thought it wasn't yet named C# at that time)) who had written code that called a method on a null pointer, but they didn&rsquo;t get an exception because the method didn&rsquo;t access any fields (ie &ldquo;this&rdquo; was null, but nothing in the method used it). That method then called another method which did use the this point and threw an exception, and a bit of head-scratching ensued. After they figured it out, they sent us a note about it.</p>

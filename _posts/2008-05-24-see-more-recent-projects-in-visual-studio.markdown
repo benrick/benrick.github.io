@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/See-More-Recent-Projects-in-Visual-Studio", "/post/see-more-recent-projects-in-visual-studio"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I usually only open between 5 and 10 Visual Studio projects on a regular basis, so I love the recent projects section of the Visual Studio Start Page. The problem is that when I add projects to my solutions they get added into the recent projects window and it makes it so I now have to go get my solution open from the file system. This irritates me quite a bit.</p>
 <p>So for anyone who wants to increase the Recent Projects section of the Visual Studio Start Page from this.</p>
 <p><img src="http://static.flickr.com/2216/2358677821_31cf5587e9.jpg" border="0" alt="RecentProjectsSmall" /></p>

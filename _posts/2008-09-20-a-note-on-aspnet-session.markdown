@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
 alias: ["/post/A-Note-on-ASPNET-Session", "/post/a-note-on-aspnet-session"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>A while back, I was asked a question by one of the junior developers here at Lake Quincy Media. I had him working on a little feature on an ASP.NET site which could be easily handled using Session. "Where is session stored, on the server or the client?" he asked. As a quick response I said that it's stored on the server. He followed that by saying, "So it doesn't use a cookie?"</p>
 <p>And that was all it took to set me on one of my usual lengthy explanations of how a piece of functionality actually works.</p>
 <h3>How is ASP.NET Session stored?</h3>

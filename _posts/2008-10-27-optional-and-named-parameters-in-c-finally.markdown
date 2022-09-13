@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Optional-and-Named-Parameters-in-C-Finally", "/post/optional-and-named-parameters-in-c-finally"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I've used Python a decent amount in the past. I enjoy the language and I've taught the language to non-computer science students at Kent State University. There are plenty of things that I really love about that language. I could write plenty of blog posts regarding how totally awesome python is. I tend to use it for quick little bits of code. I don't use too much Python for production code, but I do like a lot of the language features.</p>
 <p>One of the big pieces of Python I enjoy is the ability to define a default value for a parameter in a method. This allows for optional parameters. Wonderful stuff. I hate having to make extra overloads to handle default parameters which pass in either the right ones or values specifying that the value is missing. Way too much handling just to handle this case.</p>
 <p>Named parameters are also a lot of fun since you're able to specify which parameter you're passing. It works pretty well in Python. I don't know how useful it will be in C#, but it is a neat feature which doesn't add much complexity to the language.</p>

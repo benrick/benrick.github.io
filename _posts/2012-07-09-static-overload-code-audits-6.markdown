@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Static-Overload-Code-Audits-6", "/post/static-overload-code-audits-6"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Static methods are very useful and powerful tools when writing code. As I am sure many people have pointed out, these tools should be used sparingly and cautiously.</p>
 <p>Statics are dangerous if they have dependencies. This is because they&rsquo;re hard to test. <a href="http://brendan.enrick.com/post/Static-Mocking-with-JustMock.aspx" target="_blank">Or so I thought</a>. Keep in mind, that just because you <em>can</em> mock statics does not mean that you <em>should</em> be using a lot of statics.</p>
 <h3>The Bad</h3>

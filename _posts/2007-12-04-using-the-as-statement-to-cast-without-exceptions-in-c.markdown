@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Using-the-as-Statement-to-Cast-Without-Exceptions-in-C", "/post/using-the-as-statement-to-cast-without-exceptions-in-c"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>It is common to obtain variables with a type which is not the desired one. Considering that plenty of times there will be variables passed using the <em>object</em> data type, it is important to be able to cast your variables into more usable types. Say for example you're passed a variable as an <em>object</em>. You probably want to be able to access properties or methods of this <em>object</em>, so you will need to cast it into another class. The simple way of doing this is to use code similar to this.</p>
 <pre class="code"><span>DataTable</span> myData = (<span>DataTable</span>)dataSource;</pre>
 <p><a href="http://11011.net/software/vspaste"></a>This works well, but is slightly more dangerous than it needs to be. The problem I have with casting it in this way is that the variable <em>dataSource</em> might not be a <em>DataTable</em>, and if this is the case we will throw an exception. Yes, we could wrap a <em>try-catch</em> block around this code, but I prefer to avoid exceptions when possible instead of catching them.</p>

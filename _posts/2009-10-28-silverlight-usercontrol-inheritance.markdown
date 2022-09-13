@@ -9,7 +9,7 @@ tags: ["Blog", "Blog"]
 alias: ["/post/Silverlight-UserControl-Inheritance", "/post/silverlight-usercontrol-inheritance"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>One way in which we object-oriented developers try to achieve code reuse is by using inheritance. This allows us to have shared functionality in one place. Awesome we all know how to do this and it&rsquo;s easy right? Try it in Silverlight for your UserControls. It is a little bit more challenging.</p>
 <p>The problem we have is that we&rsquo;re working with partial classes and these classes are trying to make things difficult for us. One of them is the noticeably declared one in the code behind file. The other one is created from the XAML file. The XAML file declares the base class it is inheriting from. In this instance it is the UserControl class.</p>
 <p>Here are the steps required to use a different base class for your UserControls in Silverlight.</p>

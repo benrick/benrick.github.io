@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Great-Conditional-Logic", "/post/great-conditional-logic"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>It is amazing some of the relics that can be found while code reviewing old code. Sometimes developers do things without thinking and make some <em>great</em> code. I am of course referring to some really funny code such as what I found a few minutes ago. I am always annoyed when boolean values are checked explicitly in conditional statements like the following code.</p>
 <div>
 <pre style="font-size: 8pt; margin: 0em; overflow: visible; width: 100%; color: black; line-height: 12pt; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4; border-style: none; padding: 0px;"><span style="color:#0000ff;">if</span> (IsValid == <span style="color:#0000ff;">true</span>)</pre>

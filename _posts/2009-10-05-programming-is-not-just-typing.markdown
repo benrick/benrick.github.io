@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Programming-is-Not-Just-Typing", "/post/programming-is-not-just-typing"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>One of my favorite quotes about programming languages comes from Ward Cunningham who said, &ldquo;If you don't think carefully, you might think that programming is just typing statements in a programming language.&rdquo; Not sure if he really said it, but it is attributed to him plenty of times on the Internet.</p>
 <p>So back to Ward Cunningham for a minute. I really like that quote. It says one very powerful thing about programming that I think is known by a lot of people using programming languages, but I am not always sure they think about it in this manner. I know that non-programmers certainly don&rsquo;t understand it. Plenty of people think that all we do all day is type, but there&rsquo;s a heck of a lot more to it than that.</p>
 <p>Nearly a year ago, when Jeff Atwood posted about our being <a href="http://www.codinghorror.com/blog/archives/001188.html" target="_blank">Typists First and Programmers Second</a>, I was quite appalled. Here is one of the most respected individuals in our industry, and he&rsquo;s making a statement like this in a blog post. Sure I agree that one of the core skills that every programmer needs is the ability to type. I don&rsquo;t disagree with the importance of typing. I think a programmers ability to quite quickly and accurately is extremely important. He says in the post that there are other things of importance, but I refuse to say that our primary skill is typing.</p>

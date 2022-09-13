@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Memory-Management-Generics-vs-objects", "/post/memory-management-generics-vs-objects"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>One of the most important parts of software development is memory management. Memory management is important for every software&nbsp;application. If one is to write a well developed software application, one must have a fair bit of knowledge in the area of memory managament. It is important to understand the underlying technology which allows programs to function. There are many aspects of programs which come into play often in .NET applications; variables, functions, garbage collection.</p>
 <p><strong>Understanding Garbage Collection, Heaps, and Stacks</strong></p>
 <p>When using a language with a heap, it is important to understand that memory will be allocated dynamically. This is separate from where the basic program memory resides; the stack. On the stack memory builds as the program executes. Local variables are stored with the function information. This is the memory used in pretty much every language. When a heap is involved there is basically an area of memory where variables may be dynamically defined and only references to these variables are stored as pointers on the stack.</p>

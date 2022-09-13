@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Public-Strongly-Typed-Resource-Generator", "/post/public-strongly-typed-resource-generator"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I recently installed an interesting custom tool. It is an <a href="http://www.codeproject.com/dotnet/ResXFileCodeGeneratorEx.asp" target="_blank">Extended version of the resource generator in Visual Studio</a>. The nicest part of this for me is that this one is public instead of internal like the default one. In order to have a centralized resource file it needs to be usable between projects in Visual Studio, but the internal class made this difficult. I could just manually update the generated code each time after using the file, but that would just be stupid.</p>
 <p>This is a&nbsp;great&nbsp;answer to&nbsp;the problem I needed to solve&nbsp;because it allows me to keep the resource file in one spot and not have to do and weird tricks to accomplish my goals.</p>
 <p>The article accompanying this tool is well-written and explains a bit about how to use and install it.</p>

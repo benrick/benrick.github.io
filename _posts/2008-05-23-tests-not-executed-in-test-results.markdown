@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
 alias: ["/post/Tests-Not-Executed-In-Test-Results", "/post/tests-not-executed-in-test-results"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Earlier today, as I was working with the <a href="http://en.wikipedia.org/wiki/Mentorship#New-hire_mentorship" target="_blank">Prot&eacute;g&eacute;</a> I've been <a href="http://aspadvice.com/blogs/name/archive/2008/05/20/Differences-Between-Structures-and-Classes-in-C_2300_.aspx" target="_blank">referring</a> to <a href="http://aspadvice.com/blogs/name/archive/2008/05/22/Visual-C_2300_-2008-Keyboard-Shortcut-Reference.aspx" target="_blank">previously</a>, we were debugging some code, and we ran into a little bug. Our tests results would not execute. We tried restarting Visual Studio and a lot of other stuff and it didn't fix it. We eventually just restarted the machine, and that fixed the problem. We figured that even though it wasn't the most graceful solution, it is one we knew would work.</p>
 <p>This is the error message we were receiving. None of our tests were executing and it wasn't very clear about why. We did figure out that it had to do with the code coverage we had previously been running.</p>
 <p><img src="http://static.flickr.com/3222/2516284177_4eedca3a71.jpg" border="0" alt="TestResultsNotExecuted" /></p>

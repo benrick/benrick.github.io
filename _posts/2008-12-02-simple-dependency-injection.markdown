@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Simple-Dependency-Injection", "/post/simple-dependency-injection"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Dependency injection is an important concept for anyone to understand before trying to get into test driven development. Recently I've noticed that lots of people are trying to get into agile practices of software development. They're writing tests, and plenty of them are writing integration tests instead of unit tests.</p>
 <h3>Integration Tests Versus Unit Tests</h3>
 <p>When testing there are two main types of tests which are created. The ones most people write are integration tests, and this I attribute to their not knowing about dependency injection. If your code contains too many dependencies you will not be able to write unit tests.</p>

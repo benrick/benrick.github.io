@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/The-Joys-of-Windows-Live-Writer", "/post/the-joys-of-windows-live-writer"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I've just downloaded and started trying out windows live writer, and I think it is excellent. This has got to be just about the easiest and best program for blog writing I've ever seen.</p>
 <h3><strong>Features I love</strong></h3>
 <ul>

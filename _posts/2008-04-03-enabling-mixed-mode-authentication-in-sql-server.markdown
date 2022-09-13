@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Enabling-Mixed-Mode-Authentication-in-SQL-Server", "/post/enabling-mixed-mode-authentication-in-sql-server"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I recently needed to enable Mixed Mode Authentication on a SQL Server instance, so I will demonstrate how to go about setting this up. It is a pretty easy process, but I figure I'll document it nicely here. Perhaps I will come back to this later to reference this. Who knows?</p>
 <p>First you will need to connect to the SQL Server instance using SQL Server Management Studio.</p>
 <p><img src="http://static.flickr.com/2231/2384726619_bc5ded628b.jpg" border="0" alt="SQLServerConnectWindow" /></p>

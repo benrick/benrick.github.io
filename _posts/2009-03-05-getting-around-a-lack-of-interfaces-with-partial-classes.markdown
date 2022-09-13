@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Getting-Around-a-Lack-of-Interfaces-With-Partial-Classes", "/post/getting-around-a-lack-of-interfaces-with-partial-classes"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>One pain point which comes along often when working with others' libraries are the classes that are not open and implementing interfaces. A lot of the classes we developers use every day implement no interfaces. Since the class is out of my control, I obviously cannot give it an interface, so I need some other way to work with it. This creates a problem when we need to mock out the class. There are ways in which we can get around this though.</p>
 <h4>Wrapping Classes</h4>
 <p>In my opinion, the most dependable workaround to be able to mock out and test a class is creating an interface-implementing wrapper around the class we want to mock and using that instead. This one works very well, but it forces you to create an interface and a class even though there is already a class in existence.</p>

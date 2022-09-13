@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Using-a-Numbers-Table-to-Iterate-Over-Dates", "/post/using-a-numbers-table-to-iterate-over-dates"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>I recently wrote some SQL which would do some work for a single day, but I wanted my code to be able to run once for each day in a date range. Luckily for me, I read <a href="http://sqladvice.com/blogs/gstark/default.aspx" target="_blank">Gregg Stark's SQL Blog</a>. He recently posted about <a href="http://sqladvice.com/blogs/gstark/archive/2007/09/19/Iterate-Over-a-List-of-Dates-using-a-Numbers-table-in-SQL.aspx" target="_blank">how to Iterate Over a List of Dates using a Numbers table in SQL</a>. The SQL he gives is pretty much a cookie cutter solution to the problem.</p>
 <p>The basic idea of this trick is to have a cursor which is going to allow you to fetch each of the dates into a variable for use in your code.</p>
 <p>You first need to have a Numbers table in your database. This is basically just a table which contains a single number for each row. Use the following short snippet to create your Numbers table.</p>

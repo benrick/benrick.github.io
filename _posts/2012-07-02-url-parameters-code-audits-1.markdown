@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/URL-Parameters-Code-Audits-1", "/post/url-parameters-code-audits-1"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>This is the first post in a series that I am writing that focuses on some interesting finds from different code bases I&rsquo;ve seen over my years looking at lots of different software projects. Code Audits are one place where lots of interesting bits of code can be found, since you're combing through an entire software system. I will be explaining what I&rsquo;ve seen, why it&rsquo;s wrong, and usually the better approach if it&rsquo;s not obvious.</p>
 <h3>URL Parameters</h3>
 <p>URLs let you control the navigation as your user navigates around your site. Users may not know what URLs mean or how they work, but most people browsing the web know that URLs exist. A good number of them know that modifying that URL will take them to different pages. Even my mother knows that much about URLs.</p>

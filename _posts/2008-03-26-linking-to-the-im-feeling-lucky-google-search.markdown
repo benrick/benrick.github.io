@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Linking-to-the-Im-Feeling-Lucky-Google-Search", "/post/linking-to-the-im-feeling-lucky-google-search"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>So one thing I've always loved about Google is the I'm feeling lucky search feature. Most of the time I know that the top result is the one I need. Earlier today, I was googling for how to link directly to the Google results using an "I'm Feeling Lucky" search, and I found one interesting thing. I am not sure how accurate the information is, but it seems that <a href="http://valleywag.com/tech/google/im-feeling-lucky-button-costs-google-110-million-per-year-324927.php" target="_blank">Google loses $110 million per year because of the "I'm feeling lucky" button</a>. Clicking the button means you see no ads from Google, so Google effectively does not get any money from a user who clicks that button.</p>
 <p>OK, so by now I would hope that someone is wondering why I would want to create a link which points to an "I'm Feeling Lucky" result. Well it is quite obvious that I want to hide the eventual destination of the link. I am assuming that people will notice that it goes to Google, but will not notice the part of the query string where it really doesn't send them to Google.</p>
 <p>So I found out that all you have to add into the querystring is <strong>btnI=745</strong>. Yes, it is that easy, so Here is a nice example of a link I believe you should all see.</p>

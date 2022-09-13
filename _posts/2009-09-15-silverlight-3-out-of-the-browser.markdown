@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Silverlight-3-Out-of-the-Browser", "/post/silverlight-3-out-of-the-browser"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Running a Silverlight application out of the browser is very powerful. This lets users install a Silverlight application locally with a quick right click on the app in the browser. In earlier versions of Silverlight this was still pretty easy, but now you don&rsquo;t even have to open up an xml file to do it.</p>
 <p>So here is my simple Silverlight application running in the browser.</p>
 <p><img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="InitialMessageInBrowser" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/Silverlight3OutoftheBrowser_E7F1/InitialMessageInBrowser_3.png" border="0" alt="InitialMessageInBrowser" width="509" height="349" /></p>

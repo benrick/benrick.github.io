@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Time-Tested-Testing-Tips-Part-2", "/post/time-tested-testing-tips-part-2"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>In the <a href="http://brendan.enrick.com/post/2009/05/19/Time-Tested-Testing-Tips-Part-1.aspx">first part of this series of testing tips</a>, I mentioned a couple of tips I believe to be quite useful. I am going to continue this series today by writing about a couple of more ways to write better tests. I also plan to give reasons for testing and describe different benefits of the practice as I go.</p>
 <h3>Test Driven Development</h3>
 <p>Yes, I am going to bring this up. Plenty of people have latched onto the idea that testing code helps make code better. A lot of people even believe that it makes the process of writing the code faster. I see a lot of people who are reluctant still to use test driven development. I know I am throwing around a buzzword&hellip; or maybe I mean buzzphrase since that&rsquo;s actually three words.</p>

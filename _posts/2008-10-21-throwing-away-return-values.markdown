@@ -9,7 +9,7 @@ tags: ["Orcs Goblins  and .NET"]
 alias: ["/post/Throwing-Away-Return-Values", "/post/throwing-away-return-values"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>So it probably took me 15 seconds to track down this error in my code, and those wasted seconds, while very minor, are exactly why I wish Visual Studio or ReSharper or some program would alert me to what I've mistakenly done. It is easy with some methods to throw away a return value without noticing.</p>
 <p>If I am calling a method which has a return value I am ignoring, it might be nice if it made it a little more obvious I am doing so. Perhaps an underline with a note explaining that I am not processing a return value. Sure lots of people ignore return values all the time, but they really shouldn't be. The return value probably exists for a reason.</p>
 <p>As an example assume you want to get a substring.</p>

@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Organizing-Software-Projects", "/post/organizing-software-projects"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Managing and structuring software applications is a complicated topic. Many different ways of structuring applications exist, and there are merits to several methods of organization. In this post, I am going to roughly describe a method of organizing a software application to which I am somewhat partial.</p>
 <p>One of the most important aspects of a well-organized project in my opinion, is the ability for a new developer on a project to be able to sit down and have a working solution as soon as they get the latest version of the application from the source control repository. Not only should that person be able to have a working solution, but that working copy should assist the developer in setting up the local environment. The solution should also be in a state which allows all of the project's tests to run without the user having to jump through a bunch of hoops.</p>
 <p>Being able to sit down and start working immediately is very powerful. We wouldn't be able to achieve this without first having things packaged and tested nice. We are allowing anyone to figure out how things work based on the logic standardized and explained by our tests. The developer is now able to make meaningful, useful changes to the project right off the bat by making modifications and testing them. As long as they're not breaking existing tests, they can have some confidence that they're meaningfully contributing to the project.</p>

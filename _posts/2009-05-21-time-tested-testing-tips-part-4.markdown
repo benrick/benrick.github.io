@@ -9,7 +9,7 @@ tags: ["Blog"]
 alias: ["/post/Time-Tested-Testing-Tips-Part-4", "/post/time-tested-testing-tips-part-4"]
 ---
 <!-- more -->
-{% include imported_disclaimer.html %}
+
 <p>Rather than spending the time with needless introduction, I think I&rsquo;ll just jump right in today. I&rsquo;ve got a few tips I am going to post today.</p>
 <h3>Reproduce Bugs Using Unit Tests</h3>
 <p>Yes, this is another test driven development method. When you&rsquo;re looking for a bug, it is very common to try to reproduce it. What you might try to do instead of doing this is reproduce the bug manually, fix the bug, and then write a test to prevent it. Well I think that is a pretty bad way of doing things. Reason number one is DRY; don&rsquo;t repeat yourself. Why did you reproduce it once manually and once automatically? I also wonder how you know you&rsquo;ve written the test correctly. If it never failed you can&rsquo;t be certain you&rsquo;re testing the bug.</p>
