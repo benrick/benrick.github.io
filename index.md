@@ -1,8 +1,3 @@
----
-title: "Brendan Enrick's Tech Blog"
-permalink: /
----
+I'm Brendan Enrick, and I try to leave things better than I found them.
 
-## Welcome to Brendan Enrick's Tech Blog
-
-Whether you follow Brendoneus on Twitter, or are a fan of the DevChatter YouTube or Twitch channels, I'm glad you decided to check out my tech blog! I hope you'll find these posts useful and educational.
+I host the DevChatter live coding streams on Twitch and the videos on YouTube!

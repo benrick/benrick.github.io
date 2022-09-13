@@ -1,6 +1,42 @@
-title: Brendan Enrick's Blog
-description: All things tech considered here.
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "Brendan Enrick's Blog"
+author: "Brendan Enrick"
+description: "All things tech considered here."
 
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+#email: "example@mail.com"
+twitter_username: "brendoneus"
+github_username: "devchatter"
+#linkedin_username: "linkedinuser"
+#facebook_username: username
+#flickr_username: username
+#instagram_username: username
+#pinterest_username: username
+youtube_username: devchatter
+#googleplus_username: +username
+
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
