@@ -87,7 +87,7 @@ alias: ["/post/Static-Mocking-with-JustMock", "/post/static-mocking-with-justmoc
 
 <p>Then when I go and run my tests, I get this nice result showing me that everything is working as I expect it to. Yippee!</p>
 
-<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="JustMock Static Test Passing" border="0" alt="JustMock Static Test Passing" src="http://brendan.enrick.com/image.axd?picture=JustMock%20Static%20Test%20Passing.png" width="259" height="103" /></p>
+<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="JustMock Static Test Passing" border="0" alt="JustMock Static Test Passing" src="/images/files/JustMock%20Static%20Test%20Passing.png" width="259" height="103" /></p>
 
 <p>How it achieves this? I am not sure. I intend to find out though. When I do, I will write a post explaining it. </p>
 
