@@ -5,7 +5,7 @@ date: 2010-08-24 13:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog", "Blog", "Blog"]
+tags: ["Blog"]
 permalink: "/post/Commenting-Methods-Using-Liskov-Substitution-Principle"
 ---
 <!-- more -->

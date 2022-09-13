@@ -5,7 +5,7 @@ date: 2008-05-23 21:42:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
+tags: ["Orcs Goblins  and .NET"]
 permalink: "/post/Tests-Not-Executed-In-Test-Results"
 ---
 <!-- more -->

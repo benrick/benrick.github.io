@@ -5,7 +5,7 @@ date: 2010-04-23 11:29:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog", "Blog"]
+tags: ["Blog"]
 permalink: "/post/Agile-Story-Estimation"
 ---
 <!-- more -->

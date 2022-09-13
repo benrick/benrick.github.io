@@ -5,7 +5,7 @@ date: 2007-12-11 17:37:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
+tags: ["Orcs Goblins  and .NET"]
 permalink: "/post/Unpacking-Tuples-in-Python"
 ---
 <!-- more -->

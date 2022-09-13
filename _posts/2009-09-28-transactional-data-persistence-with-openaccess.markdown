@@ -5,7 +5,7 @@ date: 2009-09-28 11:09:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog", "Blog"]
+tags: ["Blog"]
 permalink: "/post/Transactional-Data-Persistence-with-OpenAccess"
 ---
 <!-- more -->

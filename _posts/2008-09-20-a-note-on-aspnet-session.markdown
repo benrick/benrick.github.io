@@ -5,7 +5,7 @@ date: 2008-09-20 22:13:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
+tags: ["Orcs Goblins  and .NET"]
 permalink: "/post/A-Note-on-ASPNET-Session"
 ---
 <!-- more -->
