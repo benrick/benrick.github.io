@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "About Brendan Enrick"
-permalink: /about/
 ---
 
 I'm Brendan Enrick, and I try to leave things better than I found them.
