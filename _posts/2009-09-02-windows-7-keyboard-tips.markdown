@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Windows-7-Keyboard-Tips", "/post/windows-7-keyboard-tips"]
+permalink: "/post/Windows-7-Keyboard-Tips"
 ---
 <!-- more -->
 

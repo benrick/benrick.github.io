@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Returning-From-Inside-a-Using-Statement", "/post/returning-from-inside-a-using-statement"]
+permalink: "/post/Returning-From-Inside-a-Using-Statement"
 ---
 <!-- more -->
 

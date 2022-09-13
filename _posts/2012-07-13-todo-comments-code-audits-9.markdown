@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/TODO-Comments-Code-Audits-9", "/post/todo-comments-code-audits-9"]
+permalink: "/post/TODO-Comments-Code-Audits-9"
 ---
 <!-- more -->
 

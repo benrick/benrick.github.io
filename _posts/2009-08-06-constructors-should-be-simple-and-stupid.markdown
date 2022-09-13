@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Constructors-Should-Be-Simple-and-Stupid", "/post/constructors-should-be-simple-and-stupid"]
+permalink: "/post/Constructors-Should-Be-Simple-and-Stupid"
 ---
 <!-- more -->
 

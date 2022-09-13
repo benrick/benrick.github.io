@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Visual-Studio-Extensibility", "/post/visual-studio-extensibility"]
+permalink: "/post/Visual-Studio-Extensibility"
 ---
 <!-- more -->
 

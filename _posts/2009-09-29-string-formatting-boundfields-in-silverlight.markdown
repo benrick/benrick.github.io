@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/String-Formatting-BoundFields-in-Silverlight", "/post/string-formatting-boundfields-in-silverlight"]
+permalink: "/post/String-Formatting-BoundFields-in-Silverlight"
 ---
 <!-- more -->
 

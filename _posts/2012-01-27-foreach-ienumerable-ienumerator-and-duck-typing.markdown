@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Foreach-IEnumerable-IEnumerator-and-Duck-Typing", "/post/foreach-ienumerable-ienumerator-and-duck-typing"]
+permalink: "/post/Foreach-IEnumerable-IEnumerator-and-Duck-Typing"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Unit-Testing-With-a-Base-Test-Class", "/post/unit-testing-with-a-base-test-class"]
+permalink: "/post/Unit-Testing-With-a-Base-Test-Class"
 ---
 <!-- more -->
 

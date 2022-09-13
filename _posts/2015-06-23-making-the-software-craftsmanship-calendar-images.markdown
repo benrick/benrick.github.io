@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Making-The-Software-Craftsmanship-Calendar-Images", "/post/making-the-software-craftsmanship-calendar-images"]
+permalink: "/post/Making-The-Software-Craftsmanship-Calendar-Images"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/ASPNET-Supports-Valid-HTML-Attributes-in-its-Tags", "/post/aspnet-supports-valid-html-attributes-in-its-tags"]
+permalink: "/post/ASPNET-Supports-Valid-HTML-Attributes-in-its-Tags"
 ---
 <!-- more -->
 

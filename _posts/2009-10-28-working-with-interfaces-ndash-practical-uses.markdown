@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Working-with-Interfaces-ndash-Practical-Uses", "/post/working-with-interfaces-ndash-practical-uses"]
+permalink: "/post/Working-with-Interfaces-ndash-Practical-Uses"
 ---
 <!-- more -->
 

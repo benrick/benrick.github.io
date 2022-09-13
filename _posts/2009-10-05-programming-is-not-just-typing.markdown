@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Programming-is-Not-Just-Typing", "/post/programming-is-not-just-typing"]
+permalink: "/post/Programming-is-Not-Just-Typing"
 ---
 <!-- more -->
 

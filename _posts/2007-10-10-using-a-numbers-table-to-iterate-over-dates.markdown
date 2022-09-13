@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Using-a-Numbers-Table-to-Iterate-Over-Dates", "/post/using-a-numbers-table-to-iterate-over-dates"]
+permalink: "/post/Using-a-Numbers-Table-to-Iterate-Over-Dates"
 ---
 <!-- more -->
 

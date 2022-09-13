@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Rock-Paper-Azure-Contest-Bot-Tips", "/post/rock-paper-azure-contest-bot-tips"]
+permalink: "/post/Rock-Paper-Azure-Contest-Bot-Tips"
 ---
 <!-- more -->
 

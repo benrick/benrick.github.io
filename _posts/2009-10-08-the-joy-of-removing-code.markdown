@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/The-Joy-of-Removing-Code", "/post/the-joy-of-removing-code"]
+permalink: "/post/The-Joy-of-Removing-Code"
 ---
 <!-- more -->
 

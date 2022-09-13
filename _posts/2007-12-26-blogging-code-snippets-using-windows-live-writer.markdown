@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Blogging-Code-Snippets-Using-Windows-Live-Writer", "/post/blogging-code-snippets-using-windows-live-writer"]
+permalink: "/post/Blogging-Code-Snippets-Using-Windows-Live-Writer"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Software-Engineering-101-Cleveland-Slides-and-Demos", "/post/software-engineering-101-cleveland-slides-and-demos"]
+permalink: "/post/Software-Engineering-101-Cleveland-Slides-and-Demos"
 ---
 <!-- more -->
 

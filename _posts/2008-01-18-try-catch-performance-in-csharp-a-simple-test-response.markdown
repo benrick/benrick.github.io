@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Try-Catch-Performance-in-CSharp-A-Simple-Test-Response", "/post/try-catch-performance-in-csharp-a-simple-test-response"]
+permalink: "/post/Try-Catch-Performance-in-CSharp-A-Simple-Test-Response"
 ---
 <!-- more -->
 

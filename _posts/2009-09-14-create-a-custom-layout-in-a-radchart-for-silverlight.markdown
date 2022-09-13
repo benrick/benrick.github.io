@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Create-a-Custom-Layout-in-a-RadChart-for-Silverlight", "/post/create-a-custom-layout-in-a-radchart-for-silverlight"]
+permalink: "/post/Create-a-Custom-Layout-in-a-RadChart-for-Silverlight"
 ---
 <!-- more -->
 

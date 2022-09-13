@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/We-Slice-Software-Vertically-Just-Like-Bread", "/post/we-slice-software-vertically-just-like-bread"]
+permalink: "/post/We-Slice-Software-Vertically-Just-Like-Bread"
 ---
 <!-- more -->
 

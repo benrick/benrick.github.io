@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Software-Craftsmanship-at-CodeMash-Wednesday", "/post/software-craftsmanship-at-codemash-wednesday"]
+permalink: "/post/Software-Craftsmanship-at-CodeMash-Wednesday"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Keeping-Code-Out-of-the-Code-Behind", "/post/keeping-code-out-of-the-code-behind"]
+permalink: "/post/Keeping-Code-Out-of-the-Code-Behind"
 ---
 <!-- more -->
 

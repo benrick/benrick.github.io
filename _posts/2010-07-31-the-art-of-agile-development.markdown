@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/The-Art-of-Agile-Development", "/post/the-art-of-agile-development"]
+permalink: "/post/The-Art-of-Agile-Development"
 ---
 <!-- more -->
 

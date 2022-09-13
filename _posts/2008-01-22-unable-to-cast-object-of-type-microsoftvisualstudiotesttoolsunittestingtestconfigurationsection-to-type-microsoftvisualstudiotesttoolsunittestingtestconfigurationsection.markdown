@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Unable-to-cast-object-of-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection-to-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection", "/post/unable-to-cast-object-of-type-microsoftvisualstudiotesttoolsunittestingtestconfigurationsection-to-type-microsoftvisualstudiotesttoolsunittestingtestconfigurationsection"]
+permalink: "/post/Unable-to-cast-object-of-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection-to-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection"
 ---
 <!-- more -->
 

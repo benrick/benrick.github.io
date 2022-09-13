@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Exploring-IronPython", "/post/exploring-ironpython"]
+permalink: "/post/Exploring-IronPython"
 ---
 <!-- more -->
 

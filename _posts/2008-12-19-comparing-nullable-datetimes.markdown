@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Comparing-Nullable-DateTimes", "/post/comparing-nullable-datetimes"]
+permalink: "/post/Comparing-Nullable-DateTimes"
 ---
 <!-- more -->
 

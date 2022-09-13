@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Long-Code-Lines-in-Articles-and-Tutorials", "/post/long-code-lines-in-articles-and-tutorials"]
+permalink: "/post/Long-Code-Lines-in-Articles-and-Tutorials"
 ---
 <!-- more -->
 

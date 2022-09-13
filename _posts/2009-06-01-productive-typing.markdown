@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Productive-Typing", "/post/productive-typing"]
+permalink: "/post/Productive-Typing"
 ---
 <!-- more -->
 

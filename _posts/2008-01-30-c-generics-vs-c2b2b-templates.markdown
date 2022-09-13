@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/C-Generics-vs-C2b2b-Templates", "/post/c-generics-vs-c2b2b-templates"]
+permalink: "/post/C-Generics-vs-C2b2b-Templates"
 ---
 <!-- more -->
 

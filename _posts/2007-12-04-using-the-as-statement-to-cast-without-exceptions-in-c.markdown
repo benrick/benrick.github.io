@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Using-the-as-Statement-to-Cast-Without-Exceptions-in-C", "/post/using-the-as-statement-to-cast-without-exceptions-in-c"]
+permalink: "/post/Using-the-as-Statement-to-Cast-Without-Exceptions-in-C"
 ---
 <!-- more -->
 

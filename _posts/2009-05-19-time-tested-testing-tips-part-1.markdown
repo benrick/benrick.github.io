@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Time-Tested-Testing-Tips-Part-1", "/post/time-tested-testing-tips-part-1"]
+permalink: "/post/Time-Tested-Testing-Tips-Part-1"
 ---
 <!-- more -->
 

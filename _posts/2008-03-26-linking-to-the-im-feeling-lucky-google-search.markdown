@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Linking-to-the-Im-Feeling-Lucky-Google-Search", "/post/linking-to-the-im-feeling-lucky-google-search"]
+permalink: "/post/Linking-to-the-Im-Feeling-Lucky-Google-Search"
 ---
 <!-- more -->
 

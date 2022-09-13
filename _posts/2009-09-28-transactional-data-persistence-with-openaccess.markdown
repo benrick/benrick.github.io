@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog", "Blog"]
-alias: ["/post/Transactional-Data-Persistence-with-OpenAccess", "/post/transactional-data-persistence-with-openaccess"]
+permalink: "/post/Transactional-Data-Persistence-with-OpenAccess"
 ---
 <!-- more -->
 

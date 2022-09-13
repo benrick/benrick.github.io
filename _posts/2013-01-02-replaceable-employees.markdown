@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Replaceable-Employees", "/post/replaceable-employees"]
+permalink: "/post/Replaceable-Employees"
 ---
 <!-- more -->
 

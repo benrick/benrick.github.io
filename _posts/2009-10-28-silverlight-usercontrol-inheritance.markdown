@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog", "Blog"]
-alias: ["/post/Silverlight-UserControl-Inheritance", "/post/silverlight-usercontrol-inheritance"]
+permalink: "/post/Silverlight-UserControl-Inheritance"
 ---
 <!-- more -->
 

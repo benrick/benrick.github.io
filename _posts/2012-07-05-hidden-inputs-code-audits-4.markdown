@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Hidden-Inputs-Code-Audits-4", "/post/hidden-inputs-code-audits-4"]
+permalink: "/post/Hidden-Inputs-Code-Audits-4"
 ---
 <!-- more -->
 

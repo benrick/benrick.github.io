@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Developers-Give-Back", "/post/developers-give-back"]
+permalink: "/post/Developers-Give-Back"
 ---
 <!-- more -->
 

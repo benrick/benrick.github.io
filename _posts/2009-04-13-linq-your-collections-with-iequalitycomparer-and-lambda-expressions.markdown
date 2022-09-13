@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/LINQ-Your-Collections-with-IEqualityComparer-and-Lambda-Expressions", "/post/linq-your-collections-with-iequalitycomparer-and-lambda-expressions"]
+permalink: "/post/LINQ-Your-Collections-with-IEqualityComparer-and-Lambda-Expressions"
 ---
 <!-- more -->
 

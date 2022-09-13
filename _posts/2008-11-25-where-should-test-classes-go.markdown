@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Where-Should-Test-Classes-Go", "/post/where-should-test-classes-go"]
+permalink: "/post/Where-Should-Test-Classes-Go"
 ---
 <!-- more -->
 

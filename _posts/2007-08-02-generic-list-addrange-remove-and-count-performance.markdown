@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Generic-List-AddRange-Remove-and-Count-Performance", "/post/generic-list-addrange-remove-and-count-performance"]
+permalink: "/post/Generic-List-AddRange-Remove-and-Count-Performance"
 ---
 <!-- more -->
 

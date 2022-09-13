@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Difference-Between-Value-Types-and-Reference-Types-in-C", "/post/difference-between-value-types-and-reference-types-in-c"]
+permalink: "/post/Difference-Between-Value-Types-and-Reference-Types-in-C"
 ---
 <!-- more -->
 

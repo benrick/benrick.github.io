@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Defining-Progress-in-Software-Development", "/post/defining-progress-in-software-development"]
+permalink: "/post/Defining-Progress-in-Software-Development"
 ---
 <!-- more -->
 

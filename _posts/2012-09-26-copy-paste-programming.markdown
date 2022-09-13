@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Copy-Paste-Programming", "/post/copy-paste-programming"]
+permalink: "/post/Copy-Paste-Programming"
 ---
 <!-- more -->
 

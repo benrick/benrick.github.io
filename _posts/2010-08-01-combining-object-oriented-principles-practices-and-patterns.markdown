@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Combining-Object-Oriented-Principles-Practices-and-Patterns", "/post/combining-object-oriented-principles-practices-and-patterns"]
+permalink: "/post/Combining-Object-Oriented-Principles-Practices-and-Patterns"
 ---
 <!-- more -->
 

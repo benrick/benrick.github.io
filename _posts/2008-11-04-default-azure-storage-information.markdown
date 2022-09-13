@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Default-Azure-Storage-Information", "/post/default-azure-storage-information"]
+permalink: "/post/Default-Azure-Storage-Information"
 ---
 <!-- more -->
 

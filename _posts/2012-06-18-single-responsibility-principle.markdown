@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Single-Responsibility-Principle", "/post/single-responsibility-principle"]
+permalink: "/post/Single-Responsibility-Principle"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Clearing-Page-Output-Cache-Entries", "/post/clearing-page-output-cache-entries"]
+permalink: "/post/Clearing-Page-Output-Cache-Entries"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/New-Fiddler-Site-Released", "/post/new-fiddler-site-released"]
+permalink: "/post/New-Fiddler-Site-Released"
 ---
 <!-- more -->
 

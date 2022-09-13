@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Blog-Moving-Here", "/post/blog-moving-here"]
+permalink: "/post/Blog-Moving-Here"
 ---
 <!-- more -->
 

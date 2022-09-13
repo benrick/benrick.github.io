@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Programming-Information-Titled-Security", "/post/programming-information-titled-security"]
+permalink: "/post/Programming-Information-Titled-Security"
 ---
 <!-- more -->
 

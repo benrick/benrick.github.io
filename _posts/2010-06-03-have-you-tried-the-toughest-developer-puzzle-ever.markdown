@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Have-you-tried-the-Toughest-Developer-Puzzle-Ever", "/post/have-you-tried-the-toughest-developer-puzzle-ever"]
+permalink: "/post/Have-you-tried-the-Toughest-Developer-Puzzle-Ever"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/SOLID-Saturdays-on-DevChatter", "/post/solid-saturdays-on-devchatter"]
+permalink: "/post/SOLID-Saturdays-on-DevChatter"
 ---
 <!-- more -->
 

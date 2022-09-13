@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Boy-Scout-Rule", "/post/boy-scout-rule"]
+permalink: "/post/Boy-Scout-Rule"
 ---
 <!-- more -->
 

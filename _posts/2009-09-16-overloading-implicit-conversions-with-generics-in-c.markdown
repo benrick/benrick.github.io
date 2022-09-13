@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Overloading-Implicit-Conversions-with-Generics-in-C", "/post/overloading-implicit-conversions-with-generics-in-c"]
+permalink: "/post/Overloading-Implicit-Conversions-with-Generics-in-C"
 ---
 <!-- more -->
 

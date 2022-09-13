@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Custom-Model-Binders-in-ASPNET-MVC", "/post/custom-model-binders-in-aspnet-mvc"]
+permalink: "/post/Custom-Model-Binders-in-ASPNET-MVC"
 ---
 <!-- more -->
 

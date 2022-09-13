@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Great-Conditional-Logic", "/post/great-conditional-logic"]
+permalink: "/post/Great-Conditional-Logic"
 ---
 <!-- more -->
 

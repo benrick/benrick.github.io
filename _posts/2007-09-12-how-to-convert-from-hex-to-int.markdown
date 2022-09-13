@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/How-to-Convert-from-hex-to-int", "/post/how-to-convert-from-hex-to-int"]
+permalink: "/post/How-to-Convert-from-hex-to-int"
 ---
 <!-- more -->
 

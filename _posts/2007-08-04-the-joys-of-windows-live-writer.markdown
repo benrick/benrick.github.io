@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/The-Joys-of-Windows-Live-Writer", "/post/the-joys-of-windows-live-writer"]
+permalink: "/post/The-Joys-of-Windows-Live-Writer"
 ---
 <!-- more -->
 

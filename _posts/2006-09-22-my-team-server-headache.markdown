@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/My-Team-Server-Headache", "/post/my-team-server-headache"]
+permalink: "/post/My-Team-Server-Headache"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Build-OpenAccess-Project-Using-MSBuild-on-a-Machine-Without-OpenAccess-Installed", "/post/build-openaccess-project-using-msbuild-on-a-machine-without-openaccess-installed"]
+permalink: "/post/Build-OpenAccess-Project-Using-MSBuild-on-a-Machine-Without-OpenAccess-Installed"
 ---
 <!-- more -->
 

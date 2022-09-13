@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/IIS-7-Not-Serving-Static-Files", "/post/iis-7-not-serving-static-files"]
+permalink: "/post/IIS-7-Not-Serving-Static-Files"
 ---
 <!-- more -->
 

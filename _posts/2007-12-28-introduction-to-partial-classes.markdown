@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Introduction-to-Partial-Classes", "/post/introduction-to-partial-classes"]
+permalink: "/post/Introduction-to-Partial-Classes"
 ---
 <!-- more -->
 

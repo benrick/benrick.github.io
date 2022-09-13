@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Viewing-Disassembled-IL-with-ILDASM", "/post/viewing-disassembled-il-with-ildasm"]
+permalink: "/post/Viewing-Disassembled-IL-with-ILDASM"
 ---
 <!-- more -->
 

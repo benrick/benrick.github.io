@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Breaking-Down-Customer-Stories", "/post/breaking-down-customer-stories"]
+permalink: "/post/Breaking-Down-Customer-Stories"
 ---
 <!-- more -->
 

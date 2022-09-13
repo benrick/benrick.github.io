@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Daily-Dev-Speedup-Working-With-Words", "/post/daily-dev-speedup-working-with-words"]
+permalink: "/post/Daily-Dev-Speedup-Working-With-Words"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Agile-Resources-Velocity-and-Capacity-Explained", "/post/agile-resources-velocity-and-capacity-explained"]
+permalink: "/post/Agile-Resources-Velocity-and-Capacity-Explained"
 ---
 <!-- more -->
 

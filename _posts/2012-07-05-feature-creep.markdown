@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Feature-Creep", "/post/feature-creep"]
+permalink: "/post/Feature-Creep"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Wire-up-your-ViewModels-using-a-Service-Locator", "/post/wire-up-your-viewmodels-using-a-service-locator"]
+permalink: "/post/Wire-up-your-ViewModels-using-a-Service-Locator"
 ---
 <!-- more -->
 

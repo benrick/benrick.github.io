@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Three-Years-of-Software-Craftsmanship", "/post/three-years-of-software-craftsmanship"]
+permalink: "/post/Three-Years-of-Software-Craftsmanship"
 ---
 <!-- more -->
 

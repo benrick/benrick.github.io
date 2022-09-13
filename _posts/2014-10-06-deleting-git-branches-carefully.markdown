@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Deleting-Git-Branches-Carefully", "/post/deleting-git-branches-carefully"]
+permalink: "/post/Deleting-Git-Branches-Carefully"
 ---
 <!-- more -->
 

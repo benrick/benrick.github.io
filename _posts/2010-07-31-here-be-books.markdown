@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Here-be-Books", "/post/here-be-books"]
+permalink: "/post/Here-be-Books"
 ---
 <!-- more -->
 

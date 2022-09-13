@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/A-Lean-Approach-to-Ordering-Office-Supplies", "/post/a-lean-approach-to-ordering-office-supplies"]
+permalink: "/post/A-Lean-Approach-to-Ordering-Office-Supplies"
 ---
 <!-- more -->
 

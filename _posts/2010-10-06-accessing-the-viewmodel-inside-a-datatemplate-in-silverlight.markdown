@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Accessing-the-ViewModel-Inside-a-DataTemplate-in-Silverlight", "/post/accessing-the-viewmodel-inside-a-datatemplate-in-silverlight"]
+permalink: "/post/Accessing-the-ViewModel-Inside-a-DataTemplate-in-Silverlight"
 ---
 <!-- more -->
 

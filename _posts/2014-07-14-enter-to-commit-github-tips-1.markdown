@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Enter-To-Commit-GitHub-Tips-1", "/post/enter-to-commit-github-tips-1"]
+permalink: "/post/Enter-To-Commit-GitHub-Tips-1"
 ---
 <!-- more -->
 

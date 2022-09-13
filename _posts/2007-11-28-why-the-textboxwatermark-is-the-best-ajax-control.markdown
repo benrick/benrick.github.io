@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Why-the-TextBoxWatermark-is-the-Best-AJAX-Control", "/post/why-the-textboxwatermark-is-the-best-ajax-control"]
+permalink: "/post/Why-the-TextBoxWatermark-is-the-Best-AJAX-Control"
 ---
 <!-- more -->
 

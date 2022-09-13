@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog", "Blog"]
-alias: ["/post/Agile-Story-Estimation", "/post/agile-story-estimation"]
+permalink: "/post/Agile-Story-Estimation"
 ---
 <!-- more -->
 

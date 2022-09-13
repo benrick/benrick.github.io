@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Writing-Testable-Maintainable-Code", "/post/writing-testable-maintainable-code"]
+permalink: "/post/Writing-Testable-Maintainable-Code"
 ---
 <!-- more -->
 

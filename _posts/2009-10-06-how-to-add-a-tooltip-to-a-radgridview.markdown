@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/How-to-Add-a-ToolTip-to-a-RadGridView", "/post/how-to-add-a-tooltip-to-a-radgridview"]
+permalink: "/post/How-to-Add-a-ToolTip-to-a-RadGridView"
 ---
 <!-- more -->
 

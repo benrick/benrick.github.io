@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Software-Engineering-101-in-Cleveland", "/post/software-engineering-101-in-cleveland"]
+permalink: "/post/Software-Engineering-101-in-Cleveland"
 ---
 <!-- more -->
 

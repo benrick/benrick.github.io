@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/User-Group-Fluidity", "/post/user-group-fluidity"]
+permalink: "/post/User-Group-Fluidity"
 ---
 <!-- more -->
 

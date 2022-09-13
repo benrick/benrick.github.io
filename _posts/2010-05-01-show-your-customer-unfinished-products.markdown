@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Show-Your-Customer-Unfinished-Products", "/post/show-your-customer-unfinished-products"]
+permalink: "/post/Show-Your-Customer-Unfinished-Products"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Visual-Studio-2010-Beta-2-is-Here", "/post/visual-studio-2010-beta-2-is-here"]
+permalink: "/post/Visual-Studio-2010-Beta-2-is-Here"
 ---
 <!-- more -->
 

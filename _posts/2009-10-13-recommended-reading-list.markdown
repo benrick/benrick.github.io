@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Recommended-Reading-List", "/post/recommended-reading-list"]
+permalink: "/post/Recommended-Reading-List"
 ---
 <!-- more -->
 

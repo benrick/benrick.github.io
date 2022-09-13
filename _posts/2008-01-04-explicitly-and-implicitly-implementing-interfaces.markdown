@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Explicitly-and-Implicitly-Implementing-Interfaces", "/post/explicitly-and-implicitly-implementing-interfaces"]
+permalink: "/post/Explicitly-and-Implicitly-Implementing-Interfaces"
 ---
 <!-- more -->
 

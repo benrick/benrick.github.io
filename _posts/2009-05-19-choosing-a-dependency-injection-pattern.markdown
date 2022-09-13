@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Choosing-A-Dependency-Injection-Pattern", "/post/choosing-a-dependency-injection-pattern"]
+permalink: "/post/Choosing-A-Dependency-Injection-Pattern"
 ---
 <!-- more -->
 

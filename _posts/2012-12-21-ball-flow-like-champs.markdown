@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Ball-Flow-Like-Champs", "/post/ball-flow-like-champs"]
+permalink: "/post/Ball-Flow-Like-Champs"
 ---
 <!-- more -->
 

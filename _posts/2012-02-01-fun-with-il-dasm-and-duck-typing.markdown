@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Fun-with-IL-DASM-and-Duck-Typing", "/post/fun-with-il-dasm-and-duck-typing"]
+permalink: "/post/Fun-with-IL-DASM-and-Duck-Typing"
 ---
 <!-- more -->
 

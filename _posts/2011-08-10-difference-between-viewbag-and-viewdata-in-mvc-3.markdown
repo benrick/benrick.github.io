@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Difference-Between-ViewBag-and-ViewData-in-MVC-3", "/post/difference-between-viewbag-and-viewdata-in-mvc-3"]
+permalink: "/post/Difference-Between-ViewBag-and-ViewData-in-MVC-3"
 ---
 <!-- more -->
 

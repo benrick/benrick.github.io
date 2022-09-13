@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/How-to-Change-or-Remove-the-No-Data-Series-Message-in-a-RadChart-for-Silverlight", "/post/how-to-change-or-remove-the-no-data-series-message-in-a-radchart-for-silverlight"]
+permalink: "/post/How-to-Change-or-Remove-the-No-Data-Series-Message-in-a-RadChart-for-Silverlight"
 ---
 <!-- more -->
 

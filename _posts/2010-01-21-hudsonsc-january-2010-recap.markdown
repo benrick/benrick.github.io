@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/HudsonSC-January-2010-Recap", "/post/hudsonsc-january-2010-recap"]
+permalink: "/post/HudsonSC-January-2010-Recap"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Differences-Between-Structures-and-Classes-in-C", "/post/differences-between-structures-and-classes-in-c"]
+permalink: "/post/Differences-Between-Structures-and-Classes-in-C"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Groundhog-Day-Experience", "/post/groundhog-day-experience"]
+permalink: "/post/Groundhog-Day-Experience"
 ---
 <!-- more -->
 

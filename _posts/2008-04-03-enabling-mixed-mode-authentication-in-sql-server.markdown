@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Enabling-Mixed-Mode-Authentication-in-SQL-Server", "/post/enabling-mixed-mode-authentication-in-sql-server"]
+permalink: "/post/Enabling-Mixed-Mode-Authentication-in-SQL-Server"
 ---
 <!-- more -->
 

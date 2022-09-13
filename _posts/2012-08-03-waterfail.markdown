@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Waterfail", "/post/waterfail"]
+permalink: "/post/Waterfail"
 ---
 <!-- more -->
 

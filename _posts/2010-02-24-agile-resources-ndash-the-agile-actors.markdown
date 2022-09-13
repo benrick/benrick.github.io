@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Agile-Resources-ndash-The-Agile-Actors", "/post/agile-resources-ndash-the-agile-actors"]
+permalink: "/post/Agile-Resources-ndash-The-Agile-Actors"
 ---
 <!-- more -->
 

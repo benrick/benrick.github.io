@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
-alias: ["/post/A-Note-on-ASPNET-Session", "/post/a-note-on-aspnet-session"]
+permalink: "/post/A-Note-on-ASPNET-Session"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Return-Within-a-C-Using-Statement", "/post/return-within-a-c-using-statement"]
+permalink: "/post/Return-Within-a-C-Using-Statement"
 ---
 <!-- more -->
 

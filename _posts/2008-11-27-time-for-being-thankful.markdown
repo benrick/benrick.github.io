@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Time-for-Being-Thankful", "/post/time-for-being-thankful"]
+permalink: "/post/Time-for-Being-Thankful"
 ---
 <!-- more -->
 

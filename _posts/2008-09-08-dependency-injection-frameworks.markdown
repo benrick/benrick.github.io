@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Dependency-Injection-Frameworks", "/post/dependency-injection-frameworks"]
+permalink: "/post/Dependency-Injection-Frameworks"
 ---
 <!-- more -->
 

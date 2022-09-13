@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Good-Teams-Focus-on-the-Team", "/post/good-teams-focus-on-the-team"]
+permalink: "/post/Good-Teams-Focus-on-the-Team"
 ---
 <!-- more -->
 

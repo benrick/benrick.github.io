@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Daily-Dev-Speedup-Commenting-and-Uncommenting-Code-Quickly", "/post/daily-dev-speedup-commenting-and-uncommenting-code-quickly"]
+permalink: "/post/Daily-Dev-Speedup-Commenting-and-Uncommenting-Code-Quickly"
 ---
 <!-- more -->
 

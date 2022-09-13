@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Accessing-Properties-of-a-Base-Page-from-a-User-Control", "/post/accessing-properties-of-a-base-page-from-a-user-control"]
+permalink: "/post/Accessing-Properties-of-a-Base-Page-from-a-User-Control"
 ---
 <!-- more -->
 

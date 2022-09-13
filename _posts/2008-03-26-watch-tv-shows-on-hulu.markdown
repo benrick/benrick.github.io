@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Watch-TV-Shows-on-Hulu", "/post/watch-tv-shows-on-hulu"]
+permalink: "/post/Watch-TV-Shows-on-Hulu"
 ---
 <!-- more -->
 

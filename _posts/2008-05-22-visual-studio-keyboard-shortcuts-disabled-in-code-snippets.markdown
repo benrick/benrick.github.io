@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Visual-Studio-Keyboard-Shortcuts-Disabled-in-Code-Snippets", "/post/visual-studio-keyboard-shortcuts-disabled-in-code-snippets"]
+permalink: "/post/Visual-Studio-Keyboard-Shortcuts-Disabled-in-Code-Snippets"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Change-Local-SQL-Server-Used-By-Visual-Studio", "/post/change-local-sql-server-used-by-visual-studio"]
+permalink: "/post/Change-Local-SQL-Server-Used-By-Visual-Studio"
 ---
 <!-- more -->
 

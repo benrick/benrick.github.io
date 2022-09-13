@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Schedule-Standups-in-the-Morning", "/post/schedule-standups-in-the-morning"]
+permalink: "/post/Schedule-Standups-in-the-Morning"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/My-2010-ASPNET-MVP-Award", "/post/my-2010-aspnet-mvp-award"]
+permalink: "/post/My-2010-ASPNET-MVP-Award"
 ---
 <!-- more -->
 

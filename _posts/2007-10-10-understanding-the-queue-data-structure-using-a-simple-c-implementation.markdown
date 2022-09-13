@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
-alias: ["/post/Understanding-the-Queue-Data-Structure-Using-a-Simple-C-Implementation", "/post/understanding-the-queue-data-structure-using-a-simple-c-implementation"]
+permalink: "/post/Understanding-the-Queue-Data-Structure-Using-a-Simple-C-Implementation"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Happy-New-Year-Everyone!", "/post/happy-new-year-everyone!"]
+permalink: "/post/Happy-New-Year-Everyone!"
 ---
 <!-- more -->
 

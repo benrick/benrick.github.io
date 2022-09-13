@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/One-Year-of-Hudson-Software-Craftsmanship", "/post/one-year-of-hudson-software-craftsmanship"]
+permalink: "/post/One-Year-of-Hudson-Software-Craftsmanship"
 ---
 <!-- more -->
 

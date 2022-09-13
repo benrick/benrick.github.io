@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Parameter-Order-Should-Be-Consistent", "/post/parameter-order-should-be-consistent"]
+permalink: "/post/Parameter-Order-Should-Be-Consistent"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Static-Methods-and-Interfaces-in-C", "/post/static-methods-and-interfaces-in-c"]
+permalink: "/post/Static-Methods-and-Interfaces-in-C"
 ---
 <!-- more -->
 

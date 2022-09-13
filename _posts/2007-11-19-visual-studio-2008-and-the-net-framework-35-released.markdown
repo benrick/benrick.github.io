@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Visual-Studio-2008-and-the-NET-Framework-35-Released", "/post/visual-studio-2008-and-the-net-framework-35-released"]
+permalink: "/post/Visual-Studio-2008-and-the-NET-Framework-35-Released"
 ---
 <!-- more -->
 

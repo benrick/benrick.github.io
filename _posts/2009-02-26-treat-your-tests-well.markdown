@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog", "Blog", "Blog", "Blog"]
-alias: ["/post/Treat-Your-Tests-Well", "/post/treat-your-tests-well"]
+permalink: "/post/Treat-Your-Tests-Well"
 ---
 <!-- more -->
 

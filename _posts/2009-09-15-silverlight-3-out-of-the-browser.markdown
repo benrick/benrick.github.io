@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Silverlight-3-Out-of-the-Browser", "/post/silverlight-3-out-of-the-browser"]
+permalink: "/post/Silverlight-3-Out-of-the-Browser"
 ---
 <!-- more -->
 

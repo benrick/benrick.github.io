@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Separation-of-Concerns", "/post/separation-of-concerns"]
+permalink: "/post/Separation-of-Concerns"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Validating-Entity-objects", "/post/validating-entity-objects"]
+permalink: "/post/Validating-Entity-objects"
 ---
 <!-- more -->
 

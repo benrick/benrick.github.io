@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/The-Clean-Coder-Review", "/post/the-clean-coder-review"]
+permalink: "/post/The-Clean-Coder-Review"
 ---
 <!-- more -->
 

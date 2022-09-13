@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/NET-35-is-Open-Source", "/post/net-35-is-open-source"]
+permalink: "/post/NET-35-is-Open-Source"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Expression-Blend-Issue-with-Abstract-Base-Classes", "/post/expression-blend-issue-with-abstract-base-classes"]
+permalink: "/post/Expression-Blend-Issue-with-Abstract-Base-Classes"
 ---
 <!-- more -->
 

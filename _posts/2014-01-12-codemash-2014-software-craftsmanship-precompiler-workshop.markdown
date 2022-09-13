@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/CodeMash-2014-Software-Craftsmanship-Precompiler-Workshop", "/post/codemash-2014-software-craftsmanship-precompiler-workshop"]
+permalink: "/post/CodeMash-2014-Software-Craftsmanship-Precompiler-Workshop"
 ---
 <!-- more -->
 

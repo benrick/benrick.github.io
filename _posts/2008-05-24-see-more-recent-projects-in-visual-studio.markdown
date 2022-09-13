@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/See-More-Recent-Projects-in-Visual-Studio", "/post/see-more-recent-projects-in-visual-studio"]
+permalink: "/post/See-More-Recent-Projects-in-Visual-Studio"
 ---
 <!-- more -->
 

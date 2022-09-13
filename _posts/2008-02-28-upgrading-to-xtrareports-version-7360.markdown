@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Upgrading-to-XtraReports-version-7360", "/post/upgrading-to-xtrareports-version-7360"]
+permalink: "/post/Upgrading-to-XtraReports-version-7360"
 ---
 <!-- more -->
 

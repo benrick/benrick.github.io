@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Parameter-and-Return-Type-Interfaces", "/post/parameter-and-return-type-interfaces"]
+permalink: "/post/Parameter-and-Return-Type-Interfaces"
 ---
 <!-- more -->
 

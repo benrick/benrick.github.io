@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Types-of-ASPNET-MVC-3-Action-Results", "/post/types-of-aspnet-mvc-3-action-results"]
+permalink: "/post/Types-of-ASPNET-MVC-3-Action-Results"
 ---
 <!-- more -->
 

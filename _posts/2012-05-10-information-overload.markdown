@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Information-Overload", "/post/information-overload"]
+permalink: "/post/Information-Overload"
 ---
 <!-- more -->
 

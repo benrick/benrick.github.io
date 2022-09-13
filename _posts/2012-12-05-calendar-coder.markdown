@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Calendar-Coder", "/post/calendar-coder"]
+permalink: "/post/Calendar-Coder"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/NimblePros-is-Hiring-Developers", "/post/nimblepros-is-hiring-developers"]
+permalink: "/post/NimblePros-is-Hiring-Developers"
 ---
 <!-- more -->
 

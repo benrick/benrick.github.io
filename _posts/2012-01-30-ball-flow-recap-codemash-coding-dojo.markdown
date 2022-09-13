@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Ball-Flow-Recap-CodeMash-Coding-Dojo", "/post/ball-flow-recap-codemash-coding-dojo"]
+permalink: "/post/Ball-Flow-Recap-CodeMash-Coding-Dojo"
 ---
 <!-- more -->
 

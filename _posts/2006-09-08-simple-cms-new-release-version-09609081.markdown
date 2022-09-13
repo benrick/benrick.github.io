@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Simple-CMS-New-Release-Version-09609081", "/post/simple-cms-new-release-version-09609081"]
+permalink: "/post/Simple-CMS-New-Release-Version-09609081"
 ---
 <!-- more -->
 

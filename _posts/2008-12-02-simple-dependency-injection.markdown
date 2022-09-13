@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Simple-Dependency-Injection", "/post/simple-dependency-injection"]
+permalink: "/post/Simple-Dependency-Injection"
 ---
 <!-- more -->
 

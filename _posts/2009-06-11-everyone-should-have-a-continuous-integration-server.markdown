@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Everyone-Should-Have-a-Continuous-Integration-Server", "/post/everyone-should-have-a-continuous-integration-server"]
+permalink: "/post/Everyone-Should-Have-a-Continuous-Integration-Server"
 ---
 <!-- more -->
 

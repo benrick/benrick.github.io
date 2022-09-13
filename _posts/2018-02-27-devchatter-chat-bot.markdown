@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: []
-alias: ["/post/DevChatter-Chat-Bot", "/post/devchatter-chat-bot"]
+permalink: "/post/DevChatter-Chat-Bot"
 ---
 <!-- more -->
 

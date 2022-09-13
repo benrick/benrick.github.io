@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Descriptive-Icons-GitHub-Tips-2", "/post/descriptive-icons-github-tips-2"]
+permalink: "/post/Descriptive-Icons-GitHub-Tips-2"
 ---
 <!-- more -->
 

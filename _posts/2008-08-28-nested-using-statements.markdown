@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Nested-Using-Statements", "/post/nested-using-statements"]
+permalink: "/post/Nested-Using-Statements"
 ---
 <!-- more -->
 

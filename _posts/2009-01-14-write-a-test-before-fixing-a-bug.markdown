@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Write-a-Test-Before-Fixing-a-Bug", "/post/write-a-test-before-fixing-a-bug"]
+permalink: "/post/Write-a-Test-Before-Fixing-a-Bug"
 ---
 <!-- more -->
 

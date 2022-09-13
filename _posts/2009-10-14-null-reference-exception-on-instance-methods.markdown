@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Null-Reference-Exception-on-Instance-Methods", "/post/null-reference-exception-on-instance-methods"]
+permalink: "/post/Null-Reference-Exception-on-Instance-Methods"
 ---
 <!-- more -->
 

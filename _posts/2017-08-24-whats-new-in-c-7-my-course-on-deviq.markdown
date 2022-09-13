@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Whats-New-in-C-7-My-Course-on-DevIQ", "/post/whats-new-in-c-7-my-course-on-deviq"]
+permalink: "/post/Whats-New-in-C-7-My-Course-on-DevIQ"
 ---
 <!-- more -->
 

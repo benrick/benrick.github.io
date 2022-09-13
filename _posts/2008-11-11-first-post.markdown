@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/First-Post", "/post/first-post"]
+permalink: "/post/First-Post"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Building-an-MVC-Gaming-Statistics-Site-ndash-Setting-Up-the-Project", "/post/building-an-mvc-gaming-statistics-site-ndash-setting-up-the-project"]
+permalink: "/post/Building-an-MVC-Gaming-Statistics-Site-ndash-Setting-Up-the-Project"
 ---
 <!-- more -->
 

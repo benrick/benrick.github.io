@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/NET-Developer-Cheat-Sheets", "/post/net-developer-cheat-sheets"]
+permalink: "/post/NET-Developer-Cheat-Sheets"
 ---
 <!-- more -->
 

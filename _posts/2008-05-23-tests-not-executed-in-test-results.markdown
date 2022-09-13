@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
-alias: ["/post/Tests-Not-Executed-In-Test-Results", "/post/tests-not-executed-in-test-results"]
+permalink: "/post/Tests-Not-Executed-In-Test-Results"
 ---
 <!-- more -->
 

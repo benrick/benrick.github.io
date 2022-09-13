@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/April-What-Day", "/post/april-what-day"]
+permalink: "/post/April-What-Day"
 ---
 <!-- more -->
 

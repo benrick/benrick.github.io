@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Simple-CMS-Released", "/post/simple-cms-released"]
+permalink: "/post/Simple-CMS-Released"
 ---
 <!-- more -->
 

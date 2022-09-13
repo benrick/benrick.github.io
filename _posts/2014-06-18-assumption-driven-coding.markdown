@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Assumption-Driven-Coding", "/post/assumption-driven-coding"]
+permalink: "/post/Assumption-Driven-Coding"
 ---
 <!-- more -->
 

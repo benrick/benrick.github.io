@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Party-with-Palermo", "/post/party-with-palermo"]
+permalink: "/post/Party-with-Palermo"
 ---
 <!-- more -->
 

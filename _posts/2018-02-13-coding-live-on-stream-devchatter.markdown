@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Coding-Live-on-Stream-DevChatter", "/post/coding-live-on-stream-devchatter"]
+permalink: "/post/Coding-Live-on-Stream-DevChatter"
 ---
 <!-- more -->
 

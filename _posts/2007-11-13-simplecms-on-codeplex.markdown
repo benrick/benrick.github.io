@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/SimpleCMS-on-CodePlex", "/post/simplecms-on-codeplex"]
+permalink: "/post/SimpleCMS-on-CodePlex"
 ---
 <!-- more -->
 

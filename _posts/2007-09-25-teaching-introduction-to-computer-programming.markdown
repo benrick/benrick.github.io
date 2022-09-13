@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Teaching-Introduction-to-Computer-Programming", "/post/teaching-introduction-to-computer-programming"]
+permalink: "/post/Teaching-Introduction-to-Computer-Programming"
 ---
 <!-- more -->
 

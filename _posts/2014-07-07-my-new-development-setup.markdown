@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/My-New-Development-Setup", "/post/my-new-development-setup"]
+permalink: "/post/My-New-Development-Setup"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Microsoft-Announced-Windows-Azure-at-PDC", "/post/microsoft-announced-windows-azure-at-pdc"]
+permalink: "/post/Microsoft-Announced-Windows-Azure-at-PDC"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
-alias: ["/post/Unpacking-Tuples-in-Python", "/post/unpacking-tuples-in-python"]
+permalink: "/post/Unpacking-Tuples-in-Python"
 ---
 <!-- more -->
 

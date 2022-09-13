@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Creating-a-Game-Loop-Using-Silverlight", "/post/creating-a-game-loop-using-silverlight"]
+permalink: "/post/Creating-a-Game-Loop-Using-Silverlight"
 ---
 <!-- more -->
 

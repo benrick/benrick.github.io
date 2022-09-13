@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Five-Things-you-did-not-know-about-me", "/post/five-things-you-did-not-know-about-me"]
+permalink: "/post/Five-Things-you-did-not-know-about-me"
 ---
 <!-- more -->
 

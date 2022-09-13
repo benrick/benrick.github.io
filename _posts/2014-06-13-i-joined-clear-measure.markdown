@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/I-Joined-Clear-Measure", "/post/i-joined-clear-measure"]
+permalink: "/post/I-Joined-Clear-Measure"
 ---
 <!-- more -->
 

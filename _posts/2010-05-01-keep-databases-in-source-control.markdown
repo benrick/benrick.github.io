@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Keep-Databases-in-Source-Control", "/post/keep-databases-in-source-control"]
+permalink: "/post/Keep-Databases-in-Source-Control"
 ---
 <!-- more -->
 

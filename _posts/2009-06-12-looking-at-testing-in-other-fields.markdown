@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Looking-at-Testing-in-Other-Fields", "/post/looking-at-testing-in-other-fields"]
+permalink: "/post/Looking-at-Testing-in-Other-Fields"
 ---
 <!-- more -->
 

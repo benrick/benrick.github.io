@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog", "Blog", "Blog"]
-alias: ["/post/Commenting-Methods-Using-Liskov-Substitution-Principle", "/post/commenting-methods-using-liskov-substitution-principle"]
+permalink: "/post/Commenting-Methods-Using-Liskov-Substitution-Principle"
 ---
 <!-- more -->
 

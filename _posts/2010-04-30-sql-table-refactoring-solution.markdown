@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Sql-Table-Refactoring-Solution", "/post/sql-table-refactoring-solution"]
+permalink: "/post/Sql-Table-Refactoring-Solution"
 ---
 <!-- more -->
 

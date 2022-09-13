@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/OpenClosed-Principle-and-Reinventing-the-Wheel", "/post/openclosed-principle-and-reinventing-the-wheel"]
+permalink: "/post/OpenClosed-Principle-and-Reinventing-the-Wheel"
 ---
 <!-- more -->
 

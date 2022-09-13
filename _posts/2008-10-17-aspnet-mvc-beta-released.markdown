@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/ASPNET-MVC-Beta-Released", "/post/aspnet-mvc-beta-released"]
+permalink: "/post/ASPNET-MVC-Beta-Released"
 ---
 <!-- more -->
 

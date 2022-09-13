@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/July-HudsonSC", "/post/july-hudsonsc"]
+permalink: "/post/July-HudsonSC"
 ---
 <!-- more -->
 

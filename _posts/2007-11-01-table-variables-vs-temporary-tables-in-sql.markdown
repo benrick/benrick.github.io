@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Table-Variables-vs-Temporary-Tables-in-SQL", "/post/table-variables-vs-temporary-tables-in-sql"]
+permalink: "/post/Table-Variables-vs-Temporary-Tables-in-SQL"
 ---
 <!-- more -->
 

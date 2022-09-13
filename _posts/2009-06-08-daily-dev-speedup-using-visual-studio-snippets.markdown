@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Daily-Dev-Speedup-Using-Visual-Studio-Snippets", "/post/daily-dev-speedup-using-visual-studio-snippets"]
+permalink: "/post/Daily-Dev-Speedup-Using-Visual-Studio-Snippets"
 ---
 <!-- more -->
 

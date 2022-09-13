@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Optional-and-Named-Parameters-in-C-Finally", "/post/optional-and-named-parameters-in-c-finally"]
+permalink: "/post/Optional-and-Named-Parameters-in-C-Finally"
 ---
 <!-- more -->
 

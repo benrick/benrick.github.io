@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/One-Reason-to-Test-Before-Creating-a-Method", "/post/one-reason-to-test-before-creating-a-method"]
+permalink: "/post/One-Reason-to-Test-Before-Creating-a-Method"
 ---
 <!-- more -->
 

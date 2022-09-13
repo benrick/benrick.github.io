@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Some-Thoughts-on-Software-Craftsmanship", "/post/some-thoughts-on-software-craftsmanship"]
+permalink: "/post/Some-Thoughts-on-Software-Craftsmanship"
 ---
 <!-- more -->
 

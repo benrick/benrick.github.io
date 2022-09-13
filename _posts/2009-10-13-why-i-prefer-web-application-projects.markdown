@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Why-I-Prefer-Web-Application-Projects", "/post/why-i-prefer-web-application-projects"]
+permalink: "/post/Why-I-Prefer-Web-Application-Projects"
 ---
 <!-- more -->
 

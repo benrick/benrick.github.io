@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Go-Try-NuGet-Seriously", "/post/go-try-nuget-seriously"]
+permalink: "/post/Go-Try-NuGet-Seriously"
 ---
 <!-- more -->
 

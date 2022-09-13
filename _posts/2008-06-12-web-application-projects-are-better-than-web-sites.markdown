@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Web-Application-Projects-are-better-than-Web-Sites", "/post/web-application-projects-are-better-than-web-sites"]
+permalink: "/post/Web-Application-Projects-are-better-than-Web-Sites"
 ---
 <!-- more -->
 

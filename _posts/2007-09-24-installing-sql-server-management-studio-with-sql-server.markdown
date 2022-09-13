@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Installing-SQL-Server-Management-Studio-with-SQL-Server", "/post/installing-sql-server-management-studio-with-sql-server"]
+permalink: "/post/Installing-SQL-Server-Management-Studio-with-SQL-Server"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Working-with-the-Default-Layout-of-Silverlight-RadCharts", "/post/working-with-the-default-layout-of-silverlight-radcharts"]
+permalink: "/post/Working-with-the-Default-Layout-of-Silverlight-RadCharts"
 ---
 <!-- more -->
 

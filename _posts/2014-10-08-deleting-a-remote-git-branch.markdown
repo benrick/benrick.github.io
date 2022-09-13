@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Deleting-a-Remote-Git-Branch", "/post/deleting-a-remote-git-branch"]
+permalink: "/post/Deleting-a-Remote-Git-Branch"
 ---
 <!-- more -->
 

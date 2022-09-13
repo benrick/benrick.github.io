@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Handling-msbuild-File-Paths-in-Visual-Studio-Project-Files", "/post/handling-msbuild-file-paths-in-visual-studio-project-files"]
+permalink: "/post/Handling-msbuild-File-Paths-in-Visual-Studio-Project-Files"
 ---
 <!-- more -->
 

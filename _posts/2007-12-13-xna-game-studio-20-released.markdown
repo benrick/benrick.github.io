@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/XNA-Game-Studio-20-Released", "/post/xna-game-studio-20-released"]
+permalink: "/post/XNA-Game-Studio-20-Released"
 ---
 <!-- more -->
 

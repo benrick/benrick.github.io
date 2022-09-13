@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Getting-Around-a-Lack-of-Interfaces-With-Partial-Classes", "/post/getting-around-a-lack-of-interfaces-with-partial-classes"]
+permalink: "/post/Getting-Around-a-Lack-of-Interfaces-With-Partial-Classes"
 ---
 <!-- more -->
 

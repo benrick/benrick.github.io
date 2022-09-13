@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Fake-Binary-Clocks", "/post/fake-binary-clocks"]
+permalink: "/post/Fake-Binary-Clocks"
 ---
 <!-- more -->
 

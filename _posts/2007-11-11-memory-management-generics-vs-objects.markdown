@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Memory-Management-Generics-vs-objects", "/post/memory-management-generics-vs-objects"]
+permalink: "/post/Memory-Management-Generics-vs-objects"
 ---
 <!-- more -->
 

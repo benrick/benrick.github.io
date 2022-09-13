@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Why-to-Join-a-Software-Craftsmanship-Group", "/post/why-to-join-a-software-craftsmanship-group"]
+permalink: "/post/Why-to-Join-a-Software-Craftsmanship-Group"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Old-Blog-Favorites", "/post/old-blog-favorites"]
+permalink: "/post/Old-Blog-Favorites"
 ---
 <!-- more -->
 

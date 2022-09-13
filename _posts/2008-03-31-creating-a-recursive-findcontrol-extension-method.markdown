@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Creating-a-Recursive-FindControl-Extension-Method", "/post/creating-a-recursive-findcontrol-extension-method"]
+permalink: "/post/Creating-a-Recursive-FindControl-Extension-Method"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Silverlight-Attached-Properties", "/post/silverlight-attached-properties"]
+permalink: "/post/Silverlight-Attached-Properties"
 ---
 <!-- more -->
 

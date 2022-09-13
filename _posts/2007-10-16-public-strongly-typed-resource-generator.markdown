@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Public-Strongly-Typed-Resource-Generator", "/post/public-strongly-typed-resource-generator"]
+permalink: "/post/Public-Strongly-Typed-Resource-Generator"
 ---
 <!-- more -->
 

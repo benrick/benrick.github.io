@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Let-Others-Work-on-Your-Code", "/post/let-others-work-on-your-code"]
+permalink: "/post/Let-Others-Work-on-Your-Code"
 ---
 <!-- more -->
 

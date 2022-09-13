@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Static-Mocking-with-JustMock", "/post/static-mocking-with-justmock"]
+permalink: "/post/Static-Mocking-with-JustMock"
 ---
 <!-- more -->
 

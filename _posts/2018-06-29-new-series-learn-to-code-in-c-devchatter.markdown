@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/New-Series-Learn-to-Code-in-C-DevChatter", "/post/new-series-learn-to-code-in-c-devchatter"]
+permalink: "/post/New-Series-Learn-to-Code-in-C-DevChatter"
 ---
 <!-- more -->
 

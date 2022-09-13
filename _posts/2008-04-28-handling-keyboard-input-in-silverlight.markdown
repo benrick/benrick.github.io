@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET", "Orcs Goblins  and .NET"]
-alias: ["/post/Handling-Keyboard-Input-in-Silverlight", "/post/handling-keyboard-input-in-silverlight"]
+permalink: "/post/Handling-Keyboard-Input-in-Silverlight"
 ---
 <!-- more -->
 

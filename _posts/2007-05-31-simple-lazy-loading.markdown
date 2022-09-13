@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-alias: ["/post/Simple-Lazy-Loading", "/post/simple-lazy-loading"]
+permalink: "/post/Simple-Lazy-Loading"
 ---
 <!-- more -->
 

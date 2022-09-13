@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-alias: ["/post/Expect-Unique-Exceptions", "/post/expect-unique-exceptions"]
+permalink: "/post/Expect-Unique-Exceptions"
 ---
 <!-- more -->
 
