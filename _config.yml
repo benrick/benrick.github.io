@@ -12,8 +12,11 @@ github_username: "DevChatter"
 #flickr_username: username
 #instagram_username: username
 #pinterest_username: username
-youtube_username: c/DevChatter
+youtube_username: "c/DevChatter"
 #googleplus_username: +username
+
+paginate: 10
+paginate_path: "/page:num/"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
@@ -29,6 +32,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 
 titles_from_headings:
   strip_title: true
