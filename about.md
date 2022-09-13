@@ -1,5 +1,7 @@
 ---
+layout: page
 title: "About Brendan Enrick"
+permalink: /about/
 ---
 
 ## About Brendan Enrick
