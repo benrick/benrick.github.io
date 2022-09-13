@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Something to Avoid While Programming"
+date: 2009-05-30 21:37:00 -0400
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["Blog"]
+alias: ["/post/Something-to-Avoid-While-Programming", "/post/something-to-avoid-while-programming"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<p>Some activities and thoughts need to be avoided while programming. Sometimes we realize our mistakes and do them anyway. I admit that in my time developing software I&rsquo;ve probably done this more times than I would like to admit. I make an effort to avoid making these types mistakes, and I attempt to encourage others to avoid the same pitfalls. While working with others I certainly tell them when they&rsquo;re gravely mistaken about something.</p>
+<p>The first thing I would like to emphasize is that this mistake is fairly common everywhere in life. It is of course procrastination, and I think I&rsquo;ll rip off the classic line I&rsquo;ve heard a million times. <em>Don't put off until tomorrow what you could do today.</em> Now I need to be careful how I say this, because I could get YAGNI people jumping at me for saying this. Obviously don&rsquo;t do everything today just because you can. That is silly, but things that will assist greatly in maintenance should not be put off. Since I&rsquo;ve been on a <a href="http://brendan.enrick.com/blog/time-tested-testing-tips-part-1/" target="_blank">bit</a> <a href="http://brendan.enrick.com/blog/time-tested-testing-tips-part-2/" target="_blank">of a</a> <a href="http://brendan.enrick.com/blog/time-tested-testing-tips-part-3/" target="_blank">testing</a> <a href="http://brendan.enrick.com/blog/time-tested-testing-tips-ndash-part-4/" target="_blank">kick</a> lately, I might as well focus this toward testing.</p>
+<p>I am sure a lot of you have been in the situation where you really just don&rsquo;t feel like writing your test before you write your code. Ha! Who am I kidding? Most developers don&rsquo;t follow TDD anyway, so most of the people reading this wouldn&rsquo;t have done that anyway. A large group of developers have started writing unit tests in general even if they&rsquo;re not writing them first. However, this still applies as I am sure many of those developers want to wait until a full feature is &ldquo;complete&rdquo; before testing.</p>
+<p><em>Your code is not complete until it is tested.</em> Keep in mind that down the road you might forget the business rule you were coding, so it is important to create the tests at the same time as you&rsquo;re writing the production code. Developers will try to say, &ldquo;we will write the tests when we&rsquo;re done&rdquo; or &ldquo;we&rsquo;ll refactor this later&rdquo;. Do not dare believe a word of that crap. <em>Always assume you will not have time to come back later and refactor.</em> There is a good chance you will not have that chance. Also if you don&rsquo;t fix things now they&rsquo;ll just bite you later.</p>
+<p>One way to help keep yourself on track is to work with a partner. One very powerful aspect of pair programming is that the second person will nag you and force you to get to things <em>now.</em> That is part of the job description for both parties while pair programming. Don&rsquo;t let the other person skip out on anything. Be careful though, because that other person will be just like Wimpy saying things like, &ldquo;I&rsquo;ll gladly test that Tuesday to continue coding today.&rdquo;</p>

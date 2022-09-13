@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Productive Typing"
+date: 2009-06-01 09:32:00 -0400
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["Blog"]
+alias: ["/post/Productive-Typing", "/post/productive-typing"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<p>In software development it is very important that you type quickly. Now some people are going to be thinking that simple words/minute is important. I agree that it is important to be able to type quickly in general while programming. There are other aspects to this as well. Now consider if you have two programmers and one types twice as fast as the other. Which one is more valuable to the company? So I might have oversimplified this, but I would assume most people who go and read blogs are probably trying to improve their skills as a developer and if you're not considering your programming (typing) speed then you're not considering enough.</p>
+<p>As a said moments ago, I am not going to talk words per minute. That isn't always relevant since we're not always typing words. Ours are a lot of the same words as well as a lot of symbols. It isn't normal typing. What I am going to say is that developers need to be taking advantage of keyboard shortcuts and snippets; from the standard ones which work in many applications down to Visual Studio specific shortcuts. A lot of developers use add-ins like CodeRush and Resharper to increase their development speed.</p>
+<h3>Program Agnostic Shortcuts</h3>
+<p>Starting simply, I will talk about one of the simplest tricks which will help you everywhere. Use your <em>Home</em> and <em>End</em> keys religiously. They will help you tremendously getting you to different points on a line very quickly. This is a simple one that everyone can remember. The extra trick to know here is that you can hold the <em>Ctrl</em> key and it will jump you to the top or bottom of the page.</p>
+<p>So I've just mentioned the <em>Ctrl</em> key I will say that it is the most useful key for shortcutting. I'll now go on a rant of the non-VS specific tricks in can help you with.</p>
+<p>Everyone should know copy (<em>Ctrl + c)</em>, cut (<em>Ctrl + x</em>), and paste (<em>Ctrl + v</em>) There are plenty of other ones dealing with that key that are also very simple. I can't spend the time talking about all of those. Some of the lesser known ones are also important. For example. Everyone knows that you can use the arrow keys to move the cursor right, left, up, and down. If you combine the left-right movement with <em>Ctrl</em> you will notice that the cursor jumps "words". What consists of a word is interpreted differently depending on the application, but try it out in them and you'll see how useful it is. It will save you a lot of time.</p>
+<p>Combine this with the shift key for <em>Ctrl</em> +<em>&nbsp; Shift</em> + [Direction] and you'll be able to select these words very quickly. This is useful for replacing and changing test or simple copying a variable name. Whatever you've got to do. When you're deleting, don't waste time with it. Combing <em>Delete</em> and <em>Backspace</em> with <em>Ctrl</em> will let you delete "words" very quickly.</p>
+<h3>Visual Studio Specific Shortcuts</h3>
+<p>I certainly can't cover all of the shortcuts here, but there are a lot of them. For example if you need to make an auto-property all you need to do is be in the context of a class and type "prop" and then hit <em>Tab</em>. You will get a snippet for your property. If you need a for loop you better not waste time writing it. Most for loops are the same, so just type "for" and hit tab. These are all of your snippets and you can customize and create your own. This is easy and there are tools for editing snippets.</p>
+<p>You should also look into the different refactorings that Visual Studio is able to do. Right click and choose <em>Refactor</em> from the context menu and you will see a bunch of options available to you.</p>
+<p>Also the most powerful shortcut specific to Visual Studio is <em>Ctrl</em> + . which is context sensitive. For example if you change a name pressing that afterward will allow you to do a rename. There are a lot of other context specific options such as including using statements at the top of the file after adding an type which requires one.</p>
+<h3>Other Tools</h3>
+<p>If you're really looking to speed up you should look at some of the third party add-ins to visual studio. Resharper and CodeRush are a couple of the popular commercial products. I currently use Resharper, but I've also lost a coding competition to someone using CodeRush. They're great and integrate a lot of what you need. These tools also come with keyboard mapping files which you can print and have a reference of the shortcuts to speed the learning process.</p>
+<p>Resharper for example has a lot of shortcuts for navigating. <em>Ctrl </em>+ <em>n</em> lets you search for different types and jump directly to them. <em>Ctrl + Shift</em> +<em>&nbsp; n</em> lets you jump to files. The searching is fairly smart. The tool also adjusts your intellisense so that it pays attention to campital letters. For example if I were going to type "SuperSpecialStaticClass" I could type "SSSC" and that would be the top of my intellisense. If there were a class named "SlightlySpecialStaticClass" I might have to type "SuSSC" or just go down to the next choice in intellisense.</p>
+<p>Rather than spend much more time talking about third party tools I will just say that there are a lot of them out there. They're not very expensive and they <em>will</em> make your time spent be more productive.</p>
+<p>Make sure you stay up to date on all of the tools and shortcuts available to you.</p>

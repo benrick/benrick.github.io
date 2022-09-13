@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Time-Tested Testing Tips – Part 7"
+date: 2009-09-09 09:26:00 -0400
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["Blog"]
+alias: ["/post/Time-Tested-Testing-Tips-e28093-Part-7", "/post/time-tested-testing-tips-e28093-part-7"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<p>At last night&rsquo;s Cleveland .NET Special Interest Group I met <a href="http://russology.com/" target="_blank">Russ Nemhauser</a> who gave a great beginners&rsquo; talk on Testing, TDD, and Mocking. One thing I noticed that he did when he was showing how to write unit tests was kind of interesting. I admit I usually take tests one at a time when I get my idea for the test I want to write I just go ahead and start writing it. When he was demoing he started by brainstorming a handful of tests and made comments for each test name.</p>
+<p>Normally what I would do is sit for a second and think of the few cases of each type I want to test. So I might sit and think, &ldquo;OK, which edge-cases exist that I need to watch out for&rdquo;. Then I would go and write just the ones I deem likely to ever come up. I&rsquo;m obviously not going to test every case out there.</p>
+<p>So I tried combining his technique with mine to see what kind of result I would get, and it worked out pretty well. Even though I&rsquo;ve not been using it long I&rsquo;ll post this technique here.</p>
+<h3>Brainstorm and Prune</h3>
+<p>Start by coming up with some functionality you want to add. brainstorm a bunch of tests you could write to check a lot of different cases. Make a bunch, because it doesn&rsquo;t take much time. Write the names of these stormed tests as commented lines as you come up with them.</p>
+<p>Make sure when brainstorming that you&rsquo;re getting some important types of tests: some testing the happy path, some testing the sad path, and some testing edge-cases. This will get you a good mix to choose from. Now obviously if you came up with only a few things to test then <em>write them all</em>! If you came up with a lot of tests then pick which ones are most likely to cause problems if they misbehave and also the ones which are most likely to occur and write them.</p>
+<h3>Don&rsquo;t Write Too Many Tests For One Method</h3>
+<p>I need to be careful how I say this. I want people to write a lot of tests, however, a lot just means you should be testing pretty much everything you can. You need to be careful not to write too many. This is why I say to prune in the previous suggestion. Certainly it takes very little time to add a few extra test cases, but you&rsquo;ll be unhappy if the method signature changes. Or if the business logic changes. Remember that one of the big reasons we test is to mitigate the cost of change. Testing should make it <em>easier</em> to change the code, but if you write to many it will make things <em>harder</em>.</p>
+<p>If you wrote a dozen tests for a method and then you add in a new parameter then congratulations you now have a dozen tests which you need to modify. That is kind of painful. Perhaps if you had only written six tests and left off some of the redundant ones you could have saved yourself a lot of extra work there.</p>
+<p>As a general rule I think that if you ever need more than about a handful of tests then your code is probably too complex. It is time to think about the single responsibility principle and figure out how you can break things apart, because perhaps you were correct that a dozen tests were needed. It just happened that those dozen tests should have been testing three different methods with four for each one.</p>
+<h3>Let Pain Guide Your Learning</h3>
+<p>When I was learning to test I did a lot of stuff <em>wrong</em>. Testing was painful.<em>&nbsp;</em>I <em>knew</em> that it was beneficial, but I didn&rsquo;t usually like doing it. Why? Well because I was not doing it correctly. When I first started testing I was using unit and integration tests without really realizing that I was doing too many integration tests. Why? Because I didn&rsquo;t know how to do things correctly. After a while I learned how to write more unit tests and it was great for a while, but I did a mistake that I have now seen many others make. I shifted my dependency onto something else. After a lot of work I now think I know how to test reasonably well, and I avoid making mistakes by remembering how painful a similar approach has been in the past.</p>
+<p>I think that if you haven&rsquo;t felt the pain of testing badly you&rsquo;ll never understand how to do it write. When testing is painful you&rsquo;re probably doing something wrong. This is the sign that you should try something else on your own or ask someone else how to better handle your current situation. Someone can sit here like I am now and tell you how to do something, but until you see why you need to do it that way it is hard to agree. I hope someone uses my testing advice here and when they run into some problem that they remember something in these testing posts and adjusts what they&rsquo;re doing accordingly.</p>

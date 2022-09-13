@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Let Others Work on Your Code"
+date: 2010-05-05 08:30:00 -0400
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["Blog"]
+alias: ["/post/Let-Others-Work-on-Your-Code", "/post/let-others-work-on-your-code"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<p>Don&rsquo;t be overprotective of your source code. Allow others to make modifications, improvements, refactorings, and even defects (as long as those get fixed immediately). I am talking about two different Extreme Programming practices here: collective code ownership and pair programming. A non-developer friend of mine has been reading about agile software development and asked me last week about pair programming, "do you guys do this 'pair programming' thing?"</p>
+<p>I think even among developers the pair programming concept is one of the strangest aspects of extreme programming.</p>
+<p>Yes, a lot of agile development teams use pair programming. We even equip our facilities to make pairing easier. Our computers have 2 large monitors, 2 keyboards, and 2 mice. Some teams pass the keyboard and mouse back and forth, and that works just as well.</p>
+<h3>What is Collective Code Ownership?</h3>
+<p>This is a great term that basically says that every member of a team should be able to work on any part of the system. If you&rsquo;re usually working on the user experience you can still spend some time working with your application&rsquo;s service layer, and if you&rsquo;re the database guy you can work on some business logic.</p>
+<p><em>Wouldn&rsquo;t someone be able to do that job better?</em> Yes, there probably is someone who knows each part of the application better than anyone else. You can work with that person if you want, and the two of you will be able to create some great code. What if that person who is better at that task is on vacation? Wouldn&rsquo;t it be great if someone else knew the code.</p>
+<p>Keeping the team familiar with the project means that the team can focus on certain parts of the system at a time and achieve great results. You don&rsquo;t have to split your team based on layers or modules of your application. Let them intermingle. Fresh ideas and eyes can greatly improve things. They might come along and fix a defect or two for you later; saving you a great deal of work.</p>
+<h3>Why Pair Program?</h3>
+<p><a href="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/LetOtherPeopleWorkonYourCode_A29C/PairProgramming.JPG"><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="Pair Programming" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/LetOtherPeopleWorkonYourCode_A29C/PairProgrammingSmall.JPG" border="0" alt="Pair Programming" width="205" align="right" /></a> The mind is the important part of programming, so why not have two? After all, <a href="http://brendan.enrick.com/post/2009/10/05/Programming-is-Not-Just-Typing.aspx" target="_blank">programming is certainly not just typing</a>. If you believed that how could you ever support pair programming?</p>
+<p>If you pair program for every line of code in your application then you know that you&rsquo;ve had at least two sets of eyes look at every line of code. This is a good deal of added security.</p>
+<p>When you create some new piece of code that the whole team will need to work with, pair programming can be the solution to disseminating this information. You and the guy you created it with can split up and pair with another person each, and while working on the code you will each be showing your new partner how the new code should be used. This allows new information to spread quickly through the team.</p>
+<p>Even the simplest things as learning keyboard shortcuts are improved by pair programming. When I use a cool keyboard shortcut, I can tell my partner what it is without breaking my train of thought. We can keep on typing, and when he has the keyboard in a minute or two, he can try it.</p>
+<p><a href="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/LetOtherPeopleWorkonYourCode_A29C/PairProgrammingComputer.jpg"><img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px; margin-right:4px; float:left;" title="Pair Programming Computer" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/LetOtherPeopleWorkonYourCode_A29C/PairProgrammingComputerSmall.jpg" border="0" alt="Pair Programming Computer" width="205" /></a> Just like athletes, a programmer needs someone else there to help him keep the pace. You partner can help you avoid distractions, and most importantly he can keep you from taking shortcuts. When we write code we might say, &ldquo;I can fix this later&rdquo;. The partner will make a note of it and be sure you get it fixed later. If it can&rsquo;t wait and you&rsquo;re in the middle of something you can always pass it to another pair. Your partner can do that while you keep on coding. Remember that the other pair can work on any code because of the collective code ownership.</p>
+<p>I am sure I missed plenty of reasons to pair program, but this list feels mostly adequate to get the point across.</p>
+<p>Please let me know why you do or do not pair program. Is it work related? Are you an unbeliever?</p>
