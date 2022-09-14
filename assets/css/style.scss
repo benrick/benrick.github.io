@@ -2,8 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+    border-bottom: 1px dashed #da2128;
+}
+
+header h1 {
+    color: #da2128;
+}
+
 .site-footer {
-    border-top: 1px solid red;
+    border-top: 1px solid #da2128;
     padding: 30px 0;
 }
 
