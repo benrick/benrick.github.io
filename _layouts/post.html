@@ -26,6 +26,12 @@ layout: default
     {% include navlinks.html %}
   </div>
 
+  <div>
+    {% for tag in page.tags %}
+      {{ tag }}
+    {% endfor %}
+  </div>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
