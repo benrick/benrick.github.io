@@ -4,8 +4,8 @@ highlighter:      pygments
 #remote_theme: fongandrew/hydeout
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+#permalink:        pretty
+#relative_permalinks: true
 
 # Setup
 title:            "Brendan Enrick's Blog"
