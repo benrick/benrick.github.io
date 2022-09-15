@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "About Brendan Enrick"
-permalink: /about/
+title: About Brendan Enrick
 ---
 
-## About Brendan Enrick
+<p class="message">
+  Hey chatter! My name is Brendan, and I'm the host and creator of the DevChatter community! It's great that you're here.
+</p>
 
-Brendan is a passionate software developer who started programming in the late '90s making gaming websites. Brendan works as a coach and mentor for software develoeprs, so you should inquire if you want Brendan to help your team improve their coding.
+Brendan is a lifelong coder, who started coding as a kid, and loves creating new things.
 
-### DevChatter
-
-DevChatter is a community of developers interested in chatting about all things tech and programming. Brendan is the host of the [DevChatter live programming streams on Twitch](https://www.twitch.tv/DevChatter), is the organizer of the [DevChatter discord](https://discord.gg/aQry9jG) community, and creates Educational Programming videos on the [DevChatter YouTube Channel](https://www.youtube.com/c/DevChatter).
+Happy Coding!
