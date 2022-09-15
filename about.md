@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About Brendan Enrick
+sidebar_link: true
+sidebar_sort_order: 10
 ---
 
 <p class="message">
