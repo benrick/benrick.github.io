@@ -2,6 +2,7 @@ markdown: kramdown
 highlighter: rouge
 remote_theme: fongandrew/hydeout
 sidebar_home_link:  true
+baseurl: '/'
 
 # Setup
 title:            "Brendan Enrick's Blog"
@@ -20,9 +21,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-
-# Custom vars
-version: 1.0.0
 
 github:
   repo: https://github.com/benrick/benrick.github.io
