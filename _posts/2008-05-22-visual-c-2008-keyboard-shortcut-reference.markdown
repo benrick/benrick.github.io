@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Visual-C-2008-Keyboard-Shortcut-Reference"
+permalink: "/post/Visual-C-2008-Keyboard-Shortcut-Reference/"
 ---
 <!-- more -->
 

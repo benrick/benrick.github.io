@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/The-Most-Important-Refactorings"
+permalink: "/post/The-Most-Important-Refactorings/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Recent-Article-Writing"
+permalink: "/post/Recent-Article-Writing/"
 ---
 <!-- more -->
 

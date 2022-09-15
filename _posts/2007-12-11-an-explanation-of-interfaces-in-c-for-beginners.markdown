@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/An-Explanation-of-Interfaces-in-C-for-Beginners"
+permalink: "/post/An-Explanation-of-Interfaces-in-C-for-Beginners/"
 ---
 <!-- more -->
 

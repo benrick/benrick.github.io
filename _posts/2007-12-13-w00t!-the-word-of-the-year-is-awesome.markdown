@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/w00t!-The-Word-of-the-Year-is-Awesome"
+permalink: "/post/w00t!-The-Word-of-the-Year-is-Awesome/"
 ---
 <!-- more -->
 

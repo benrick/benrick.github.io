@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Great-C-to-VB-and-VB-to-C-Converters"
+permalink: "/post/Great-C-to-VB-and-VB-to-C-Converters/"
 ---
 <!-- more -->
 

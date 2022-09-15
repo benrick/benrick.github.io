@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Visual-Studio-2008-JavaScript-Intellisense!"
+permalink: "/post/Visual-Studio-2008-JavaScript-Intellisense!/"
 ---
 <!-- more -->
 

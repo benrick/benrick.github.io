@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Coding-Katas-and-Exercises"
+permalink: "/post/Coding-Katas-and-Exercises/"
 ---
 <!-- more -->
 

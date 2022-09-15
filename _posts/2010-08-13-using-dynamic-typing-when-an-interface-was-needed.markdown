@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Using-Dynamic-Typing-When-an-Interface-was-Needed"
+permalink: "/post/Using-Dynamic-Typing-When-an-Interface-was-Needed/"
 ---
 <!-- more -->
 

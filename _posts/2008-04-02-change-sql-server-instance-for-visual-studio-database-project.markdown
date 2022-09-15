@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Change-SQL-Server-Instance-for-Visual-Studio-Database-Project"
+permalink: "/post/Change-SQL-Server-Instance-for-Visual-Studio-Database-Project/"
 ---
 <!-- more -->
 

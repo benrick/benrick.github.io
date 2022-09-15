@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Silverlight-Web-Analytics-First-Look"
+permalink: "/post/Silverlight-Web-Analytics-First-Look/"
 ---
 <!-- more -->
 

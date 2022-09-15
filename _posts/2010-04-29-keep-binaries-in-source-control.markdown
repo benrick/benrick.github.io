@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Keep-Binaries-in-Source-Control"
+permalink: "/post/Keep-Binaries-in-Source-Control/"
 ---
 <!-- more -->
 

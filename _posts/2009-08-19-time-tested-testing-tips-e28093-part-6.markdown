@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Time-Tested-Testing-Tips-e28093-Part-6"
+permalink: "/post/Time-Tested-Testing-Tips-e28093-Part-6/"
 ---
 <!-- more -->
 

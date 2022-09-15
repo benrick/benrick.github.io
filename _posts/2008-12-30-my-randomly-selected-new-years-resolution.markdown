@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/My-Randomly-Selected-New-Years-Resolution"
+permalink: "/post/My-Randomly-Selected-New-Years-Resolution/"
 ---
 <!-- more -->
 

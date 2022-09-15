@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Locks-and-Keys-Code-Audits-8"
+permalink: "/post/Locks-and-Keys-Code-Audits-8/"
 ---
 <!-- more -->
 

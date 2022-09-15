@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Organizing-Software-Projects"
+permalink: "/post/Organizing-Software-Projects/"
 ---
 <!-- more -->
 

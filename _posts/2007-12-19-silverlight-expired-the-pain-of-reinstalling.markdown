@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Silverlight-Expired-The-Pain-of-Reinstalling"
+permalink: "/post/Silverlight-Expired-The-Pain-of-Reinstalling/"
 ---
 <!-- more -->
 

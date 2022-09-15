@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/CodeMash-2012-Recap"
+permalink: "/post/CodeMash-2012-Recap/"
 ---
 <!-- more -->
 

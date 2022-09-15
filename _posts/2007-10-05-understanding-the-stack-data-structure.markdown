@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Understanding-the-Stack-Data-Structure"
+permalink: "/post/Understanding-the-Stack-Data-Structure/"
 ---
 <!-- more -->
 

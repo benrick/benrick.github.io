@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Windows-Home-Server-Becoming-Available-on-MSDN"
+permalink: "/post/Windows-Home-Server-Becoming-Available-on-MSDN/"
 ---
 <!-- more -->
 

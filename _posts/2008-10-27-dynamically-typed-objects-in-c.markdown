@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Dynamically-Typed-Objects-in-C"
+permalink: "/post/Dynamically-Typed-Objects-in-C/"
 ---
 <!-- more -->
 

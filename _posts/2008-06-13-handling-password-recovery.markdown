@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Handling-Password-Recovery"
+permalink: "/post/Handling-Password-Recovery/"
 ---
 <!-- more -->
 

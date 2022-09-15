@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Moving-Away-From-Large-Event-Handling-Methods"
+permalink: "/post/Moving-Away-From-Large-Event-Handling-Methods/"
 ---
 <!-- more -->
 

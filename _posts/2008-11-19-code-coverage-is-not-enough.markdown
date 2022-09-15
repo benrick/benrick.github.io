@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Code-Coverage-Is-Not-Enough"
+permalink: "/post/Code-Coverage-Is-Not-Enough/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/C2b2b-List-Operation-Performance"
+permalink: "/post/C2b2b-List-Operation-Performance/"
 ---
 <!-- more -->
 

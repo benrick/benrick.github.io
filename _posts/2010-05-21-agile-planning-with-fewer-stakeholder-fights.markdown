@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Agile-Planning-with-Fewer-Stakeholder-Fights"
+permalink: "/post/Agile-Planning-with-Fewer-Stakeholder-Fights/"
 ---
 <!-- more -->
 

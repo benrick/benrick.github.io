@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Knowing-the-Default-Access-Modifiers-in-C"
+permalink: "/post/Knowing-the-Default-Access-Modifiers-in-C/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Code-Snippets-Found-Online"
+permalink: "/post/Code-Snippets-Found-Online/"
 ---
 <!-- more -->
 

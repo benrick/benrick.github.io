@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Join-Our-Team"
+permalink: "/post/Join-Our-Team/"
 ---
 <!-- more -->
 

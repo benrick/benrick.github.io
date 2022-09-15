@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Infinite-Loop-in-a-Property"
+permalink: "/post/Infinite-Loop-in-a-Property/"
 ---
 <!-- more -->
 

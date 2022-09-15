@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/My-First-CodeMash"
+permalink: "/post/My-First-CodeMash/"
 ---
 <!-- more -->
 

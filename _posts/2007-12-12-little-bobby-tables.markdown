@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Little-Bobby-Tables"
+permalink: "/post/Little-Bobby-Tables/"
 ---
 <!-- more -->
 

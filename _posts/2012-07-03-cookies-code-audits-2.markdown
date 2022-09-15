@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Cookies-Code-Audits-2"
+permalink: "/post/Cookies-Code-Audits-2/"
 ---
 <!-- more -->
 

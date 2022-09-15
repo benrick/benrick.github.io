@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Generic-Recursive-Find-Control-Extension"
+permalink: "/post/Generic-Recursive-Find-Control-Extension/"
 ---
 <!-- more -->
 

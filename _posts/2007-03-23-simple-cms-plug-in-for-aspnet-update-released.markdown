@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Simple-CMS-Plug-in-for-ASPNET-Update-Released"
+permalink: "/post/Simple-CMS-Plug-in-for-ASPNET-Update-Released/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Creating-a-Simple-Hello-World-Application-Using-MVC"
+permalink: "/post/Creating-a-Simple-Hello-World-Application-Using-MVC/"
 ---
 <!-- more -->
 

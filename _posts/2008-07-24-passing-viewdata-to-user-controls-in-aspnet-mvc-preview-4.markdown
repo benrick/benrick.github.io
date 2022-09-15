@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Passing-ViewData-to-User-Controls-in-ASPNET-MVC-Preview-4"
+permalink: "/post/Passing-ViewData-to-User-Controls-in-ASPNET-MVC-Preview-4/"
 ---
 <!-- more -->
 

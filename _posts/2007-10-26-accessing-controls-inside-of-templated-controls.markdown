@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Accessing-Controls-inside-of-Templated-Controls"
+permalink: "/post/Accessing-Controls-inside-of-Templated-Controls/"
 ---
 <!-- more -->
 

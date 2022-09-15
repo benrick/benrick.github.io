@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Drag-Drop-Repo-GitHub-Tips-5"
+permalink: "/post/Drag-Drop-Repo-GitHub-Tips-5/"
 ---
 <!-- more -->
 

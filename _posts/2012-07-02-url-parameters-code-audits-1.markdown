@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/URL-Parameters-Code-Audits-1"
+permalink: "/post/URL-Parameters-Code-Audits-1/"
 ---
 <!-- more -->
 

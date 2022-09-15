@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Performance-with-DropDownLists-and-ViewState"
+permalink: "/post/Performance-with-DropDownLists-and-ViewState/"
 ---
 <!-- more -->
 

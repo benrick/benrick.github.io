@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Two-Factor-Auth-GitHub-Tips-3"
+permalink: "/post/Two-Factor-Auth-GitHub-Tips-3/"
 ---
 <!-- more -->
 

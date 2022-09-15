@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Dangers-of-Using-Floating-Point-Numbers"
+permalink: "/post/Dangers-of-Using-Floating-Point-Numbers/"
 ---
 <!-- more -->
 

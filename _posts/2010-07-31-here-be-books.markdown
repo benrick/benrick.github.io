@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Here-be-Books"
+permalink: "/post/Here-be-Books/"
 ---
 <!-- more -->
 

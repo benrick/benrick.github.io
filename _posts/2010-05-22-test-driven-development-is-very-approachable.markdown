@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Test-Driven-Development-is-Very-Approachable"
+permalink: "/post/Test-Driven-Development-is-Very-Approachable/"
 ---
 <!-- more -->
 

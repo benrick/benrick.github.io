@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Dependency-Injection-for-Testing-Car-Analogy"
+permalink: "/post/Dependency-Injection-for-Testing-Car-Analogy/"
 ---
 <!-- more -->
 

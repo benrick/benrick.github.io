@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/The-Science-of-Great-UI"
+permalink: "/post/The-Science-of-Great-UI/"
 ---
 <!-- more -->
 

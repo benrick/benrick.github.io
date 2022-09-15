@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/A-Developers-Guide-to-QA-Testing"
+permalink: "/post/A-Developers-Guide-to-QA-Testing/"
 ---
 <!-- more -->
 

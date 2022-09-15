@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Updating-Fiddler-Documentation"
+permalink: "/post/Updating-Fiddler-Documentation/"
 ---
 <!-- more -->
 

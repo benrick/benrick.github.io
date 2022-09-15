@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Using-CodeRushe284a2-with-Refactor!e284a2-Pro-After-Losing-to-a-Model"
+permalink: "/post/Using-CodeRushe284a2-with-Refactor!e284a2-Pro-After-Losing-to-a-Model/"
 ---
 <!-- more -->
 

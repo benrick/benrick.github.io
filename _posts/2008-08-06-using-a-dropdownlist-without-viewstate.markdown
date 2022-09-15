@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Using-a-DropDownList-without-ViewState"
+permalink: "/post/Using-a-DropDownList-without-ViewState/"
 ---
 <!-- more -->
 

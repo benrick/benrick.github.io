@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Caching-made-easier-with-a-cache-manager"
+permalink: "/post/Caching-made-easier-with-a-cache-manager/"
 ---
 <!-- more -->
 

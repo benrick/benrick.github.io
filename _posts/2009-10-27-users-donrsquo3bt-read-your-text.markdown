@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Users-Donrsquo3bt-Read-Your-Text"
+permalink: "/post/Users-Donrsquo3bt-Read-Your-Text/"
 ---
 <!-- more -->
 

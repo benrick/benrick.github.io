@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Keeping-Large-Classes-in-Line"
+permalink: "/post/Keeping-Large-Classes-in-Line/"
 ---
 <!-- more -->
 

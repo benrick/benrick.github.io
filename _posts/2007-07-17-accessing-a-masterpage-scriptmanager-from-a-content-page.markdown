@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Accessing-a-MasterPage-ScriptManager-from-a-Content-Page"
+permalink: "/post/Accessing-a-MasterPage-ScriptManager-from-a-Content-Page/"
 ---
 <!-- more -->
 

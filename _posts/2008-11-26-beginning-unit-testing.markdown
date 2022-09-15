@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Beginning-Unit-Testing"
+permalink: "/post/Beginning-Unit-Testing/"
 ---
 <!-- more -->
 

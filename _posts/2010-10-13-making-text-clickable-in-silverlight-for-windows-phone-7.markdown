@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Making-Text-Clickable-in-Silverlight-for-Windows-Phone-7"
+permalink: "/post/Making-Text-Clickable-in-Silverlight-for-Windows-Phone-7/"
 ---
 <!-- more -->
 

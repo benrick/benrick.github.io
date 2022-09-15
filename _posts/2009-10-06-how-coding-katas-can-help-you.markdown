@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/How-Coding-Katas-Can-Help-You"
+permalink: "/post/How-Coding-Katas-Can-Help-You/"
 ---
 <!-- more -->
 

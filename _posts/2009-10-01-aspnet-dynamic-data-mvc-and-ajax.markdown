@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/ASPNET-Dynamic-Data-MVC-and-AJAX"
+permalink: "/post/ASPNET-Dynamic-Data-MVC-and-AJAX/"
 ---
 <!-- more -->
 

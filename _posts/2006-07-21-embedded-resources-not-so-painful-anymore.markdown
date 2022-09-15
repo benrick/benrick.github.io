@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Embedded-Resources-not-so-painful-anymore"
+permalink: "/post/Embedded-Resources-not-so-painful-anymore/"
 ---
 <!-- more -->
 

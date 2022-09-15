@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Two-Minds-Code-Faster-Than-One"
+permalink: "/post/Two-Minds-Code-Faster-Than-One/"
 ---
 <!-- more -->
 

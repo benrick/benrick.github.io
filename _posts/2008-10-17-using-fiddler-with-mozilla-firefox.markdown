@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Using-Fiddler-with-Mozilla-Firefox"
+permalink: "/post/Using-Fiddler-with-Mozilla-Firefox/"
 ---
 <!-- more -->
 

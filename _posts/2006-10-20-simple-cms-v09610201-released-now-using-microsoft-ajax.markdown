@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Simple-CMS-v09610201-Released-Now-using-Microsoft-AJAX"
+permalink: "/post/Simple-CMS-v09610201-Released-Now-using-Microsoft-AJAX/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Being-a-Leader"
+permalink: "/post/Being-a-Leader/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Fun-With-Web-Forms-Controls-and-LINQ"
+permalink: "/post/Fun-With-Web-Forms-Controls-and-LINQ/"
 ---
 <!-- more -->
 

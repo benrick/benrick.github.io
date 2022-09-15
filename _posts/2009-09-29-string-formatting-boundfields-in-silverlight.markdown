@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/String-Formatting-BoundFields-in-Silverlight"
+permalink: "/post/String-Formatting-BoundFields-in-Silverlight/"
 ---
 <!-- more -->
 

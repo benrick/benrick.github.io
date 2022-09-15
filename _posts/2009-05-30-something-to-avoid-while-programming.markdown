@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Something-to-Avoid-While-Programming"
+permalink: "/post/Something-to-Avoid-While-Programming/"
 ---
 <!-- more -->
 

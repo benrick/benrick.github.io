@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Dynamically-Register-an-Asynchronous-Postback-Control-with-a-ScriptManager"
+permalink: "/post/Dynamically-Register-an-Asynchronous-Postback-Control-with-a-ScriptManager/"
 ---
 <!-- more -->
 

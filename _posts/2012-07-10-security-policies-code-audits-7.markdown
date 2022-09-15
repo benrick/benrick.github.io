@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Security-Policies-Code-Audits-7"
+permalink: "/post/Security-Policies-Code-Audits-7/"
 ---
 <!-- more -->
 

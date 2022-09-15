@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Static-Overload-Code-Audits-6"
+permalink: "/post/Static-Overload-Code-Audits-6/"
 ---
 <!-- more -->
 

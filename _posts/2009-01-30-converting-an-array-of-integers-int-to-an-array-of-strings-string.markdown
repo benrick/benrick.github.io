@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Converting-an-Array-of-Integers-int-to-an-Array-of-Strings-string"
+permalink: "/post/Converting-an-Array-of-Integers-int-to-an-Array-of-Strings-string/"
 ---
 <!-- more -->
 

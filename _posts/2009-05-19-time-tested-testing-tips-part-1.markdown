@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Time-Tested-Testing-Tips-Part-1"
+permalink: "/post/Time-Tested-Testing-Tips-Part-1/"
 ---
 <!-- more -->
 

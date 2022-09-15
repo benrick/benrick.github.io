@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Common-Reuse-Principle"
+permalink: "/post/Common-Reuse-Principle/"
 ---
 <!-- more -->
 

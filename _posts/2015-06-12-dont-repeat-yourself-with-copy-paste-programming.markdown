@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Dont-Repeat-Yourself-with-Copy-Paste-Programming"
+permalink: "/post/Dont-Repeat-Yourself-with-Copy-Paste-Programming/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Storing-and-Retrieving-Serialized-Data-with-Azure-Blob-Storage"
+permalink: "/post/Storing-and-Retrieving-Serialized-Data-with-Azure-Blob-Storage/"
 ---
 <!-- more -->
 

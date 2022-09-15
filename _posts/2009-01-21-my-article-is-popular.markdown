@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/My-Article-is-Popular"
+permalink: "/post/My-Article-is-Popular/"
 ---
 <!-- more -->
 

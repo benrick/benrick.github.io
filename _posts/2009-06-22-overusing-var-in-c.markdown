@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Overusing-var-in-C"
+permalink: "/post/Overusing-var-in-C/"
 ---
 <!-- more -->
 

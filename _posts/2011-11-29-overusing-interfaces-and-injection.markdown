@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Overusing-Interfaces-and-Injection"
+permalink: "/post/Overusing-Interfaces-and-Injection/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Speaking-at-CodeMash-2015"
+permalink: "/post/Speaking-at-CodeMash-2015/"
 ---
 <!-- more -->
 

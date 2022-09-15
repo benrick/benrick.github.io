@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Open-Shell-Here-GitHub-Tips-4"
+permalink: "/post/Open-Shell-Here-GitHub-Tips-4/"
 ---
 <!-- more -->
 

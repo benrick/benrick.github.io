@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/My-Review-of-one-of-AppDevs-training-courses"
+permalink: "/post/My-Review-of-one-of-AppDevs-training-courses/"
 ---
 <!-- more -->
 

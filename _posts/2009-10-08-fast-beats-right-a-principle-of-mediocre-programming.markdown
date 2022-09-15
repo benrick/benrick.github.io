@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Fast-Beats-Right-a-Principle-of-Mediocre-Programming"
+permalink: "/post/Fast-Beats-Right-a-Principle-of-Mediocre-Programming/"
 ---
 <!-- more -->
 

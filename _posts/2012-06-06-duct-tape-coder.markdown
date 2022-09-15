@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Duct-Tape-Coder"
+permalink: "/post/Duct-Tape-Coder/"
 ---
 <!-- more -->
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/A-New-Face-for-RegExLib"
+permalink: "/post/A-New-Face-for-RegExLib/"
 ---
 <!-- more -->
 

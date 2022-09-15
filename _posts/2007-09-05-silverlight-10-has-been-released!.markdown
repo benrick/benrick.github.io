@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Silverlight-10-has-been-released!"
+permalink: "/post/Silverlight-10-has-been-released!/"
 ---
 <!-- more -->
 

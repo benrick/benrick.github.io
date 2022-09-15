@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/SQL-Server-Client-Tools-Installation"
+permalink: "/post/SQL-Server-Client-Tools-Installation/"
 ---
 <!-- more -->
 

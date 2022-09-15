@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/A-Quick-Answer-About-Reference-Types"
+permalink: "/post/A-Quick-Answer-About-Reference-Types/"
 ---
 <!-- more -->
 

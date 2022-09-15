@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Testing-Private-Methods"
+permalink: "/post/Testing-Private-Methods/"
 ---
 <!-- more -->
 

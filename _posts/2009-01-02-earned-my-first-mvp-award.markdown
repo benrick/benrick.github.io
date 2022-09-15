@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Earned-My-First-MVP-Award"
+permalink: "/post/Earned-My-First-MVP-Award/"
 ---
 <!-- more -->
 

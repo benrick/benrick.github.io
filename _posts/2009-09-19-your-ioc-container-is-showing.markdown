@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Your-IoC-Container-is-Showing"
+permalink: "/post/Your-IoC-Container-is-Showing/"
 ---
 <!-- more -->
 

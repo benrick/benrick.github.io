@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Vista-64-Install-Requires-a-DVD-Device-Driver"
+permalink: "/post/Vista-64-Install-Requires-a-DVD-Device-Driver/"
 ---
 <!-- more -->
 

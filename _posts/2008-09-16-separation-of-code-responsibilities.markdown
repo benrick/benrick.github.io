@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Separation-of-Code-Responsibilities"
+permalink: "/post/Separation-of-Code-Responsibilities/"
 ---
 <!-- more -->
 

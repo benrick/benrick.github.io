@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/CodeMash-2010-is-this-week"
+permalink: "/post/CodeMash-2010-is-this-week/"
 ---
 <!-- more -->
 

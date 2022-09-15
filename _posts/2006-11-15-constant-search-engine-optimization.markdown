@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Constant-Search-Engine-Optimization"
+permalink: "/post/Constant-Search-Engine-Optimization/"
 ---
 <!-- more -->
 

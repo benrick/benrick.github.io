@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Updating-RSS-Feed-Location"
+permalink: "/post/Updating-RSS-Feed-Location/"
 ---
 <!-- more -->
 

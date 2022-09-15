@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Daily-Dev-Speedup-Selecting-and-Dragging-Lines"
+permalink: "/post/Daily-Dev-Speedup-Selecting-and-Dragging-Lines/"
 ---
 <!-- more -->
 

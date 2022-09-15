@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Agile-Resources-ndash-Development-Process-Recurring-Steps"
+permalink: "/post/Agile-Resources-ndash-Development-Process-Recurring-Steps/"
 ---
 <!-- more -->
 

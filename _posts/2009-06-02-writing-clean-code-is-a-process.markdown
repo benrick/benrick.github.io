@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Writing-Clean-Code-is-a-Process"
+permalink: "/post/Writing-Clean-Code-is-a-Process/"
 ---
 <!-- more -->
 

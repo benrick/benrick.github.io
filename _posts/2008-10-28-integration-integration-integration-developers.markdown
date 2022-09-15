@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Integration-Integration-Integration-Developers"
+permalink: "/post/Integration-Integration-Integration-Developers/"
 ---
 <!-- more -->
 

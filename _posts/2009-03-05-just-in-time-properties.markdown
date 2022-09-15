@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Just-In-Time-Properties"
+permalink: "/post/Just-In-Time-Properties/"
 ---
 <!-- more -->
 

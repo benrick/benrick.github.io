@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Know-Where-You-Are-and-Where-You-Were-Before-Enacting-Change"
+permalink: "/post/Know-Where-You-Are-and-Where-You-Were-Before-Enacting-Change/"
 ---
 <!-- more -->
 

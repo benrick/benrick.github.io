@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/SOLID-Principles-Software-Craftsmanship-Calendar-Topics"
+permalink: "/post/SOLID-Principles-Software-Craftsmanship-Calendar-Topics/"
 ---
 <!-- more -->
 

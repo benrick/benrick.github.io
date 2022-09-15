@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Simple-C-Stack-Implementation"
+permalink: "/post/Simple-C-Stack-Implementation/"
 ---
 <!-- more -->
 

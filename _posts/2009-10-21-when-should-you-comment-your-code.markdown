@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/When-Should-You-Comment-Your-Code"
+permalink: "/post/When-Should-You-Comment-Your-Code/"
 ---
 <!-- more -->
 

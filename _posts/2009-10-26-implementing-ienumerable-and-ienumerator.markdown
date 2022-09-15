@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Implementing-IEnumerable-and-IEnumerator"
+permalink: "/post/Implementing-IEnumerable-and-IEnumerator/"
 ---
 <!-- more -->
 

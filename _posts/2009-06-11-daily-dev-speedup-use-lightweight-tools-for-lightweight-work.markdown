@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Daily-Dev-Speedup-Use-Lightweight-Tools-for-Lightweight-Work"
+permalink: "/post/Daily-Dev-Speedup-Use-Lightweight-Tools-for-Lightweight-Work/"
 ---
 <!-- more -->
 

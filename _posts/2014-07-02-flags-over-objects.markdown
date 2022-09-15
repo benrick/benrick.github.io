@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Flags-Over-Objects"
+permalink: "/post/Flags-Over-Objects/"
 ---
 <!-- more -->
 

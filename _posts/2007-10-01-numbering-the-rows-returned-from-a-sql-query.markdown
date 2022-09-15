@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Numbering-the-Rows-Returned-from-a-SQL-Query"
+permalink: "/post/Numbering-the-Rows-Returned-from-a-SQL-Query/"
 ---
 <!-- more -->
 

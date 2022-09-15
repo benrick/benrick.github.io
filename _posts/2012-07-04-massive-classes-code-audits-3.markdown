@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Massive-Classes-Code-Audits-3"
+permalink: "/post/Massive-Classes-Code-Audits-3/"
 ---
 <!-- more -->
 

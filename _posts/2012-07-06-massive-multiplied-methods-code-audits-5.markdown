@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Massive-Multiplied-Methods-Code-Audits-5"
+permalink: "/post/Massive-Multiplied-Methods-Code-Audits-5/"
 ---
 <!-- more -->
 

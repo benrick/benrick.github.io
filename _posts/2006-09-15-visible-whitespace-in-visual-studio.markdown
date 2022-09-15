@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Visible-Whitespace-in-Visual-Studio"
+permalink: "/post/Visible-Whitespace-in-Visual-Studio/"
 ---
 <!-- more -->
 

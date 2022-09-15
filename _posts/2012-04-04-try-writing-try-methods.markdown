@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Try-Writing-Try-Methods"
+permalink: "/post/Try-Writing-Try-Methods/"
 ---
 <!-- more -->
 

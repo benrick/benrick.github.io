@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Blog"]
-permalink: "/post/Quick-Silverlight-Tip-Looking-at-the-code"
+permalink: "/post/Quick-Silverlight-Tip-Looking-at-the-code/"
 ---
 <!-- more -->
 

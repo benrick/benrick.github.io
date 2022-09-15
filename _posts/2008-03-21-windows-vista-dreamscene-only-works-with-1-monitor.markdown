@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Windows-Vista-DreamScene-Only-Works-with-1-Monitor"
+permalink: "/post/Windows-Vista-DreamScene-Only-Works-with-1-Monitor/"
 ---
 <!-- more -->
 

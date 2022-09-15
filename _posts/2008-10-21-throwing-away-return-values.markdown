@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Throwing-Away-Return-Values"
+permalink: "/post/Throwing-Away-Return-Values/"
 ---
 <!-- more -->
 

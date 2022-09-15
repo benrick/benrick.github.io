@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["blog", "archives"]
 tags: ["Orcs Goblins  and .NET"]
-permalink: "/post/Copying-Data-From-SQL-Server-Management-Studio"
+permalink: "/post/Copying-Data-From-SQL-Server-Management-Studio/"
 ---
 <!-- more -->
 
