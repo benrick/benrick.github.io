@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+remote_theme: fongandrew/hydeout
 
 # Permalinks
 permalink:        pretty
