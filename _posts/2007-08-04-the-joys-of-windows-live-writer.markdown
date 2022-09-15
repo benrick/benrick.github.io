@@ -20,7 +20,7 @@ permalink: "/post/The-Joys-of-Windows-Live-Writer/"
 <li>Inserting Images, Tables, and Maps is incredibly easy. </li>
 <li>I have no trouble finding what I need in the toolbar even with my plug-ins installed. </li>
 <li>Auto-saving my blog posts as drafts as I type. </li>
-<li>Insert link has a button to select a <a href="http://brendan.enrick.com/post/Generic-List-AddRange-Remove-and-Count-Performance.aspx">previous post</a>&nbsp;so rather than finding that post somewhere and copying the link I just found it in this application. </li>
+<li>Insert link has a button to select a <a href="/post/Generic-List-AddRange-Remove-and-Count-Performance.aspx">previous post</a>&nbsp;so rather than finding that post somewhere and copying the link I just found it in this application. </li>
 <li>I can also save my links from within the insert link window. </li>
 <li>Formatting is simple and easy (unlike other programs which I have used).</li>
 </ul>

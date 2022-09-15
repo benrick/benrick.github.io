@@ -10,7 +10,7 @@ permalink: "/post/Deleting-a-Remote-Git-Branch/"
 ---
 <!-- more -->
 
-<p>Another bit of git command line that a lot of people struggle to remember is the syntax to delete a remote branch. If you read my post from a couple of days ago, I mentioned a couple of things about <a href="http://brendan.enrick.com/post/Deleting-Git-Branches-Carefully" target="_blank">deleting git branches</a>. That’s how you delete them locally. If you want to push that deletion up to the remote repository as well, you need to take one additional step.</p> <p>The command I use to delete remote branches is this:</p><pre class="brush: ps;">git push origin :my-branch-name
+<p>Another bit of git command line that a lot of people struggle to remember is the syntax to delete a remote branch. If you read my post from a couple of days ago, I mentioned a couple of things about <a href="/post/Deleting-Git-Branches-Carefully" target="_blank">deleting git branches</a>. That’s how you delete them locally. If you want to push that deletion up to the remote repository as well, you need to take one additional step.</p> <p>The command I use to delete remote branches is this:</p><pre class="brush: ps;">git push origin :my-branch-name
 </pre>
 <p>It’s that “:” that tells it to delete the branch. Yes, it may seem confusing, but there is a reason for it. I’ll explain below for those who are interested in learning more.</p>
 <p>Here is a slightly easier syntax, but I don’t like typing the additional characters.</p><pre class="brush: ps;">git push origin --delete my-branch-name

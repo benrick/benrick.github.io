@@ -8,15 +8,17 @@ categories: ["blog", "archives"]
 tags: ["Blog"]
 permalink: "/post/Building-an-MVC-Gaming-Statistics-Site-ndash-Setting-Up-the-Project/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Now that ASP.NET MVC has been around for a while there have been plenty of articles written about how leverage the technology to create powerful, lightweight web applications which are highly customizable and testable. I&rsquo;ve discussed the advantages of using ASP.NET Forms and ASP.NET MVC plenty of times in the past, but just so no one thinks I am a forms hater I will say that I still create forms applications. Both MVC and Forms can coexist and they both have their advantages.</p>
 <p>I will say that there is of course a learning curve for MVC. You don&rsquo;t instantly know it just because you&rsquo;ve used web forms. So yes, it will be like learning any new technology. However, I am writing this so that a transition can be easier. Rather than doing some demo application that doesn&rsquo;t take into consideration real-life situations and circumstances I&rsquo;ll be posting about an application I&rsquo;ve been working on.</p>
 <h3>Background Information and Reason for Creating the Site</h3>
 <p>I am a member of the Boardgamers Of Greater Akron (BOGA), which if you hadn&rsquo;t guessed from the name is a group of people who gather together the second Friday of every month to play board games. As games are completed the stats from the games are recorded onto sheets of paper and these stats will later be entered into a database.</p>
 <p>Initially the founder of the group had been entering these game logs into the system using a local web forms application using the standard data entry controls. The entire site took about half an hour to an hour to create, so as you can guess it was kind of clunky and hard to use. From the data, I was able to write a bunch of SQL queries that were then used to calculate the stats from these games.</p>
 <h3>Creating the Solution, MVC Project, and Web Tests Project</h3>
-<p>I like to start by creating a solution first. I don&rsquo;t want Visual Studio to create the solution for me because it will do a lot of stuff for me. I want to have control of the structure of my application, so I am going to create that first. This will let me <a href="http://brendan.enrick.com/blog/organizing-software-projects/" target="_blank">organize my software project</a>. To create a solution just create a new project of type Blank Solution. You can find that in the Other Project Types &ndash;&gt; Visual Studio Solutions category.</p>
+<p>I like to start by creating a solution first. I don&rsquo;t want Visual Studio to create the solution for me because it will do a lot of stuff for me. I want to have control of the structure of my application, so I am going to create that first. This will let me <a href="/post/organizing-software-projects/" target="_blank">organize my software project</a>. To create a solution just create a new project of type Blank Solution. You can find that in the Other Project Types &ndash;&gt; Visual Studio Solutions category.</p>
 <p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="01-NewSolution" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/BuildinganMVCGamingStatisticsSiteSetting_9ABB/01-NewSolution_3.png" border="0" alt="01-NewSolution" width="500" height="356" />&nbsp;</p>
 <p>I named the solution based on the domain of the application. This is important to do since I don&rsquo;t plan on referencing the domain in any of the projects in this solution. Since names get long and difficult to work with sometimes I am going to stick with shorter ones. I&rsquo;ll alter their default namespaces so it is a little bit easier to deal with.</p>
 <p>Before we can write any code we have to have a project in which to write this code, so how about if we create a new MVC project. I&rsquo;ll name it based on the domain of our application, so I&rsquo;ll go with <em>Web</em>. Since the</p>

@@ -24,21 +24,21 @@ permalink: "/post/Silverlight-Web-Analytics-First-Look/"
 <tbody>
 <tr>
 <td width="319" valign="top">
-<p><a href="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/VisitorDashboard_2.jpg"><img style="border: 0px none ; display: block; float: none; margin-left: auto; margin-right: auto;" title="VisitorDashboard" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/VisitorDashboard_thumb.jpg" border="0" alt="VisitorDashboard" width="244" height="175" /></a></p>
+<p><a href="/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/VisitorDashboard_2.jpg"><img style="border: 0px none ; display: block; float: none; margin-left: auto; margin-right: auto;" title="VisitorDashboard" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/VisitorDashboard_thumb.jpg" border="0" alt="VisitorDashboard" width="244" height="175" /></a></p>
 <p align="center"><strong>Site Visit Information</strong></p>
 </td>
 <td width="319" valign="top">
-<p><a href="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/RegionsDashboard_2.jpg"><img style="border: 0px none ; display: block; float: none; margin-left: auto; margin-right: auto;" title="RegionsDashboard" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/RegionsDashboard_thumb.jpg" border="0" alt="RegionsDashboard" width="244" height="175" /></a></p>
+<p><a href="/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/RegionsDashboard_2.jpg"><img style="border: 0px none ; display: block; float: none; margin-left: auto; margin-right: auto;" title="RegionsDashboard" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/RegionsDashboard_thumb.jpg" border="0" alt="RegionsDashboard" width="244" height="175" /></a></p>
 <p align="center"><strong>Regional Information</strong></p>
 </td>
 </tr>
 <tr>
 <td width="319" valign="top">
-<p><a href="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/FavoritesDashboard_2.jpg"><img style="border: 0px none ; display: block; float: none; margin-left: auto; margin-right: auto;" title="FavoritesDashboard" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/FavoritesDashboard_thumb.jpg" border="0" alt="FavoritesDashboard" width="244" height="175" /></a></p>
+<p><a href="/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/FavoritesDashboard_2.jpg"><img style="border: 0px none ; display: block; float: none; margin-left: auto; margin-right: auto;" title="FavoritesDashboard" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/FavoritesDashboard_thumb.jpg" border="0" alt="FavoritesDashboard" width="244" height="175" /></a></p>
 <p align="center"><strong>Most Trafficked Portions</strong></p>
 </td>
 <td width="319" valign="top">
-<p><a href="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/ReferralsDashboard_2.jpg"><img style="border: 0px none ; display: block; float: none; margin-left: auto; margin-right: auto;" title="ReferralsDashboard" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/ReferralsDashboard_thumb.jpg" border="0" alt="ReferralsDashboard" width="244" height="175" /></a></p>
+<p><a href="/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/ReferralsDashboard_2.jpg"><img style="border: 0px none ; display: block; float: none; margin-left: auto; margin-right: auto;" title="ReferralsDashboard" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/SilverlightWebAnalyticsFirstLook_D6BD/ReferralsDashboard_thumb.jpg" border="0" alt="ReferralsDashboard" width="244" height="175" /></a></p>
 <p align="center"><strong>Referring Locations</strong></p>
 </td>
 </tr>

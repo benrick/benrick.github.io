@@ -16,4 +16,4 @@ permalink: "/post/Accessing-Properties-of-a-Base-Page-from-a-User-Control/"
 <p>int myImportantValue = ((MyBasePage)Page).ImportantProperty;</p>
 </blockquote>
 <p dir="ltr">This will retrieve the value from the property of the base page. It is a fairly simple task. Perhaps next I will show how to do a similar task with a masterpage.</p>
-<p dir="ltr">I've now added that blog post about <a href="http://brendan.enrick.com/post/Accessing-Master-Page-Properties-from-a-content-page.aspx" target="_blank">Accessing a Property of a MasterPage from a Content Page</a>.&nbsp;</p>
+<p dir="ltr">I've now added that blog post about <a href="/post/Accessing-Master-Page-Properties-from-a-content-page.aspx" target="_blank">Accessing a Property of a MasterPage from a Content Page</a>.&nbsp;</p>
