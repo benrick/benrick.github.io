@@ -5,11 +5,13 @@ date: 2008-01-22 16:26:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Unable-to-cast-object-of-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection-to-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Earlier today I was trying to track down this error.</p>
 <blockquote>
 <p>Unit Test Adapter threw exception: The type initializer for 'Microsoft.VisualStudio.TestTools.UnitTesting.TestConfiguration' threw an exception. Unable to cast object of type 'Microsoft.VisualStudio.TestTools.UnitTesting.TestConfigurationSection' to type 'Microsoft.VisualStudio.TestTools.UnitTesting.TestConfigurationSection'</p>
