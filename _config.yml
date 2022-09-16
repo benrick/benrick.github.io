@@ -31,3 +31,5 @@ github: "DevChatter"
 youtube: "c/DevChatter"
 twitch: "DevChatter"
 google_analytics: "UA-6547014-1"
+disqus:
+  shortname: brendanenrick
