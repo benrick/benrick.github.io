@@ -5,11 +5,13 @@ date: 2012-08-01 10:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["HudsonSC"]
 permalink: "/post/Three-Years-of-Software-Craftsmanship/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Almost three years ago, Steve Smith, Rich Henning, and I founded the <a href="http://hudsonsc.com/">Hudson Software Craftsmanship Group</a> (HudsonSC) in Hudson Ohio. We scheduled our first meeting for August 19, 2009 and we had plenty of people show up. Since that time, similar groups have sprung up in NE Ohio and other areas around the country. It&rsquo;s really neat to watch as the software craftsmanship community grows. There are other groups, dojos, workshops, etc. all over the place.</p>
 <p>Our group has been a model of other groups around the area as well. <a href="http://twitter.com/brianfriesen">Brian Friesen</a> attended one of our meetings as a bit of research before starting the <a href="http://knoxvillesc.org/">Knoxville Software Craftsmanship Group</a>. Brian Friesen is quite dedicated, because the drive up to HudsonSC is over 8 hours. What that means is, if you&rsquo;re in that area and want to attend a meeting with a dedicated software craftsman, check their website regularly they&rsquo;ve always got their meetings posted.</p>
 <p>Our number of attendees fluctuates between highs of 20-30 people down to lows of 5-10 people. We&rsquo;re usually somewhere between 10 and 20 attendees. These numbers are great for a group like ours. If you get much larger than this, it becomes nearly impossible to have a <em>discussion</em>.</p>

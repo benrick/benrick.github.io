@@ -5,11 +5,13 @@ date: 2012-07-10 10:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["Code Audits", "DaysOfCodeAudits"]
 permalink: "/post/Security-Policies-Code-Audits-7/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I think we&rsquo;ve all heard about the great security policies that companies implement.</p>
 <p>Companies want you changing your password every other day, without repeating any passwords you&rsquo;ve ever used, without using any characters from your first name or last name, without having any numbers associated with your address, phone number, birth date, the current year, or your age, and they want your password to be exactly 12 characters.</p>
 <p>All of these rules are really funny. I don&rsquo;t think I need to tell too many people that there are <a href="http://xkcd.com/936/" target="_blank">better</a> ways of creating <a href="http://www.codinghorror.com/blog/2005/08/passphrase-evangelism.html" target="_blank">passwords</a>.</p>

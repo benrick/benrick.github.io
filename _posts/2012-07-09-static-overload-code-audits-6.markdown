@@ -5,11 +5,13 @@ date: 2012-07-09 10:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["Code Audits", "DaysOfCodeAudits"]
 permalink: "/post/Static-Overload-Code-Audits-6/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Static methods are very useful and powerful tools when writing code. As I am sure many people have pointed out, these tools should be used sparingly and cautiously.</p>
 <p>Statics are dangerous if they have dependencies. This is because they&rsquo;re hard to test. <a href="/post/Static-Mocking-with-JustMock.aspx" target="_blank">Or so I thought</a>. Keep in mind, that just because you <em>can</em> mock statics does not mean that you <em>should</em> be using a lot of statics.</p>
 <h3>The Bad</h3>
