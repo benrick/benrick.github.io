@@ -5,7 +5,7 @@ date: 2016-04-08 19:40:43 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["Pair Programming", "Agile", "Agile Software Development", "Software Craftsmanship"]
 permalink: "/post/Two-Minds-Code-Faster-Than-One/"
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2018-06-29 20:38:49 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["C#", "DevChatter", "Twitch", "Programming", "Beginners"]
 permalink: "/post/New-Series-Learn-to-Code-in-C-DevChatter/"
 ---
 <!-- more -->

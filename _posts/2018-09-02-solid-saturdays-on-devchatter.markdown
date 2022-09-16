@@ -5,7 +5,7 @@ date: 2018-09-02 15:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["DevChatter", "SOLID", "Twitch", "Streaming", "DevChatter Series"]
 permalink: "/post/SOLID-Saturdays-on-DevChatter/"
 ---
 <!-- more -->
