@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Set Up Custom GitHub Pages Domain with Google Domains"
-date: 2022-09-16 15:00:00 -0400
+date: 2022-09-16 14:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
@@ -78,10 +78,14 @@ Now you'll want to change the Custom domain to your domain name that we just con
 
 ![GitHub Pages Settings Custom Domain](/images/files/2022-posts/GitHubCustomDomainSetting.png)
 
+After verification, the page will look like this:
+
+![GitHub Pages Settings Custom Domain Verified](/images/files/2022-posts/GitHubCustomDomainSettingVerified.png)
+
 <p class="message">
-  Note here that it's optional, but enforcing HTTPS is a good idea!
+  Note here that I've enabled HTTPS for the site. While it's optional, enforcing HTTPS is a good idea!
 </p>
 
-## Step 3: Check Your Site
+## Step 3: Enjoy Your Site on its Custom Domain
 
 Now you should be able to navigate to the site and see GitHub Pages site hosted using your custom domain name!
