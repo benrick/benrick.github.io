@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Tutorials
-back_page: Home
+back_page: index.html
 ---
 
 These blog posts are tutorials.
