@@ -5,11 +5,13 @@ date: 2011-07-15 10:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["ASP.NET MVC", "Tips", "ASP.NET"]
 permalink: "/post/Custom-Model-Binders-in-ASPNET-MVC/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>In ASP.NET MVC, our system is built such that the interactions with the user are handled through Actions on our Controllers. We select our actions based on the route the user is using, which is a fancy way of saying that we base it on a pattern found in the URL they’re using. If we were on a page editing an object and we clicked the save button we would be sending the data to a URL somewhat like this one.</p>  <p>&nbsp;</p>  <p>Notice that in our route that we have specified the name of the object that we’re trying to save. There is a default Model Binder for this in MVC that will take the form data that we’re sending and bind it to a CLR objects for us to use in our action. The standard Edit action on a controller looks like this.</p>  <div id="codeSnippetWrapper">   <pre style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-height: 12pt; background-color: #f4f4f4; margin: 0em; border-left-style: none; padding-left: 0px; width: 100%; padding-right: 0px; font-family: 'Courier New', courier, monospace; direction: ltr; border-top-style: none; color: black; border-right-style: none; font-size: 8pt; overflow: visible; padding-top: 0px" id="codeSnippet">[HttpPost]<br><span style="color: #0000ff">public</span> ActionResult Edit(<span style="color: #0000ff">int</span> id, FormCollection collection)<br>{<br>    <span style="color: #0000ff">try</span><br>    {<br>        <span style="color: #008000">// TODO: Add update logic here</span><br> <br>        <span style="color: #0000ff">return</span> RedirectToAction(<span style="color: #006080">"Index"</span>);<br>    }<br>    <span style="color: #0000ff">catch</span><br>    {<br>        <span style="color: #0000ff">return</span> View();<br>    }<br>}<br></pre>
 
   <br></div>

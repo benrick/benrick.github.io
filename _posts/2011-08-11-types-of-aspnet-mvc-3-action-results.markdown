@@ -5,11 +5,13 @@ date: 2011-08-11 10:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["ASP.NET", "ASP.NET MVC"]
 permalink: "/post/Types-of-ASPNET-MVC-3-Action-Results/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>This will surprise some of you that know me or the company I work for, but not all of our staff are experts with ASP.NET MVC. In fact, I am hoping that the couple who aren’t will read this post and learn a little bit more about the topic.</p>
 <p>Since the actions of controllers in MVC are dealt with constantly, I think it is a good place to start. This post is going to briefly describe the different types of results that are available to you in ASP.NET MVC 3. I will show some of the code that makes them work, which should make all of this seem a lot less complicated.</p>
 <p>When creating new controllers in ASP.NET MVC 3, they will come with one or more actions by default. This depends on whether you selected a template which includes extras for you. The Empty controller template comes with an Index action with a return value of type ActionResult.</p>

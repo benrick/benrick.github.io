@@ -5,11 +5,13 @@ date: 2011-03-14 10:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["Software Craftsmanship"]
 permalink: "/post/Why-to-Join-a-Software-Craftsmanship-Group/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Like other professional community groups, a software craftsmanship group is supposed to offer benefits that would make a working professional take time from their schedule to attend. These benefits come in many forms: networking, support, feedback, education, self-improvement, and the list goes on. Not all of these benefits will resonate with everyone, and there are plenty that I did not name applying to many individuals and situations. A software craftsmanship group can supplement or replace an existing group that you’re attending.</p>
 <p>A common complaint that I hear from attendees of other groups is about how the discussions at dinner after the meeting is the most worthwhile part of the meeting. When I hear this, my first instinct is that these people need to start going to software craftsmanship meetings in addition to or instead of their current groups.</p>
 <h3>What is Software Craftsmanship?</h3>

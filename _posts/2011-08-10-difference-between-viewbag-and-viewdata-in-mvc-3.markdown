@@ -5,11 +5,13 @@ date: 2011-08-10 10:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["ASP.NET", "ASP.NET MVC"]
 permalink: "/post/Difference-Between-ViewBag-and-ViewData-in-MVC-3/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>If you’re new to ASP.NET MVC, you might be wondering what these two things are and when to use each one. If you’ve been using MVC and are just new to version 3 of MVC, you are probably wondering what this new ViewBag is for and if it’s different from the ViewData you’ve been using. In the beginning of the Summer, I had the opportunity to explain this difference to the two NimblePros interns when they started working on ASP.NET MVC 3 for the first time. This post should serve as a reference for them, me, and anyone else who is interested in knowing more about these two objects.</p>  <p>ViewBag and ViewData serve the same purpose in allowing developers to pass data from controllers to views. When you put objects in either one, those objects become accessible in the view. This is one way we interact between the view and the controller in ASP.NET MVC. We pass data from the view to the controller by placing it in these objects.</p>  <h2>How ViewData Works</h2>  <p>ViewData is a dictionary of objects that are accessible using strings as keys. This means that we will write code like this:</p>  <p><strong>In the Controller</strong></p>  <div id="codeSnippetWrapper">   <pre style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-height: 12pt; background-color: #f4f4f4; margin: 0em; border-left-style: none; padding-left: 0px; width: 100%; padding-right: 0px; font-family: 'Courier New', courier, monospace; direction: ltr; border-top-style: none; color: black; border-right-style: none; font-size: 8pt; overflow: visible; padding-top: 0px" id="codeSnippet"><span style="color: #0000ff">public</span> ActionResult Index()<br>{<br>    var softwareDevelopers = <span style="color: #0000ff">new</span> List&lt;<span style="color: #0000ff">string</span>&gt;<br>    {<br>        <span style="color: #006080">"Brendan Enrick"</span>, <br>        <span style="color: #006080">"Kevin Kuebler"</span>, <br>        <span style="color: #006080">"Todd Ropog"</span><br>    };<br><br>    ViewData[<span style="color: #006080">"softwareDevelopers"</span>] = softwareDevelopers;<br><br>    <span style="color: #0000ff">return</span> View();<br>}<br></pre>
 
   <br></div>

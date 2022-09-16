@@ -5,7 +5,7 @@ date: 2011-03-10 09:32:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["NuGet"]
 permalink: "/post/Go-Try-NuGet-Seriously/"
 ---
 <!-- more -->
