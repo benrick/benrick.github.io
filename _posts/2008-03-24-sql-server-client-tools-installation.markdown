@@ -5,11 +5,13 @@ date: 2008-03-24 22:33:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/SQL-Server-Client-Tools-Installation/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>A while back <a href="/post/Installing-SQL-Server-Management-Studio-with-SQL-Server.aspx" target="_blank">I blogged about how to install sql server management studio</a>, and it got a reasonable amount of feedback. More recently, <a href="http://aspadvice.com/blogs/ssmith/" target="_blank">Steve Smith</a> posted a response to it where he highlights <a href="http://aspadvice.com/blogs/ssmith/archive/2008/03/21/SQL-2005-Tools-Install-Experience-is-the-suck.aspx" target="_blank">a better way of installing Management Studio</a>. The method I outlined doesn't seem to work in every instance, so in his response Steve supplied a method which works more often.</p>
 <p><strong>The Solution: </strong>Run the SqlRun_Tools.msi file found in this folder.</p>
 <p><strong>{drive}\ENGLISH\SQL2005\DEVELOPER\SQL Server x86\Tools\Setup\SqlRun_Tools.msi</strong></p>

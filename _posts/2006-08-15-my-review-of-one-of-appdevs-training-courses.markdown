@@ -5,7 +5,7 @@ date: 2006-08-15 14:58:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/My-Review-of-one-of-AppDevs-training-courses/"
 ---
 <!-- more -->

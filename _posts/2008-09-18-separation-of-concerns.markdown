@@ -5,11 +5,13 @@ date: 2008-09-18 14:24:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Separation-of-Concerns/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Continuing on my previous post about <a href="/post/Separation-of-Code-Responsibilities.aspx" target="_blank">separation of code responsibilities</a> where I was mostly just discussing one aspect of <a href="http://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052" target="_blank">a book</a> I appreciate, I now want to comment on the concept of separation of concerns. While thinking about this idea I realized that I've been a follower of this idea longer than I previously thought. I admit it, I don't separate my code as well as I often could.&nbsp; I am sure that everyone reading this has heard that we should try to make things modular and that we should encapsulate pieces of our code. It is all part of what I consider to be classical education taught to programmers everywhere.</p>
 <p>Separation helps for many reasons. It allows us to think about only the currently important section of code. We need not always be concerned with how everything else works. It is much easier to solve problems by implementing a solution that doesn't require at every step being concerned with the details. If I want to tell someone how to load boxes into a truck. I want to say something like this.</p>
 <ol>

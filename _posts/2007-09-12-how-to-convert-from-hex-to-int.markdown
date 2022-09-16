@@ -5,11 +5,13 @@ date: 2007-09-12 17:57:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/How-to-Convert-from-hex-to-int/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I recently needed to convert hexadecimal numbers into integer numbers. So for your benefit, and for mine when I forget how to do this, I will tell you a couple of ways to convert numbers of these types. Both methods are quite simple and easy to use.</p>
 <pre class="code"><span>string</span> myHexNumber = <span>"C4FFB716"</span>;
 <span>int</span> myIntNumber = <span>Int32</span>.Parse(myHexNumber, System.Globalization.<span>NumberStyles</span>.HexNumber);</pre>

@@ -5,11 +5,13 @@ date: 2008-08-28 19:50:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Nested-Using-Statements/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p><img src="http://upload.wikimedia.org/wikipedia/commons/e/e1/Basket_style_nest.jpg" alt="" width="96" height="72" align="right" /> I think it is a great idea to always be reading code. You may learn more than you intend to sometimes. Read an article to learn one trick and you may learn a completely different one. Earlier today I was reading some code written by <a href="http://stevesmithblog.com/" target="_blank">Steve Smith</a>. He wrote an extension method for the System.Web.UI.Control class called RenderControl. I was just looking to see what he had written, and from this little snippet of code I learned a cool trick.</p>
 <p>&nbsp;</p>
 <div>

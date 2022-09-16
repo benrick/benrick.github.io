@@ -5,11 +5,13 @@ date: 2008-03-26 14:57:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Watch-TV-Shows-on-Hulu/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Not sure if everyone new about this. I would argue it is not off topic since it is an interesting thing on the web. <a href="http://www.hulu.com/" target="_blank">Hulu</a> is a great new service for watching television shows online anytime. Commercials are short and quick. It is an amazing service I expect plenty of people to start using. I've watched a few shows on there already.</p>
 <p><a href="http://www.hulu.com/" target="_blank"><img src="http://static.flickr.com/3028/2363228235_61f84d79ea.jpg" border="0" alt="Hulu-Home" width="500" height="210" /></a></p>
 <p>I've found the interface quite easy to use and understand. Nothing seems weird or difficult. So when you go to watch a show you might get a message like this before the show starts.</p>

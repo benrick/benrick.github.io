@@ -5,11 +5,13 @@ date: 2008-10-28 22:51:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Integration-Integration-Integration-Developers/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Earlier this morning we saw some very interesting Keynote talks here. A preview of Windows 7 was shown. We're finally seeing some really great direction from Microsoft. I admit I am very much submerged in all that is Microsoft considering my occupation, but I have plenty of times in the past been one of the people to attack the mistakes of Microsoft. I think we've finally reached the stage in Internet integration that Microsoft was worried it would not be part of. Plenty of people say in the past that Microsoft got into the browser market because that is where everything was moving. Because of this they needed to be involved in this web-based revolution or they would miss everything.</p>
 <p>In the past people would tell me that eventually it wouldn't matter what OS I ran, it would only matter what browser I used. This hasn't exactly happened, but it is moving that way slowly. I still think that operating systems are still EXTREMELY important. There certainly wouldn't be this PC versus Mac debate still raging if operating systems didn't matter. It is not all about the hardware here. PCs and Macs are not very different when it comes to hardware. They've got a few differences, but not much. The big difference is in the OS even today. Browser may work cross platform, but I am sure that web developers know that even looking at Firefox there are differences between Firefox on Windows and Firefox on Apple.</p>
 <p>At the keynote Microsoft was very much pushing the integration they want to make between all devices. Client applications, web applications, and mobile applications all working together at the same time working with synchronized information. Allowing someone to leave one location continue working while in transit and continue that work once again at a new location on a new machine. This has been somewhat possible for a while, but not integrated well enough for it to be easy for people to do this regularly.</p>

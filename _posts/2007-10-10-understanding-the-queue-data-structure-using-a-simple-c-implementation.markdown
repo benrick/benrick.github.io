@@ -5,7 +5,7 @@ date: 2007-10-10 19:34:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Understanding-the-Queue-Data-Structure-Using-a-Simple-C-Implementation/"
 ---
 <!-- more -->

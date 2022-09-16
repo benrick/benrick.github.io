@@ -5,7 +5,7 @@ date: 2006-06-29 20:29:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Simple-CMS/"
 ---
 <!-- more -->

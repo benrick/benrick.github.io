@@ -5,11 +5,13 @@ date: 2008-04-24 15:58:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Creating-a-Game-Loop-Using-Silverlight/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I've been playing with silverlight as a gaming platform for a few months now. I've not published or released anything I've done yet, but I expect I will at some point. I am not much of a game developer really, and I've been hacking things together as best I can. I, like many other developers, have always found game development to be quite interesting. So for now I'll talk about how to create a game loop.</p>
 <h4>What are Game Loops Used For?</h4>
 <p>In most games you need to have some control over the passing of time. You always need to be constantly able to respond to user input without stopping the game waiting for this user interaction. It allows you an opportunity to have the game move with or without the player. This loop will allow you to have computer-controlled enemies and neutrals decide how to act and to take these actions.</p>

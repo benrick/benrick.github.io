@@ -5,7 +5,7 @@ date: 2008-03-26 19:33:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Linking-to-the-Im-Feeling-Lucky-Google-Search/"
 ---
 <!-- more -->

@@ -5,11 +5,13 @@ date: 2008-06-13 16:36:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Handling-Password-Recovery/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I recently answered a blog post about how to handle password recovery in ASP.NET. My first thoughts when I read this questions are along the lines of, "Ah! Don't recover passwords!"</p>
 <p>With any authentication system it is important to remember this one thing <strong>passwords should always be hashed</strong>. I don't care who you are or what system you're using, you should never ever have passwords stored in your system which are not at least encrypted in some format. In ASP.NET you want to use hashing. Being able to "recover" a password implies that the password is in a form that you could make it user-readable.</p>
 <p>This is bad since it means that if someone managed to obtain your password data they could potentially obtain people's passwords. Considering that lots of users will use the same password in multiple places, that could be very bad.</p>

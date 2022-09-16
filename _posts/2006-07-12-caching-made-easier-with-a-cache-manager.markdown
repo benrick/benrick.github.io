@@ -5,7 +5,7 @@ date: 2006-07-12 15:02:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Caching-made-easier-with-a-cache-manager/"
 ---
 <!-- more -->

@@ -5,11 +5,13 @@ date: 2007-10-26 15:03:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Accessing-Controls-inside-of-Templated-Controls/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>One question that seems to come up often in the asp.net forums is from people who are trying to access controls within controls using templates. LoginViews and CreateUserWizard controls are two commonly used templated controls.&nbsp;These templated controls don't actually have their contents known until run-time because it is dependant on something else; data from a database, user permissions, etc.</p>
 <p>Since this information is not known you can't just access&nbsp;the inner controls&nbsp;as you would normal controls, because it is not known until run-time what the controls are. You will get compiler errors if you try to access them. The easiest way to get the controls you need is to use a recursive find control function. <a href="http://stevesmithblog.com/" target="_blank">Steve Smith</a> has blogged about <a href="http://aspadvice.com/blogs/ssmith/archive/2006/08/23/Add-Profile-Items-in-CreateUserWizard-and-Recursive-FindControl.aspx" target="_blank">Using a Recursive Find Control</a> as well as about a very important <a href="http://aspadvice.com/blogs/ssmith/archive/2007/01/26/Coding-Optimization-Tip_3A00_-Avoid-Repeated-FindControl_28002900_-Use.aspx" target="_blank">Code Optimization for using a recursive find control</a>.</p>
 <p>The cool thing about the recursive find control is that it will dig down into the controls collection of a control you specify looking for the control you are looking for. It is great for templated controls, because it is a lot neater than trying to statically go after it like this.</p>

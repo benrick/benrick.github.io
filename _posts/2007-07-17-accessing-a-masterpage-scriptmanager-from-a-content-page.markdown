@@ -5,11 +5,13 @@ date: 2007-07-17 16:58:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Accessing-a-MasterPage-ScriptManager-from-a-Content-Page/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Recently I had forgotten how to access the ScriptManager in my MasterPage from one of the Content Pages. There is a static method on the ScriptManager class called GetCurrent() which will allow access to the current instance of a ScriptManager. This is useful because the ScriptManagerProxy is really just designed to do the declarative work normally performed on the ASP.NET page, but some work needs to be done through code. An example would be to check the ScriptManager instances IsInAsyncPostback property.</p>
 <p>if (ScriptManager.GetCurrent().IsInAsyncPostback)</p>
 <p>{</p>

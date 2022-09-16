@@ -5,11 +5,13 @@ date: 2008-10-17 18:33:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/ASPNET-MVC-Beta-Released/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Just in case you missed the blog post from Scott Guthrie yesterday, I will post this.</p>
 <p><a href="http://weblogs.asp.net/scottgu/archive/2008/10/16/asp-net-mvc-beta-released.aspx" target="_blank">Scott Guthrie's MVC Beta Announcement</a></p>
 <p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=A24D1E00-CD35-4F66-BAA0-2362BDDE0766&amp;displaylang=en" target="_blank">ASP.NET MVC Beta Download</a></p>

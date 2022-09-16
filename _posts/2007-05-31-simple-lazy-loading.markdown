@@ -5,11 +5,13 @@ date: 2007-05-31 16:06:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Simple-Lazy-Loading/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Lately, I&rsquo;ve noticed a lot of people who are not careful about how they load objects. Managing objects is a fundamentally important part of software development.</p>
 <p>Lets say for example I have an integer in the query string, and I need to use this number in a few places on my page. Well it is obviously inefficient and an ugly process to check the query string and parse the value into an integer every time I want to access that number. I could also at the beginning just grab the number, but this would become a problem if I rearranged things. There is also a chance the execution will not require even checking the query string, and then I will have loaded that value for no reason.</p>
 <p>This is a very simple and easy way of retrieving an number from a query string.</p>

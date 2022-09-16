@@ -5,11 +5,13 @@ date: 2007-12-19 17:45:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Silverlight-Expired-The-Pain-of-Reinstalling/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>So I have been ignoring these messages I've been receiving for a while about Silverlight. Now I might not have ignored it, but it said my version of Silverlight expired. Ok so big deal. You might say, "Why not just go get a new version?" Well it says to go to a certain URL. You can't click on the URL, and you can't copy and paste the text. Typing URLs by hand is so mid 90's.</p>
 <p><img src="http://static.flickr.com/2281/2122401459_92a1b071ef.jpg" border="0" alt="SilverlightExpiredMessage" /></p>
 <p>So the really annoying part of all of this. I just now navigated to that site by typing in all of that junk. And it takes me to the Silverlight page on the Microsoft site. <a title="http://www.microsoft.com/SILVERLIGHT/default_ns.aspx" href="http://www.microsoft.com/SILVERLIGHT/default_ns.aspx">http://www.microsoft.com/SILVERLIGHT/default_ns.aspx</a></p>

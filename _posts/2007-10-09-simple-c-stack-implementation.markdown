@@ -5,11 +5,13 @@ date: 2007-10-09 15:27:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Simple-C-Stack-Implementation/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I've just written a quick little stack implementation for use in explaining the stack data structure. It is written in C# and is not exactly a robust solution, but it works well enough. It is stubbed out with the basics of what is required to have a working stack. If you don't know how a Stack works, I also recommend reading my <a href="http://aspadvice.com/blogs/name/archive/2007/10/05/Understanding-the-Stack-Data-Structure.aspx" target="_blank">Simple Explanation of the Stack Data Structure</a>.</p>
 <p>For the heck of it, since I love <a href="http://msdn2.microsoft.com/en-us/library/512aeb7t(VS.80).aspx" target="_blank">Generics</a>, I decided to make this a Generic Stack. The first step is to create the Generic class definition. To make it Generic we will add &lt;T&gt; into the name of the class.</p>
 <div style="border: 1px solid gray; margin: 20px 0px 10px; padding: 4px; overflow: auto; font-size: 8pt; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; font-family: consolas,'Courier New',courier,monospace; background-color: #f4f4f4;">

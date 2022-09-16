@@ -5,11 +5,13 @@ date: 2007-12-13 21:38:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/XNA-Game-Studio-20-Released/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>So I've dropped the ball on XNA. I've been meaning to read and learn about XNA for a while now. Microsoft has done something truly revolutionary here. They're taking efforts to encourage the little guy to write games for their console. As far as I know, they're the first console to do this. Please correct me if I am wrong about that. I'll get to the point now. Microsoft released a new version of <a href="http://creators.xna.com/Education/GettingStarted.aspx" target="_blank">XNA Game Studio</a> which is the development environment for working with XNA games. I'm a version behind...</p>
 <p>XNA Game Studio Express works along side Visual Studio 2005. In previous version I don't think you were able to use anything except for the C# Express Edition. According to the XNA web site, the new version supports the following versions of Visual Studio.</p>
 <ul>

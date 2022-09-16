@@ -5,11 +5,13 @@ date: 2007-11-29 19:21:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Knowing-the-Default-Access-Modifiers-in-C/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p><a title="512px-Padlock" href="http://www.flickr.com/photos/67369333@N00/2073859235/"><img src="http://static.flickr.com/2261/2073859235_f55f9f639e.jpg" border="0" alt="512px-Padlock" width="240" height="240" align="right" /></a>I have a few friends in college who are learning C# on the side. I've been answering their questions when they ask. One interesting question was regarding access modifiers. I was asked which access modifiers are used by default in certain situations when there is not one specified.</p>
 <p>First I'll quickly remind everyone of the access modifiers and what has permission to access them.</p>
 <p><strong>private</strong> - Any members of the same class have access.</p>

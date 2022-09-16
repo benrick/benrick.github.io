@@ -5,11 +5,13 @@ date: 2007-11-01 15:44:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Table-Variables-vs-Temporary-Tables-in-SQL/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Temporary tables and table variables can be used in pretty much the same way. One question which is asked, "Which one is better".&nbsp;To answer that it is important to understand a few of the differences between the two. Once we understand how these two types of tables are different we will better understand which we need to use when.</p>
 <p>Creating a temporary table is very similar to creating a regular table. In order to do this we use the following code</p>
 <div class="csharpcode">

@@ -5,11 +5,13 @@ date: 2007-12-13 14:39:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Static-Methods-and-Interfaces-in-C/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Someone just commented on <a href="http://aspalliance.com/1516_Understanding_Interfaces_in_C">my C# interfaces article on ASP Alliance</a> asking an interesting question, and I figure I will respond to it here since I can give a better response here. I don't want to clutter the article comments. Also I can add nifty cool pictures, format all of my text nicely, and write a heck of a lot more here.</p>
 <p>This is the excellent question I was asked.</p>
 <blockquote>

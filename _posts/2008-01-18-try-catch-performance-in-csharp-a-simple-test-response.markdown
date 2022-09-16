@@ -5,11 +5,13 @@ date: 2008-01-18 14:57:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Try-Catch-Performance-in-CSharp-A-Simple-Test-Response/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I read an interesting little post about a <a href="http://paltman.com/2008/01/17/try-except-performance-in-python-a-simple-test/" target="_blank">Try Except Performance Test Using Python</a> written by <a href="http://paltman.com/" target="_blank">Patrick Altman</a>. As he mentioned, I have also had discussions with people about this exact topic in the past plenty of times. He was testing the performance issue of whether it is better to use a try catch block to handle possible errors or to check for them before they're a problem.</p>
 <p>He handled 2 different cases; the success and the failure. Using loops he performed time checks on these to see how long it took. I thought it was very interesting, but the nice question is how does this hold up using C#. So I also wrote a simple little test similar to his. The results are pretty interesting. Keep in mind this just gives some rough estimates on this.</p>
 <p>&nbsp;</p>

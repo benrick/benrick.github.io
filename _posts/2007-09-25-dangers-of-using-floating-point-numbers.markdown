@@ -5,11 +5,13 @@ date: 2007-09-25 15:55:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Dangers-of-Using-Floating-Point-Numbers/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>An interesting question came up from a few of my students while teaching <a href="http://aspadvice.com/blogs/name/archive/2007/09/25/Teaching-Introduction-to-Computer-Programming.aspx">my class</a>. Some of them discovered a bug in their programs which they did not understand. They were writing a program which was doing some calculations on currency.</p>
 <p>Computer Programmers commonly use floating point numbers, but I am sure that not all of them really understand what is going on underneath the hood. As I am sure everyone reading this knows, all data is stored in binary format on computers. In base 10 as with all numbering systems with a base, each digit is a round number in the base. The fractional amounts are what is interesting and specific to floating point numbers and not to integers.</p>
 <p>When using floating point numbers they aren't stored in a way which is intuitive to base 10 users. As an example I will use the fractional amount 1/4. To make seeing the conversion easier I'll say that it is also 25/100 or really 2/10 + 5/100.</p>

@@ -5,11 +5,13 @@ date: 2008-01-04 21:26:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Explicitly-and-Implicitly-Implementing-Interfaces/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I read an interesting blog post from <a href="http://aspadvice.com/blogs/joydip/default.aspx" target="_blank">Joydip Kanjilal</a> where he described <a href="http://aspadvice.com/blogs/joydip/archive/2008/01/04/Put-your-interfaces-to-best-use_2100_.aspx" target="_blank">an interesting little trick with interfaces</a>. I, being a bit of a fan of interfaces, read the post and thought I'd throw my $0.02 in also. I couldn't pass up an opportunity to talk about interfaces. He first shows simply how to create an interface and how to implement the interface implicitly. The difference between implicitly and explicitly writing this code is what creates the different circumstances Joydip shows in his demonstration.</p>
 <p>I'll start where he did with an interface. I'll name my interface <em>IBloggable</em> and I'll have a class <em>PostContent</em> which implements the interface.</p>
 <div>

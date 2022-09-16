@@ -5,11 +5,13 @@ date: 2007-09-24 20:31:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Installing-SQL-Server-Management-Studio-with-SQL-Server/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p><strong>Update (24 March 2008):</strong> <a href="http://aspadvice.com/blogs/ssmith/archive/2008/03/21/SQL-2005-Tools-Install-Experience-is-the-suck.aspx">Steve Smith found a more reliable solution to install the SQL Server Client Tools</a>. Once in the tools folder open the setup folder and in there is a SqlRun_Tools.msi file. If you run that it should actually install SSMS.</p>
 <p>When I recently installed SQL Server 2005 and SQL Server Management Studio on my computer it did not install SSMS or any of the other Client Tools. When running the installation of SQL Server 2005 I followed along with the instructions. I individually selected each component to install including the Client Tools for SQL Server. When the installation finished there was no SQL Server Management Studio.</p>
 <p>Figuring this might be a difficult thing to Google for, I asked <a href="http://aspadvice.com/blogs/ssmith/">Steve Smith</a> if he knew how to get the client tools. He told me that just about the only way to get SSMS to install was to sacrifice a chicken and hope for luck, because there is something weird which has to be done in order to get the program to install.</p>

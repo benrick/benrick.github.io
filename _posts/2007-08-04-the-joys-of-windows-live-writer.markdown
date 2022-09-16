@@ -5,11 +5,13 @@ date: 2007-08-04 02:26:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/The-Joys-of-Windows-Live-Writer/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I've just downloaded and started trying out windows live writer, and I think it is excellent. This has got to be just about the easiest and best program for blog writing I've ever seen.</p>
 <h3><strong>Features I love</strong></h3>
 <ul>

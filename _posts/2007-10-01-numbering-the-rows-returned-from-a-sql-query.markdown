@@ -5,11 +5,13 @@ date: 2007-10-01 22:06:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Numbering-the-Rows-Returned-from-a-SQL-Query/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Outside of SQL it would be quite easy to number the rows returned from query, but to do so inside of the SQL is a bit more difficult. I recently wanted to be able to number the rows returned from a query in a stored procedure. I am using SQL Server 2000, so I cannot use row_number().</p>
 <p>I was going to ask my go to SQL guy, <a href="http://sqladvice.com/blogs/gstark/default.aspx">Gregg Stark</a>, how to do this, but while in the process of asking him for a good method of doing this, I came up with the solution. My cool trick for numbering the rows returned from a query is useful because I don't actually want to return these rows to other code. I want to store them back into my database ordered differently than the numbering, and using a table variable will allow me to do exactly what I am trying to do.</p>
 <p>First we need to create a table variable. We will define that table as having an identity column plus any other columns we happen to need. We then insert into that table all of the values returned from our query.</p>

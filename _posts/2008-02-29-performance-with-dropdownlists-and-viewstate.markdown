@@ -5,11 +5,13 @@ date: 2008-02-29 17:38:00 -0500
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Orcs Goblins  and .NET"]
+tags: ["Blog"]
 permalink: "/post/Performance-with-DropDownLists-and-ViewState/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p><img src="http://static.flickr.com/2373/2300646878_4d55dc1cda.jpg" border="0" alt="DropDownList-Horns" align="right" />One problem I've noticed on a bunch of sites is a large amount of ViewState. I'm not going to sit here and explain all about ViewState. There are PLENTY of sources for information on that piece of technology. So in an extremely short description of what ViewState is I will say that, "ViewState is a way of preserving the state of the 'Viewed' elements of ASP.NET while the page is sent to the client and back to the server."</p>
 <p>So what is the big deal? A little bit of extra information stored in a text file. That doesn't take long to download. Download speeds are really quick. WRONG! Sure, it does not take long to download a little bit of extra data, but ViewState is stored in an input control. This is how the data is able to get back to the server so it can reconstruct the previous state of things. This means clients will push the data up to the server. As many of you probably know upload speeds are much slower than download speeds.</p>
 <p>OK, so I need to upload a little bit of extra data. How much are we talking about here? It can't be enough to matter.</p>
