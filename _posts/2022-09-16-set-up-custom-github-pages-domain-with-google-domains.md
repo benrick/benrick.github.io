@@ -9,9 +9,10 @@ tags: ["Jekyll", "DNS", "CNAME", "Hosting", "Blogging", "GitHub Pages", "Google 
 permalink: "/post/Custom-GitHub-Pages-Domain-with-Google-Domains/"
 ---
 
-![GitHub Logo](/images/files/2022-posts/Octocat.png){: width="75%"}
+[![GitHub Logo](/images/files/2022-posts/Octocat.png){: width="75%"}](https://pages.github.com)
 
-![Google Domains Logo](/images/files/2022-posts/google-domains-logo.svg){: width="75%"}
+
+[![Google Domains Logo](/images/files/2022-posts/google-domains-logo.svg){: width="75%"}](https://domains.google)
 
 ## Intro
 
