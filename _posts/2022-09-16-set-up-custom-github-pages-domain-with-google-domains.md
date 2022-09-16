@@ -4,14 +4,15 @@ title: "Set Up Custom GitHub Pages Domain with Google Domains"
 date: 2022-09-16 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["Tutorials"]
 tags: ["Jekyll", "DNS", "CNAME", "Hosting", "Blogging", "GitHub Pages", "Google Domains", "Tutorials"]
 permalink: "/post/Custom-GitHub-Pages-Domain-with-Google-Domains/"
 ---
 
-![GitHub Logo](/images/files/2022-posts/Octocat.png){: width="75%"}
+[![GitHub Logo](/images/files/2022-posts/Octocat.png){: width="75%"}](https://pages.github.com)
 
-![Google Domains Logo](/images/files/2022-posts/google-domains-logo.svg){: width="75%"}
+
+[![Google Domains Logo](/images/files/2022-posts/google-domains-logo.svg){: width="75%"}](https://domains.google)
 
 ## Intro
 
