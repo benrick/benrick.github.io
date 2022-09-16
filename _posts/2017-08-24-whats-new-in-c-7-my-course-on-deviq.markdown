@@ -5,7 +5,7 @@ date: 2017-08-24 14:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["C#", "C# 7", "Development", "DevIQ", ".NET", "Programming", "Announcement", "Announcements"]
+tags: ["C#", "C# 7", "Development", "DevIQ", ".NET", "Programming", "Announcement"]
 permalink: "/post/Whats-New-in-C-7-My-Course-on-DevIQ/"
 ---
 <!-- more -->

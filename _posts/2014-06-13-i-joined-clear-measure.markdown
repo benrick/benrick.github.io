@@ -5,7 +5,7 @@ date: 2014-06-13 14:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Annoucement"]
+tags: ["Announcement"]
 permalink: "/post/I-Joined-Clear-Measure/"
 ---
 <!-- more -->
