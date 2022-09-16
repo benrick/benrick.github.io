@@ -5,7 +5,7 @@ date: 2014-10-07 14:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["CodeMash", "Speaking", "Agile", "Unit Testing"]
 permalink: "/post/Speaking-at-CodeMash-2015/"
 ---
 <!-- more -->

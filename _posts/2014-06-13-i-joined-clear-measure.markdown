@@ -5,11 +5,13 @@ date: 2014-06-13 14:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["Annoucement"]
 permalink: "/post/I-Joined-Clear-Measure/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I am just about to finish up my second month on the <a href="http://www.clear-measure.com/" target="_blank">Clear Measure</a> team, and I am still very impressed with what this team has built considering how young the company is. I&rsquo;ve known <a href="http://jeffreypalermo.com/" target="_blank">Jeffrey Palermo</a>, one of Clear Measure&rsquo;s founders, for plenty of years, and I decided to jump at the chance to work with him and his team. It is an opportunity that I could not pass on.</p>
 <h2>Role Change</h2>
 <p>Many developers who have worked with me in the past are excited to learn that I am now getting to write a lot more code than I did before, since I&rsquo;ve stepped out of a leadership position and have taken on a Principal Software Engineer role with Clear Measure.</p>

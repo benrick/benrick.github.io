@@ -5,7 +5,7 @@ date: 2014-10-06 14:00:00 -0400
 comments: true
 published: true
 categories: ["blog", "archives"]
-tags: ["Blog"]
+tags: ["Git", "GitHub", "Tips", "Source Control", "Branching"]
 permalink: "/post/Deleting-Git-Branches-Carefully/"
 ---
 <!-- more -->
