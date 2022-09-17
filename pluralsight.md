@@ -4,7 +4,7 @@ title: Brendan's Pluralsight Courses
 back_page: index.html
 ---
 
-Brendan has authored a couple of Pluralsight courses over his time as a developer. If you enjoy the way he teaches, you'll love watching his Pluralsight courses!
+Brendan has authored a couple of Pluralsight courses over his time as a developer. If you enjoy the way he teaches, you'll love watching his Pluralsight courses! Here are [Brendan's Pluralsight Courses](https://www.pluralsight.com/authors/brendan-enrick).
 
 <p class="message">
   You can [sign up for pluralsight](https://www.pluralsight.com/pricing/free-trial) with a free trial to watch Brendan's Pluralsight courses!
