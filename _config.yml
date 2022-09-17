@@ -17,17 +17,7 @@ author:
 
 paginate: 5
 
-jekyll-archives:
-  enabled: ["year"]
-  layouts:
-    year: archive-year
-    month: archive-month
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-
 plugins:
-  - jekyll-archives
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
