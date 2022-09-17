@@ -39,6 +39,11 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+.jekyll-cache
 
 # ignore import file
 BlogML.xml
+
+# ignore gem files used for local build
+Gemfile
+Gemfile.lock
