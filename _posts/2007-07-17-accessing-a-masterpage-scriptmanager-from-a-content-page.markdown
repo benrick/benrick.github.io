@@ -4,7 +4,7 @@ title: "Accessing a MasterPage ScriptManager from a Content Page"
 date: 2007-07-17 16:58:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Accessing-a-MasterPage-ScriptManager-from-a-Content-Page/"
 ---

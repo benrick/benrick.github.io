@@ -4,7 +4,7 @@ title: "Keep Databases in Source Control"
 date: 2010-05-01 10:27:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Keep-Databases-in-Source-Control/"
 ---

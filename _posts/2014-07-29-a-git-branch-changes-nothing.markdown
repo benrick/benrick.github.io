@@ -4,7 +4,7 @@ title: "A Git Branch Changes Nothing"
 date: 2014-07-29 18:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Git", "GitHub", "Branching"]
 alias: ["/post/a-git-branch-changes-nothing"]
 ---

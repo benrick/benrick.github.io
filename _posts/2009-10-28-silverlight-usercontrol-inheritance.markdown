@@ -4,7 +4,7 @@ title: "Silverlight UserControl Inheritance"
 date: 2009-10-28 09:51:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Silverlight-UserControl-Inheritance/"
 ---

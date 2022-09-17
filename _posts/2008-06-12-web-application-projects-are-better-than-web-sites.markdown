@@ -4,7 +4,7 @@ title: "Web Application Projects are better than Web Sites"
 date: 2008-06-12 22:56:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Web-Application-Projects-are-better-than-Web-Sites/"
 ---

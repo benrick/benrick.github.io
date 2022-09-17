@@ -4,7 +4,7 @@ title: "Beginning Unit Testing"
 date: 2008-11-26 22:21:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Beginning-Unit-Testing/"
 ---

@@ -4,7 +4,7 @@ title: "Choosing A Dependency Injection Pattern"
 date: 2009-05-19 11:02:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Choosing-A-Dependency-Injection-Pattern/"
 ---

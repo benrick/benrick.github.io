@@ -4,7 +4,7 @@ title: "Time for Being Thankful"
 date: 2008-11-27 07:43:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Time-for-Being-Thankful/"
 ---

@@ -4,7 +4,7 @@ title: "Writing Clean Code is a Process"
 date: 2009-06-02 15:02:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Writing-Clean-Code-is-a-Process/"
 ---

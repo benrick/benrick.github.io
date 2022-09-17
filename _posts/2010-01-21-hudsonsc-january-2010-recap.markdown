@@ -4,7 +4,7 @@ title: "HudsonSC January 2010 Recap"
 date: 2010-01-21 11:54:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/HudsonSC-January-2010-Recap/"
 ---

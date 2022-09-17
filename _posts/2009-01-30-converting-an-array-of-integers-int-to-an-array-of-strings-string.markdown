@@ -4,7 +4,7 @@ title: "Converting an Array of Integers int[] to an Array of Strings string[]"
 date: 2009-01-30 09:56:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Converting-an-Array-of-Integers-int-to-an-Array-of-Strings-string/"
 ---

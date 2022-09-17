@@ -4,7 +4,7 @@ title: "Keeping Large Classes in Line"
 date: 2008-11-25 22:52:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Keeping-Large-Classes-in-Line/"
 ---

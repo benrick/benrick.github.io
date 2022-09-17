@@ -4,7 +4,7 @@ title: "Keep Binaries in Source Control"
 date: 2010-04-29 17:14:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Keep-Binaries-in-Source-Control/"
 ---

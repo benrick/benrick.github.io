@@ -4,7 +4,7 @@ title: "Why the TextBoxWatermark is the Best AJAX Control"
 date: 2007-11-28 15:10:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Why-the-TextBoxWatermark-is-the-Best-AJAX-Control/"
 ---

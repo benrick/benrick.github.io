@@ -4,7 +4,7 @@ title: "A Quick Answer About Reference Types"
 date: 2009-11-23 09:14:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/A-Quick-Answer-About-Reference-Types/"
 ---

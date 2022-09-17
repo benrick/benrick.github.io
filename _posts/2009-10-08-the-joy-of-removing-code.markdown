@@ -4,7 +4,7 @@ title: "The Joy of Removing Code"
 date: 2009-10-08 16:25:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/The-Joy-of-Removing-Code/"
 ---

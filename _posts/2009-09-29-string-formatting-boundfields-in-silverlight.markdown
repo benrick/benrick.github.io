@@ -4,7 +4,7 @@ title: "String Formatting BoundFields in Silverlight"
 date: 2009-09-29 12:19:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/String-Formatting-BoundFields-in-Silverlight/"
 ---

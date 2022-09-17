@@ -4,7 +4,7 @@ title: "Daily Dev Speedup - Using Visual Studio Snippets"
 date: 2009-06-08 08:53:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Daily-Dev-Speedup-Using-Visual-Studio-Snippets/"
 ---

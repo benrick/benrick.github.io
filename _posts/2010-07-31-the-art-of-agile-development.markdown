@@ -4,7 +4,7 @@ title: "The Art of Agile Development"
 date: 2010-07-31 10:06:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/The-Art-of-Agile-Development/"
 ---

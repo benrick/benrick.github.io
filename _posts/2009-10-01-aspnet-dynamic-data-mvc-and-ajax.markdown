@@ -4,7 +4,7 @@ title: "ASP.NET Dynamic Data, MVC, and AJAX"
 date: 2009-10-01 14:15:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/ASPNET-Dynamic-Data-MVC-and-AJAX/"
 ---

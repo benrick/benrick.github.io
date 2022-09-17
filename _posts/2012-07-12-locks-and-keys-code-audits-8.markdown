@@ -4,7 +4,7 @@ title: "Locks and Keys - Code Audits #8"
 date: 2012-07-12 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["DaysOfCodeAudits", "Code Audits", "Security"]
 permalink: "/post/Locks-and-Keys-Code-Audits-8/"
 ---

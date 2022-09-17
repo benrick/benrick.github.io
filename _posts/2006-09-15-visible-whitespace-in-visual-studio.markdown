@@ -4,7 +4,7 @@ title: "Visible Whitespace in Visual Studio"
 date: 2006-09-15 16:54:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Visible-Whitespace-in-Visual-Studio/"
 ---

@@ -4,7 +4,7 @@ title: "Groundhog Day Experience"
 date: 2012-03-28 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Software Craftsmanship", "Continuous Improvement"]
 permalink: "/post/Groundhog-Day-Experience/"
 ---

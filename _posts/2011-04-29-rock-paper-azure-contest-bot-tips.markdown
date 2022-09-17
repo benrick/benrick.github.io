@@ -4,7 +4,7 @@ title: "Rock Paper Azure Contest Bot Tips"
 date: 2011-04-29 14:43:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["RPA"]
 permalink: "/post/Rock-Paper-Azure-Contest-Bot-Tips/"
 ---

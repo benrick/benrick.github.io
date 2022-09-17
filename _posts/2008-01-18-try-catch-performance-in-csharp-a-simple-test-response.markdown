@@ -4,7 +4,7 @@ title: "Try Catch Performance in CSharp: A Simple Test Response"
 date: 2008-01-18 14:57:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Try-Catch-Performance-in-CSharp-A-Simple-Test-Response/"
 ---

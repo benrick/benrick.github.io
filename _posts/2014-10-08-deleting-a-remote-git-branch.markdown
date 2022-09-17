@@ -4,7 +4,7 @@ title: "Deleting a Remote Git Branch"
 date: 2014-10-08 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Git", "GitHub", "Source Control", "Tips", "Branching"]
 permalink: "/post/Deleting-a-Remote-Git-Branch/"
 ---

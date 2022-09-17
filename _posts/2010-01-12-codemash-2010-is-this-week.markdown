@@ -4,7 +4,7 @@ title: "CodeMash 2010 is this week"
 date: 2010-01-12 08:48:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/CodeMash-2010-is-this-week/"
 ---

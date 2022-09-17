@@ -4,7 +4,7 @@ title: "Silverlight 3 Out of the Browser"
 date: 2009-09-15 16:43:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Silverlight-3-Out-of-the-Browser/"
 ---

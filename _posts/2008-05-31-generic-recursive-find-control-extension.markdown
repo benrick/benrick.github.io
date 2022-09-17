@@ -4,7 +4,7 @@ title: "Generic Recursive Find Control Extension"
 date: 2008-05-31 20:07:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Generic-Recursive-Find-Control-Extension/"
 ---

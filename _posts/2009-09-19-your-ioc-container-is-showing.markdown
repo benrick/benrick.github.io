@@ -4,7 +4,7 @@ title: "Your IoC Container is Showing"
 date: 2009-09-19 15:40:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Your-IoC-Container-is-Showing/"
 ---

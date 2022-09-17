@@ -4,7 +4,7 @@ title: "Something to Avoid While Programming"
 date: 2009-05-30 21:37:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Something-to-Avoid-While-Programming/"
 ---

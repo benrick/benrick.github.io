@@ -4,7 +4,7 @@ title: "A Lean Approach to Ordering Office Supplies"
 date: 2015-03-04 15:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Agile", "Lean", "Clear Measure"]
 permalink: "/post/A-Lean-Approach-to-Ordering-Office-Supplies/"
 ---

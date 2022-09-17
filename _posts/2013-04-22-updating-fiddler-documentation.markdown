@@ -4,7 +4,7 @@ title: "Updating Fiddler Documentation"
 date: 2013-04-22 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Fiddler", "Documentation"]
 permalink: "/post/Updating-Fiddler-Documentation/"
 ---

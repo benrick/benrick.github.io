@@ -4,7 +4,7 @@ title: "My Team Server Headache"
 date: 2006-09-22 17:02:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/My-Team-Server-Headache/"
 ---

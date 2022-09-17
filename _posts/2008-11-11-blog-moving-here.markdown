@@ -4,7 +4,7 @@ title: "Blog Moving Here"
 date: 2008-11-11 09:25:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Blog-Moving-Here/"
 ---

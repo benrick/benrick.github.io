@@ -4,7 +4,7 @@ title: "Passing ViewData to User Controls in ASP.NET MVC Preview 4"
 date: 2008-07-24 15:55:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Passing-ViewData-to-User-Controls-in-ASPNET-MVC-Preview-4/"
 ---

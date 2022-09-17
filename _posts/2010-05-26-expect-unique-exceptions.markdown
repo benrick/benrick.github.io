@@ -4,7 +4,7 @@ title: "Expect Unique Exceptions"
 date: 2010-05-26 10:34:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Expect-Unique-Exceptions/"
 ---

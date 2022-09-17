@@ -4,7 +4,7 @@ title: "Parameter Order Should Be Consistent"
 date: 2009-01-27 13:10:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Parameter-Order-Should-Be-Consistent/"
 ---

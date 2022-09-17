@@ -4,7 +4,7 @@ title: "Fun With Web Forms Controls and LINQ"
 date: 2009-09-21 09:14:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Fun-With-Web-Forms-Controls-and-LINQ/"
 ---

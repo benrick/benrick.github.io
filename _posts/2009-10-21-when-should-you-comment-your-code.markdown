@@ -4,7 +4,7 @@ title: "When Should You Comment Your Code"
 date: 2009-10-21 08:44:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/When-Should-You-Comment-Your-Code/"
 ---

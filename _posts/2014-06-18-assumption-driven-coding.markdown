@@ -4,7 +4,7 @@ title: "Assumption Driven Coding"
 date: 2014-06-18 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Calendar Topic", "Software Craftsmanship"]
 permalink: "/post/Assumption-Driven-Coding/"
 ---

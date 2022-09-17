@@ -4,7 +4,7 @@ title: "Duct Tape Coder"
 date: 2012-06-06 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Calendar Topic", "Duct Tape Coder", "Best Practices", "Anti-Principle"]
 permalink: "/post/Duct-Tape-Coder/"
 ---

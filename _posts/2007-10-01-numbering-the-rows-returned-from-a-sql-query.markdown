@@ -4,7 +4,7 @@ title: "Numbering the Rows Returned from a SQL Query"
 date: 2007-10-01 22:06:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Numbering-the-Rows-Returned-from-a-SQL-Query/"
 ---

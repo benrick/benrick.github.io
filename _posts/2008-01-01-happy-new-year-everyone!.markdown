@@ -4,7 +4,7 @@ title: "Happy New Year Everyone!"
 date: 2008-01-01 01:01:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Happy-New-Year-Everyone!/"
 ---

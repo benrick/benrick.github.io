@@ -4,7 +4,7 @@ title: "Agile Resources – Velocity and Capacity Explained"
 date: 2010-02-23 13:57:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Agile-Resources-Velocity-and-Capacity-Explained/"
 ---

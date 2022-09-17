@@ -4,7 +4,7 @@ title: "LINQ Your Collections with IEqualityComparer and Lambda Expressions"
 date: 2009-04-13 13:50:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/LINQ-Your-Collections-with-IEqualityComparer-and-Lambda-Expressions/"
 ---

@@ -4,7 +4,7 @@ title: "Writing Testable, Maintainable Code"
 date: 2009-05-28 22:05:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Writing-Testable-Maintainable-Code/"
 ---

@@ -4,7 +4,7 @@ title: "Enabling Mixed Mode Authentication in SQL Server"
 date: 2008-04-03 16:52:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Enabling-Mixed-Mode-Authentication-in-SQL-Server/"
 ---

@@ -4,7 +4,7 @@ title: "Software Engineering 101 in Cleveland"
 date: 2010-07-10 17:59:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Software-Engineering-101-in-Cleveland/"
 ---

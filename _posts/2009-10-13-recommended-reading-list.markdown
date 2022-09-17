@@ -4,7 +4,7 @@ title: "Recommended Reading List"
 date: 2009-10-13 10:03:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Recommended-Reading-List/"
 ---

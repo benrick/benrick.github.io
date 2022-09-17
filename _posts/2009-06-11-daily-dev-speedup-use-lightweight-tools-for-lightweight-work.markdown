@@ -4,7 +4,7 @@ title: "Daily Dev Speedup - Use Lightweight Tools for Lightweight Work"
 date: 2009-06-11 17:14:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Daily-Dev-Speedup-Use-Lightweight-Tools-for-Lightweight-Work/"
 ---

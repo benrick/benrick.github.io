@@ -4,7 +4,7 @@ title: "2014 Software Craftsmanship Calendar"
 date: 2013-10-15 10:31:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Calendar Topic", "Software Craftsmanship", "Announcement", "Antipattern", "Best Practices"]
 permalink: "/post/2014-Software-Craftsmanship-Calendar/"
 ---

@@ -4,7 +4,7 @@ title: "Accessing the ViewModel Inside a DataTemplate in Silverlight"
 date: 2010-10-06 10:40:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Accessing-the-ViewModel-Inside-a-DataTemplate-in-Silverlight/"
 ---

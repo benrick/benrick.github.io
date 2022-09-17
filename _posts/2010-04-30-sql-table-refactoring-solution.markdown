@@ -4,7 +4,7 @@ title: "Sql Table Refactoring Solution"
 date: 2010-04-30 16:02:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Sql-Table-Refactoring-Solution/"
 ---

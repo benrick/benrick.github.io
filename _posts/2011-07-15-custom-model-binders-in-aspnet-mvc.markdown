@@ -4,7 +4,7 @@ title: "Custom Model Binders in ASP.NET MVC"
 date: 2011-07-15 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["ASP.NET MVC", "Tips", "ASP.NET"]
 permalink: "/post/Custom-Model-Binders-in-ASPNET-MVC/"
 ---

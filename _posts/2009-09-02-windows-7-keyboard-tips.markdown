@@ -4,7 +4,7 @@ title: "Windows 7 Keyboard Tips"
 date: 2009-09-02 09:29:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Windows-7-Keyboard-Tips/"
 ---

@@ -4,7 +4,7 @@ title: "Change Local SQL Server Used By Visual Studio"
 date: 2009-01-08 11:06:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Change-Local-SQL-Server-Used-By-Visual-Studio/"
 ---

@@ -4,7 +4,7 @@ title: "Write a Test Before Fixing a Bug"
 date: 2009-01-14 09:43:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Write-a-Test-Before-Fixing-a-Bug/"
 ---

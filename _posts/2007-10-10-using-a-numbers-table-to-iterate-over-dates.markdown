@@ -4,7 +4,7 @@ title: "Using a Numbers Table to Iterate Over Dates"
 date: 2007-10-10 15:31:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Using-a-Numbers-Table-to-Iterate-Over-Dates/"
 ---

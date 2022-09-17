@@ -4,7 +4,7 @@ title: "Simple C# Stack Implementation"
 date: 2007-10-09 15:27:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-C-Stack-Implementation/"
 ---

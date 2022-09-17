@@ -4,7 +4,7 @@ title: "Default Azure Storage Information"
 date: 2008-11-04 14:33:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Default-Azure-Storage-Information/"
 ---

@@ -4,7 +4,7 @@ title: "Using Fiddler with Mozilla Firefox"
 date: 2008-10-17 20:23:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Using-Fiddler-with-Mozilla-Firefox/"
 ---

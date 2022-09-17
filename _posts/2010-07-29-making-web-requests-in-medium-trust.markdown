@@ -4,7 +4,7 @@ title: "Making Web Requests in Medium Trust"
 date: 2010-07-29 11:03:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 alias: ["/post/making-web-requests-in-medium-trust"]
 ---

@@ -4,7 +4,7 @@ title: "TODO Comments - Code Audits #9"
 date: 2012-07-13 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Code Audits", "DaysOfCodeAudits", "Comments"]
 permalink: "/post/TODO-Comments-Code-Audits-9/"
 ---

@@ -4,7 +4,7 @@ title: "Handling Password Recovery"
 date: 2008-06-13 16:36:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Handling-Password-Recovery/"
 ---

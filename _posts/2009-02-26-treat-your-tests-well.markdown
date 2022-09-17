@@ -4,7 +4,7 @@ title: "Treat Your Tests Well"
 date: 2009-02-26 09:11:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog", "Blog", "Blog", "Blog"]
 permalink: "/post/Treat-Your-Tests-Well/"
 ---

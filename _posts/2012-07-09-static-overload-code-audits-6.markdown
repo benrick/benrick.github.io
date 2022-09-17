@@ -4,7 +4,7 @@ title: "Static Overload - Code Audits #6"
 date: 2012-07-09 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Code Audits", "DaysOfCodeAudits"]
 permalink: "/post/Static-Overload-Code-Audits-6/"
 ---

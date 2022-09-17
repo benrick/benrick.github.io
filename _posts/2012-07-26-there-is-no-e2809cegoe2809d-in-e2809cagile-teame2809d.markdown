@@ -4,7 +4,7 @@ title: "There is no “ego” in “Agile Team”"
 date: 2012-07-26 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Agile", "Agile Software Development", "Pair Programming", "Programming"]
 permalink: "/post/There-is-no-e2809cegoe2809d-in-e2809cAgile-Teame2809d/"
 ---

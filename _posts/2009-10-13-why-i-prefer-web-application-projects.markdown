@@ -4,7 +4,7 @@ title: "Why I Prefer Web Application Projects"
 date: 2009-10-13 10:20:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Why-I-Prefer-Web-Application-Projects/"
 ---

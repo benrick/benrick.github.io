@@ -4,7 +4,7 @@ title: "Little Bobby Tables"
 date: 2007-12-12 20:02:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Little-Bobby-Tables/"
 ---

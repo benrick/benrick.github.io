@@ -4,7 +4,7 @@ title: "Code Snippets Found Online"
 date: 2009-06-01 10:09:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Code-Snippets-Found-Online/"
 ---

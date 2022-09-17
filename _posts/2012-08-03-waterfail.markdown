@@ -4,7 +4,7 @@ title: "Waterfail"
 date: 2012-08-03 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Software Craftsmanship", "Calendar Topic", "Waterfall", "Agile"]
 permalink: "/post/Waterfail/"
 ---

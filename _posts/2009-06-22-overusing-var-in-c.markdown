@@ -4,7 +4,7 @@ title: "Overusing var in C#"
 date: 2009-06-22 09:37:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Overusing-var-in-C/"
 ---

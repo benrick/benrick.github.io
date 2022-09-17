@@ -4,7 +4,7 @@ title: "Unable to cast object of type 'Microsoft.VisualStudio.TestTools.UnitTest
 date: 2008-01-22 16:26:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Unable-to-cast-object-of-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection-to-type-MicrosoftVisualStudioTestToolsUnitTestingTestConfigurationSection/"
 ---

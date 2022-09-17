@@ -4,7 +4,7 @@ title: "ASP.NET Supports Valid HTML Attributes in its Tags"
 date: 2009-01-26 14:36:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/ASPNET-Supports-Valid-HTML-Attributes-in-its-Tags/"
 ---

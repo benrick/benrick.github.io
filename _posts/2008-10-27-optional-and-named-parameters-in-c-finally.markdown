@@ -4,7 +4,7 @@ title: "Optional and Named Parameters in C#.... Finally"
 date: 2008-10-27 22:37:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Optional-and-Named-Parameters-in-C-Finally/"
 ---

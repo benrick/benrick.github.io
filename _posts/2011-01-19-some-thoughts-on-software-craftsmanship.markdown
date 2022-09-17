@@ -4,7 +4,7 @@ title: "Some Thoughts on Software Craftsmanship"
 date: 2011-01-19 09:30:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Software Craftsmanship"]
 permalink: "/post/Some-Thoughts-on-Software-Craftsmanship/"
 ---

@@ -4,7 +4,7 @@ title: "Let Others Work on Your Code"
 date: 2010-05-05 08:30:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Let-Others-Work-on-Your-Code/"
 ---

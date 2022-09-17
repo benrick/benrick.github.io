@@ -4,7 +4,7 @@ title: ".NET Developer Cheat Sheets"
 date: 2008-11-28 19:28:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/NET-Developer-Cheat-Sheets/"
 ---

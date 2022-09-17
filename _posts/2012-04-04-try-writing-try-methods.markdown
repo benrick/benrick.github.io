@@ -4,7 +4,7 @@ title: "Try Writing Try Methods"
 date: 2012-04-04 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["C#", ".NET", "Software Craftsmanship", "Best Practices", "Continuous Improvement"]
 permalink: "/post/Try-Writing-Try-Methods/"
 ---

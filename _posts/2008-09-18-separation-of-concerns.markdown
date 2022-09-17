@@ -4,7 +4,7 @@ title: "Separation of Concerns"
 date: 2008-09-18 14:24:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Separation-of-Concerns/"
 ---

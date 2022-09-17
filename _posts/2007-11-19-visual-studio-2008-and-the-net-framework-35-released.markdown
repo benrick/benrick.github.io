@@ -4,7 +4,7 @@ title: "Visual Studio 2008 and the .NET Framework 3.5 Released"
 date: 2007-11-19 19:48:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Visual-Studio-2008-and-the-NET-Framework-35-Released/"
 ---

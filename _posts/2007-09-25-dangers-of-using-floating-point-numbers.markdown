@@ -4,7 +4,7 @@ title: "Dangers of Using Floating Point Numbers"
 date: 2007-09-25 15:55:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Dangers-of-Using-Floating-Point-Numbers/"
 ---

@@ -4,7 +4,7 @@ title: "Go Try NuGet. Seriously."
 date: 2011-03-10 09:32:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["NuGet"]
 permalink: "/post/Go-Try-NuGet-Seriously/"
 ---

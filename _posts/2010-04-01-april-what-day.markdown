@@ -4,7 +4,7 @@ title: "April What Day?"
 date: 2010-04-01 08:13:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/April-What-Day/"
 ---

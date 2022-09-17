@@ -4,7 +4,7 @@ title: "Don’t Repeat Yourself with Copy Paste Programming"
 date: 2015-06-12 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Software Craftsmanship", "Calendar Topic", "DRY"]
 permalink: "/post/Dont-Repeat-Yourself-with-Copy-Paste-Programming/"
 ---

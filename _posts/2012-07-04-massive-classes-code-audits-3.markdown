@@ -4,7 +4,7 @@ title: "Massive Classes - Code Audits #3"
 date: 2012-07-04 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["DaysOfCodeAudits", "Code Audits", "Single Responsibility Principle"]
 permalink: "/post/Massive-Classes-Code-Audits-3/"
 ---

@@ -4,7 +4,7 @@ title: "Installing SQL Server Management Studio with SQL Server"
 date: 2007-09-24 20:31:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Installing-SQL-Server-Management-Studio-with-SQL-Server/"
 ---

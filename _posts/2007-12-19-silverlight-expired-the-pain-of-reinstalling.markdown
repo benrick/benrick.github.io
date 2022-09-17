@@ -4,7 +4,7 @@ title: "Silverlight Expired The Pain of Reinstalling"
 date: 2007-12-19 17:45:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Silverlight-Expired-The-Pain-of-Reinstalling/"
 ---

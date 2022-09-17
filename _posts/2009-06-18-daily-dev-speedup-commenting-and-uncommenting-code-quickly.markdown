@@ -4,7 +4,7 @@ title: "Daily Dev Speedup - Commenting and Uncommenting Code Quickly"
 date: 2009-06-18 08:52:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Daily-Dev-Speedup-Commenting-and-Uncommenting-Code-Quickly/"
 ---

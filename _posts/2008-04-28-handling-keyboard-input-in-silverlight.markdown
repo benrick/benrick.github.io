@@ -4,7 +4,7 @@ title: "Handling Keyboard Input in Silverlight"
 date: 2008-04-28 17:30:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Handling-Keyboard-Input-in-Silverlight/"
 ---

@@ -4,7 +4,7 @@ title: "What’s New in C# 6 - My Course on DevIQ"
 date: 2017-01-25 15:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["C#", "C# 6", "DevIQ", "Development", ".NET", "Programming", "Announcement"]
 permalink: "/post/Whats-New-in-C-6-My-Course-on-DevIQ/"
 ---

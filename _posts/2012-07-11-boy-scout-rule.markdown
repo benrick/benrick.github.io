@@ -4,7 +4,7 @@ title: "Boy Scout Rule"
 date: 2012-07-11 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Software Craftsmanship", "Calendar Topic"]
 permalink: "/post/Boy-Scout-Rule/"
 ---

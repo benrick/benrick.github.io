@@ -4,7 +4,7 @@ title: "Overloading Implicit Conversions with Generics in C#"
 date: 2009-09-16 10:55:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Overloading-Implicit-Conversions-with-Generics-in-C/"
 ---

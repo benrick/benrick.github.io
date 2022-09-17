@@ -4,7 +4,7 @@ title: "Foreach, IEnumerable, IEnumerator, and Duck Typing"
 date: 2012-01-27 10:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["C#", "IEnumerable", "Duck Typing", "IEnumerator", "Fun"]
 permalink: "/post/Foreach-IEnumerable-IEnumerator-and-Duck-Typing/"
 ---

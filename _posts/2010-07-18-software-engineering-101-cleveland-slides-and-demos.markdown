@@ -4,7 +4,7 @@ title: "Software Engineering 101 Cleveland Slides and Demos"
 date: 2010-07-18 20:26:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Software-Engineering-101-Cleveland-Slides-and-Demos/"
 ---

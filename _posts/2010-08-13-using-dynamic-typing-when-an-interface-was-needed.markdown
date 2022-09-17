@@ -4,7 +4,7 @@ title: "Using Dynamic Typing When an Interface was Needed"
 date: 2010-08-13 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Using-Dynamic-Typing-When-an-Interface-was-Needed/"
 ---

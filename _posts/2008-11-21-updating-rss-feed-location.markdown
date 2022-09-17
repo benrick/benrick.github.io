@@ -4,7 +4,7 @@ title: "Updating RSS Feed Location"
 date: 2008-11-21 13:07:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Updating-RSS-Feed-Location/"
 ---

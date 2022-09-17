@@ -4,7 +4,7 @@ title: "Programming Information Titled Security"
 date: 2008-04-15 15:38:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Programming-Information-Titled-Security/"
 ---

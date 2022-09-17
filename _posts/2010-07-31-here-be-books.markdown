@@ -4,7 +4,7 @@ title: "Here be Books"
 date: 2010-07-31 14:59:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Here-be-Books/"
 ---

@@ -4,7 +4,7 @@ title: "Where Should Test Classes Go?"
 date: 2008-11-25 22:35:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Where-Should-Test-Classes-Go/"
 ---

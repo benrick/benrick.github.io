@@ -4,7 +4,7 @@ title: "Feature Creep"
 date: 2012-07-05 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Software Craftsmanship", "Feature Creep", "Calendar Topic", "Anti-Principle"]
 permalink: "/post/Feature-Creep/"
 ---

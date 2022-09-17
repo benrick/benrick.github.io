@@ -4,7 +4,7 @@ title: "SimpleCMS on CodePlex"
 date: 2007-11-13 17:38:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/SimpleCMS-on-CodePlex/"
 ---

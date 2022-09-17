@@ -4,7 +4,7 @@ title: "Wire up your ViewModels using a Service Locator"
 date: 2010-10-24 14:57:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Wire-up-your-ViewModels-using-a-Service-Locator/"
 ---

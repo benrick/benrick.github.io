@@ -4,7 +4,7 @@ title: "Common Reuse Principle"
 date: 2012-04-02 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Common Reuse Principle", "Calendar Topic"]
 permalink: "/post/Common-Reuse-Principle/"
 ---

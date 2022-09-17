@@ -4,7 +4,7 @@ title: "Recent Article Writing"
 date: 2009-03-03 17:38:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Recent-Article-Writing/"
 ---

@@ -4,7 +4,7 @@ title: "What’s New in C# 7- My Course on DevIQ"
 date: 2017-08-24 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["C#", "C# 7", "Development", "DevIQ", ".NET", "Programming", "Announcement"]
 permalink: "/post/Whats-New-in-C-7-My-Course-on-DevIQ/"
 ---

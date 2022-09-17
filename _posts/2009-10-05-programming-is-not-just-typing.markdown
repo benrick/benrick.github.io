@@ -4,7 +4,7 @@ title: "Programming is Not Just Typing"
 date: 2009-10-05 09:10:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Programming-is-Not-Just-Typing/"
 ---

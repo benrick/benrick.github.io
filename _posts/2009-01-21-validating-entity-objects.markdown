@@ -4,7 +4,7 @@ title: "Validating Entity objects"
 date: 2009-01-21 14:22:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Validating-Entity-objects/"
 ---

@@ -4,7 +4,7 @@ title: "Return Within a C# Using Statement"
 date: 2008-05-22 14:38:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Return-Within-a-C-Using-Statement/"
 ---

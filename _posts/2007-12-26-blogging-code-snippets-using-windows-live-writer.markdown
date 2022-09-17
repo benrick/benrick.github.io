@@ -4,7 +4,7 @@ title: "Blogging Code Snippets Using Windows Live Writer"
 date: 2007-12-26 05:52:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Blogging-Code-Snippets-Using-Windows-Live-Writer/"
 ---

@@ -4,7 +4,7 @@ title: "Daily Dev Speedup - Working With Words"
 date: 2009-06-02 15:52:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Daily-Dev-Speedup-Working-With-Words/"
 ---

@@ -4,7 +4,7 @@ title: "My Article is Popular"
 date: 2009-01-21 13:58:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/My-Article-is-Popular/"
 ---

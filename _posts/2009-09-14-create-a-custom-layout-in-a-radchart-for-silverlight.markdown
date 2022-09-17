@@ -4,7 +4,7 @@ title: "Create a Custom Layout in a RadChart for Silverlight"
 date: 2009-09-14 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Create-a-Custom-Layout-in-a-RadChart-for-Silverlight/"
 ---

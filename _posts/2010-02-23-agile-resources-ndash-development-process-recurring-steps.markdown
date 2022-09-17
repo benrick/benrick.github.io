@@ -4,7 +4,7 @@ title: "Agile Resources - Development Process Recurring Steps"
 date: 2010-02-23 15:34:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Agile-Resources-ndash-Development-Process-Recurring-Steps/"
 ---

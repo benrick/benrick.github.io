@@ -4,7 +4,7 @@ title: "Returning From Inside a Using Statement"
 date: 2008-11-21 23:59:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Returning-From-Inside-a-Using-Statement/"
 ---

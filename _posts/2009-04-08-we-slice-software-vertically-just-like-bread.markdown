@@ -4,7 +4,7 @@ title: "We Slice Software Vertically Just Like Bread"
 date: 2009-04-08 10:42:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/We-Slice-Software-Vertically-Just-Like-Bread/"
 ---

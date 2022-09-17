@@ -4,7 +4,7 @@ title: "The Most Important Refactorings"
 date: 2008-12-02 11:33:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/The-Most-Important-Refactorings/"
 ---

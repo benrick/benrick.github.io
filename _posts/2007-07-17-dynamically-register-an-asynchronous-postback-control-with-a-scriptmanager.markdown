@@ -4,7 +4,7 @@ title: "Dynamically Register an Asynchronous Postback Control with a ScriptManag
 date: 2007-07-17 20:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Dynamically-Register-an-Asynchronous-Postback-Control-with-a-ScriptManager/"
 ---

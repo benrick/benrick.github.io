@@ -4,7 +4,7 @@ title: "Agile Resources - The Agile Actors"
 date: 2010-02-24 10:01:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Agile-Resources-ndash-The-Agile-Actors/"
 ---

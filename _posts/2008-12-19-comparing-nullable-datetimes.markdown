@@ -4,7 +4,7 @@ title: "Comparing Nullable DateTimes"
 date: 2008-12-19 09:52:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Comparing-Nullable-DateTimes/"
 ---

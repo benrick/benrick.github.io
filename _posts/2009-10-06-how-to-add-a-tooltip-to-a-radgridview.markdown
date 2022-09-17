@@ -4,7 +4,7 @@ title: "How to Add a ToolTip to a RadGridView"
 date: 2009-10-06 13:23:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/How-to-Add-a-ToolTip-to-a-RadGridView/"
 ---

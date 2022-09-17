@@ -4,7 +4,7 @@ title: "Everyone Should Have a Continuous Integration Server"
 date: 2009-06-11 17:44:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Everyone-Should-Have-a-Continuous-Integration-Server/"
 ---

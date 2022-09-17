@@ -4,7 +4,7 @@ title: "Old Blog Favorites"
 date: 2008-12-17 10:56:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Old-Blog-Favorites/"
 ---

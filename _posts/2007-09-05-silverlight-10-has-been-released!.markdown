@@ -4,7 +4,7 @@ title: "Silverlight 1.0 has been released!"
 date: 2007-09-05 14:27:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Silverlight-10-has-been-released!/"
 ---

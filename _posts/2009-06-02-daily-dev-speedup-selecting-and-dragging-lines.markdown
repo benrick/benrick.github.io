@@ -4,7 +4,7 @@ title: "Daily Dev Speedup - Selecting and Dragging Lines"
 date: 2009-06-02 09:24:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Daily-Dev-Speedup-Selecting-and-Dragging-Lines/"
 ---

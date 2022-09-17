@@ -4,7 +4,7 @@ title: "An Explanation of Interfaces in C# for Beginners"
 date: 2007-12-11 15:19:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/An-Explanation-of-Interfaces-in-C-for-Beginners/"
 ---

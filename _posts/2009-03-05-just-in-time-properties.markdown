@@ -4,7 +4,7 @@ title: "Just In Time Properties"
 date: 2009-03-05 20:07:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Just-In-Time-Properties/"
 ---

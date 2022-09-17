@@ -4,7 +4,7 @@ title: "One Reason to Test Before Creating a Method"
 date: 2008-12-04 10:18:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/One-Reason-to-Test-Before-Creating-a-Method/"
 ---

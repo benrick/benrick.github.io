@@ -4,7 +4,7 @@ title: "Fast Beats Right, a Principle of Mediocre Programming"
 date: 2009-10-08 15:19:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Fast-Beats-Right-a-Principle-of-Mediocre-Programming/"
 ---

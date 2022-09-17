@@ -4,7 +4,7 @@ title: "Visual Studio 2010 Beta 2 is Here"
 date: 2009-10-21 14:59:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Visual-Studio-2010-Beta-2-is-Here/"
 ---

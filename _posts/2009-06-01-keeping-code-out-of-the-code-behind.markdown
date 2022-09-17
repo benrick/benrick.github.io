@@ -4,7 +4,7 @@ title: "Keeping Code Out of the Code Behind"
 date: 2009-06-01 13:52:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Keeping-Code-Out-of-the-Code-Behind/"
 ---

@@ -4,7 +4,7 @@ title: "A New Face for RegExLib"
 date: 2007-12-12 16:55:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/A-New-Face-for-RegExLib/"
 ---

@@ -4,7 +4,7 @@ title: "w00t! The Word of the Year is Awesome"
 date: 2007-12-13 03:47:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/w00t!-The-Word-of-the-Year-is-Awesome/"
 ---

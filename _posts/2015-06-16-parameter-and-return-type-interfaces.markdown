@@ -4,7 +4,7 @@ title: "Parameter and Return Type Interfaces"
 date: 2015-06-16 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["SOLID", "Software Craftsmanship", "Interfaces", "Tips"]
 permalink: "/post/Parameter-and-Return-Type-Interfaces/"
 ---

@@ -4,7 +4,7 @@ title: "Knowing the Default Access Modifiers in C#"
 date: 2007-11-29 19:21:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Knowing-the-Default-Access-Modifiers-in-C/"
 ---

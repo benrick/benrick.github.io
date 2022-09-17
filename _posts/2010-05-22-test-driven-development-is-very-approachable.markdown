@@ -4,7 +4,7 @@ title: "Test Driven Development is Very Approachable"
 date: 2010-05-22 17:01:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Test-Driven-Development-is-Very-Approachable/"
 ---

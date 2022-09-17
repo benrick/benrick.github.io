@@ -4,7 +4,7 @@ title: "My 2010 ASP.NET MVP Award"
 date: 2010-01-01 13:44:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/My-2010-ASPNET-MVP-Award/"
 ---

@@ -4,7 +4,7 @@ title: "Have you tried the Toughest Developer Puzzle Ever?"
 date: 2010-06-03 08:43:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Have-you-tried-the-Toughest-Developer-Puzzle-Ever/"
 ---

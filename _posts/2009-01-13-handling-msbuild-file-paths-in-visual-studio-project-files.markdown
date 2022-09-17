@@ -4,7 +4,7 @@ title: "Handling msbuild File Paths in Visual Studio Project Files"
 date: 2009-01-13 10:47:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Handling-msbuild-File-Paths-in-Visual-Studio-Project-Files/"
 ---

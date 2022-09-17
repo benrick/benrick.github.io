@@ -4,7 +4,7 @@ title: "Storing and Retrieving Serialized Data with Azure Blob Storage"
 date: 2008-11-14 15:18:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Storing-and-Retrieving-Serialized-Data-with-Azure-Blob-Storage/"
 ---

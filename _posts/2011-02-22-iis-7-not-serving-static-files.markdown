@@ -4,7 +4,7 @@ title: "IIS 7 Not Serving Static Files"
 date: 2011-02-22 09:59:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["IIS"]
 permalink: "/post/IIS-7-Not-Serving-Static-Files/"
 ---

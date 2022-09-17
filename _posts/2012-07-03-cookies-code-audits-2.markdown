@@ -4,7 +4,7 @@ title: "Cookies - Code Audits #2"
 date: 2012-07-03 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["DaysOfCodeAudits", "Code Audits", "Cookies"]
 permalink: "/post/Cookies-Code-Audits-2/"
 ---

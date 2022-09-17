@@ -4,7 +4,7 @@ title: "Throwing Away Return Values"
 date: 2008-10-21 18:08:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Throwing-Away-Return-Values/"
 ---

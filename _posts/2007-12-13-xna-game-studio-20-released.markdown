@@ -4,7 +4,7 @@ title: "XNA Game Studio 2.0 Released"
 date: 2007-12-13 21:38:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/XNA-Game-Studio-20-Released/"
 ---

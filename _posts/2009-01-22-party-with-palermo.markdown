@@ -4,7 +4,7 @@ title: "Party with Palermo"
 date: 2009-01-22 08:48:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Party-with-Palermo/"
 ---

@@ -4,7 +4,7 @@ title: "User Group Fluidity"
 date: 2010-05-22 17:31:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/User-Group-Fluidity/"
 ---

@@ -4,7 +4,7 @@ title: "Public Strongly Typed Resource Generator"
 date: 2007-10-16 17:30:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Public-Strongly-Typed-Resource-Generator/"
 ---

@@ -4,7 +4,7 @@ title: "Code Coverage Is Not Enough"
 date: 2008-11-19 10:55:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Code-Coverage-Is-Not-Enough/"
 ---

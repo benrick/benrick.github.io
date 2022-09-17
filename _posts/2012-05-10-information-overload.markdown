@@ -4,7 +4,7 @@ title: "Information Overload"
 date: 2012-05-10 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Conferences", "StirTrek"]
 permalink: "/post/Information-Overload/"
 ---

@@ -4,7 +4,7 @@ title: "Productive Typing"
 date: 2009-06-01 09:32:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Productive-Typing/"
 ---

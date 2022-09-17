@@ -4,7 +4,7 @@ title: "Good Teams Focus on the Team"
 date: 2012-03-19 13:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Agile", "Team", "Best Practices"]
 permalink: "/post/Good-Teams-Focus-on-the-Team/"
 ---

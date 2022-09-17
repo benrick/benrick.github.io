@@ -4,7 +4,7 @@ title: "Silverlight Attached Properties"
 date: 2009-02-03 11:12:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Silverlight-Attached-Properties/"
 ---

@@ -4,7 +4,7 @@ title: "Null Reference Exception on Instance Methods"
 date: 2009-10-14 10:17:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Null-Reference-Exception-on-Instance-Methods/"
 ---

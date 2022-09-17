@@ -4,7 +4,7 @@ title: "Descriptive Icons - GitHub Tips 2"
 date: 2014-07-15 18:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["GitHub", "Git", "Source Control", "Tips"]
 permalink: "/post/Descriptive-Icons-GitHub-Tips-2/"
 ---

@@ -4,7 +4,7 @@ title: "A Note on ASP.NET Session"
 date: 2008-09-20 22:13:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/A-Note-on-ASPNET-Session/"
 ---

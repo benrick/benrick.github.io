@@ -4,7 +4,7 @@ title: "Working with the Default Layout of Silverlight RadCharts"
 date: 2009-10-27 14:49:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Working-with-the-Default-Layout-of-Silverlight-RadCharts/"
 ---

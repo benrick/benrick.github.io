@@ -4,7 +4,7 @@ title: "Simple Dependency Injection"
 date: 2008-12-02 18:26:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-Dependency-Injection/"
 ---

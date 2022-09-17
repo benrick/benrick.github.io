@@ -4,7 +4,7 @@ title: "Build OpenAccess Project Using MSBuild on a Machine Without OpenAccess I
 date: 2009-09-15 17:07:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Build-OpenAccess-Project-Using-MSBuild-on-a-Machine-Without-OpenAccess-Installed/"
 ---

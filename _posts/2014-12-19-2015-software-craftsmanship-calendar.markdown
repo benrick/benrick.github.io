@@ -4,7 +4,7 @@ title: "2015 Software Craftsmanship Calendar"
 date: 2014-12-19 15:30:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Software Craftsmanship"]
 permalink: "/post/2015-Software-Craftsmanship-Calendar/"
 ---

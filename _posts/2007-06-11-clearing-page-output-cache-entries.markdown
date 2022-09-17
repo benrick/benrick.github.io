@@ -4,7 +4,7 @@ title: "Clearing Page Output Cache Entries"
 date: 2007-06-11 19:14:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Clearing-Page-Output-Cache-Entries/"
 ---

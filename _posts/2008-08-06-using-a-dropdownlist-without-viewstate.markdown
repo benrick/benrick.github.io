@@ -4,7 +4,7 @@ title: "Using a DropDownList without ViewState"
 date: 2008-08-06 14:09:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Using-a-DropDownList-without-ViewState/"
 ---

@@ -4,7 +4,7 @@ title: "Show Your Customer Unfinished Products"
 date: 2010-05-01 10:44:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Show-Your-Customer-Unfinished-Products/"
 ---

@@ -4,7 +4,7 @@ title: "Making The Software Craftsmanship Calendar Images"
 date: 2015-06-23 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Calendar Topic", "Software Craftsmanship", "Announcement", "Agile", "Agile Software Development", "Anti-Principle", "Antipattern"]
 permalink: "/post/Making-The-Software-Craftsmanship-Calendar-Images/"
 ---

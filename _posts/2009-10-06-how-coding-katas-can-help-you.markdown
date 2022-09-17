@@ -4,7 +4,7 @@ title: "How Coding Katas Can Help You"
 date: 2009-10-06 13:51:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/How-Coding-Katas-Can-Help-You/"
 ---

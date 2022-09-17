@@ -4,7 +4,7 @@ title: "How to Change or Remove the No Data Series Message in a RadChart for Sil
 date: 2009-09-14 14:01:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/How-to-Change-or-Remove-the-No-Data-Series-Message-in-a-RadChart-for-Silverlight/"
 ---

@@ -4,7 +4,7 @@ title: "Drag Drop Repo - GitHub Tips 5"
 date: 2014-07-18 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["GitHub", "Git", "Source Control", "Tips"]
 permalink: "/post/Drag-Drop-Repo-GitHub-Tips-5/"
 ---

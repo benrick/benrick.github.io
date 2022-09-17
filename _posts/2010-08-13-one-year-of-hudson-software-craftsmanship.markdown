@@ -4,7 +4,7 @@ title: "One Year of Hudson Software Craftsmanship"
 date: 2010-08-13 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/One-Year-of-Hudson-Software-Craftsmanship/"
 ---

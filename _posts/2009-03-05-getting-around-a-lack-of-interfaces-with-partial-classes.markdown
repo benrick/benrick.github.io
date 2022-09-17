@@ -4,7 +4,7 @@ title: "Getting Around a Lack of Interfaces With Partial Classes"
 date: 2009-03-05 16:58:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Getting-Around-a-Lack-of-Interfaces-With-Partial-Classes/"
 ---

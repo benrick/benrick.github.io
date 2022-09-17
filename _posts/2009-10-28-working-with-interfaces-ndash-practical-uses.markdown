@@ -4,7 +4,7 @@ title: "Working with Interfaces - Practical Uses"
 date: 2009-10-28 09:10:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Working-with-Interfaces-ndash-Practical-Uses/"
 ---

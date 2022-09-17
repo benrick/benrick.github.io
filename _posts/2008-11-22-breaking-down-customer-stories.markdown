@@ -4,7 +4,7 @@ title: "Breaking Down Customer Stories"
 date: 2008-11-22 13:28:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Breaking-Down-Customer-Stories/"
 ---

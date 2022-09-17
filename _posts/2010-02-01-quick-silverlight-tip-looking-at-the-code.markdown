@@ -4,7 +4,7 @@ title: "Quick Silverlight Tip: Looking at the code"
 date: 2010-02-01 14:18:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Quick-Silverlight-Tip-Looking-at-the-code/"
 ---

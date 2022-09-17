@@ -4,7 +4,7 @@ title: "Silverlight Web Analytics: First Look"
 date: 2009-12-21 15:16:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Silverlight-Web-Analytics-First-Look/"
 ---

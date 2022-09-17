@@ -4,7 +4,7 @@ title: "Three Years of Software Craftsmanship"
 date: 2012-08-01 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["HudsonSC"]
 permalink: "/post/Three-Years-of-Software-Craftsmanship/"
 ---

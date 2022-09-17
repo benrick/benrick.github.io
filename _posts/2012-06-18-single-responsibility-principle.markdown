@@ -4,7 +4,7 @@ title: "Single Responsibility Principle"
 date: 2012-06-18 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Calendar Topic", "Single Responsibility Principle"]
 permalink: "/post/Single-Responsibility-Principle/"
 ---

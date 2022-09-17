@@ -4,7 +4,7 @@ title: "Dependency Injection Frameworks"
 date: 2008-09-08 20:34:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Dependency-Injection-Frameworks/"
 ---

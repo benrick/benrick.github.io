@@ -4,7 +4,7 @@ title: "My First CodeMash"
 date: 2010-01-21 10:05:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/My-First-CodeMash/"
 ---

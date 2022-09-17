@@ -4,7 +4,7 @@ title: "Change SQL Server Instance for Visual Studio Database Project"
 date: 2008-04-02 21:39:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Change-SQL-Server-Instance-for-Visual-Studio-Database-Project/"
 ---

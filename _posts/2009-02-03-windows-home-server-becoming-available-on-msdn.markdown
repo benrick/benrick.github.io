@@ -4,7 +4,7 @@ title: "Windows Home Server Becoming Available on MSDN"
 date: 2009-02-03 09:19:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Windows-Home-Server-Becoming-Available-on-MSDN/"
 ---

@@ -4,7 +4,7 @@ title: "See More Recent Projects in Visual Studio"
 date: 2008-05-24 23:10:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/See-More-Recent-Projects-in-Visual-Studio/"
 ---

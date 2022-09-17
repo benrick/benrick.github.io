@@ -4,7 +4,7 @@ title: "Time-Tested Testing Tips - Part 3"
 date: 2009-05-20 09:23:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Time-Tested-Testing-Tips-Part-3/"
 ---

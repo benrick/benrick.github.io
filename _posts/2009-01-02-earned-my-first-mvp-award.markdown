@@ -4,7 +4,7 @@ title: "Earned My First MVP Award"
 date: 2009-01-02 21:40:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Earned-My-First-MVP-Award/"
 ---

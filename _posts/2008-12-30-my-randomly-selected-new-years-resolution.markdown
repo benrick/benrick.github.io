@@ -4,7 +4,7 @@ title: "My Randomly Selected New Year's Resolution"
 date: 2008-12-30 09:40:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/My-Randomly-Selected-New-Years-Resolution/"
 ---

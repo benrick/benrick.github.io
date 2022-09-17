@@ -4,7 +4,7 @@ title: "Join Our Team"
 date: 2014-06-30 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Announcement", "Clear Measure"]
 permalink: "/post/Join-Our-Team/"
 ---

@@ -4,7 +4,7 @@ title: "Creating a Game Loop Using Silverlight"
 date: 2008-04-24 15:58:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Creating-a-Game-Loop-Using-Silverlight/"
 ---

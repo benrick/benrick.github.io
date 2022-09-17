@@ -4,7 +4,7 @@ title: "Organizing Software Projects"
 date: 2009-02-12 20:16:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Organizing-Software-Projects/"
 ---

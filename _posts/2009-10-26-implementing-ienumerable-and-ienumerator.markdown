@@ -4,7 +4,7 @@ title: "Implementing IEnumerable and IEnumerator"
 date: 2009-10-26 17:47:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Implementing-IEnumerable-and-IEnumerator/"
 ---

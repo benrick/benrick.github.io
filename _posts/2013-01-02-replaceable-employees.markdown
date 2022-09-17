@@ -4,7 +4,7 @@ title: "Replaceable Employees"
 date: 2013-01-02 10:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Employees", "Bus-Factor"]
 permalink: "/post/Replaceable-Employees/"
 ---

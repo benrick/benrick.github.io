@@ -4,7 +4,7 @@ title: "Users Don't Read Your Text"
 date: 2009-10-27 15:16:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Users-Donrsquo3bt-Read-Your-Text/"
 ---

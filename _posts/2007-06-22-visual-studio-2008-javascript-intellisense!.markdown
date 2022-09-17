@@ -4,7 +4,7 @@ title: "Visual Studio 2008 JavaScript Intellisense!"
 date: 2007-06-22 14:25:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Visual-Studio-2008-JavaScript-Intellisense!/"
 ---

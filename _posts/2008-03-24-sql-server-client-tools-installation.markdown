@@ -4,7 +4,7 @@ title: "SQL Server Client Tools Installation"
 date: 2008-03-24 22:33:00 -0400
 comments: true
 published: true
-categories: ["blog", "Archive"]
+categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/SQL-Server-Client-Tools-Installation/"
 ---
