@@ -17,6 +17,7 @@ permalink: "/post/Custom-GitHub-Pages-Domain-with-Google-Domains/"
 ## Intro
 
 I recently set up my blog on GitHub pages, but I didn't want the `*.github.io` domain name. I have some of my domains in Google Domains, so I decided to set one of those up and write this tutorial for you after setting it up. Follow these steps and you too can have a custom domain.
+<!-- more -->
 
 ## Step 0: Build a GitHub Pages Site and Own a Domain with Google Domains
 

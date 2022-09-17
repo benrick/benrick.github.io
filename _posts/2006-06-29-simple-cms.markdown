@@ -8,9 +8,6 @@ categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-CMS/"
 ---
-<!-- more -->
-
-
 
 <p>&nbsp;&nbsp;&nbsp; Lately I have been working on a simple content management system. This CMS will not be like a lot of what is currently available. The software applications that currently exist tend to be applications which <em>are</em> the site. Simple CMS will plug into an existing web page. This is beneficial because it will allow people who have one or more web sites to quickly and easily add content to that site.</p>
 <p>&nbsp;&nbsp;&nbsp; So far I have been able to keep the install down to one executed SQL script, a dll file, and some copying and pasting into a web.config. This may be changing a bit as I add more to the functionality of the system.</p>
