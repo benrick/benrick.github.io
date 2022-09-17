@@ -4,7 +4,7 @@ title: "Fake Binary Clocks"
 date: 2008-05-16 16:15:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Fake-Binary-Clocks/"
 ---

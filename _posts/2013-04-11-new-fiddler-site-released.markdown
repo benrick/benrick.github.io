@@ -4,7 +4,7 @@ title: "New Fiddler Site Released"
 date: 2013-04-11 14:30:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Fiddler"]
 permalink: "/post/New-Fiddler-Site-Released/"
 ---

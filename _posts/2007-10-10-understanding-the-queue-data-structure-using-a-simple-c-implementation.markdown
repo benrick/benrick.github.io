@@ -4,7 +4,7 @@ title: "Understanding the Queue Data Structure Using a Simple C# Implementation"
 date: 2007-10-10 19:34:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Understanding-the-Queue-Data-Structure-Using-a-Simple-C-Implementation/"
 ---

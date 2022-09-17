@@ -4,12 +4,14 @@ title: "Recommended Reading List"
 date: 2009-10-13 10:03:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Recommended-Reading-List/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Just like many other developers I know, I have a stack of books I intend to read high enough that I could not hope to finish them ever. I know that the stack will increase in size as fast as I finish the books. I have plenty of technical books I intend to read as well as a large quantity of those which are purely for my own entertainment.</p>
 <h3>Required Developer Reading</h3>
 <p>I think it is very important to continue reading and learning to be a better developer. Here at Nimble Pros we make sure that our developers know what they should be reading, so every time we hire someone I make sure that they get there hands on these books. While not <em>required</em>, we <em>highly encourage</em> our developers to take the time to read these excellent books.</p>

@@ -4,7 +4,7 @@ title: "Creating a Recursive FindControl Extension Method"
 date: 2008-03-31 16:29:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Creating-a-Recursive-FindControl-Extension-Method/"
 ---

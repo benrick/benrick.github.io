@@ -4,7 +4,7 @@ title: "Visual Studio Extensibility"
 date: 2007-11-14 15:11:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Visual-Studio-Extensibility/"
 ---

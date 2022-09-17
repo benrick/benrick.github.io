@@ -4,7 +4,7 @@ title: "Massive Multiplied Methods - Code Audits #5"
 date: 2012-07-06 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Code Audits", "DaysOfCodeAudits", "Single Responsibility Principle", "DRY"]
 permalink: "/post/Massive-Multiplied-Methods-Code-Audits-5/"
 ---

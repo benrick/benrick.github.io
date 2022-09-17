@@ -4,7 +4,7 @@ title: "Ball Flow Recap: CodeMash Coding Dojo"
 date: 2012-01-30 10:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["CodeMash", "Code Katas", "Ball Flow", "Coding Dojo", "Speaking"]
 permalink: "/post/Ball-Flow-Recap-CodeMash-Coding-Dojo/"
 ---

@@ -4,7 +4,7 @@ title: "The Clean Coder Review"
 date: 2012-05-31 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Books", "Review", "Software Craftsmanship", "Agile", "Programming"]
 permalink: "/post/The-Clean-Coder-Review/"
 ---

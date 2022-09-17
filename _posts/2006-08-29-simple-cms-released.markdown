@@ -4,7 +4,7 @@ title: "Simple CMS Released"
 date: 2006-08-29 15:38:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-CMS-Released/"
 ---

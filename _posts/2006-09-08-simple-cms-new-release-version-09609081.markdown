@@ -4,7 +4,7 @@ title: "Simple CMS New Release Version 0.9.60908.1"
 date: 2006-09-08 20:47:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-CMS-New-Release-Version-09609081/"
 ---

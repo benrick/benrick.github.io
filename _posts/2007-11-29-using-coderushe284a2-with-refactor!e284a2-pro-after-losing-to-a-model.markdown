@@ -4,7 +4,7 @@ title: "Using CodeRush™ with Refactor!™ Pro After Losing to a Model"
 date: 2007-11-29 16:53:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Using-CodeRushe284a2-with-Refactor!e284a2-Pro-After-Losing-to-a-Model/"
 ---

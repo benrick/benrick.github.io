@@ -4,7 +4,7 @@ title: "Constant Search Engine Optimization"
 date: 2006-11-15 20:25:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Constant-Search-Engine-Optimization/"
 ---

@@ -4,12 +4,14 @@ title: "Breaking Down Customer Stories"
 date: 2008-11-22 13:28:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Breaking-Down-Customer-Stories/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Creating stories to work on is an integral task in agile software development. These stories are what the team of developers will be working on for the iteration. Where do the stories come from? Well, through discussion with the development team, the customer says what he wants. What types of stories does the customer ask for most of the time? The customer asks for epics. What makes them epics? They're just too large.</p>
 <p>When writing software in an agile manner it is important to have very small pieces. You want something that can be completed quickly and delivered to the customer. Sure, it might be a small piece that isn't of much value yet, but that is good. The fact that it is small means that you can be constantly finishing pieces of the project. If your stories are too large you'll only be delivering at the end of the iteration. That's just not cool.</p>
 <p><a href="http://stevesmithblog.com/" target="_blank">Steve Smith</a> wrote a great blog post where he discusses very well <a href="http://stevesmithblog.com/blog/stories-too-big-ndash-vertical-slices/" target="_blank">how to break epics into vertically sliced stories</a>. One major reason that doing this is of great advantage to you is that you will be able to get feedback from the customer. In Steve's example he talks about a registration page which is loaded with extra data including multiple addresses, contact info, and possibly other pieces. I can see a customer wanting to have something like this. So there are two ways we can approach splitting this up.</p>

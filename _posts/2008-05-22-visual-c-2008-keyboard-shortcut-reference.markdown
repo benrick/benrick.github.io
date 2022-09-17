@@ -4,7 +4,7 @@ title: "Visual C# 2008 Keyboard Shortcut Reference"
 date: 2008-05-22 16:27:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Visual-C-2008-Keyboard-Shortcut-Reference/"
 ---

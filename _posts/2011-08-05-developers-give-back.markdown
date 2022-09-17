@@ -4,7 +4,7 @@ title: "Developers Give Back"
 date: 2011-08-05 14:09:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["GiveCamp"]
 permalink: "/post/Developers-Give-Back/"
 ---

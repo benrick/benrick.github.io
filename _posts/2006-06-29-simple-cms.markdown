@@ -4,7 +4,7 @@ title: "Simple CMS"
 date: 2006-06-29 20:29:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-CMS/"
 ---

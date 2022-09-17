@@ -4,7 +4,7 @@ title: "Simple CMS Plug-in for ASP.NET Update Released"
 date: 2007-03-23 14:45:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-CMS-Plug-in-for-ASPNET-Update-Released/"
 ---

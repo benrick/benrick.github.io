@@ -4,7 +4,7 @@ title: "Building an MVC Gaming Statistics Site &ndash; Setting Up the Project"
 date: 2009-09-26 17:36:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Building-an-MVC-Gaming-Statistics-Site-ndash-Setting-Up-the-Project/"
 ---

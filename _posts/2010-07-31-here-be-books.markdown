@@ -4,12 +4,14 @@ title: "Here be Books"
 date: 2010-07-31 14:59:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Here-be-Books/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p><a href="http://stevesmithblog.com/blog/books/" target="_blank">Steve Smith tagged me with his books post</a> last week, which was his response to <a href="http://codinggeekette.com/post/Books-Check-Em-Out!.aspx" target="_blank">Sadukie&rsquo;s post on books</a>. I will of course keep this modern chain letter going. Here be <span style="text-decoration: line-through;">dragons</span> books.</p>
 <p><strong>Currently and just finished reading</strong>:&nbsp; I just visited my local library and picked up a copy of <a href="http://www.amazon.com/gp/product/0553095404/ref=as_li_ss_tl?ie=UTF8&tag=breenrsblo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0553095404">Planet of Twilight</a><img src="http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0553095404&camp=217145&creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, which is the third book in a Star Wars trilogy. I&rsquo;ve recently finished reading the second book of the same trilogy, <a href="http://www.amazon.com/gp/product/0553576119/ref=as_li_ss_tl?ie=UTF8&tag=breenrsblo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0553576119">Darksaber</a><img src="http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0553576119&camp=217145&creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. Although I don&rsquo;t like the name &ldquo;Darksaber,&rdquo; it is a well-written, entertaining book. My wife tells me, however, that I will not find the same to be true of <em>Planet of Twilight</em>.</p>
 <p>On the technical side of things I&rsquo;ve just started reading <a href="http://www.amazon.com/gp/product/0131857258/ref=as_li_ss_tl?ie=UTF8&tag=breenrsblo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0131857258">Agile Principles, Patterns, and Practices in C#</a><img src="http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0131857258&camp=217145&creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, which lines up very well with a lot of the techniques I use in my day-to-day development, and I will be adding it to <a href="/post/Recommended-Reading-List.aspx" target="_blank">my required reading list</a> shortly.</p>

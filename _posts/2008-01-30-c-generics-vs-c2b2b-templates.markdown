@@ -4,7 +4,7 @@ title: "C# Generics vs C++ Templates"
 date: 2008-01-30 14:44:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/C-Generics-vs-C2b2b-Templates/"
 ---

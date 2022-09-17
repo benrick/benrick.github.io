@@ -4,7 +4,7 @@ title: "Copy Paste Programming"
 date: 2012-09-26 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Antipattern", "Calendar Topic"]
 permalink: "/post/Copy-Paste-Programming/"
 ---

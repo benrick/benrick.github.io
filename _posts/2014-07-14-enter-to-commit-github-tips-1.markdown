@@ -4,7 +4,7 @@ title: "Enter To Commit - GitHub Tips 1"
 date: 2014-07-14 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["GitHub", "Source Control", "Tips", "Git"]
 permalink: "/post/Enter-To-Commit-GitHub-Tips-1/"
 ---

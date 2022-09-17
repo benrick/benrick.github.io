@@ -4,7 +4,7 @@ title: "Fun with IL DASM and Duck Typing"
 date: 2012-02-01 10:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["C#", "Duck Typing", "ILDASM", "IL", "Fun"]
 permalink: "/post/Fun-with-IL-DASM-and-Duck-Typing/"
 ---

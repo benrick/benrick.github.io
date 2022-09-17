@@ -4,12 +4,14 @@ title: "April What Day?"
 date: 2010-04-01 08:13:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/April-What-Day/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>The day I&rsquo;ve been waiting for has finally arrived. The Internet has made the first day of April into a fun day, which is different from the opinions of many who believe the day to be mean-spirited. Well I recommend you surf around today so you don&rsquo;t miss these.</p>
 <h3>XKCD</h3>
 <p><a href="http://xkcd.com/" target="_blank">One of the best comics I&rsquo;ve ever read</a> has a great little gag for today. The whole site is UNIX. You can use commands like &ldquo;ls&rdquo; and &ldquo;clear&rdquo; you can also &ldquo;cat&rdquo; files. Navigating between comics has commands. And if you want to get someone to <a href="http://xkcd.com/149/" target="_blank">make you a sandwich</a>. You can use this command, &ldquo;sudo make me a sandwich&rdquo;.</p>

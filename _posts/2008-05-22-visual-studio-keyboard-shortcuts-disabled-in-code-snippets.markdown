@@ -4,7 +4,7 @@ title: "Visual Studio Keyboard Shortcuts Disabled in Code Snippets"
 date: 2008-05-22 21:10:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Visual-Studio-Keyboard-Shortcuts-Disabled-in-Code-Snippets/"
 ---

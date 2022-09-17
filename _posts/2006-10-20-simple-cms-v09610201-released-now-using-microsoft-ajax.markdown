@@ -4,7 +4,7 @@ title: "Simple CMS v0.9.61020.1 Released. Now using Microsoft AJAX."
 date: 2006-10-20 20:47:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-CMS-v09610201-Released-Now-using-Microsoft-AJAX/"
 ---

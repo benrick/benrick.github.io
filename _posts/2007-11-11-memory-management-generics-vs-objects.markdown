@@ -4,7 +4,7 @@ title: "Memory Management: Generics vs objects"
 date: 2007-11-11 20:15:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Memory-Management-Generics-vs-objects/"
 ---

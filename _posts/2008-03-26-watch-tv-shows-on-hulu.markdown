@@ -4,7 +4,7 @@ title: "Watch TV Shows on Hulu"
 date: 2008-03-26 14:57:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Watch-TV-Shows-on-Hulu/"
 ---

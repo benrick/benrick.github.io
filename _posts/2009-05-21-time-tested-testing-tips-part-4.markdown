@@ -4,12 +4,14 @@ title: "Time-Tested Testing Tips - Part 4"
 date: 2009-05-21 22:20:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Time-Tested-Testing-Tips-Part-4/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Rather than spending the time with needless introduction, I think I&rsquo;ll just jump right in today. I&rsquo;ve got a few tips I am going to post today.</p>
 <h3>Reproduce Bugs Using Unit Tests</h3>
 <p>Yes, this is another test driven development method. When you&rsquo;re looking for a bug, it is very common to try to reproduce it. What you might try to do instead of doing this is reproduce the bug manually, fix the bug, and then write a test to prevent it. Well I think that is a pretty bad way of doing things. Reason number one is DRY; don&rsquo;t repeat yourself. Why did you reproduce it once manually and once automatically? I also wonder how you know you&rsquo;ve written the test correctly. If it never failed you can&rsquo;t be certain you&rsquo;re testing the bug.</p>

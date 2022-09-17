@@ -4,12 +4,14 @@ title: "Silverlight Web Analytics: First Look"
 date: 2009-12-21 15:16:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Silverlight-Web-Analytics-First-Look/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Anyone who has ever run a web site or a blog has probably taken a look at analytics packages to see who is visiting. I&rsquo;ve recently been working on a very exciting project with Telerik, developing an application to provide this valuable information to bloggers and content creators.</p>
 <p>To get things started we decided to tackle some of the basics first by asking these few questions:</p>
 <ul>

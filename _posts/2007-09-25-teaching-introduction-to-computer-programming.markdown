@@ -4,7 +4,7 @@ title: "Teaching Introduction to Computer Programming"
 date: 2007-09-25 14:47:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Teaching-Introduction-to-Computer-Programming/"
 ---

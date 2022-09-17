@@ -4,7 +4,7 @@ title: "My New Development Setup"
 date: 2014-07-07 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Development", "Technology"]
 permalink: "/post/My-New-Development-Setup/"
 ---

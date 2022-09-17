@@ -4,12 +4,14 @@ title: "Agile Resources – Velocity and Capacity Explained"
 date: 2010-02-23 13:57:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Agile-Resources-Velocity-and-Capacity-Explained/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Velocity and Capacity are two terms commonly used for determining <em>how much work a team can perform in a given amount of time</em>. Agile development is customer-focused development, and as such it is important to know for small periods of time how much a team can achieve.</p>
 <h3>Determining Velocity</h3>
 <p>A teams velocity is an estimate of how much work it usually completes in a given time period. The figure is based on how much work a team has completed recently. Velocity is usually measured in either hours of points. Agile teams determine how they will be measuring the time and difficulty of tasks, whether they use a point system or a number of hours is up to them.</p>

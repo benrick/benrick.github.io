@@ -4,7 +4,7 @@ title: "Copying Data From SQL Server Management Studio"
 date: 2007-11-30 18:16:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Copying-Data-From-SQL-Server-Management-Studio/"
 ---

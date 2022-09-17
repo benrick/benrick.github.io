@@ -4,12 +4,14 @@ title: "User Group Fluidity"
 date: 2010-05-22 17:31:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/User-Group-Fluidity/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p><a href="http://hudsonsc.com/" target="_blank"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; margin-left: 0px; border-left-width: 0px; margin-right: 0px" title="hudsonsc-logo" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/UserGroupFluidity_F675/hudsonsc-logo_3.gif" border="0" alt="hudsonsc-logo" width="240" height="62" align="right" /></a> Last year, <a href="http://stevesmithblog.com/" target="_blank">Steve Smith</a>, Rich Henning, and I started a local user group called <a href="http://hudsonsc.com/" target="_blank">HudsonSC</a>. As a software craftsmanship group, we focus our efforts on improving one&rsquo;s abilities as a developer. I&rsquo;m not sure I can say enough about the need for developers to practice and learn to increase their abilities. Developers are providing a service in the form of software development. We should be proud of what we achieve through our efforts.</p>
 <p>Our last meeting of our Software Craftsmanship group focused on the idea that software development is not the creation of things, but a service which when provided results in a new thing every time. We have this great topic and great meeting of the group thanks to a great idea and presentation from <a href="http://twitter.com/mfalanga" target="_blank">Michael Falanga</a>. I will say that he is almost as good as <a href="http://twitter.com/kevinkuebler" target="_blank">Kevin Kuebler</a> at keeping his talks short. <a href="http://www.slideshare.net/mfalanga/software-as-a-service-4175510" target="_blank">Michael&rsquo;s slides</a> are available on SlideShare.</p>
 <p>My favorite part of the talk was the comment that, &ldquo;we&rsquo;re not building cars. We are creating something new each time.&rdquo; This I think is a very important point to make, and I agree with it. I don&rsquo;t make the same thing every time. I am using techniques I&rsquo;ve learned, and those aren&rsquo;t the same techniques as anyone else. We all do things a little bit differently, and we&rsquo;re all creating different implementations of the same kinds of things.</p>

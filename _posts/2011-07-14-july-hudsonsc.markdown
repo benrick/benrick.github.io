@@ -4,7 +4,7 @@ title: "July HudsonSC"
 date: 2011-07-14 09:37:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["HudsonSC", "Events"]
 permalink: "/post/July-HudsonSC/"
 ---

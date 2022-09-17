@@ -4,12 +4,14 @@ title: "Simple Dependency Injection"
 date: 2008-12-02 18:26:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-Dependency-Injection/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Dependency injection is an important concept for anyone to understand before trying to get into test driven development. Recently I've noticed that lots of people are trying to get into agile practices of software development. They're writing tests, and plenty of them are writing integration tests instead of unit tests.</p>
 <h3>Integration Tests Versus Unit Tests</h3>
 <p>When testing there are two main types of tests which are created. The ones most people write are integration tests, and this I attribute to their not knowing about dependency injection. If your code contains too many dependencies you will not be able to write unit tests.</p>

@@ -4,7 +4,7 @@ title: "Expression Blend Issue with Abstract Base Classes"
 date: 2009-10-28 17:22:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Expression-Blend-Issue-with-Abstract-Base-Classes/"
 ---

@@ -4,7 +4,7 @@ title: "Generic List AddRange, Remove, and Count Performance"
 date: 2007-08-02 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Generic-List-AddRange-Remove-and-Count-Performance/"
 ---

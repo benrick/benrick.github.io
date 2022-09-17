@@ -4,7 +4,7 @@ title: "Simple Lazy Loading"
 date: 2007-05-31 16:06:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Simple-Lazy-Loading/"
 ---

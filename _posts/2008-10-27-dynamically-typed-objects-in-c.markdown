@@ -4,7 +4,7 @@ title: "Dynamically Typed Objects in C#"
 date: 2008-10-27 22:28:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Dynamically-Typed-Objects-in-C/"
 ---

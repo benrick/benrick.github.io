@@ -4,7 +4,7 @@ title: "My Review of one of AppDev's training courses"
 date: 2006-08-15 14:58:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/My-Review-of-one-of-AppDevs-training-courses/"
 ---

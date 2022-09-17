@@ -4,12 +4,14 @@ title: "Choosing A Dependency Injection Pattern"
 date: 2009-05-19 11:02:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Choosing-A-Dependency-Injection-Pattern/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>There are a few patterns you can follow when writing code which injects dependencies; constructor, property, and method injection. Which way is the best one to use? I don't really know for certain, but I can talk a little bit about the differences and some of the benefits of each. I am sure this behaves as most situations do with certain ones perform better in certain situations.</p>
 <h4>Constructor Injection</h4>
 <p>In this form of injection we pass the dependency into the object using its constructor. Before creating an instance of our object we have to get instances of all of the dependent objects required by the class and pass them in.</p>

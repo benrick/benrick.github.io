@@ -4,7 +4,7 @@ title: "Static Mocking with JustMock"
 date: 2012-03-23 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["JustMock", "Mocking", "Static Mock"]
 permalink: "/post/Static-Mocking-with-JustMock/"
 ---

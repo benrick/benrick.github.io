@@ -4,12 +4,14 @@ title: "Handling msbuild File Paths in Visual Studio Project Files"
 date: 2009-01-13 10:47:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Handling-msbuild-File-Paths-in-Visual-Studio-Project-Files/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Yesterday, a co-worker of mine and I were working on a task which required that we work in the xml of a Visual Studio project file. We were setting up a target with an exec statement, and ran into a little annoyance. The file we were trying to execute was in a folder with a space in the name.</p>
 <p>If we were typing this into a command prompt window it would be easy. We would simply wrap the statement in quotes. Working in the project file our brains sort of stopped working. We tried to find a way to escape the spaces in the file path. Instead of doing this in the end we used the xml encoding for a quote. We used <strong>&amp;quot;</strong> to wrap the path in quotes. Yipee everything worked!</p>
 <p>Today we were doing some similar work, and ran into another problem in these files. We want our msbuild stuff to work with both 32-bit and 64-bit machines. The code we are calling is always 32-bit, so we need to use a different file path depending on which type of machine we are using. We found this post on stack overflow from a person who found a way to <a href="http://stackoverflow.com/questions/346175/use-32bit-program-files-directory-in-msbuild" target="_blank">specify the 32bit directory for program files in msbuild</a>. The post on there is asking for a better solution, so I will also ask people to provide a better solution.</p>

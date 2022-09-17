@@ -4,12 +4,14 @@ title: "Keep Binaries in Source Control"
 date: 2010-04-29 17:14:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Keep-Binaries-in-Source-Control/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>No, not all of them. Just the ones required for your build process. Doing this will make your life a lot easier. You want to reference all of your assemblies locally and keep them in source control. You also want all of your testing executables kept there. If you have anything extra your build process depends on make sure you include that as well. A great example is a post I did about <a href="/post/2009/09/15/Build-OpenAccess-Project-Using-MSBuild-on-a-Machine-Without-OpenAccess-Installed.aspx" target="_blank">building a library which uses OpenAccess on a build server</a>. The build server of course doesn&rsquo;t have OpenAccess installed. That would be crazy.</p>
 <p>You get a lot of great benefits out of keeping these files local and in source control. Since libraries change infrequently, they will not require much source control storage space. This also means that when updating from source control you will rarely have to wait for an update. If you do have to wait you probably needed it anyway, and would have just been waiting on an Internet download instead.</p>
 <h3>Build Server Benefits</h3>

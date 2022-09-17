@@ -4,7 +4,7 @@ title: "Upgrading to XtraReports version 7.3.6.0"
 date: 2008-02-28 14:40:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Upgrading-to-XtraReports-version-7360/"
 ---

@@ -4,12 +4,14 @@ title: "Comparing Nullable DateTimes"
 date: 2008-12-19 09:52:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Comparing-Nullable-DateTimes/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>A couple of days ago I was working on some code when I noticed a comparisons of two DateTime? variables. So I wondered what would happen if either or both of those variables had gotten null values. Since I had never tried it before I figured I would just take a couple of minutes and test some things. Since I already had visual studio open I just created a unit test and wrote some code in there to test the behavior. I've not done it in a console application since it is easier for most people to use the console app version of the code.</p>
 <p>So the first thing to do is to create a few Nullable DateTime variables. I then wrote a small amount of completely unnecessary code. I did this to assure the readers of this post that the assumption that the Nullable variables' HasValue properties is correct. I then proceed with a bunch of test cases some of which are unnecessary, but I believe they help demonstrate the point.</p>
 <p>My task for readers of this post is to try to figure out the results of this code before reading the answer below.</p>

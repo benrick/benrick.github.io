@@ -4,7 +4,7 @@ title: "Embedded Resources not so painful anymore."
 date: 2006-07-21 20:29:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Embedded-Resources-not-so-painful-anymore/"
 ---

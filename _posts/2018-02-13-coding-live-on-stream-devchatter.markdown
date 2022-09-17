@@ -4,7 +4,7 @@ title: "Coding Live on Stream - DevChatter"
 date: 2018-02-13 15:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["DevChatter", "Development", "Programming", "Programming Exercises", "Katas", "Code Katas", "Announcement", "Announcement"]
 permalink: "/post/Coding-Live-on-Stream-DevChatter/"
 ---

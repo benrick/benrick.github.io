@@ -4,7 +4,7 @@ title: "Accessing Controls inside of Templated Controls"
 date: 2007-10-26 15:03:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Accessing-Controls-inside-of-Templated-Controls/"
 ---

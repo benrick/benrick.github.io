@@ -4,7 +4,7 @@ title: "Linking to the \"I'm Feeling Lucky\" Google Search"
 date: 2008-03-26 19:33:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Linking-to-the-Im-Feeling-Lucky-Google-Search/"
 ---

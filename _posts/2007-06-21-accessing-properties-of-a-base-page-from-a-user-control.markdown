@@ -4,7 +4,7 @@ title: "Accessing Properties of a Base Page from a User Control"
 date: 2007-06-21 17:42:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Accessing-Properties-of-a-Base-Page-from-a-User-Control/"
 ---

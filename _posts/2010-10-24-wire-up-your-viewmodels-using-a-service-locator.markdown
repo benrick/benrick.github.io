@@ -4,12 +4,14 @@ title: "Wire up your ViewModels using a Service Locator"
 date: 2010-10-24 14:57:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Wire-up-your-ViewModels-using-a-Service-Locator/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>No MVVM solution is complete without having the DataContext bound to a ViewModel, but this wouldn’t be a fun development community if there were not some disagreement on the specifics of how to achieve certain goals. I will be recommending how I like to wire up ViewModels. There are other ways of doing this, but I will explain some of the reasons I use this method.</p>  <p>You can start by building a View that needs to have certain traits in its ViewModel and then create a well-tested ViewModel separately. This ViewModel should have all of the properties and data required by the View. Make sure you also have any commands or other functionality the View will require. It is then your job to make the connection between these two objects. The way I like doing this is by using a Service Locator to give my View the ViewModel it needs. This also gives me a good centralized location where I can make sure that my ViewModels are wired up the way I need them to be.</p>  <p>To create our service model we are going to need to create a class which has methods returning the ViewModels we are using in our Views. We should have one getter per ViewModel to be requested. I tend to use names matching the name of the ViewModel for the getters. The service locator will look a bit like this when you’re done. (You can also use an IoC container in the service locator, which is what I do in all of my production code. In that case you would just use the IoC container rather than instantiating the object as is done in this example.)</p>  <h4>Code Listing 1 – The Service Locator:</h4>  <div id="codeSnippetWrapper">   <pre style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: #f4f4f4; margin: 0em; padding-left: 0px; width: 100%; padding-right: 0px; font-family: 'Courier New', courier, monospace; direction: ltr; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px" id="codeSnippet"><span style="color: #0000ff">public</span> <span style="color: #0000ff">class</span> ServiceLocator<br>{<br>    <span style="color: #0000ff">public</span> AwesomeViewModel AwesomeViewModel<br>    {<br>        get { <span style="color: #0000ff">return</span> <span style="color: #0000ff">new</span> AwesomeViewModel(); }<br>    }<br>}<br></pre>
 
   <br></div>

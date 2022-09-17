@@ -4,12 +4,14 @@ title: "My First CodeMash"
 date: 2010-01-21 10:05:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/My-First-CodeMash/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>As a late adopter of <a href="http://codemash.org/" target="_blank">CodeMash</a> I can say that version 2.0.1.0 was a great event. There were hundreds of developers there ready to learn and try new things. The intelligent, interesting people sparked many worthwhile conversations. If you&rsquo;re in the area around Sandusky, Ohio, I highly recommend that you attend the next CodeMash.</p>
 <h3>Not Your Everyday Conference</h3>
 <p>I was very pleased with how things were handled with CodeMash. It didn&rsquo;t feel like the standard &ldquo;sit in your seat while someone talks at you for an hour&rdquo;. I really think that involving people is the best way to spread knowledge. One of my favorite quotes touches on this perfectly.</p>

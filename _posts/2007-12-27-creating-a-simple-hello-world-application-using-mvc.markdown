@@ -4,7 +4,7 @@ title: "Creating a Simple Hello World Application Using MVC"
 date: 2007-12-27 20:25:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Creating-a-Simple-Hello-World-Application-Using-MVC/"
 ---

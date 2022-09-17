@@ -4,12 +4,14 @@ title: "Let Others Work on Your Code"
 date: 2010-05-05 08:30:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Let-Others-Work-on-Your-Code/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Don&rsquo;t be overprotective of your source code. Allow others to make modifications, improvements, refactorings, and even defects (as long as those get fixed immediately). I am talking about two different Extreme Programming practices here: collective code ownership and pair programming. A non-developer friend of mine has been reading about agile software development and asked me last week about pair programming, "do you guys do this 'pair programming' thing?"</p>
 <p>I think even among developers the pair programming concept is one of the strangest aspects of extreme programming.</p>
 <p>Yes, a lot of agile development teams use pair programming. We even equip our facilities to make pairing easier. Our computers have 2 large monitors, 2 keyboards, and 2 mice. Some teams pass the keyboard and mouse back and forth, and that works just as well.</p>

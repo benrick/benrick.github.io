@@ -4,7 +4,7 @@ title: "The Science of Great UI"
 date: 2017-06-01 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["UX", "UI", "Design", "DevIQ"]
 permalink: "/post/The-Science-of-Great-UI/"
 ---

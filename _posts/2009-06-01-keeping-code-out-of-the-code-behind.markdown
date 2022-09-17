@@ -4,12 +4,14 @@ title: "Keeping Code Out of the Code Behind"
 date: 2009-06-01 13:52:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Keeping-Code-Out-of-the-Code-Behind/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>In ASP.NET development (and yes even in MVC) each page is able to have associated code. This is traditionally (before MVC) how someone would add code to a page. This was much nicer than what was seen a lot on the classic ASP days when a lot of code would be littered between HTML controls.</p>
 <p>However, when one is introducing code into the code behind great care must be taken. This is because the code behind is really not the location where most logic goes. If we take a moment to think about what the ".aspx" file is, we will probably come up with something along the lines of, "the file where we decide how we're going to display things to the user." So this is about display issues.</p>
 <p>Should it know anything about a database?</p>

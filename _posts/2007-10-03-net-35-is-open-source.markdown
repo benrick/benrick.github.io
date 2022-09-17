@@ -4,7 +4,7 @@ title: ".NET 3.5 is Open Source"
 date: 2007-10-03 17:39:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/NET-35-is-Open-Source/"
 ---

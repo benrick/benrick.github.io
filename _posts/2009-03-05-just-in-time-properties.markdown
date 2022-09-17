@@ -4,12 +4,14 @@ title: "Just In Time Properties"
 date: 2009-03-05 20:07:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Just-In-Time-Properties/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Properties with backing fields can easily be null. I often see properties which check the backing field to see if it is null. This is commonly done with an if statement with one line of initialization. One way to get around this is to use the coalescing operator in C#. If we use this in combination with an expressions, which might be a method, we are able to easily handle this property with one line.</p>
 <p>Here is an example of what I am talking about.</p>
 <div>

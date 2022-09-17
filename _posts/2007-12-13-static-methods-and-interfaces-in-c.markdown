@@ -4,7 +4,7 @@ title: "Static Methods and Interfaces in C#"
 date: 2007-12-13 14:39:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Static-Methods-and-Interfaces-in-C/"
 ---

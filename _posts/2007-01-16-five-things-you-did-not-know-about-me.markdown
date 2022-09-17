@@ -4,7 +4,7 @@ title: "Five Things you did not know about me"
 date: 2007-01-16 14:47:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Five-Things-you-did-not-know-about-me/"
 ---

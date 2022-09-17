@@ -4,7 +4,7 @@ title: "Separation of Code Responsibilities"
 date: 2008-09-16 20:18:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Separation-of-Code-Responsibilities/"
 ---

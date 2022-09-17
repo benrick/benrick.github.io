@@ -4,7 +4,7 @@ title: "Windows Vista DreamScene Only Works with 1 Monitor"
 date: 2008-03-21 16:38:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Windows-Vista-DreamScene-Only-Works-with-1-Monitor/"
 ---

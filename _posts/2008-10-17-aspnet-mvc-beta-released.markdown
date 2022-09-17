@@ -4,7 +4,7 @@ title: "ASP.NET MVC Beta Released"
 date: 2008-10-17 18:33:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/ASPNET-MVC-Beta-Released/"
 ---

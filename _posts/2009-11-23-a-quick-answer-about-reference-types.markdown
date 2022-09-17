@@ -4,12 +4,14 @@ title: "A Quick Answer About Reference Types"
 date: 2009-11-23 09:14:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/A-Quick-Answer-About-Reference-Types/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Reference types were created to make dealing with pointers a little bit easier. They hide away the details of the pointers, so that the programmer need not think about them. In many ways I think they&rsquo;re awesome, because they really achieve that goal. The problem is that by abstracting away the details of the pointers they&rsquo;re sometimes <em>difficult</em> to work with, because they can be a little bit confusing.</p>
 <p>I received a comment about this topic on one of my <a href="http://aspalliance.com/" target="_blank">ASP Alliance</a> articles explaining <a href="http://aspalliance.com/1682_What_to_Know_About_Value_Types_and_Reference_Types_in_C" target="_blank">value types and reference types in C#</a>.</p>
 <blockquote>

@@ -4,7 +4,7 @@ title: "Unpacking Tuples in Python"
 date: 2007-12-11 17:37:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Unpacking-Tuples-in-Python/"
 ---

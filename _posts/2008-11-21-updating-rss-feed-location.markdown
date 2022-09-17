@@ -4,12 +4,14 @@ title: "Updating RSS Feed Location"
 date: 2008-11-21 13:07:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Updating-RSS-Feed-Location/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I have set up a new feed on feedburner. I am hoping most of my readers will be willing to switch to the new RSS feed. <a title="http://feeds.feedburner.com/BrendanEnrick" href="http://feeds.feedburner.com/BrendanEnrick">http://feeds.feedburner.com/BrendanEnrick</a></p>
 <p>Please update your subscription to <a title="http://feeds.feedburner.com/BrendanEnrick" href="http://feeds.feedburner.com/BrendanEnrick">http://feeds.feedburner.com/BrendanEnrick</a></p>
 <p>Looking forward to posting more and better content since this blog should be easier for me to use.</p>

@@ -4,12 +4,14 @@ title: "Sql Table Refactoring Solution"
 date: 2010-04-30 16:02:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Sql-Table-Refactoring-Solution/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Steve Smith posted an interesting <a href="http://stevesmithblog.com/blog/sql-table-refactoring-challenge/" target="_blank">SQL Table Refactoring Challenge</a> on his blog. I am prepared to go out on a limb and share my solution for how to make a table more efficient.</p>
 <p>The first step I would take is to change the columns of the table a little bit.</p>
 <ul>

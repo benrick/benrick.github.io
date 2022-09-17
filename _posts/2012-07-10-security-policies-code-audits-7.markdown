@@ -4,7 +4,7 @@ title: "Security Policies - Code Audits #7"
 date: 2012-07-10 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Code Audits", "DaysOfCodeAudits"]
 permalink: "/post/Security-Policies-Code-Audits-7/"
 ---

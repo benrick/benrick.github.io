@@ -4,7 +4,7 @@ title: "Defining Progress in Software Development"
 date: 2008-10-15 21:15:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Defining-Progress-in-Software-Development/"
 ---

@@ -4,7 +4,7 @@ title: "Tests Not Executed In Test Results"
 date: 2008-05-23 21:42:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Tests-Not-Executed-In-Test-Results/"
 ---

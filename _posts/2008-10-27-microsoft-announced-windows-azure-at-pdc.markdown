@@ -4,7 +4,7 @@ title: "Microsoft Announced Windows Azure at PDC"
 date: 2008-10-27 19:02:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Microsoft-Announced-Windows-Azure-at-PDC/"
 ---

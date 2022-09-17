@@ -4,7 +4,7 @@ title: "Using the as Statement to Cast Without Exceptions in C#"
 date: 2007-12-04 02:58:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Using-the-as-Statement-to-Cast-Without-Exceptions-in-C/"
 ---

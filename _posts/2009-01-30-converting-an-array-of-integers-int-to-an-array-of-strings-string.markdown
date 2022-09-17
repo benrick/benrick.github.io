@@ -4,12 +4,14 @@ title: "Converting an Array of Integers int[] to an Array of Strings string[]"
 date: 2009-01-30 09:56:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Converting-an-Array-of-Integers-int-to-an-Array-of-Strings-string/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I was working on a code snippet I plan to put into a blog post, and while writing it I needed to convert and array of integers to an array of strings. I try to think of a quick easy way to do this and none comes to mind. Well, I of course know that I could just loop through them and convert them from ints to strings, but that is really lame especially when I want the code to be small so I can put it in a blog post.</p>
 <p>So there are a few options that present themselves when you are looking for a method to help you out.</p>
 <ul>

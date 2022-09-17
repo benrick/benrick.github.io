@@ -4,7 +4,7 @@ title: "Overusing Interfaces and Injection"
 date: 2011-11-29 10:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Dependency Injection", "DI", "Best Practices", "Tips"]
 permalink: "/post/Overusing-Interfaces-and-Injection/"
 ---

@@ -4,7 +4,7 @@ title: "NimblePros is Hiring Developers"
 date: 2011-04-01 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["NimblePros"]
 permalink: "/post/NimblePros-is-Hiring-Developers/"
 ---

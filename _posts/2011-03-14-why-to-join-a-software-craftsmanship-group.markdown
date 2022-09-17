@@ -4,7 +4,7 @@ title: "Why to Join a Software Craftsmanship Group"
 date: 2011-03-14 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Software Craftsmanship"]
 permalink: "/post/Why-to-Join-a-Software-Craftsmanship-Group/"
 ---

@@ -4,7 +4,7 @@ title: "Introduction to Partial Classes"
 date: 2007-12-28 14:18:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Introduction-to-Partial-Classes/"
 ---

@@ -4,12 +4,14 @@ title: "The Art of Agile Development"
 date: 2010-07-31 10:06:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/The-Art-of-Agile-Development/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>A while back I started reading a copy of the Art of Agile Development, which is a great book. I was reading the book for more than one reason. I obviously wanted to learn more about how others approach agile development, but I was also looking for a book to recommend to other developers as well as to businesses.</p>  
 <p><a href="http://www.amazon.com/gp/product/0596527675/ref=as_li_ss_il?ie=UTF8&amp;tag=breenrsblo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0596527675"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=0596527675&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=breenrsblo-20&amp;ServiceVersion=20070822"></a><img src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0596527675&amp;camp=217145&amp;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
 </p>

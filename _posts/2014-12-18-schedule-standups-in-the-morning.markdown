@@ -4,7 +4,7 @@ title: "Schedule Standups in the Morning"
 date: 2014-12-18 15:30:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Agile", "Extreme Programming", "Kanban", "Stand Ups", "Tips"]
 permalink: "/post/Schedule-Standups-in-the-Morning/"
 ---

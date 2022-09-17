@@ -4,7 +4,7 @@ title: "Performance with DropDownLists and ViewState"
 date: 2008-02-29 17:38:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Performance-with-DropDownLists-and-ViewState/"
 ---

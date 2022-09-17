@@ -4,7 +4,7 @@ title: "Difference Between ViewBag and ViewData in MVC 3"
 date: 2011-08-10 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["ASP.NET", "ASP.NET MVC"]
 permalink: "/post/Difference-Between-ViewBag-and-ViewData-in-MVC-3/"
 ---

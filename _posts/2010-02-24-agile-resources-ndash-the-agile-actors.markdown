@@ -4,12 +4,14 @@ title: "Agile Resources - The Agile Actors"
 date: 2010-02-24 10:01:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Agile-Resources-ndash-The-Agile-Actors/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Agile development has a few roles that people will be playing. Those roles define certain responsibilities that the parties involved will need to take on. Each role serves an integral role in the development process.</p>
 <h3>Product Owner</h3>
 <p>This is the representative of the customer&rsquo;s interests. The product owner is responsible for knowing the details of all the work that needs to be done. When a developer has a question about how something should work in the system the product owner is the one with the answer.</p>

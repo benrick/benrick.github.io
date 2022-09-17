@@ -4,7 +4,7 @@ title: "SOLID Principles – Software Craftsmanship Calendar Topics"
 date: 2015-06-11 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Software Craftsmanship", "Calendar Topic", "SOLID", "Object Oriented Programming"]
 permalink: "/post/SOLID-Principles-Software-Craftsmanship-Calendar-Topics/"
 ---

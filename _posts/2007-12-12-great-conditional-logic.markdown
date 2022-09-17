@@ -4,7 +4,7 @@ title: "Great Conditional Logic"
 date: 2007-12-12 21:21:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Great-Conditional-Logic/"
 ---

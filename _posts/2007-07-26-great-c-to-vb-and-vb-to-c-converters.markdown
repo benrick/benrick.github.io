@@ -4,7 +4,7 @@ title: "Great C# to VB and VB to C# Converters"
 date: 2007-07-26 15:29:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Great-C-to-VB-and-VB-to-C-Converters/"
 ---

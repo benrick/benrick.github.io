@@ -4,12 +4,14 @@ title: "Testing Private Methods"
 date: 2008-12-02 18:07:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Testing-Private-Methods/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>In a previous post about <a href="/post/2008/11/25/Keeping-Large-Classes-in-Line.aspx" target="_blank">cutting large classes down in size</a> I mentioned that</p>
 <blockquote>
 <p>Sometimes there are methods kept private in a class. Some calculations are kept private because nothing should be calling those methods on this class. This is a good hint that the method belongs somewhere else. If the method is kept private because it doesn't make sense for a user of this class to use it, it belongs somewhere else.</p>

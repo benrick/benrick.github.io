@@ -4,12 +4,14 @@ title: "Code Coverage Is Not Enough"
 date: 2008-11-19 10:55:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Code-Coverage-Is-Not-Enough/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>When people write tests there is one metric I hear them mention quite often. Yes, you guessed it. Code coverage is mentioned by many people when talking about how well their code is tested. I believe this is a very useful metric, but as the title of this post states, code coverage is not enough. When testing code it is important to try to check all cases which are likely to be able to produce different results. Odd and interesting cases are important.</p>
 <p>Tests should be written to handle different cases which can occur. They should not be written to "cover the code". If you're handling the different cases you will also have code coverage. Notice the important difference here. Why don't we take a look at a nice example here.</p>
 <p>For the sake of this example we will assume we have 2 classes; medic and soldier. Medics are supposed to heal wounded soldiers and only wounded soldiers. To check this we will make a method for the medic so it can decide.</p>

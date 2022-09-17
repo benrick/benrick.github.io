@@ -4,7 +4,7 @@ title: "The Joys of Windows Live Writer"
 date: 2007-08-04 02:26:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/The-Joys-of-Windows-Live-Writer/"
 ---

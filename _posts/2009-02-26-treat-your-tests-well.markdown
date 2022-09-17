@@ -4,12 +4,14 @@ title: "Treat Your Tests Well"
 date: 2009-02-26 09:11:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog", "Blog", "Blog", "Blog"]
 permalink: "/post/Treat-Your-Tests-Well/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>There are a lot of people starting to test, and some of them seem to have this misconception that test code is less important because it is, "just test code". I don't know how they come up with this crazy idea, but it creates some pretty ugly tests. When following the principles of Test Driven Development, it is important to realize that you will come back to these tests. You will look at them when they fail, you will adjust them when logic changes, and others will read them especially when they are trying to learn the system.</p>
 <h4>Maintenance</h4>
 <p>At some point you could perform maintenance on any piece of code in your application. THIS INCLUDES YOUR TESTS. When you need to go in and change them it better be easy. There better be code reuse, variable names better be descriptive, and you really need to have things organized well enough for you to find what you're looking for.</p>

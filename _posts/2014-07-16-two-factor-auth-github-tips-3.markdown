@@ -4,7 +4,7 @@ title: "Two Factor Auth - GitHub Tips 3"
 date: 2014-07-16 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["GitHub", "Git", "Source Control", "Tips", "Security", "Authentication"]
 permalink: "/post/Two-Factor-Auth-GitHub-Tips-3/"
 ---

@@ -4,7 +4,7 @@ title: "Vista 64 Install Requires a DVD Device Driver"
 date: 2008-03-19 21:31:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Vista-64-Install-Requires-a-DVD-Device-Driver/"
 ---

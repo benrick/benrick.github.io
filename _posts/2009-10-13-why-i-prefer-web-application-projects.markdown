@@ -4,12 +4,14 @@ title: "Why I Prefer Web Application Projects"
 date: 2009-10-13 10:20:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Why-I-Prefer-Web-Application-Projects/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Over the summer, Nimble Pros brought on some new interns. We of course brought them up to speed on how we do things here. We like the integration process of bringing new employees into the mix immediately involving them in the process the entire team is involved with. To help get them up to speed we use a combination of pair-programming, book and article reading, and formal instruction.</p>
 <p>As I am sure anyone who uses Visual Studio for web development knows, there are two main ways to go about creating the site that you&rsquo;re going to develop. There is the web application project (WAP) and the web site (ignoring MVC of course).</p>
 <p>Back in the days of ASP.NET 1 there was only one way of doing things, web application projects. ASP.NET 2 got rid of WAPs and replaced them with web sites. Not entirely sure why, but it did not take long before Microsoft added Web Application Projects back into the mix. These were able to be installed and added into Visual Studio so they could be used again.</p>

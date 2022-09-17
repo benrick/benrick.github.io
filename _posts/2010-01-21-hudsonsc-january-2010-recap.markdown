@@ -4,12 +4,14 @@ title: "HudsonSC January 2010 Recap"
 date: 2010-01-21 11:54:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/HudsonSC-January-2010-Recap/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Last night we had a great HudsonSC meeting. People started showing up around 5:30, and I had the opportunity to meet and talk with a few new attendees during that time.</p>
 <h3>Lightning Talks</h3>
 <p>At around 6:00 we got things started. <a href="http://twitter.com/kevinkuebler" target="_blank">Kevin Kuebler</a> started us off with an interesting talk on BDD where he showed some interesting code using MSpec. As usual, he was unable to keep his talk under 10 minutes. We will not fault him for that though, since he discussed the topic well and showed some cool code.</p>

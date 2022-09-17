@@ -4,7 +4,7 @@ title: "Time-Tested Testing Tips – Part 6"
 date: 2009-08-19 08:42:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Time-Tested-Testing-Tips-e28093-Part-6/"
 ---

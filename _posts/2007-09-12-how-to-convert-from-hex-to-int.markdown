@@ -4,7 +4,7 @@ title: "How to Convert from hex to int"
 date: 2007-09-12 17:57:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/How-to-Convert-from-hex-to-int/"
 ---

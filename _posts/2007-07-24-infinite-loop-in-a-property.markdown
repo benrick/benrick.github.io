@@ -4,7 +4,7 @@ title: "Infinite Loop in a Property"
 date: 2007-07-24 22:18:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Infinite-Loop-in-a-Property/"
 ---

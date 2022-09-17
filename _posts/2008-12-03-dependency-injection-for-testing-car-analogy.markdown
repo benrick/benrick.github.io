@@ -4,7 +4,7 @@ title: "Dependency Injection for Testing - Car Analogy"
 date: 2008-12-03 10:37:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Dependency-Injection-for-Testing-Car-Analogy/"
 ---

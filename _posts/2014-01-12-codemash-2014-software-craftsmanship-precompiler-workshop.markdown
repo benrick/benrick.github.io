@@ -4,7 +4,7 @@ title: "CodeMash 2014 Software Craftsmanship Precompiler Workshop"
 date: 2014-01-12 16:09:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Software Craftsmanship", "Unit Testing", "Agile", "CodeMash"]
 permalink: "/post/CodeMash-2014-Software-Craftsmanship-Precompiler-Workshop/"
 ---

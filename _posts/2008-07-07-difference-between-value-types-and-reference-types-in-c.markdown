@@ -4,7 +4,7 @@ title: "Difference Between Value Types and Reference Types in C#"
 date: 2008-07-07 20:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Difference-Between-Value-Types-and-Reference-Types-in-C/"
 ---

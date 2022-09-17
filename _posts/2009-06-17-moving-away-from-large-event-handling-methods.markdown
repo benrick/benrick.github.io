@@ -4,7 +4,7 @@ title: "Moving Away From Large Event Handling Methods"
 date: 2009-06-17 09:34:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Moving-Away-From-Large-Event-Handling-Methods/"
 ---

@@ -4,7 +4,7 @@ title: "Software Craftsmanship at CodeMash Wednesday"
 date: 2015-01-06 15:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["CodeMash", "Events", "Speaking"]
 permalink: "/post/Software-Craftsmanship-at-CodeMash-Wednesday/"
 ---

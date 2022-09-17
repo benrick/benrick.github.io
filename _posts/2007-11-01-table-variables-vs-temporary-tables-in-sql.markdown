@@ -4,7 +4,7 @@ title: "Table Variables vs. Temporary Tables in SQL"
 date: 2007-11-01 15:44:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Table-Variables-vs-Temporary-Tables-in-SQL/"
 ---

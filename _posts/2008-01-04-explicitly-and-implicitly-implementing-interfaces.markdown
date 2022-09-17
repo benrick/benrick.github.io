@@ -4,7 +4,7 @@ title: "Explicitly and Implicitly Implementing Interfaces"
 date: 2008-01-04 21:26:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Explicitly-and-Implicitly-Implementing-Interfaces/"
 ---

@@ -4,12 +4,14 @@ title: "Time-Tested Testing Tips - Part 3"
 date: 2009-05-20 09:23:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Time-Tested-Testing-Tips-Part-3/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Context switching is very costly and this same issue can be seen when writing tests, but I would argue most importantly in maintaining and reading tests.</p>
 <ul>
 <li><a href="/post/2009/05/19/Time-Tested-Testing-Tips-Part-1.aspx" target="_blank">Time-Tested Testing Tips - Part 1</a></li>

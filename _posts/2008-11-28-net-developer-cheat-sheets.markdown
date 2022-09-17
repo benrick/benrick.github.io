@@ -4,12 +4,14 @@ title: ".NET Developer Cheat Sheets"
 date: 2008-11-28 19:28:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/NET-Developer-Cheat-Sheets/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <ul>
 <li><a href="http://www.jetbrains.com/resharper/documentation/ReSharper30DefaultKeymap_2.pdf" target="_blank">ReSharper Keymap</a></li>
 <li><a href="http://regexlib.com/CheatSheet.aspx" target="_blank">Regular Expression Cheat Sheet</a></li>

@@ -4,7 +4,7 @@ title: "Long Code Lines in Articles and Tutorials"
 date: 2008-07-28 15:30:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Long-Code-Lines-in-Articles-and-Tutorials/"
 ---

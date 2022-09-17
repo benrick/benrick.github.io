@@ -4,7 +4,7 @@ title: "Differences Between Structures and Classes in C#"
 date: 2008-05-20 14:37:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Differences-Between-Structures-and-Classes-in-C/"
 ---

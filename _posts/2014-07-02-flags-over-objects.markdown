@@ -4,7 +4,7 @@ title: "Flags Over Objects"
 date: 2014-07-02 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Calendar Topic", "Antipattern", "Software Craftsmanship"]
 permalink: "/post/Flags-Over-Objects/"
 ---

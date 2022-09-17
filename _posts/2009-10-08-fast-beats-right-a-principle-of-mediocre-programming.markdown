@@ -4,12 +4,14 @@ title: "Fast Beats Right, a Principle of Mediocre Programming"
 date: 2009-10-08 15:19:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Fast-Beats-Right-a-Principle-of-Mediocre-Programming/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Steve Smith just posted an interesting set of anti-principles, anti-patterns, and anti-practices that make up <em><a href="http://stevesmithblog.com/blog/principles-patterns-and-practices-of-mediocre-programming/" target="_blank">mediocre programming</a></em>. In the post one of the principles of mediocre programming that Steve mentions is,</p>
 <blockquote>
 <p><strong>Fast Beats Right (FBR)</strong> &ndash; It&rsquo;s more important to get something done that probably works, or that works right now even if it will be hard to change later, than to spend time ensuring that it is correct or is well designed.</p>

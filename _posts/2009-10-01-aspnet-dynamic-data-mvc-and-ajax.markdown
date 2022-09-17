@@ -4,12 +4,14 @@ title: "ASP.NET Dynamic Data, MVC, and AJAX"
 date: 2009-10-01 14:15:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/ASPNET-Dynamic-Data-MVC-and-AJAX/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>I&rsquo;ve been having an interesting conversation with Peter Blum about the different directions in which ASP.NET is currently developing. He has some very interesting points that he is making about this topic. So he asked me if I use dynamic data, which is of course how all of this conversation started. I informed him that most of my exposure to ASP.NET Dynamic Data has just been playing around with it. I really haven&rsquo;t done any applications using it. (I of course don&rsquo;t consider little test applications and demos to be real applications.)</p>
 <p>I also admitted that I&rsquo;ve been heavily involved with MVC since the early beta versions of it. I didn&rsquo;t mention at the time that I also started using AJAX very early on as well. I did a lot with &ldquo;Atlas&rdquo; as it was called at the time. His responding comment was quite interesting.</p>
 <blockquote>

@@ -4,12 +4,14 @@ title: "Where Should Test Classes Go?"
 date: 2008-11-25 22:35:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Where-Should-Test-Classes-Go/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/WhereShouldTestClassesGo_13DBE/LegacyCodeBook_3.jpg" border="0" alt="LegacyCodeBook" width="240" height="240" align="right" /> In <a href="http://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052" target="_blank">Working Effectively With Legacy Code</a>, the author talks about where to place test classes in your applications structure. He mentions that you should place test classes along side production code in the structure of your application. Why? Well he says that it is good because it helps you navigate between the test classes and the production code easily.</p>
 <p>I somewhat agree with him when he says this, because a lot of time is wasted moving between classes. I admit I am one of the people who tries not to mix too much test and production code. I like to keep anything test related at arms length. Why do I do this? Because I believe that everything becomes cleaner and easier to observe when it is separated. I believe there is some reason to keep things aesthetically pleasing, and I certainly believe that keeping them separate will make the system appear a lot less daunting.</p>
 <h3>Navigating Between Test and Production Code</h3>

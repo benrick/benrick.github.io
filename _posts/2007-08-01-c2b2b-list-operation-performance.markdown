@@ -4,7 +4,7 @@ title: "C++ List Operation Performance"
 date: 2007-08-01 15:36:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/C2b2b-List-Operation-Performance/"
 ---

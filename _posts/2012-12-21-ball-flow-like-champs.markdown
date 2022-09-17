@@ -4,7 +4,7 @@ title: "Ball Flow Like Champs"
 date: 2012-12-21 10:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Agile", "Ball Flow", "HudsonSC"]
 permalink: "/post/Ball-Flow-Like-Champs/"
 ---

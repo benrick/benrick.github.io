@@ -4,7 +4,7 @@ title: "Exploring IronPython"
 date: 2007-11-27 16:23:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Exploring-IronPython/"
 ---

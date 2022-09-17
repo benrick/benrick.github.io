@@ -4,7 +4,7 @@ title: "Integration, Integration, Integration.... Developers"
 date: 2008-10-28 22:51:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Integration-Integration-Integration-Developers/"
 ---

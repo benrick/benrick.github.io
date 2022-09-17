@@ -4,7 +4,7 @@ title: "Hidden Inputs - Code Audits #4"
 date: 2012-07-05 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["DaysOfCodeAudits", "Code Audits"]
 permalink: "/post/Hidden-Inputs-Code-Audits-4/"
 ---

@@ -4,12 +4,14 @@ title: "The Most Important Refactorings"
 date: 2008-12-02 11:33:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/The-Most-Important-Refactorings/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Testing and refactoring go hand in hand. When tests are in place we are safer to refactor because we have test in place which will help us preserve the previous functionality. When we are trying to add tests into code, we refactor the code to make it more testable. We refactor so we can test and we test so we can refactor. This may seem a bit cyclic, but both the refactoring and the tests improve our code. This makes it quite important to do them both anyway.</p>
 <p>One problem which I've seen recurring in lots of different projects are classes and methods which are quite large. When classes and methods get long, they become difficult to test and maintain. It is easy to make mistakes when working with large classes or methods. In order to be able to work with and test large methods and classes we need to try to break them down into bite sized chunks that will be easy to handle.</p>
 <p>The mistake people make when they do this is that they focus on testing the large method or class. We've already established that it isn't easy to test. Since it is not easy to test, we will test it last. How do we get the code where we can test it? We do exactly what I said in the first part of this post. We refactor the code so we can test it. Not the big piece. We pull out small pieces and test them.</p>

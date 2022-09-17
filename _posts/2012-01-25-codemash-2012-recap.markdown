@@ -4,7 +4,7 @@ title: "CodeMash 2012 Recap"
 date: 2012-01-25 10:00:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["CodeMash", "Speaking"]
 permalink: "/post/CodeMash-2012-Recap/"
 ---

@@ -4,7 +4,7 @@ title: "Coding Katas and Exercises"
 date: 2012-03-16 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Agile", "Katas", "Programming Exercises", "Resources", "Software Craftsmanship"]
 permalink: "/post/Coding-Katas-and-Exercises/"
 ---

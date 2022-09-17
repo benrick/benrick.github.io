@@ -4,7 +4,7 @@ title: "Being a Leader"
 date: 2014-06-16 14:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Software Development", "Leadership", "Tips"]
 permalink: "/post/Being-a-Leader/"
 ---

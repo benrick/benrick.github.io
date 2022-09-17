@@ -4,7 +4,7 @@ title: "Overmocking"
 date: 2011-08-05 13:28:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Tips", "Rant", "Best Practices", "Unit Testing", "Mocking"]
 permalink: "/post/Overmocking/"
 ---

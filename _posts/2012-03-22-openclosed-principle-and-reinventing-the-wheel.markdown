@@ -4,7 +4,7 @@ title: "Open/Closed Principle and Reinventing the Wheel"
 date: 2012-03-22 11:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["HudsonSC", "Katas", "Programming Exercises", "Reinventing the Wheel", "Open Closed Principle"]
 permalink: "/post/OpenClosed-Principle-and-Reinventing-the-Wheel/"
 ---

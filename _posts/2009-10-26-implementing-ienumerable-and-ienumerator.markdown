@@ -4,12 +4,14 @@ title: "Implementing IEnumerable and IEnumerator"
 date: 2009-10-26 17:47:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Implementing-IEnumerable-and-IEnumerator/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Working with a foreach loop is the primary reason to implement the IEnumerable and IEnumerator interfaces. You&rsquo;ll want one of each of these to work with the loop.</p>
 <p>I am going to do an example DateRange class which will implement IEnumerable&lt;DateTime&gt; and will allow us to iterate through a non-existent collection of DateTime objects.</p>
 <p><strong>Note: I am aware of the fact that I could achieve the same result with a for loop. I find the foreach loop more readable.</strong></p>

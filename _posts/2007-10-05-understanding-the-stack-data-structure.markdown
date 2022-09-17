@@ -4,7 +4,7 @@ title: "Understanding the Stack Data Structure"
 date: 2007-10-05 15:30:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Understanding-the-Stack-Data-Structure/"
 ---

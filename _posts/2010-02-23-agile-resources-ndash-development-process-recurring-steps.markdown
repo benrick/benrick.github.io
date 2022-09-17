@@ -4,12 +4,14 @@ title: "Agile Resources - Development Process Recurring Steps"
 date: 2010-02-23 15:34:00 -0500
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["Blog"]
 permalink: "/post/Agile-Resources-ndash-Development-Process-Recurring-Steps/"
 ---
-<!-- more -->
-
+<!-- more -->
+
+
+
 <p>Different processes are used to create software applications. Agile software development is about responding and embracing change. It is about working closely with the customer instead of the customer just saying what they want up front. Agile teams follow processes during development, but they&rsquo;re flexible, quick processes which allow the continue to continue making advances.</p>
 <p>Most agile processes involve some sort of iterative development. Iterating allows for quick changes in the allocation of developer resources, which means responding to changes when the response is needed. The following is a list of each iterating piece of the development process grouped by how often the step occurs.</p>
 <h3>Months</h3>

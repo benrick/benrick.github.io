@@ -4,7 +4,7 @@ title: "Types of ASP.NET MVC 3 Action Results"
 date: 2011-08-11 10:00:00 -0400
 comments: true
 published: true
-categories: ["blog", "archives"]
+categories: ["blog", "Archive"]
 tags: ["ASP.NET", "ASP.NET MVC"]
 permalink: "/post/Types-of-ASPNET-MVC-3-Action-Results/"
 ---
