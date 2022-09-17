@@ -3,7 +3,7 @@ layout: page
 title: About Brendan Enrick
 sidebar_link: true
 sidebar_sort_order: 10
-back_page.url: /
+back_page: index.html
 ---
 
 <div style="width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 50%;">
