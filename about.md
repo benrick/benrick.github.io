@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Brendan Enrick
+short_title: About Me
 sidebar_link: true
 sidebar_sort_order: 10
 back_page: index.html
