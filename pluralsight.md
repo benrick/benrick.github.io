@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Brendan's Pluralsight Courses
+short_title: Pluralsight Courses
 back_page: index.html
 sidebar_link: true
 sidebar_sort_order: 70
