@@ -2,7 +2,11 @@
 layout: page
 title: Brendan's Pluralsight Courses
 back_page: index.html
+sidebar_link: true
+sidebar_sort_order: 70
 ---
+
+[![Pluralsight Logo](/images/files/PS_logo_F-11.png)](https://www.pluralsight.com/authors/brendan-enrick)
 
 Brendan has authored a couple of Pluralsight courses over his time as a developer. If you enjoy the way he teaches, you'll love watching his Pluralsight courses! Here are [Brendan's Pluralsight Courses](https://www.pluralsight.com/authors/brendan-enrick).
 
