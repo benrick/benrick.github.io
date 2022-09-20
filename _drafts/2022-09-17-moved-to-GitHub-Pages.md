@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migrating Blog to Jekyll on GitHub Pages"
-date: 2022-09-19 11:00:00 -0400
+date: 2022-09-20 12:00:00 -0400
 comments: true
 published: true
 categories: ["Tutorial", "Archive"]
@@ -69,6 +69,45 @@ Content here
 
 ## Setting up Custom Domain (Optional)
 
-Content here and link to previous post.
+If you want to have a custom domain, you'll need to set up your DNS to point to your GitHub Pages and then tell your GitHub Pages repository about your custom domain. By doing it in this order, GitHub will be able to verify that your DNS settings are pointing to the GitHub Pages site.
 
-I posted recently about [how to set up a custom domain from google domains for GitHub pages](/post/Custom-GitHub-Pages-Domain-with-Google-Domains/).
+### Set Up DNS A Records
+
+TO set up the A Records for your domain, create it with these IP Addresses pointing at GitHub Pages, so it looks like these:
+
+![Google Domains Custom Records View](/images/files/2022-posts/GDomainsCustomRecordsView.png)
+
+For the first record, leave the `Host name` blank, set the `Type` to "A", and the `Data` to the first IP Address. In some DNS systems you add more records (like this one), but in other systems, you create 4 separate A records with these addresses.
+
+- 185.199.108.153
+- 185.199.109.153
+- 185.199.110.153
+- 185.199.111.153
+
+You can check the [GitHub Pages Custom Domain Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain) for the most up-to-date list of IP Addresses.
+
+### Set Up DNS CNAME Record
+
+Next, you'll set up a CNAME Record to point to the subdomain you have at GitHub, mine is `benrick.github.io`. Create the CNAME record like this:
+
+![Google Domains Custom Records Edit](/images/files/2022-posts/GDomainsCustomRecordsEdit.png)
+
+Just be sure that you set the `Host name` to "www", the `Type` to "CNAME" and the `Data` to your "*github.io" subdomain.
+
+### Set Custom Domain in GitHub
+
+After configuring DNS, we need to tell GitHub by going to the `Settings` tab in your repository, and clicking on the "GitHub Pages" link in the sidebar navigation.
+
+![GitHub Settings Side Nav](/images/files/2022-posts/GitHubRepoSettingsNav.png)
+
+Now change the Custom domain to your domain name that we just configured and save that change, which causes GitHub to run a check of the DNS settings.
+
+![GitHub Pages Settings Custom Domain](/images/files/2022-posts/GitHubCustomDomainSetting.png)
+
+After verification, the page will look like this:
+
+![GitHub Pages Settings Custom Domain Verified](/images/files/2022-posts/GitHubCustomDomainSettingVerified.png)
+
+## Additional Resources
+
+If you want full instructions for setting up the custom domain name for GitHub using Google Domains, check my post about [how to set up a custom domain from google domains for GitHub pages](/post/Custom-GitHub-Pages-Domain-with-Google-Domains/).
