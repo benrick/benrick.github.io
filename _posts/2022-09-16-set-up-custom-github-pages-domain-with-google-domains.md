@@ -56,13 +56,13 @@ You can check the [GitHub Pages Custom Domain Docs](https://docs.github.com/en/p
 
 ### Set Up the DNS CNAME Record
 
-Next, while still on the `Manage Custom Records` scren, you'll want to set up the CNAME Record to point to the custom subdomain you have at google, mine is `benrick.github.io`. This will help if anyone tries going to the "www" version of your site.
+Next, while still on the `Manage Custom Records` scren, you'll want to set up the CNAME Record to point to the custom subdomain you have at GitHub, mine is `benrick.github.io`. This will help if anyone tries going to the "www" version of your site.
 
 Click on `Create new record` to add a new row to create the CNAME record like this:
 
 ![Google Domains Custom Records Edit](/images/files/2022-posts/GDomainsCustomRecordsEdit.png)
 
-Just be sure that you set the `Host name` to "www", the `Type` to "CNAME" and the `Data` to you "*github.io" subdomain.
+Just be sure that you set the `Host name` to "www", the `Type` to "CNAME" and the `Data` to your "*github.io" subdomain.
 
 ## Step 2: Configure the Custom Domain in GitHub Pages
 
