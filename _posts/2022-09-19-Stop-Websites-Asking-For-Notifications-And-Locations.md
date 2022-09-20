@@ -13,7 +13,7 @@ Stop asking to send me notifications! I don't want them! I also don't want to te
 
 Are you tired of being asked if sites can send you notifications or get your location? Yeah, me too. Let's fix that.
 
-## How to Stop Sites In Chrome Asing to Send Notifications or Location
+## How to Stop Sites In Chrome Asking to Send Notifications or Location
 
 Open up Chrome, and look for the 3 dots in the upper right corner of the window. That will open up the options menu that looks like this.
 
