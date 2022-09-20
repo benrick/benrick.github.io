@@ -13,7 +13,9 @@ Even years after the changes, many people are confused by all of the different "
 
 <p class="message">If you'd rather watch a video on this topic, you can check out my [What's the Difference between .NET Framework and .NET Core?](https://youtu.be/dLRd_LjVjNs) video on YouTube (or watch here).</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dLRd_LjVjNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dLRd_LjVjNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Abbreviated History of .NET
 
@@ -23,11 +25,11 @@ Let's understand the confusion by looking quickly at the history of our .NETs.
 
 The first of these ".NETs" we got was the .NET Framework, which was a framework for building Windows applications. It’s been around for decades and still runs many applications to this day.
 
-![Early .NET Framework Logo](/images/files/2022-posts/CoreFrameworkConfusion/NET-Framework-Logo-2002.png)
+![Early .NET Framework Logo](/images/files/2022-posts/CoreFrameworkConfusion/NET-Framework-Logo-2002.png){: width="50%"}
 
 We had some variations of this that we won’t cover for now, but Microsoft eventually created an alternate option called .NET Core. Core removed the dependence on Windows, which allowed it to be cross-platform. It was neither a subset nor a superset of the existing .NET Framework, since they did take the chance to change some things as they removed some of the old baggage.
 
-![.NET Core Logo](/images/files/2022-posts/CoreFrameworkConfusion/NET_Core_Logo.svg.png)
+![.NET Core Logo](/images/files/2022-posts/CoreFrameworkConfusion/NET_Core_Logo.svg.png){: width="25%"}
 
 ### The Time of Parallel .NETs
 
@@ -43,7 +45,7 @@ Many companies were not switching to .NET Core, because they thought it was an "
 
 I wasn't in the backroom at Microsoft when they decided this, but I'm sure they were trying to figure out how to get everyone to switch to .NET Core and leave .NET Framework as a relic. Many companies were reluctant to put in the effort, so they decided to “merge” the two together into ".NET".
 
-![.NET Logo](/images/files/2022-posts/CoreFrameworkConfusion/Microsoft_.NET_logo.svg.png)
+![.NET Logo](/images/files/2022-posts/CoreFrameworkConfusion/Microsoft_.NET_logo.svg.png){: width="25%"}
 
 Since .NET Core's and .NET Framework's major version numbers were on 3 and 4 respectively, they decided to start the "merged" .NET at 5 (an increased number regardless of your starting point).
 
@@ -53,7 +55,7 @@ Awesome! So you might be wondering, what is this new .NET that isn’t Core or F
 
 At this point, we're in the same place we have been for a while. Your answer for, "which should I choose" is .NET latest version, not "Core" or "Framework" anymore.
 
-![.NET Logo](/images/files/2022-posts/CoreFrameworkConfusion/Microsoft_.NET_logo.svg.png)
+![.NET Logo](/images/files/2022-posts/CoreFrameworkConfusion/Microsoft_.NET_logo.svg.png){: width="25%"}
 
 If you **require** Core or Framework for some reason (highly unlikely that you do), you can create those, but the future is the .NET for any project you may start.
 
