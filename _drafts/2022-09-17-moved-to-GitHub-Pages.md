@@ -89,15 +89,26 @@ Once you've chosen a theme, you'll either be setting the `theme:` or `remote_the
 
 After exporting your content from your previous blog, check to see if there's a tool created to convert that export into markdown files. Once completed, you'll put all of those markdown files (if the tool didn't do it) into the `_posts` directory in your repository.
 
-I used a 
+For my conversion from BlogML.xml (the data exported by BlogEngine.NET), I started with this [blogml.rb](https://gist.github.com/eduncan911/10331596) file and made a few tweaks to it. You can start with that one, but it's written for Octopress, a framework based on jekyll. It's close enough to Jekyll to get us started.
 
 ### Content Fixes
+
+
+
+
+
 
 Content about fixing tags, categories, permalinks.
 
 ## Deploying and Verifying
 
-Content here
+Commit your changes and push them all to the GitHub repository. As we're using GitHub Pages default deployment, you should be able to navigate to the `Actions` section on the repository before it completes the deployment to see that it is building and deploying the static site.
+
+[Nav to Action]()
+
+You should see deployments from our previous changes to the repository.
+
+Next, you'll want to navigate to your `*.github.io` site as we did earlier and confirm that the site has your content.
 
 ## Setting up Custom Domain (Optional)
 
