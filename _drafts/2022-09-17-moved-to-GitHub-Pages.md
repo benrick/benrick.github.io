@@ -43,21 +43,53 @@ If I did a project site, it could've had any name, but would be hosted at `[user
 
 ### Configuring the Repository as a GitHub Pages Site
 
-Navigate to the `Settings` of the repository and click on the `Pages` in the `Code and automation` section of the sidebar navigation.
+Navigate to the `Settings` of the repository and click on the `Pages` menu item in the `Code and automation` section of the sidebar navigation.
 
-![Settings page showing Pages in sidebar]()
+![Settings page showing Pages in sidebar](/images/files/2022-posts/BlogMigration/GitHubPagesSettings.png)
 
+- **Source** should be set to `Deploy from a branch` for our simple case.
+- I set **Branch** to `main` and I keep the site in the root, so folder of `/(root)`.
+- Don't fiddle with the **Custom domain** yet, we'll come back to that later.
 
+Now that it's configured, make sure that everything is working. Create an `index.md` file in the root of your GitHub repository with anything you like. Here's an example:
+
+{% highlight html %}
+<p>Hello World!</p>
+{% endhighlight %}
+
+Next, we'll make our `_config.yml` file in the root of your GitHub repository with these initial vaues:
+
+{% highlight ruby %}
+title: Your Site
+description: A site you built on GitHub Pages!
+theme: jekyll-theme-minimal
+{% endhighlight %}
+
+If you created these files directly on GitHub, you can just wait, but if you created these locally, push them to GitHub. Now you'll want to wait a few minutes for it to deploy, and try to visit your site at the `*.github.io` address that you chose earlier. If all is set up, you'll see your
 
 [Official GitHub Page Get Started Documentation](https://docs.github.com/en/pages/quickstart)
 
 ### Choosing and Customizing a Theme
 
-Content about layouts and features here.
+Selecting a theme can offer a lot of benefits. Setting it up to work locally will require setting up ruby, installing the gems for the theme and its dependencies, etc.
+
+If you're just planning to deploy without running it locally, you can skip those for now (you can add local running later).
+
+Here are a few places to find free themes (there are many more):
+
+- https://pages.github.com/themes/
+- https://jekyllthemes.io/free
+- https://jekyll-themes.com/free/
+
+And if you want to (and have the money to) support content creators, there are many paid Jekyll themes as well.
+
+Once you've chosen a theme, you'll either be setting the `theme:` or `remote_theme:` in the `_config.yml` file in the root of your site. Most of the themes you find will have their own instructions, which are often for running it locally. Setting these properties will let it work with the GitHub Pages workflow.
 
 ## Converting Blog Posts to Jekyll Markdown Posts
 
-Content here
+After exporting your content from your previous blog, check to see if there's a tool created to convert that export into markdown files. Once completed, you'll put all of those markdown files (if the tool didn't do it) into the `_posts` directory in your repository.
+
+I used a 
 
 ### Content Fixes
 
