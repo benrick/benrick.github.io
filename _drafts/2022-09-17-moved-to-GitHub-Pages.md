@@ -89,14 +89,17 @@ Once you've chosen a theme, you'll either be setting the `theme:` or `remote_the
 
 After exporting your content from your previous blog, check to see if there's a tool created to convert that export into markdown files. Once completed, you'll put all of those markdown files (if the tool didn't do it) into the `_posts` directory in your repository.
 
-For my conversion from BlogML.xml (the data exported by BlogEngine.NET), I started with this [blogml.rb](https://gist.github.com/eduncan911/10331596) file and made a few tweaks to it. You can start with that one, but it's written for Octopress, a framework based on jekyll. It's close enough to Jekyll to get us started.
+For my conversion from BlogML.xml (the data exported by BlogEngine.NET), I started with this [blogml.rb](https://gist.github.com/eduncan911/10331596) file and made a few tweaks to it. You can start with that one, but it's written for Octopress, a framework based on jekyll. It's close enough to Jekyll to get you started. Alternately, you can use my tweaked version of the [BlogML.xml to Jekyll import script](https://gist.github.com/benrick/b378fc50abf850681cf9539940ec08aa).
+
+Regardless of the one you're using, with ruby installed on your computer and the `BlogML.xml` file and the `blogml.rb` file in the same folder, run the following command in that folder.
+
+``` pwsh
+ruby -r './blogml.rb' -e Jekyll::BlogML.process('BlogML.xml')
+```
+
+After running this, you should have a `_posts` folder full of your posts.
 
 ### Content Fixes
-
-
-
-
-
 
 Content about fixing tags, categories, permalinks.
 
