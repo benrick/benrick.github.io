@@ -101,6 +101,10 @@ After running this, you should have a `_posts` folder full of your posts.
 
 ### Content Fixes
 
+Be sure to check through your permalinks, since you'll want to be sure they match your existing URLs. If anything didn't process on those correctly, your old posts won't align, so be sure to check those carefully. Those are the relative URL that Jekyll will use when creating the static HTML pages for your site.
+
+
+
 Content about fixing tags, categories, permalinks.
 
 ## Deploying and Verifying
