@@ -18,6 +18,7 @@ author:
 paginate: 5
 
 plugins:
+  - jekyll-redirect-from
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
