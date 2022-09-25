@@ -16,29 +16,25 @@ I've been creating a series of videos on YouTube about cool things in VS Code th
 
 ## Paste JSON as Code in VS Code
 
-While VS Code doesn't have a built-in way of posting, there is an extension that will do it. Grab the [Paste JSON as Code Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype).
+While VS Code doesn't have a built-in way of pasting json from clipboard as code, there is an extension that will do it. Grab the [Paste JSON as Code Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype).
 
 ![Paste JSON as Code in VS Code Extension](/images/files/2022-posts/VSCodeTips/PasteJsonExtension.png)
 
-Copy your JSON onto your clipboard, open the file where you want to paste the types.
+Copy the JSON you want code of onto your clipboard, and open the file where you want to paste the types. Then press `F1` or `Ctrl` + `Shift` + `P` to open the commands menu, and search for "paste" to find the commands for `Paste JSON as...`.
 
-![]()
-
-Press F1 or Ctrl Shift P to open the commands menu, and search for "paste" to find the commands for `Paste JSON as...`.
-
-![](/images/files/2022-posts/VSCodeTips/VSCodePaseCommand.png)
+![Commands Menu Showing Paste JSON as Results](/images/files/2022-posts/VSCodeTips/VSCodePaseCommand.png)
 
 If it can't infer the language from the file extension you're pasting into, it will ask you to choose a language. If it did know, it will skip this question.
 
-![]()
+![Selection View for Languages in Paste JSON as Code](/images/files/2022-posts/VSCodeTips/PasteJsonLanguageSelection.png)
 
 JSON always has a root object (the outer curly braces), but that object doesn't have a name, so the extension will now ask you to name that root object.
 
-![]()
+![Top-Level Type Naming In Paste JSON as Code](/images/files/2022-posts/VSCodeTips/TopLevelTypeNameSelection.png)
 
 After clicking enter, there will be one or more types created in your file, depending on the complexity of the JSON you were using. It will try to detect types and includes metadate. You can change this data as you like. The command was just to help get you started.
 
-![]()
+![Sample JSON Code Created by Paste JSON as Code](/images/files/2022-posts/VSCodeTips/SampleJsonCode.png)
 
 ## Search for Files By Word in VS Code
 
@@ -46,14 +42,14 @@ When you're looking for a file using the search in VS Code, you can search based
 
 To see this in action, open up the file search using Ctrl P. Then type in upper case letters, only the first letter of each word, so if you wanted to find `SpecialBikeFactory.cs`, you might type "SBF" into the search box.
 
-![]()
+![File Search Results in VS Code with First Word Letters Only](/images/files/2022-posts/VSCodeTips/SCF-SearchResult.png)
 
 In addition, you can continue searching more of the word after each of those capitals, so "SpBiFa" would be a great search term if your codebase is large and has more than one type for "SBF".
 
-![]()
+![File Search Results in VS Code with Starting Word Letters](/images/files/2022-posts/VSCodeTips/BaCaFa-SearchResult.png)
 
 ## Make Whitespace Visible in VS Code
 
 In some languages, like Python, whitespace matters. In languages where whitespace matters less, it's still important for formatting. In Visual Studio Code, you can make the whitespace visible. To do this, go to the `View` menu and select `Render Whitespace`. Doing this will show spaces as dots and tabs as arrows.
 
-![]()
+![Visible Whitespace in Visual Studio Code](/images/files/2022-posts/VSCodeTips/RenderedWhitespace.png)
