@@ -11,15 +11,11 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     
-    steps:
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-        
-      - name: Run a multi-line script
+    steps:     
+      - name: Refresh Build From curl
         run: |
           curl --fail --request POST \
-            --url https://api.github.com/repos/benrick/benrick.github.io/pages/builds
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
             --header "Authorization: Bearer $USER_TOKEN"
         env:
           USER_TOKEN: ${{secrets.USER_TOKEN}}
