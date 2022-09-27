@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 Things You Didn't Know VS Code Can Do - Set 2"
-date: 2022-09-28 11:00:00 -0400
+date: 2022-09-28 01:00:00 -0400
 comments: true
 published: true
 categories: ["VS Code Tips and Tricks", "Archive"]
