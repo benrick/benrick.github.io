@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Migrating Blog to Jekyll on GitHub Pages"
-date: 2022-09-20 12:00:00 -0400
+date: 2022-09-29 01:00:00 -0400
 comments: true
 published: true
 categories: ["Tutorial", "Archive"]
-tags: ["GitHub Pages", "BlogEngine.NET"]
+tags: ["GitHub Pages", "BlogEngine.NET", Jekyll, Tutorial, Blogging]
 permalink: "/post/Migrating-Blog-Jekyll-GitHub-Pages/"
 ---
 
@@ -101,21 +101,29 @@ After running this, you should have a `_posts` folder full of your posts.
 
 ### Content Fixes
 
-Be sure to check through your permalinks, since you'll want to be sure they match your existing URLs. If anything didn't process on those correctly, your old posts won't align, so be sure to check those carefully. Those are the relative URL that Jekyll will use when creating the static HTML pages for your site.
+Be sure to check through your pages, articles, etc. since you'll want to be sure they transferred correctly. There could be issues in the "frontmatter" (metadata at the top of the file), so be sure to check titles, permalinks, and tags.
 
+Some of these issues can be fixed by hand, but anything that happened in a large number of files will require some clever finding and replacing.
 
+## Migrating Files and Images from BlogEngine.NET to Jekyll
 
-Content about fixing tags, categories, permalinks.
+In the root of your new site, create two folders named `files` and `images`. These are where your files and images will go.
+
+Download the `/App_Data/files` folder from your old BlogEngine.NET site. Use whatever means you have of accessing your old site's file system. I used FTP access to it.
+
+You now need to split the files and images into their respective folders, maintaining the original structure.
+
+To make this easier, I recommend that you put a copy of the files into each of the two folders. Then delete the images from the `/files` folder and the files from the `/images` folder.
 
 ## Deploying and Verifying
 
 Commit your changes and push them all to the GitHub repository. As we're using GitHub Pages default deployment, you should be able to navigate to the `Actions` section on the repository before it completes the deployment to see that it is building and deploying the static site.
 
-[Nav to Action]()
+[Nav to GitHub Actions in Repository](/images/files/2022-posts/BlogMigration/NavToActions.png)
 
 You should see deployments from our previous changes to the repository.
 
-Next, you'll want to navigate to your `*.github.io` site as we did earlier and confirm that the site has your content.
+After confirming that it has a deployment (it should be green), you'll want to navigate to your `*.github.io` site as we did earlier and confirm that the site has your content.
 
 ## Setting up Custom Domain (Optional)
 
