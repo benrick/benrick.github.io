@@ -26,6 +26,13 @@ plugins:
 github:
   repo: https://github.com/benrick/benrick.github.io
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      show_ads: true
 
 twitter: "Brendoneus"
 github: "DevChatter"
