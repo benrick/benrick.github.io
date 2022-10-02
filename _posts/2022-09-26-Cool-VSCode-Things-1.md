@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 Things You Didn't Know VS Code Can Do - Set 1"
+title: "3 Things You Didn't Know VS Code Can Do - Part 1, JSON as Classes, Search By Words, and Visible Whitespace"
 date: 2022-09-26 11:00:00 -0400
 comments: true
 published: true
@@ -8,6 +8,8 @@ categories: ["VS Code Tips and Tricks", "Archive"]
 tags: ["VSCode", "Tips and Tricks"]
 permalink: "/post/3-Things-You-Did-Not-Know-VSCode-Can-Do-Part1/"
 ---
+
+Did you know, you can create types from sample JSON VS Code, search for files based on the first letter of each word, and view the whitespace in VS Code?
 
 I've been creating a series of videos on YouTube about cool things in VS Code that you may not know about. Check out the [DevChatter YouTube Channel](https://www.youtube.com/c/devchatter) if you want to see all of my videos, or you can see the [VS Code Tips](https://youtube.com/playlist?list=PLfRLz7YT8uz36VdgSMATJj2chNtbixokI) Playlist.
 
