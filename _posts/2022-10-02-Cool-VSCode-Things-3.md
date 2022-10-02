@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 Things You Didn't Know VS Code Can Do - Set 3"
+title: "3 Things You Didn't Know VS Code Can Do - Part 3, Color Theme, Settings Search, and Settings Sync"
 date: 2022-10-02 01:00:00 -0400
 comments: true
 published: true
