@@ -11,13 +11,11 @@ permalink: "/post/Custom-GitHub-Pages-Domain-with-Google-Domains/"
 
 [![GitHub Logo](/images/files/2022-posts/Octocat.png){: width="75%"}](https://pages.github.com)
 
-
 [![Google Domains Logo](/images/files/2022-posts/google-domains-logo.svg){: width="75%"}](https://domains.google)
 
 ## Intro
 
 I recently set up my blog on GitHub pages, but I didn't want the `*.github.io` domain name. I have some of my domains in Google Domains, so I decided to set one of those up and write this tutorial for you after setting it up. Follow these steps and you too can have a custom domain.
-<!-- more -->
 
 ## Step 0: Build a GitHub Pages Site and Own a Domain with Google Domains
 
@@ -56,7 +54,7 @@ You can check the [GitHub Pages Custom Domain Docs](https://docs.github.com/en/p
 
 ### Set Up the DNS CNAME Record
 
-Next, while still on the `Manage Custom Records` scren, you'll want to set up the CNAME Record to point to the custom subdomain you have at GitHub, mine is `benrick.github.io`. This will help if anyone tries going to the "www" version of your site.
+Next, while still on the `Manage Custom Records` screen, you'll want to set up the CNAME Record to point to the custom subdomain you have at GitHub, mine is `benrick.github.io`. This will help if anyone tries going to the "www" version of your site.
 
 Click on `Create new record` to add a new row to create the CNAME record like this:
 
@@ -66,7 +64,7 @@ Just be sure that you set the `Host name` to "www", the `Type` to "CNAME" and th
 
 ## Step 2: Configure the Custom Domain in GitHub Pages
 
-Now that our records are in place, we can tell GitHub to check for them. As with all DNS changes, it can take some time to propogate, so you may have to wait until GitHub can verify.
+Now that our records are in place, we can tell GitHub to check for them. As with all DNS changes, it can take some time to propagate, so you may have to wait until GitHub can verify.
 
 From your GitHub repository, click on the "Settings" tab.
 

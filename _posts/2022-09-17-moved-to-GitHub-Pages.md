@@ -29,7 +29,7 @@ It's free. It's easy. It's ubiquitous. I already use GitHub, and I'm proficient 
 
 ### Breaking The Toughest Developer Puzzle Ever
 
-More than a decade ago, a developer named Jeff Blankenburg created a game called **The Toughest Developer Puzzle Ever** (TDPE), and I participated in both iterations of the puzzle. For these, I created and hosted some of the puzzles in the sequences of Jeff's games. In order to not break my part of thegame, I made sure to maintain a blog that could still host the old pages.
+More than a decade ago, a developer named Jeff Blankenburg created a game called **The Toughest Developer Puzzle Ever** (TDPE), and I participated in both iterations of the puzzle. For these, I created and hosted some of the puzzles in the sequences of Jeff's games. In order to not break my part of the game, I made sure to maintain a blog that could still host the old pages.
 
 See [Old TDPE Blog Post](/post/Have-you-tried-the-Toughest-Developer-Puzzle-Ever/) for more info.
 

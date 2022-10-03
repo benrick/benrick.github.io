@@ -9,7 +9,7 @@ tags: ["VSCode", "Tips and Tricks"]
 permalink: "/post/3-Things-You-Did-Not-Know-VSCode-Can-Do-Part2/"
 ---
 
-Did you know, you can customize the sidebar's position and contenst in VS Code, create files immediately without deciding their location fro the home screen, and go to definition in almost anything in VS Code?
+Did you know, you can customize the sidebar's position and contents in VS Code, create files immediately without deciding their location fro the home screen, and go to definition in almost anything in VS Code?
 
 I've been creating a series of videos on YouTube about cool things in VS Code that you may not know about. Check out the [DevChatter YouTube Channel](https://www.youtube.com/c/devchatter) if you want to see all of my videos, or you can see the [VS Code Tips](https://youtube.com/playlist?list=PLfRLz7YT8uz36VdgSMATJj2chNtbixokI) Playlist.
 

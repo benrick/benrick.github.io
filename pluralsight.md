@@ -21,6 +21,6 @@ Brendan has authored a couple of Pluralsight courses over his time as a develope
 
 These are the courses that Brendan has on Pluralsight right now.
 
-### [Pair Programming (with Steve Smtih)](https://www.pluralsight.com/courses/pair-programming){:target="_blank"}
+### [Pair Programming (with Steve Smith)](https://www.pluralsight.com/courses/pair-programming){:target="_blank"}
 
 Learn how to effectively pair program, including what not to do. In this course, you will learn the technique and many benefits of pair programming. You’ll learn the roles of pairing, when to and when not to pair program, and useful pairing techniques. You'll also learn about Mob Programming, allowing you to work with groups larger than two. Finally, you’ll see how to set up your office space for successful pairing and some tips for pair programming remotely.

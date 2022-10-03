@@ -33,7 +33,7 @@ Opening Theme Menu from Command Menu
 
 ## Searching the Settings in VS Code
 
-There are many settings buit into VS Code, and many others included as part of extensions. For this reason, it can be hard to keep track of and know all of the different settings, which is why VS Code allows you to search for settings. You can open the `Settings` window from the manage menu (the gear in the sidebar), from `File` -> `Preferences` -> `Settings`, or by using the keyboard shortcut `[Ctrl]` + `[,]`.
+There are many settings built into VS Code, and many others included as part of extensions. For this reason, it can be hard to keep track of and know all of the different settings, which is why VS Code allows you to search for settings. You can open the `Settings` window from the manage menu (the gear in the sidebar), from `File` -> `Preferences` -> `Settings`, or by using the keyboard shortcut `[Ctrl]` + `[,]`.
 
 Opening Settings from Manage Menu
 
@@ -55,9 +55,9 @@ Once you've opened the settings screen, you can use the search box to search for
 
 I'm writing this post on my laptop using VS Code. On a daily basis, I work on multiple laptop computers and desktop computers. Each of these machines has VS Code installed on it. If I make changes to the settings in one, it would be nice if that replicated to the others. In years past, many of us found ways of automating this process in our various editors using cloud file storage to transfer settings file changes (and similar solutions).
 
-No longer must we implement our own syncing, since VS Code has a built-in settings syncronization system. As long as you have a GitHub or Microsoft account to log into, you can have VS Code sync your settings.
+No longer must we implement our own syncing, since VS Code has a built-in settings synchronization system. As long as you have a GitHub or Microsoft account to log into, you can have VS Code sync your settings.
 
-Open up your settings menu as we did above and click on the `Turn on Settings Sync` button in the uppper right side of the Settings window.
+Open up your settings menu as we did above and click on the `Turn on Settings Sync` button in the upper right side of the Settings window.
 
 ![Turn on Settings Sync in VS Code Button](/images/files/2022-posts/VSCodeTips/Part3/VSCodeSettingSyncButton.png)
 

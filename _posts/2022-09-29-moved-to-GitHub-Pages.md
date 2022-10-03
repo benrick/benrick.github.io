@@ -17,7 +17,7 @@ Hopefully this post will help you migrate an old site from any platform (not jus
 
 Before we can create all of the posts on the new site, we'll need to export the posts from our existing site. For this, most sites have an export function. In BlogEngine.NET, you'll want to got to the Admin Dashboard by navigating to `/admin/` or clicking on `Dashboard` in the Admin widget.
 
-![Adminstration Widget in BlogEngine.NET](/images/files/2022-posts/BlogMigration/AdministrationMenu.png)
+![Administration Widget in BlogEngine.NET](/images/files/2022-posts/BlogMigration/AdministrationMenu.png)
 
 From here, we need to open up `Settings -> Import export` then click on the `Export` button in the `Export` section of that page.
 
@@ -57,7 +57,7 @@ Now that it's configured, make sure that everything is working. Create an `index
 <p>Hello World!</p>
 {% endhighlight %}
 
-Next, we'll make our `_config.yml` file in the root of your GitHub repository with these initial vaues:
+Next, we'll make our `_config.yml` file in the root of your GitHub repository with these initial values:
 
 {% highlight ruby %}
 title: Your Site
