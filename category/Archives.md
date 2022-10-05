@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Blog Archives
-category: Archives
+category: Archive
 published: true
 back_page: index.html
 ---
