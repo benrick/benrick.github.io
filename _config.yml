@@ -22,6 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-sitemap
 
 github:
   repo: https://github.com/benrick/benrick.github.io
