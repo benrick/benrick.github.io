@@ -8,7 +8,7 @@ baseurl: '/'
 title:            "Brendan Enrick's Blog"
 tagline:          'All things tech considered here'
 description:      "Brendan Enrick's Blog about all things tech."
-url:              https://brendoneus.com
+url:              https://brendoneus.com/
 baseurl:          /
 
 author:
@@ -23,6 +23,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 github:
   repo: https://github.com/benrick/benrick.github.io
