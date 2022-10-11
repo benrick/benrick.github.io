@@ -5,12 +5,9 @@ date: 2010-02-01 14:18:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Silverlight"]
 permalink: "/post/Quick-Silverlight-Tip-Looking-at-the-code/"
 ---
-<!-- more -->
-
-
 
 <p>Silverlight is a great technology, and one thing that really makes it a treat to work with is the ease with which one can access the code inside the XAP file. Yes, this means that someone can look at your code,&nbsp; SO DON&rsquo;T PUT ANYTHING SECURE IN THERE! I took Jeff Blankenburg&rsquo;s <a href="http://jeffblankenburg.com/2010/01/click-button-contest.aspx" target="_blank">Click the Button contest</a>.</p>
 <p>So for a while I though Jeff had tricked me on that puzzle until I opened up the XAP file and looked at the source code. On the last page of the Silverlight you see this screen.</p>

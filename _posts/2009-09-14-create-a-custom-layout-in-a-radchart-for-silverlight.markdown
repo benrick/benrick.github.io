@@ -5,12 +5,9 @@ date: 2009-09-14 14:00:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Silverlight"]
 permalink: "/post/Create-a-Custom-Layout-in-a-RadChart-for-Silverlight/"
 ---
-<!-- more -->
-
-
 
 <p>The default layout for the RadChart for Silverlight is a very common one. It has a title at the top, a legend on the right, and an area in the middle reserved for the chart. It looks roughly like this.</p>
 <p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="DefaultLayout" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/CreateaCustomLayoutforaRadChartforSilver_A46F/DefaultLayout_3.png" border="0" alt="DefaultLayout" width="400" height="299" />&nbsp;</p>

@@ -5,12 +5,9 @@ date: 2010-07-18 20:26:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Workshop"]
 permalink: "/post/Software-Engineering-101-Cleveland-Slides-and-Demos/"
 ---
-<!-- more -->
-
-
 
 <p>Our Cleveland-based Software Engineering 101 event was modeled after two previous, successful events in <a href="http://frazzleddad.blogspot.com/2009/08/save-date-software-engineering-101-on.html" target="_blank">Columbus</a> and <a href="http://brianhprince.blogspot.com/2010/02/software-engineering-101-southern-style.html" target="_blank">Nashville</a>. The event was held at the Microsoft office in Independence, Ohio. The event went over very well; we managed to get a great group of about 50 students out for the event. Our negative feedback was the lack of Internet access and the fire alarm, which interrupted the event. Our schedule was thrown off a bit by the fire alarm, and we only needed to leave for lunch slightly early as a result. Other than that things went off without a hitch.</p>
 <p>These are my slides on <a href="/files/slides/SWE101Cleveland2010/Principles of OOP.pptx">Object Oriented Principles, Practices, and Patterns</a>. The practices of object oriented development I covered tie the principles together, and the patterns, strategy and template method, tie the principles together as well as prepare for Steve’s talk which followed mine.</p>

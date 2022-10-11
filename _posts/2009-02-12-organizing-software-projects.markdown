@@ -5,12 +5,9 @@ date: 2009-02-12 20:16:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Software Development"]
 permalink: "/post/Organizing-Software-Projects/"
 ---
-<!-- more -->
-
-
 
 <p>Managing and structuring software applications is a complicated topic. Many different ways of structuring applications exist, and there are merits to several methods of organization. In this post, I am going to roughly describe a method of organizing a software application to which I am somewhat partial.</p>
 <p>One of the most important aspects of a well-organized project in my opinion, is the ability for a new developer on a project to be able to sit down and have a working solution as soon as they get the latest version of the application from the source control repository. Not only should that person be able to have a working solution, but that working copy should assist the developer in setting up the local environment. The solution should also be in a state which allows all of the project's tests to run without the user having to jump through a bunch of hoops.</p>

@@ -5,12 +5,9 @@ date: 2010-01-12 08:48:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["CodeMash"]
 permalink: "/post/CodeMash-2010-is-this-week/"
 ---
-<!-- more -->
-
-
 
 <p><a href="/files/media/image/WindowsLiveWriter/CodeMash2010isthisweek_7BF5/logo-codemash_2.gif"><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="logo-codemash" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/CodeMash2010isthisweek_7BF5/logo-codemash_thumb.gif" border="0" alt="logo-codemash" width="203" height="206" align="right" /></a> I will be attending a great regional event this week. The event is called <a href="http://codemash.org/">CodeMash</a> and it is located in Sandusky, Ohio. As the CodeMash site describes it.</p>
 <blockquote>

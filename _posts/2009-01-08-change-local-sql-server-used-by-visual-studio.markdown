@@ -5,12 +5,9 @@ date: 2009-01-08 11:06:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Visual Studio", "MSSQL"]
 permalink: "/post/Change-Local-SQL-Server-Used-By-Visual-Studio/"
 ---
-<!-- more -->
-
-
 
 <p>A while back I ran into a problem when setting up SQL Server on a computer and using it along with a database project in Visual Studio. It isn&rsquo;t really a big deal, but I needed to change which locally installed instance of SQL Server I was using by default with Visual Studio. Since I blogged about this previously it is a very nice reference for where to find that setting should the need to change it arise again.</p>
 <p>Today I just sat down at a computer which had Visual Studio pointing to a SQL Express instance. Yesterday I installed SQL Server on the computer, so I went to change to the new SQL Server instance. What was my first step? I Googled for my blog post I&rsquo;d previously written, because I knew it had nice screen shots to show me exactly what I was looking for.</p>

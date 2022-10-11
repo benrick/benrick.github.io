@@ -5,12 +5,9 @@ date: 2009-03-05 16:58:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["C#", "ASP.NET"]
 permalink: "/post/Getting-Around-a-Lack-of-Interfaces-With-Partial-Classes/"
 ---
-<!-- more -->
-
-
 
 <p>One pain point which comes along often when working with others' libraries are the classes that are not open and implementing interfaces. A lot of the classes we developers use every day implement no interfaces. Since the class is out of my control, I obviously cannot give it an interface, so I need some other way to work with it. This creates a problem when we need to mock out the class. There are ways in which we can get around this though.</p>
 <h4>Wrapping Classes</h4>

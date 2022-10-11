@@ -5,12 +5,9 @@ date: 2009-01-26 14:36:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["ASP.NET"]
 permalink: "/post/ASPNET-Supports-Valid-HTML-Attributes-in-its-Tags/"
 ---
-<!-- more -->
-
-
 
 <p>While reading an article, I came across a misconception that seems all too common with people using ASP.NET, and they need to <strong><em><span style="text-decoration: underline;">stop trusting intellisense!!!</span></em></strong> I love intellisense, but you can't trust in it entirely. It doesn't know everything, so as a rule, I will state that if html supports something... SO DOES ASP.NET!</p>
 <p>So now that I am done ranting I first want to say I am not intending to bash the author or the publisher site. Both have some great content and are valuable to the .NET community. I simply want to step in and provide some clarity by providing some explanation and an alternative solution to the problem. The <a href="http://aspalliance.com/1803_CodeSnip_Adding_a_ToolTip_for_Each_List_Item" target="_blank">article</a> is about adding a tooltip to individual items in a dropdown list. There are plenty of reasons to do this, including the one the author states which is that the list might have a fixed width and will display badly in IE. Below is an example of a DropDownList with this problem.</p>

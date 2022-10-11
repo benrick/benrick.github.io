@@ -5,12 +5,9 @@ date: 2008-12-04 10:18:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["TDD", "Unit Testing"]
 permalink: "/post/One-Reason-to-Test-Before-Creating-a-Method/"
 ---
-<!-- more -->
-
-
 
 <p>Most people who know about Test Driven Development have heard the phrase, "Red, Green, Refactor". When it comes to actual implementation of this technique there seems to be a bit of a disagreement. By following the rules of RGR we all agree that we start by writing a failing test (Red), we write the code to make the test pass (Green), and then we make the code better and remove duplication (Refactor). The point of contention I hear about most often is in the Red stage. Some people say to write the failing test before writing <em>any </em>code. Some people say that you can make a skeleton of the code and write the test for that.</p>
 <p>In practice I tend to agree with the people that make the skeleton code first. I really just don't like having the compiler error be how my test fails. What I do instead is create the code I am going to test and have it throw a NotImplementedException. This lets me make sure the test is failing so I am sure to flesh out the code.</p>

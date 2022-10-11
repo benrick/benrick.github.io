@@ -8,9 +8,6 @@ categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Old-Blog-Favorites/"
 ---
-<!-- more -->
-
-
 
 <p>I am somewhat partial to a few of the posts from my previous blog. For some of these posts, I just like the post, some the content about which the post was written, and some were just popular posts.</p>
 <p><strong>Installing SQL Server Management Studio with SQL Server: </strong>My most popular post is one written about a painful experience installing SQL Server's client tools. Sadly the popular post is out of date. My first post about the topic I found a solution that worked and managed to install the software. I late found out that there was a better way and I updated the post. The problem is that Google continued to send traffic to the old one. For my blog it was a pretty popular post. it has had over 25,000 views.</p>

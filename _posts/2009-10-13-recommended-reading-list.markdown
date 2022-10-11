@@ -5,12 +5,9 @@ date: 2009-10-13 10:03:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Book"]
 permalink: "/post/Recommended-Reading-List/"
 ---
-<!-- more -->
-
-
 
 <p>Just like many other developers I know, I have a stack of books I intend to read high enough that I could not hope to finish them ever. I know that the stack will increase in size as fast as I finish the books. I have plenty of technical books I intend to read as well as a large quantity of those which are purely for my own entertainment.</p>
 <h3>Required Developer Reading</h3>

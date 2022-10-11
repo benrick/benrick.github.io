@@ -5,12 +5,9 @@ date: 2009-09-09 09:26:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Unit Testing"]
 permalink: "/post/Time-Tested-Testing-Tips-e28093-Part-7/"
 ---
-<!-- more -->
-
-
 
 <p>At last night&rsquo;s Cleveland .NET Special Interest Group I met <a href="http://russology.com/" target="_blank">Russ Nemhauser</a> who gave a great beginners&rsquo; talk on Testing, TDD, and Mocking. One thing I noticed that he did when he was showing how to write unit tests was kind of interesting. I admit I usually take tests one at a time when I get my idea for the test I want to write I just go ahead and start writing it. When he was demoing he started by brainstorming a handful of tests and made comments for each test name.</p>
 <p>Normally what I would do is sit for a second and think of the few cases of each type I want to test. So I might sit and think, &ldquo;OK, which edge-cases exist that I need to watch out for&rdquo;. Then I would go and write just the ones I deem likely to ever come up. I&rsquo;m obviously not going to test every case out there.</p>

@@ -5,12 +5,9 @@ date: 2010-04-01 08:13:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["April Fool's Day"]
 permalink: "/post/April-What-Day/"
 ---
-<!-- more -->
-
-
 
 <p>The day I&rsquo;ve been waiting for has finally arrived. The Internet has made the first day of April into a fun day, which is different from the opinions of many who believe the day to be mean-spirited. Well I recommend you surf around today so you don&rsquo;t miss these.</p>
 <h3>XKCD</h3>

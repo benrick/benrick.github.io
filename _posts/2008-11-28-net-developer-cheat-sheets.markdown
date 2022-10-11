@@ -5,12 +5,9 @@ date: 2008-11-28 19:28:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: [".NET"]
 permalink: "/post/NET-Developer-Cheat-Sheets/"
 ---
-<!-- more -->
-
-
 
 <ul>
 <li><a href="http://www.jetbrains.com/resharper/documentation/ReSharper30DefaultKeymap_2.pdf" target="_blank">ReSharper Keymap</a></li>

@@ -5,12 +5,9 @@ date: 2009-06-22 09:37:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["C#"]
 permalink: "/post/Overusing-var-in-C/"
 ---
-<!-- more -->
-
-
 
 <p>With C# 3.0 came one new feature I both love and hate; the implicitly typed local variable: var. I think it is great because it is implicitly typed, but it is still strongly typed. At compile time it will be the explicit type as if you had typed the actual type name. Visual Studio is able to determine during development what the type is, so there isn't much of a downside. However, I believe it gets overused.</p>
 <p>I think it is great if the line contains the "new" keyword, because I can already see the type name because it gets written for the constructor. Using "var" all the time really irks me though. It is inconvenient, because I can't always tell what type the variable is. This isn't always too much of an issue, but I prefer defining the type when possible.</p>

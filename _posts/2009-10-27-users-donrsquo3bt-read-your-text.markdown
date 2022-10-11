@@ -5,12 +5,9 @@ date: 2009-10-27 15:16:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
-permalink: "/post/Users-Donrsquo3bt-Read-Your-Text/"
+tags: ["UX"]
+permalink: "/post/Users-Dont-Read-Your-Text/"
 ---
-<!-- more -->
-
-
 
 <p>A few days ago Jeff Atwood wrote a <a href="http://www.codinghorror.com/blog/archives/001306.html" target="_blank">great post about users</a>. This is my post adding to his.</p>
 <p>I also develop applications, and user interfaces is a common topic of discussion. The interface of an application is one of the most important aspects of it. What a lot of people seem not to realize and Jeff nicely highlights is that users don&rsquo;t read <em>anything</em>. Trust me. I use a lot of applications, and I avoid reading anything that is more than six or seven letters long.</p>

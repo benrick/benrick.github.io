@@ -5,12 +5,9 @@ date: 2009-05-19 11:02:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Dependency Injection"]
 permalink: "/post/Choosing-A-Dependency-Injection-Pattern/"
 ---
-<!-- more -->
-
-
 
 <p>There are a few patterns you can follow when writing code which injects dependencies; constructor, property, and method injection. Which way is the best one to use? I don't really know for certain, but I can talk a little bit about the differences and some of the benefits of each. I am sure this behaves as most situations do with certain ones perform better in certain situations.</p>
 <h4>Constructor Injection</h4>

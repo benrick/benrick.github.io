@@ -5,12 +5,9 @@ date: 2009-08-06 10:43:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Software Development", "C#"]
 permalink: "/post/Constructors-Should-Be-Simple-and-Stupid/"
 ---
-<!-- more -->
-
-
 
 <p>There are plenty of commonly known and upheld ideas about how software <em>should</em> be written. There are rules and guidelines professed by many developers which recommend following this design principle or that one. Some are more important than others. Some are easier to find and correct than others.</p>
 <p>One such rule that I believe is important to follow is that all constructors remain simple and stupid. This is about as advanced as I believe a constructor should even be.</p>

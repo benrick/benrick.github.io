@@ -5,14 +5,11 @@ date: 2009-05-19 22:25:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["TDD", "Unit Testing", "Tips"]
 permalink: "/post/Time-Tested-Testing-Tips-Part-2/"
 ---
-<!-- more -->
 
-
-
-<p>In the <a href="/post/2009/05/19/Time-Tested-Testing-Tips-Part-1.aspx">first part of this series of testing tips</a>, I mentioned a couple of tips I believe to be quite useful. I am going to continue this series today by writing about a couple of more ways to write better tests. I also plan to give reasons for testing and describe different benefits of the practice as I go.</p>
+<p>In the <a href="/post/Time-Tested-Testing-Tips-Part-1.aspx">first part of this series of testing tips</a>, I mentioned a couple of tips I believe to be quite useful. I am going to continue this series today by writing about a couple of more ways to write better tests. I also plan to give reasons for testing and describe different benefits of the practice as I go.</p>
 <h3>Test Driven Development</h3>
 <p>Yes, I am going to bring this up. Plenty of people have latched onto the idea that testing code helps make code better. A lot of people even believe that it makes the process of writing the code faster. I see a lot of people who are reluctant still to use test driven development. I know I am throwing around a buzzword&hellip; or maybe I mean buzzphrase since that&rsquo;s actually three words.</p>
 <p>I don&rsquo;t plan on doing TDD justice here since I am trying to keep these tips relatively short. I just hope this is enough to inspire people to go read, learn more, and try some test driven development. I am going to give some quick reasons why developers testing their code should write the tests first.</p>

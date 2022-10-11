@@ -5,12 +5,9 @@ date: 2009-06-08 12:22:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Unit Testing"]
 permalink: "/post/Time-Tested-Testing-Tips-Part-5/"
 ---
-<!-- more -->
-
-
 
 <p>Welcome back for another exciting tip for those developers writing unit tests. Today we will be looking at assertions in unit tests.</p>
 <h3>Only Assert On One Case Per Test</h3>

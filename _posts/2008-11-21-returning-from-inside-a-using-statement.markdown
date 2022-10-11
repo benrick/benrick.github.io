@@ -5,12 +5,9 @@ date: 2008-11-21 23:59:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["C#"]
 permalink: "/post/Returning-From-Inside-a-Using-Statement/"
 ---
-<!-- more -->
-
-
 
 <p>A while back I wrote a blog post regarding this topic. In that post I explain that it is safe to use a <a href="/post/2009/05/06/Return-Within-a-C-Using-Statement.aspx">return statement inside a using block</a>, because the using block will handle the disposing of the defined IDisposable object. This is one truly great ability of the IDisposable interface. It makes it very important to use in my opinion. The using block in combination is very nice, because it handles the disposal for you.</p>
 <p>One of my commenter on that post asked me if I was certain that the return statement was safe. He asked this because he couldn't find it in the documents. He also asked me if I had any code showing that this behavior works as I claim it does. I quickly wrote this simple little piece of code which works to demonstrate this behavior.</p>

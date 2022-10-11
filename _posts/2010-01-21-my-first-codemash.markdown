@@ -5,12 +5,9 @@ date: 2010-01-21 10:05:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["CodeMash"]
 permalink: "/post/My-First-CodeMash/"
 ---
-<!-- more -->
-
-
 
 <p>As a late adopter of <a href="http://codemash.org/" target="_blank">CodeMash</a> I can say that version 2.0.1.0 was a great event. There were hundreds of developers there ready to learn and try new things. The intelligent, interesting people sparked many worthwhile conversations. If you&rsquo;re in the area around Sandusky, Ohio, I highly recommend that you attend the next CodeMash.</p>
 <h3>Not Your Everyday Conference</h3>

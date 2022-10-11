@@ -5,12 +5,9 @@ date: 2009-10-05 09:10:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Software Development"]
 permalink: "/post/Programming-is-Not-Just-Typing/"
 ---
-<!-- more -->
-
-
 
 <p>One of my favorite quotes about programming languages comes from Ward Cunningham who said, &ldquo;If you don't think carefully, you might think that programming is just typing statements in a programming language.&rdquo; Not sure if he really said it, but it is attributed to him plenty of times on the Internet.</p>
 <p>So back to Ward Cunningham for a minute. I really like that quote. It says one very powerful thing about programming that I think is known by a lot of people using programming languages, but I am not always sure they think about it in this manner. I know that non-programmers certainly don&rsquo;t understand it. Plenty of people think that all we do all day is type, but there&rsquo;s a heck of a lot more to it than that.</p>

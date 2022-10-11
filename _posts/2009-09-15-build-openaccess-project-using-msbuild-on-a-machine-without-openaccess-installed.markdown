@@ -5,12 +5,9 @@ date: 2009-09-15 17:07:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Telerik OpenAccess"]
 permalink: "/post/Build-OpenAccess-Project-Using-MSBuild-on-a-Machine-Without-OpenAccess-Installed/"
 ---
-<!-- more -->
-
-
 
 <p>OpenAccess ORM is a powerful ORM tool that integrates very well into Visual Studio. It uses wizards and is tightly integrated, which makes it easy to pick up and start using. However, this same asset also provides a challenge when using this tool along with MSBuild on a machine without OpenAccess installed. There are some adjustments that needs to be made, since it is designed to be used with Visual Studio, so we have to add a couple of extra bits to get MSBuild to be able to build a project correctly.</p>
 <p>So if you&rsquo;re using the OpenAccess ORM tool and you want to use a build server you&rsquo;ll need to make a couple of configuration changes to allow you to achieve this. Since I use a continuous integration server on pretty much every project I work on, I ran into this issue. There are a few things you need to do to get this working.</p>

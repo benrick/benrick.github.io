@@ -5,12 +5,9 @@ date: 2009-01-14 09:43:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["TDD", "Unit Testing", "Regression Testing"]
 permalink: "/post/Write-a-Test-Before-Fixing-a-Bug/"
 ---
-<!-- more -->
-
-
 
 <p>As I've said in previous posts, it is important to write tests for your code. A lot of the time I am talking about when refactoring code or when writing new code. Now I agree that bug fixing could be considered refactoring, but people seem to treat it differently. When fixing bugs they want to go in and quickly make the bug go away. That is a dangerous way to solve things, because it doesn't prevent the bug from returning.</p>
 <p>If a bug exists in your system then there are test cases missing from the system. When you fix a bug, even if you do write a test case to handle the bug how do you know you've tested the right thing? If your test is not right it will not prevent the bug from <a href="http://en.wikipedia.org/wiki/Software_regression" target="_blank">returning</a>. I know of only one way to be fairly confident that a bug is tested well. <strong>The test <em>needs</em> to be written before the fix.</strong> If it isn't written first you will not know. If you follow the TDD practice of Red, Green, Refactor, the Red lets you know that you've found the bug. Then when you make it green you can have confidence that you've fixed the bug.</p>

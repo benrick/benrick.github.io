@@ -5,12 +5,9 @@ date: 2010-05-05 08:30:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Extreme Programming", "Agile"]
 permalink: "/post/Let-Others-Work-on-Your-Code/"
 ---
-<!-- more -->
-
-
 
 <p>Don&rsquo;t be overprotective of your source code. Allow others to make modifications, improvements, refactorings, and even defects (as long as those get fixed immediately). I am talking about two different Extreme Programming practices here: collective code ownership and pair programming. A non-developer friend of mine has been reading about agile software development and asked me last week about pair programming, "do you guys do this 'pair programming' thing?"</p>
 <p>I think even among developers the pair programming concept is one of the strangest aspects of extreme programming.</p>

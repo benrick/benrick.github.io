@@ -5,12 +5,9 @@ date: 2010-02-24 10:01:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Agile"]
 permalink: "/post/Agile-Resources-ndash-The-Agile-Actors/"
 ---
-<!-- more -->
-
-
 
 <p>Agile development has a few roles that people will be playing. Those roles define certain responsibilities that the parties involved will need to take on. Each role serves an integral role in the development process.</p>
 <h3>Product Owner</h3>

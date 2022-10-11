@@ -5,12 +5,9 @@ date: 2009-10-28 17:22:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Silverlight"]
 permalink: "/post/Expression-Blend-Issue-with-Abstract-Base-Classes/"
 ---
-<!-- more -->
-
-
 
 <p>Earlier, I wrote a post about <a href="/post/silverlight-usercontrol-inheritance/" target="_blank">using inheritance with Silverlight UserControls</a>. The post shows really quickly how one can have their UserControl inherit from another class. One tip I&rsquo;ll mention is that the base class <em>can</em> be abstract, but not if you plan on using Expression Blend. Generally if you have a class which shouldn&rsquo;t ever be instantiate, you should make it abstract.</p>
 <p>The issue is one that I discovered, much to my annoyance, the hard way. As it turns out Expression Blend is currently unable to give a preview of a UserControl that is inheriting from an abstract base class. When you open one of these in Blend you&rsquo;ll get the Red Box of Death and in it is a message stating, &ldquo;Exception: Cannot create an instance of &ldquo;MyClass&rdquo;.</p>

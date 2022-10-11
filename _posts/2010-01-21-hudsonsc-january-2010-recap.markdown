@@ -5,12 +5,9 @@ date: 2010-01-21 11:54:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["HudsonSC"]
 permalink: "/post/HudsonSC-January-2010-Recap/"
 ---
-<!-- more -->
-
-
 
 <p>Last night we had a great HudsonSC meeting. People started showing up around 5:30, and I had the opportunity to meet and talk with a few new attendees during that time.</p>
 <h3>Lightning Talks</h3>

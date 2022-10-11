@@ -5,12 +5,9 @@ date: 2009-09-26 17:36:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["ASP.NET MVC", "MVC"]
 permalink: "/post/Building-an-MVC-Gaming-Statistics-Site-ndash-Setting-Up-the-Project/"
 ---
-<!-- more -->
-
-
 
 <p>Now that ASP.NET MVC has been around for a while there have been plenty of articles written about how leverage the technology to create powerful, lightweight web applications which are highly customizable and testable. I&rsquo;ve discussed the advantages of using ASP.NET Forms and ASP.NET MVC plenty of times in the past, but just so no one thinks I am a forms hater I will say that I still create forms applications. Both MVC and Forms can coexist and they both have their advantages.</p>
 <p>I will say that there is of course a learning curve for MVC. You don&rsquo;t instantly know it just because you&rsquo;ve used web forms. So yes, it will be like learning any new technology. However, I am writing this so that a transition can be easier. Rather than doing some demo application that doesn&rsquo;t take into consideration real-life situations and circumstances I&rsquo;ll be posting about an application I&rsquo;ve been working on.</p>

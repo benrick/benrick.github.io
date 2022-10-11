@@ -5,12 +5,9 @@ date: 2008-11-25 22:52:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Software Development", "Clean Code"]
 permalink: "/post/Keeping-Large-Classes-in-Line/"
 ---
-<!-- more -->
-
-
 
 <p>One thing that seems to get out of control quickly on a lot of projects I've seen is a tendency for classes to grow to enormous size. This is one problem that seems to turn up at least once in a lot of projects. Why does it happen? Because programmers are lazy. Yes, I said it. We are. I think it is a good thing in a lot of cases. We are "efficiency experts". We pay an up-front cost writing a program so we will have less work to do to solve a problem. By writing the code we save ourselves time. This is one example of this laziness.</p>
 <p>When we get lazy we tend to group things together. Since the foo class already has access to types x, y, and z, we can just put this new code in foo. It makes sense, but we're really just making our classes larger. This is why the single responsibility principle is so important. This is one rule important enough that developers everywhere should know about it.</p>

@@ -5,12 +5,9 @@ date: 2009-03-03 17:38:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["TDD", "AspAlliance"]
 permalink: "/post/Recent-Article-Writing/"
 ---
-<!-- more -->
-
-
 
 <p>Over the past month, I've written a few articles for <a href="http://aspalliance.com/" target="_blank">ASP Alliance</a>. I now need to shamelessly plug my own stuff. If I didn't post this kind of stuff on my blog, I wouldn't really be doing my job. I wrote these articles so people could read them, and linking to them here should help with that. Enjoy.</p>
 <h4>Standard Type Casting and "as" Operator Conversions</h4>

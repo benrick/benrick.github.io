@@ -5,12 +5,9 @@ date: 2009-09-21 09:14:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["ASP.NET", "WebForms", "LINQ"]
 permalink: "/post/Fun-With-Web-Forms-Controls-and-LINQ/"
 ---
-<!-- more -->
-
-
 
 <p>Since LINQ has come out I&rsquo;ve been very fascinated with it. LINQ to SQL is kind of cool, but working with in-memory collections is my favorite. Sure anything we can do with LINQ we could have done before, but now it&rsquo;s easy. While not exactly the most practical and certainly not the most efficient method of handling things, working with a page&rsquo;s Controls collection can be a lot of fun.</p>
 <p>So perhaps I want to change the text of all of the TextBoxes on a page. I can easily grab that collection like this.</p>

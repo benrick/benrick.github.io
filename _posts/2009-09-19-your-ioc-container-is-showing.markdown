@@ -5,12 +5,9 @@ date: 2009-09-19 15:40:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["IOC"]
 permalink: "/post/Your-IoC-Container-is-Showing/"
 ---
-<!-- more -->
-
-
 
 <p>Learning to keep things about your application hidden is important. Your code should be exposed to as few things as possible. Using tools like Ninject, Structuremap, etc. is great, but you should try to keep them at arm&rsquo;s length.</p>
 <p>If you want to keep your Inversion of Control (IoC) container hidden you can put a nice wrapper around it. In an application I am currently working with I started by using an IoC container that was very simple. Just enough so that I didn&rsquo;t have to use the poor man&rsquo;s dependency injection.</p>

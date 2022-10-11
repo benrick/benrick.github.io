@@ -5,12 +5,9 @@ date: 2009-10-28 09:10:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["C#"]
 permalink: "/post/Working-with-Interfaces-ndash-Practical-Uses/"
 ---
-<!-- more -->
-
-
 
 <p>Expanding on an article I wrote a couple of years ago where I explained <a href="http://aspalliance.com/1516_Understanding_Interfaces_in_C" target="_blank">interfaces in C#</a>, I&rsquo;d like to explain why people should use interfaces. I received an email from a reader of my ASP Alliance article. He understands <em>how</em> interfaces work, but he&rsquo;s trying to see why so many people are raving wildly about their greatness. His questioning of them is great, because it really is not obvious why interfaces are useful. Anyone who says otherwise is just trying to brag.</p>
 <blockquote>

@@ -5,12 +5,9 @@ date: 2009-05-30 21:37:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["TDD", "Unit Testing"]
 permalink: "/post/Something-to-Avoid-While-Programming/"
 ---
-<!-- more -->
-
-
 
 <p>Some activities and thoughts need to be avoided while programming. Sometimes we realize our mistakes and do them anyway. I admit that in my time developing software I&rsquo;ve probably done this more times than I would like to admit. I make an effort to avoid making these types mistakes, and I attempt to encourage others to avoid the same pitfalls. While working with others I certainly tell them when they&rsquo;re gravely mistaken about something.</p>
 <p>The first thing I would like to emphasize is that this mistake is fairly common everywhere in life. It is of course procrastination, and I think I&rsquo;ll rip off the classic line I&rsquo;ve heard a million times. <em>Don't put off until tomorrow what you could do today.</em> Now I need to be careful how I say this, because I could get YAGNI people jumping at me for saying this. Obviously don&rsquo;t do everything today just because you can. That is silly, but things that will assist greatly in maintenance should not be put off. Since I&rsquo;ve been on a <a href="/post/time-tested-testing-tips-part-1/" target="_blank">bit</a> <a href="/post/time-tested-testing-tips-part-2/" target="_blank">of a</a> <a href="/post/time-tested-testing-tips-part-3/" target="_blank">testing</a> <a href="/post/time-tested-testing-tips-ndash-part-4/" target="_blank">kick</a> lately, I might as well focus this toward testing.</p>

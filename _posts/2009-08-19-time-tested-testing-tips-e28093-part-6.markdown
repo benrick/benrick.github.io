@@ -5,12 +5,9 @@ date: 2009-08-19 08:42:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Unit Testing"]
 permalink: "/post/Time-Tested-Testing-Tips-e28093-Part-6/"
 ---
-<!-- more -->
-
-
 
 <p>If you haven&rsquo;t seen my earlier posts on this topic. I&rsquo;ve mentioned a bunch of tips which should make your testing easier and more effective. If you&rsquo;re looking for more tips check out these previous posts.</p>
 <p><a href="/post/2009/05/19/Time-Tested-Testing-Tips-Part-1.aspx" target="_blank">Time-Tested Testing Tips - Part 1</a></p>

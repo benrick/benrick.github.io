@@ -5,12 +5,9 @@ date: 2008-12-02 18:07:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Unit Testing"]
 permalink: "/post/Testing-Private-Methods/"
 ---
-<!-- more -->
-
-
 
 <p>In a previous post about <a href="/post/2008/11/25/Keeping-Large-Classes-in-Line.aspx" target="_blank">cutting large classes down in size</a> I mentioned that</p>
 <blockquote>

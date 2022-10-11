@@ -5,12 +5,9 @@ date: 2009-10-06 13:51:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Code Katas", "Katas", "Software Craftsmanship"]
 permalink: "/post/How-Coding-Katas-Can-Help-You/"
 ---
-<!-- more -->
-
-
 
 <p>Here at Nimble Software Professionals one of the activities that we have started doing is coding katas. We do these to help hone our skills as software developers. We do them because we value continual improvement among our team. The importance of an ever-growing, ever-improving team is very important, and through constant training and reemphasis of these techniques we expect to be able to achieve this important endeavor.</p>
 <p>As developers we are presented with problems we must work through on a regular basis. Solving these problems is easier if we know all of the theory and mechanics to help us along the way. Knowing design patterns helps, since these are patterns which occur often enough that there is a repeatable solution. You can also just be a programming genius, and that will also help.</p>

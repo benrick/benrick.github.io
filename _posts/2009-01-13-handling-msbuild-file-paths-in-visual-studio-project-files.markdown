@@ -5,12 +5,9 @@ date: 2009-01-13 10:47:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["MSBuild", "Visual Studio"]
 permalink: "/post/Handling-msbuild-File-Paths-in-Visual-Studio-Project-Files/"
 ---
-<!-- more -->
-
-
 
 <p>Yesterday, a co-worker of mine and I were working on a task which required that we work in the xml of a Visual Studio project file. We were setting up a target with an exec statement, and ran into a little annoyance. The file we were trying to execute was in a folder with a space in the name.</p>
 <p>If we were typing this into a command prompt window it would be easy. We would simply wrap the statement in quotes. Working in the project file our brains sort of stopped working. We tried to find a way to escape the spaces in the file path. Instead of doing this in the end we used the xml encoding for a quote. We used <strong>&amp;quot;</strong> to wrap the path in quotes. Yipee everything worked!</p>

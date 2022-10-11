@@ -5,12 +5,9 @@ date: 2010-05-21 09:06:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Agile"]
 permalink: "/post/Agile-Planning-with-Fewer-Stakeholder-Fights/"
 ---
-<!-- more -->
-
-
 
 <p>If you&rsquo;ve ever had a team responding to the needs of multiple stakeholders I am sure you&rsquo;ve seen some interesting trends. Some stakeholders will sit quietly and have their requests ignored while others will always push their needs to the front. This of course happens in a lot of different fields. There are always the pushy people who want their stuff done first, because it&rsquo;s &ldquo;top priority&rdquo;. Maybe it is, but that&rsquo;s not for the team to decide.</p>
 <p>So how can you prevent problems from arising from this type of behavior?</p>

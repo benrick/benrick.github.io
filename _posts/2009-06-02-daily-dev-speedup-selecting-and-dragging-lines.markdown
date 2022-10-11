@@ -5,12 +5,9 @@ date: 2009-06-02 09:24:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Visual Studio"]
 permalink: "/post/Daily-Dev-Speedup-Selecting-and-Dragging-Lines/"
 ---
-<!-- more -->
-
-
 
 <p>Yesterday I posted about how important it is to use keyboard shortcuts and tools to help you write code faster. Any developer working towards self-improvement should be looking not only into how to program <em>better</em> but also how to program <em>faster</em>.</p>
 <p>Today I'll start by mentioning a pretty easy one. If you use Visual Studio I really hope you keep line numbers on. I could probably claim that as the first tip since it does speed things up. This is especially true when collaborating with someone when they can say the line number about which they are speaking. For the real tip I'll be mentioning here you do not need to have the line numbers enabled, but they give you more surface area to click on.</p>

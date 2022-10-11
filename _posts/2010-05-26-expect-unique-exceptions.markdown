@@ -5,12 +5,9 @@ date: 2010-05-26 10:34:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["C#"]
 permalink: "/post/Expect-Unique-Exceptions/"
 ---
-<!-- more -->
-
-
 
 <p>One too common programming practice that irks me when I find it in source code is throwing or catching non-specific exceptions. I believe firmly that it is important to fail fast, and exceptions are a great way to ensure fast-failing code. If you drag out a failure you can hide the initial issue or allow a process to continue after an error has happened. Using non-specific exceptions will also hide information. Failing quickly is important as is being able to respond correctly to an exception and track down the cause.</p>
 <p>Steve Smith posted recently saying that one <a href="http://stevesmithblog.com/blog/don-rsquo-t-throw-duplicate-exceptions/" target="_blank">should not throw duplicate exceptions</a>. He gave a great example of where people will check for two different cases and throw duplicate exceptions.</p>

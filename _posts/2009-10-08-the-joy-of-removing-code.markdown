@@ -5,12 +5,9 @@ date: 2009-10-08 16:25:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Refactoring", "Software Development"]
 permalink: "/post/The-Joy-of-Removing-Code/"
 ---
-<!-- more -->
-
-
 
 <p>Removing code is one of my favorite activities. Isn&rsquo;t it one of yours? As a software developer I strive to write less code. Sounds kind of funny, but what I mean is that I want the code that I write to be reused as effectively as possible. Having less code means that maintenance is easier. I can fix things faster, change things faster, find things faster, and figure things out faster.</p>
 <p>This is a very good case of &ldquo;less is more&rdquo;, which is one reason why I love removing code. I really enjoy getting more or even equivalent work done with less code.</p>

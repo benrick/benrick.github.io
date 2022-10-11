@@ -5,12 +5,9 @@ date: 2009-04-13 13:50:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["LINQ", "C#"]
 permalink: "/post/LINQ-Your-Collections-with-IEqualityComparer-and-Lambda-Expressions/"
 ---
-<!-- more -->
-
-
 
 <p>Anyone using LINQ to manipulate in-memory collections is probably also using plenty of lambda expressions to make things quite easy. These two additions were really meant for each other. One of our interns here recently ran into an interesting problem while using LINQ. As a relatively new user of .NET based languages, reference types caused him a bit of trouble.</p>
 <h4>The problem</h4>

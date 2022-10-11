@@ -5,12 +5,9 @@ date: 2010-04-23 11:29:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Agile", "Estimation"]
 permalink: "/post/Agile-Story-Estimation/"
 ---
-<!-- more -->
-
-
 
 <p>One challenging part of software development is estimating the amount of time that tasks will take. Why is this a challenge? There are plenty of reasons: sometimes you&rsquo;re dealing with legacy code, sometimes there are a great deal of unknowns, and sometimes you aren&rsquo;t doing the whole story and can&rsquo;t estimate the other work. There are plenty of other reasons why estimating stories is difficult, so how do you resolve the difficulties and get things estimated.</p>
 <h3>&nbsp;</h3>

@@ -8,9 +8,6 @@ categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/Time-for-Being-Thankful/"
 ---
-<!-- more -->
-
-
 
 <p>In the United States we are currently celebrating Thanksgiving Day. Everyone have a happy Thanksgiving. It is time for being thankful for all the wonderful things in our lives.</p>
 <div>

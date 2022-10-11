@@ -5,12 +5,9 @@ date: 2010-05-01 10:27:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Database Change Management", "Databases", "Source Control"]
 permalink: "/post/Keep-Databases-in-Source-Control/"
 ---
-<!-- more -->
-
-
 
 <p>Well, sort of. Your database can be rather large, so you probably don&rsquo;t want to actually have the database file in source control. I do think you should have your database in source control, but really just your schema. Remember in my post about <a href="/post/keep-binaries-in-source-control/" target="_blank">keeping your binaries in source control</a> I mentioned that it is important to be able to go back to any point in time for your application. <em>This means the database will need to match as well.</em> How can we allow ourselves to do that? Keep databases in source control.</p>
 <p>We want to be storing the subset of SQL usually defined as the Data Definition Language. These are all of the statements that create tables, define columns, create indexes, and make any alterations to our database schema. There are plenty of ways to store these. In fact I recommend after reading this post that you attend a local user group and offer this topic as a discussion for an open space. We&rsquo;ve done this topic at <a href="http://hudsonsc.com/" target="_blank">HudsonSC</a> and you get to find out a lot about what solutions other teams are using and why they&rsquo;re using them.</p>

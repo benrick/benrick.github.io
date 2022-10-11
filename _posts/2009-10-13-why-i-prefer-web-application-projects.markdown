@@ -5,12 +5,9 @@ date: 2009-10-13 10:20:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["ASP.NET"]
 permalink: "/post/Why-I-Prefer-Web-Application-Projects/"
 ---
-<!-- more -->
-
-
 
 <p>Over the summer, Nimble Pros brought on some new interns. We of course brought them up to speed on how we do things here. We like the integration process of bringing new employees into the mix immediately involving them in the process the entire team is involved with. To help get them up to speed we use a combination of pair-programming, book and article reading, and formal instruction.</p>
 <p>As I am sure anyone who uses Visual Studio for web development knows, there are two main ways to go about creating the site that you&rsquo;re going to develop. There is the web application project (WAP) and the web site (ignoring MVC of course).</p>

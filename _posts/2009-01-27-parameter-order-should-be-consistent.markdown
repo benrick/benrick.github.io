@@ -5,12 +5,9 @@ date: 2009-01-27 13:10:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["C#"]
 permalink: "/post/Parameter-Order-Should-Be-Consistent/"
 ---
-<!-- more -->
-
-
 
 <p>I was looking at a piece of code recently and noticed that someone was checking for a null parameter and throwing an ArgumentException, so I figured since ArgumentNullException inherits from ArgumentException I would just replace it with the more specific exception. Little did I know that Microsoft has a wee little bit of a problem with consistency on these.</p>
 <p>With ArgumentExceptions it is important to have a message as well as specify which parameter is causing the trouble, so there are 2 string parameters in the ArgumentException constructor. What you might not know if you haven't switched one to the other is that <em>they changed the order of those parameters</em>. What I mean is that you call them like this.</p>

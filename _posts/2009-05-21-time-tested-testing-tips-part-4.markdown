@@ -5,12 +5,9 @@ date: 2009-05-21 22:20:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["TDD", "Unit Testing", "Tips"]
 permalink: "/post/Time-Tested-Testing-Tips-Part-4/"
 ---
-<!-- more -->
-
-
 
 <p>Rather than spending the time with needless introduction, I think I&rsquo;ll just jump right in today. I&rsquo;ve got a few tips I am going to post today.</p>
 <h3>Reproduce Bugs Using Unit Tests</h3>

@@ -5,12 +5,9 @@ date: 2009-09-14 14:01:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Silverlight"]
 permalink: "/post/How-to-Change-or-Remove-the-No-Data-Series-Message-in-a-RadChart-for-Silverlight/"
 ---
-<!-- more -->
-
-
 
 <p>I&rsquo;ve been working with the charts from Telerik&rsquo;s RadControls for Silverlight. I am of course not blocking the UI when I make my requests to get my data for the charts. Since I am doing this late-loading of the data into the charts it causes them to initially show a message, &ldquo;No Data Series.&rdquo; This message is not a bad default message since it provides adequate information about why the chart is not displaying data.</p>
 <p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="NoDataSeries" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/HowtoChangeorRemovetheNoDataSeriesMessag_A066/NoDataSeries_3.png" border="0" alt="NoDataSeries" width="399" height="263" /></p>

@@ -5,12 +5,9 @@ date: 2009-06-02 15:02:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Clean Code", "Software Development"]
 permalink: "/post/Writing-Clean-Code-is-a-Process/"
 ---
-<!-- more -->
-
-
 
 <p>I was copied on an email recently from someone reluctant to begin writing unit tests for code. One of the complaints about the idea of starting late game adding in testing was an interesting one. The person mentioned that because they're starting to test so late that they will not get "all the benefits of TDD". Well, that person is correct. However, that should not stop anyone from making things <em>better</em>.</p>
 <p>Recently the "boy scout rule" was brought up to me in the context of coding, and I admit I'd never thought of how well that example applies. The scouts have a rule to leave a camp site cleaner than they found it. This is a great idea since it means that gradually overtime you will be making <em>improvements</em>. No one is saying to go and spend a month cleaning things. That would be a <em>HUGE</em> waste of developer effort from the customer's perspective.</p>

@@ -5,12 +5,9 @@ date: 2009-06-12 09:12:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Software Development"]
 permalink: "/post/Looking-at-Testing-in-Other-Fields/"
 ---
-<!-- more -->
-
-
 
 <p>Software development is not alone in the world. Surprised aren't you? There are other fields which exist. Most of these fields have been around much longer than we have, and sadly they tend to do things better than we do in a lot of ways. Heck they're much more mature than we are. I am not saying there is anything wrong with how we are doing things, but I do believe that our field can grow and develop a great deal still. We need to be looking at these other fields though and see how they do things. We need to take what they do and apply what we do well in order to become truly great.</p>
 <p>A lot of people have read about "The Toyota Way". In fact it is on my reading list, and I plan on getting to it sometime soon. There is a lot than can be learned from other industries I believe. Lean thinking works no matter what field you're in. From the Wikipedia entry on this topic we can find this as "Principle 8".</p>

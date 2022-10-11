@@ -5,12 +5,9 @@ date: 2010-05-01 10:44:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Agile"]
 permalink: "/post/Show-Your-Customer-Unfinished-Products/"
 ---
-<!-- more -->
-
-
 
 <p>In what I would call the worst-case scenario,a customer&rsquo;s involvement in a project could consist of setting up initial requirements at the start of a project and then viewing the results at the end of the project. This is of course not ideal for either the customer or the team developing the software.</p>
 <p>In the next best scenario the customer could show up at the beginning and end of each release. This is still not enough. Why? At that point there is no slack remaining. What if the customer doesn&rsquo;t like how something was done? What if there was a misunderstanding? What if the customer has something new that your design makes as a new requirement?</p>

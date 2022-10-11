@@ -5,12 +5,9 @@ date: 2008-12-03 10:37:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Dependency Injection"]
 permalink: "/post/Dependency-Injection-for-Testing-Car-Analogy/"
 ---
-<!-- more -->
-
-
 
 <p>One analogy I like using when talking about interfaces is the car. I like it because cars have a standard "interface" and most people know how to drive cars. In a post I wrote recently about <a href="/post/simple-dependency-injection/" target="_blank">dependency injection</a>, I mentioned the importance of programming against interfaces instead of concrete classes.</p>
 <p>For my car analogy I will start by saying that you are the program. You have been programmed against an interface. This is a good thing. You know how to drive a car. In this case "Car" is the interface. (Remember this means a literal interface, so it could be an abstract class.) You learned to drive a car. It doesn't matter what brand make or model. Since you know how to drive a car you can drive anything that implements the car interface even if it is not a car.</p>

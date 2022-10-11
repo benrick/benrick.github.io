@@ -5,12 +5,9 @@ date: 2009-01-02 21:40:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Microsoft MVP"]
 permalink: "/post/Earned-My-First-MVP-Award/"
 ---
-<!-- more -->
-
-
 
 <p>A couple of days ago I received an email informing me that I received the 2009 Microsoft&reg; MVP Award.</p>
 <p>Thanks Microsoft. I am very honored.</p>

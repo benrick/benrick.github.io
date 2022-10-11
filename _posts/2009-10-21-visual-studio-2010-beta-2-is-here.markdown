@@ -5,12 +5,9 @@ date: 2009-10-21 14:59:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Visual Studio"]
 permalink: "/post/Visual-Studio-2010-Beta-2-is-Here/"
 ---
-<!-- more -->
-
-
 
 <p>As of today Visual Studio Beta 2 is available to the general public. There is a <a href="http://bit.ly/3q8M64" target="_blank">VS 2010 Beta 2 iso</a> available for download. It has some really nifty features. I&rsquo;ve been playing around with it.</p>
 <p>First off I will say that it actually looks very cool.</p>

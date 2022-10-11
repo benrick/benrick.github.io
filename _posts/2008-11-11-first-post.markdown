@@ -8,8 +8,5 @@ categories: ["Archive"]
 tags: ["Blog"]
 permalink: "/post/First-Post/"
 ---
-<!-- more -->
-
-
 
 <p>In classic forum style this is not the first post, but it is close. Just trying to get some content to take up some space on the front page of my new blog. Yes, you heard correctly. NEW BLOG! WOOHOO!!!</p>

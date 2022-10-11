@@ -5,12 +5,9 @@ date: 2010-05-22 17:01:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["TDD", "Unit Testing"]
 permalink: "/post/Test-Driven-Development-is-Very-Approachable/"
 ---
-<!-- more -->
-
-
 
 <p><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="Othello_board" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/TestDrivenDevelopmentisVeryApproachable_EF57/Othello_board_3.jpg" border="0" alt="Othello_board" width="240" height="180" align="right" /> Growing up I always enjoyed a good game of <a href="http://en.wikipedia.org/wiki/Reversi" target="_blank">Othello</a>. The rules of the game are very simple, but it takes a lot of work to become really good at Othello. There is a great tagline used to describe this game; &ldquo;A Minute to Learn...A Lifetime to Master&rdquo;.</p>
 <p>The same can be said about Test Driven Development. In fact, when NimblePros hires interns in the summer, we go to recruiting events and set up laptops for people to write some code using TDD. When there are no students in the room, we&rsquo;re the ones working on the code. Even our seasoned developers need to practice using TDD or we&rsquo;ll never become better at using it.</p>

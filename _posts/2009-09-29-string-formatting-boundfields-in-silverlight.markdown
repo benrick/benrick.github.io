@@ -5,12 +5,9 @@ date: 2009-09-29 12:19:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Silverlight"]
 permalink: "/post/String-Formatting-BoundFields-in-Silverlight/"
 ---
-<!-- more -->
-
-
 
 <p>Hi my name is Brendan E. While working with a Bindable Silverlight control I ran into a little bit of trouble because I have a dependence commonly found among Visual Studio developers. I am addicted to intellisense. When a property isn&rsquo;t in intellisense I make the failing assumption that it does not exist.</p>
 <p>So even though I have posted specifically about how we <a href="/post/2009/01/26/ASPNET-Supports-Valid-HTML-Attributes-in-its-Tags.aspx" target="_blank">developers should be smart enough to know that we can&rsquo;t always trust intellisense</a>, I still make the mistake of trusting it.</p>

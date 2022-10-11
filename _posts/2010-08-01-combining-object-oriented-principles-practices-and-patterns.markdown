@@ -5,12 +5,9 @@ date: 2010-08-01 15:00:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["OOP"]
 permalink: "/post/Combining-Object-Oriented-Principles-Practices-and-Patterns/"
 ---
-<!-- more -->
-
-
 
 <p>Now that the dust has settled from the recent Software Engineering 101 event we put on in Cleveland, I figured I would repost some of the material I talked about. This means some of connections that I vocalized and supplement the material from the <a href="/post/software-engineering-101-cleveland-slides-and-demos.aspx" target="_blank">slides I used for Software Engineering 101</a>.</p>
 <h3>Object Oriented Principles, Practices, and Patterns</h3>

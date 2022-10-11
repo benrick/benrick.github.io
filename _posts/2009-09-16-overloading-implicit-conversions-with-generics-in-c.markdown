@@ -5,12 +5,9 @@ date: 2009-09-16 10:55:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["C#"]
 permalink: "/post/Overloading-Implicit-Conversions-with-Generics-in-C/"
 ---
-<!-- more -->
-
-
 
 <p>Overloading operators in a language is an excellent tool in every developer&rsquo;s tool belt. It allows us to design our code in ways feeling far more natural. For example if we didn&rsquo;t implement operator overloading for addition of numbers we would have some strange code. Could you imagine if we still wrote this kind of stuff?</p>
 <div id="codeSnippetWrapper">

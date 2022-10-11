@@ -5,12 +5,9 @@ date: 2009-05-28 22:05:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Clean Code", "TDD", "Unit Testing", "Programming Exercises"]
 permalink: "/post/Writing-Testable-Maintainable-Code/"
 ---
-<!-- more -->
-
-
 
 <p>At our company we&rsquo;ve had a few interns start this summer, so we ran a little workshop with the development team to help teach the team a few things about writing tests before writing other code. In our test driven workshop we did some simple problems in teams. We looked at different problems from <a href="http://projecteuler.net/" target="_blank">Project Euler</a>, and solved them in pairs. We all worked out our own tested solutions to the problems and brought them back to discuss. While looking at these we discussed what was good in each one and what could have been done better. We were pairing more experienced testers with the new guys for this exercise.</p>
 <p>I think this went very well actually. These might not be production level challenges to work, but the variety of designs gives great insight into what people were thinking and how they were approaching the problem. I was delighted to see that there were small bits of code very similar between designs, but overall none of them really looked similar. Class names here and there might have been the same, but the implementations of classes with the same name could vary wildly.</p>

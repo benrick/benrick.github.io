@@ -5,12 +5,9 @@ date: 2010-01-01 13:44:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Microsoft MVP", "Announcement"]
 permalink: "/post/My-2010-ASPNET-MVP-Award/"
 ---
-<!-- more -->
-
-
 
 <p>Today I received an email that has started this year off very well. Microsoft has honored me by re-awarding me with an MVP award in the area of ASP.NET this year. Thank you Microsoft.</p>
 <p><a href="/files/media/image/WindowsLiveWriter/My2010ASP.NETMVPAward_C143/MVPLogo_2.jpg"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="MVPLogo" src="http://brendan.enrick.com/files/media/image/WindowsLiveWriter/My2010ASP.NETMVPAward_C143/MVPLogo_thumb.jpg" border="0" alt="MVPLogo" width="404" height="79" /></a></p>

@@ -5,12 +5,9 @@ date: 2008-11-14 15:18:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Azure"]
 permalink: "/post/Storing-and-Retrieving-Serialized-Data-with-Azure-Blob-Storage/"
 ---
-<!-- more -->
-
-
 
 <p>On a project I am currently working, we have some normalized data which we need all instances of our Worker Role to have access to. This data when denormalized for the table structure we use requires us to take each row and turn it into about 50,000 rows. Because of this we obviously don't want to denormalize it and store it in Azure's table storage. We eventually will be doing this, but we need to work with it before denormalizing it.</p>
 <p>The plan we came up with is to serialize the data and store it as a blob in Azure storage. We tried it a few different ways running into snags in what seemed to be all directions. I just figured out how to get it to work. <strong>Finally</strong>.</p>

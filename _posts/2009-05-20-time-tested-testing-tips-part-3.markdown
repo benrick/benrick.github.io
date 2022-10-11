@@ -5,17 +5,14 @@ date: 2009-05-20 09:23:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["TDD", "Unit Testing", "Tips"]
 permalink: "/post/Time-Tested-Testing-Tips-Part-3/"
 ---
-<!-- more -->
-
-
 
 <p>Context switching is very costly and this same issue can be seen when writing tests, but I would argue most importantly in maintaining and reading tests.</p>
 <ul>
-<li><a href="/post/2009/05/19/Time-Tested-Testing-Tips-Part-1.aspx" target="_blank">Time-Tested Testing Tips - Part 1</a></li>
-<li><a href="/post/2009/05/19/Time-Tested-Testing-Tips-Part-2.aspx" target="_blank">Time-Tested Testing Tips - Part 2</a></li>
+<li><a href="/post/Time-Tested-Testing-Tips-Part-1.aspx" target="_blank">Time-Tested Testing Tips - Part 1</a></li>
+<li><a href="/post/Time-Tested-Testing-Tips-Part-2.aspx" target="_blank">Time-Tested Testing Tips - Part 2</a></li>
 </ul>
 <p>There are three main parts to a test. The first part sets everything up, the second part takes some action, and the third part expects certain results given the the start and the action taken. In this tip I'll be talking about the first part, the setup.</p>
 <h3>Keep Test-Relevant Details Visible</h3>

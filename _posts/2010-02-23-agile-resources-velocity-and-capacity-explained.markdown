@@ -5,12 +5,9 @@ date: 2010-02-23 13:57:00 -0500
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["Agile"]
 permalink: "/post/Agile-Resources-Velocity-and-Capacity-Explained/"
 ---
-<!-- more -->
-
-
 
 <p>Velocity and Capacity are two terms commonly used for determining <em>how much work a team can perform in a given amount of time</em>. Agile development is customer-focused development, and as such it is important to know for small periods of time how much a team can achieve.</p>
 <h3>Determining Velocity</h3>

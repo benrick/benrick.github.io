@@ -5,12 +5,9 @@ date: 2010-08-24 13:00:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["SOLID", "Liskov Substitution Principle"]
 permalink: "/post/Commenting-Methods-Using-Liskov-Substitution-Principle/"
 ---
-<!-- more -->
-
-
 
 <p>After reading the title of this post, some people might be wondering why I am advocating commenting at all, because I&rsquo;ve spoken out <a href="/post/When-Should-You-Comment-Your-Code.aspx" target="_blank">against commenting code</a> before. My team and I were recently reading through some code that was littered with comments, and I do mean littered. There were tons, they were mostly useless statements like &ldquo;//run&rdquo;, and I swear there were more of them than actual code. This of course sparked some preaching to our choir about how comments in code are often less-than-useful. We of course settled on the time when they are useful being the XML comments on methods, but those should also only be used when writing public libraries where others will not have access to the source code or unit tests.</p>
 <p>Comments on those methods are useful since tons of people will use the method and will not be able to see the guts of the method or examples of how to use it. This makes the comments useful. However, they need to be kept up-to-date (difficult task).</p>

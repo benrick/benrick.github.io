@@ -5,12 +5,9 @@ date: 2009-10-14 10:17:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Blog"]
+tags: ["C#"]
 permalink: "/post/Null-Reference-Exception-on-Instance-Methods/"
 ---
-<!-- more -->
-
-
 
 <p>Recently I was reading through a bunch of interesting blog posts. I was looking for information about the use of <a href="http://msdn.microsoft.com/en-us/library/system.reflection.emit.opcodes.callvirt.aspx" target="_blank">callvirt</a> in C#. Callvirt can be used to call both virtual and non-virtual methods, and in fact is how all methods are called in C#. I don&rsquo;t know how much of a performance decrease there is based on this, but I doubt it is much of one. I stumbled across this interesting post covering <a href="http://blogs.msdn.com/ericgu/archive/2008/07/02/why-does-c-always-use-callvirt.aspx" target="_blank">why C# uses callvirt</a> from <a href="http://blogs.msdn.com/ericgu/default.aspx" target="_blank">Eric Gunnerson&rsquo;s blog</a>.</p>
 <blockquote>
