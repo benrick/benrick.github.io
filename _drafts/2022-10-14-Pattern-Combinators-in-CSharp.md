@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When to Not Use && and Use and in C# instead - Pattern Combinators"
-date: 2022-10-13 01:00:00 -0400
+date: 2022-10-14 01:00:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
