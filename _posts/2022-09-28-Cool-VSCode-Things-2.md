@@ -31,7 +31,7 @@ Once you've made the change, either of these are possible:
 
 #### VS Code Sidebar on the Right
 
-![VS Code with Sidebar on the Right](/images/files/2022-posts/VSCodeTips/Sidebar/VSCode-Right.PNG)
+![VS Code with Sidebar on the Right](/images/files/2022-posts/VSCodeTips/Sidebar/VSCode-Right.png)
 
 #### VS Code Sidebar on the Left
 
