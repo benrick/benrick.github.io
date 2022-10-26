@@ -12,7 +12,7 @@ permalink: "/post/Generic-Recursive-Find-Control-Extension/"
 
 
 
-<p>Earlier today I posted about a <a href="/post/Creating-a-Recursive-FindControl-Extension-Method.aspx" target="_blank">Recursive Find Control Extension Method</a>. Since then, I was informed by Steve Smith that I should check out the <a href="http://intrepidnoodle.com/articles/24.aspx" target="_blank">generic find control method</a> which Aaron Robson has on his <a href="http://intrepidnoodle.com/" target="_blank">blog</a>. He has some pretty nice methods there, so I just adapted them to be extension methods now. As extension methods the code looks like this.</p>
+<p>Earlier today I posted about a <a href="/post/Creating-a-Recursive-FindControl-Extension-Method/" target="_blank">Recursive Find Control Extension Method</a>. Since then, I was informed by Steve Smith that I should check out the <a href="http://intrepidnoodle.com/articles/24.aspx" target="_blank">generic find control method</a> which Aaron Robson has on his <a href="http://intrepidnoodle.com/" target="_blank">blog</a>. He has some pretty nice methods there, so I just adapted them to be extension methods now. As extension methods the code looks like this.</p>
 <div>
 <div style="border-style: none; padding: 0px; overflow: visible; font-size: 8pt; width: 100%; color: black; line-height: 12pt; font-family: consolas,'Courier New',courier,monospace; background-color: #f4f4f4;">
 <pre style="border-style: none; margin: 0em; padding: 0px; overflow: visible; font-size: 8pt; width: 100%; color: black; line-height: 12pt; font-family: consolas,'Courier New',courier,monospace; background-color: white;"><span style="color: #008000;">/// &lt;summary&gt;</span></pre>

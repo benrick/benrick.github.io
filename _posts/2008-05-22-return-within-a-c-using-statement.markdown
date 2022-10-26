@@ -32,4 +32,4 @@ permalink: "/post/Return-Within-a-C-Using-Statement/"
 </div>
 </div>
 <p>Happy coding. Enjoy this powerful tool.</p>
-<p><strong>Update: I've posted a follow up to this post with a code sample. It shows that you can <a href="/home/returning-from-inside-a-using-statement/">return from inside of a using statement in C#</a>.</strong></p>
+<p><strong>Update: I've posted a follow up to this post with a code sample. It shows that you can <a href="/post/Returning-From-Inside-a-Using-Statement/">return from inside of a using statement in C#</a>.</strong></p>

@@ -16,7 +16,7 @@ permalink: "/post/Have-you-tried-the-Toughest-Developer-Puzzle-Ever/"
 <ul>
 <li><a href="http://jeffblankenburg.com">Jeff Blankenburg</a> </li>
 <li><a href="http://codinggeekette.com">Sarah Dutkiewicz</a>&nbsp;</li>
-<li><a href="http://brendan.enrick.com">Brendan Enrick</a>&nbsp;</li>
+<li><a href="https://brendoneus.com">Brendan Enrick</a>&nbsp;</li>
 <li><a href="http://simplyodd.com">Charles Hawley</a>&nbsp;</li>
 <li><a href="http://notsotrivial.net">Clint Edmonson</a>&nbsp;</li>
 <li><a href="http://justinkohnen.com">Justin Kohnen</a>&nbsp;</li>
