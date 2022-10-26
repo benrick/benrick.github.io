@@ -9,7 +9,7 @@ tags: ["OOP"]
 permalink: "/post/Combining-Object-Oriented-Principles-Practices-and-Patterns/"
 ---
 
-<p>Now that the dust has settled from the recent Software Engineering 101 event we put on in Cleveland, I figured I would repost some of the material I talked about. This means some of connections that I vocalized and supplement the material from the <a href="/post/software-engineering-101-cleveland-slides-and-demos.aspx" target="_blank">slides I used for Software Engineering 101</a>.</p>
+<p>Now that the dust has settled from the recent Software Engineering 101 event we put on in Cleveland, I figured I would repost some of the material I talked about. This means some of connections that I vocalized and supplement the material from the <a href="/post/software-engineering-101-cleveland-slides-and-demos/" target="_blank">slides I used for Software Engineering 101</a>.</p>
 <h3>Object Oriented Principles, Practices, and Patterns</h3>
 <p>My first talk of the day was on Object Oriented Principles, Practices, and Patterns in which I start by discussing some common principles of object oriented programming: abstraction, encapsulation, inheritance, polymorphism, and I added composition in for good measure, which of course isn&rsquo;t on its own a principle, but I feel deserves to be mentioned as its own entity at that point.</p>
 <p>I covered an assortment of good practices for software developers to follow. Since Steve Smith was following my talk with one on SOLID, so I didn&rsquo;t take the opportunity to discuss the Open/Closed Principle, which states that your code should be open to extension and closed to modification. This means that you can add to the behavior of your code by adding new code and not modifying what you already have.</p>

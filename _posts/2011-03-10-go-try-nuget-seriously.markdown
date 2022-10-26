@@ -12,7 +12,7 @@ permalink: "/post/Go-Try-NuGet-Seriously/"
 
 
 
-<p>NuGet is best described as the tool from Microsoft that lets you add references to your project directly from the NuGet feed while storing and managing them locally. It lets you keep your <a href="/post/Organizing-Software-Projects.aspx" target="_blank">references local to your source code</a>, which will help you keep your software project encapsulated. When a package you use gets an update, you can ask NuGet to update your local version of the package.</p>
+<p>NuGet is best described as the tool from Microsoft that lets you add references to your project directly from the NuGet feed while storing and managing them locally. It lets you keep your <a href="/post/Organizing-Software-Projects/" target="_blank">references local to your source code</a>, which will help you keep your software project encapsulated. When a package you use gets an update, you can ask NuGet to update your local version of the package.</p>
 <p>When telling people about <a href="http://nuget.org/">NuGet</a>&nbsp;it is important to explain how powerful it really is. NuGet is not just a collection of libraries to include in your bin folder. It will actually install the package into your project. I will show you what I mean.</p>
 <h3>Installing NuGet</h3>
 <p>NuGet can be installed through the Visual Studio Extension Manager. From within Visual Studio, open the <em>Tools</em> menu and select <em>Extension Manager</em>. Once in that window, select the Online Gallery and search for “nuget”. Then you just have to tell it to Download nuget. This will require a restart of Visual Studio.</p>

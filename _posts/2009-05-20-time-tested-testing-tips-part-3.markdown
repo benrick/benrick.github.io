@@ -11,8 +11,8 @@ permalink: "/post/Time-Tested-Testing-Tips-Part-3/"
 
 <p>Context switching is very costly and this same issue can be seen when writing tests, but I would argue most importantly in maintaining and reading tests.</p>
 <ul>
-<li><a href="/post/Time-Tested-Testing-Tips-Part-1.aspx" target="_blank">Time-Tested Testing Tips - Part 1</a></li>
-<li><a href="/post/Time-Tested-Testing-Tips-Part-2.aspx" target="_blank">Time-Tested Testing Tips - Part 2</a></li>
+<li><a href="/post/Time-Tested-Testing-Tips-Part-1/" target="_blank">Time-Tested Testing Tips - Part 1</a></li>
+<li><a href="/post/Time-Tested-Testing-Tips-Part-2/" target="_blank">Time-Tested Testing Tips - Part 2</a></li>
 </ul>
 <p>There are three main parts to a test. The first part sets everything up, the second part takes some action, and the third part expects certain results given the the start and the action taken. In this tip I'll be talking about the first part, the setup.</p>
 <h3>Keep Test-Relevant Details Visible</h3>
