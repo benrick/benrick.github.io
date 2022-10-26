@@ -12,7 +12,7 @@ permalink: "/post/Windows-Vista-DreamScene-Only-Works-with-1-Monitor/"
 
 
 
-<p>So I haven't had a lot of problems with Vista. There have been some slight issues including <a href="http://aspadvice.com/blogs/name/archive/2008/03/19/Vista-64-Install-Requires-a-DVD-Device-Driver.aspx" target="_blank">this one</a> I blogged about recently. I think windows DreamScene is very cool, but I of course of more than one monitor attached to my computer. Okay, I can understand that they might have difficulty displaying the DreamScene video on both monitors, but not even allowing it to run because I have my desktop extended is absurd.</p>
+<p>So I haven't had a lot of problems with Vista. There have been some slight issues including <a href="/post/Vista-64-Install-Requires-a-DVD-Device-Driver/" target="_blank">this one</a> I blogged about recently. I think windows DreamScene is very cool, but I of course of more than one monitor attached to my computer. Okay, I can understand that they might have difficulty displaying the DreamScene video on both monitors, but not even allowing it to run because I have my desktop extended is absurd.</p>
 <p>I would just like to be able to display it on the primary monitor or something. Perhaps let me pick a monitor and tell me only 1 monitor is allowed. instead of saying that I can't use it at all. I had to disable my second monitor to get DreamScene running.</p>
 <p>If DreamScene and a second monitor are enabled at the same time, you'll see this nice popup from Windows.</p>
 <p><img src="http://static.flickr.com/2257/2350097448_5b5e9c98b5.jpg" border="0" alt="DreamSceneErrorPopup" /></p>
