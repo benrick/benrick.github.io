@@ -9,19 +9,90 @@ tags: ["Programming", "Tips and Tricks", "Advent"]
 permalink: "/post/Ways-Of-Making-CSharp-Mistakes/"
 ---
 
-Whether you celebrate Christmas or are just enjoying the C# content from the C# Advent event, all of us can acknowledge these things that will get you on your team's naughty list.
+Programming is hard. Most of us work in teams, building software that other people are going to work with. For that reason, it's important that we try to make things easier for our team. For the 11th of December, I figured I'd make a list of 11 ways of writing C# that will make our code harder for our team to work with.
+
+Here are 11 things you should **NOT** do in your C# code.
 
 ## Abusing for Loop Expressions
 
-Something.
+The "for" loop exists in many languages. It's a useful structure for creating consistent loops, and it's no different in C#. I'm sure you've seen this a million times:
+
+{% highlight csharp %}
+for(int i = 0; i < 100; i++)
+{
+    Console.WriteLine(i);
+}
+{% endhighlight %}
+
+### Understanding the For Loop
+
+Doing that is OK, but what might upset some people is if you start getting too creative with your loops. Let's jump back and explain the structure of the for loop, so we can discuss how someone might abuse it.
+
+{% highlight csharp %}
+for (before statement; conditional statement; after each statement)
+{
+}
+{% endhighlight %}
+
+The 3 statements inside of the parentheses have conditions for when they run, but they're just statements like any others you might have in your code. For this reason, you can put whatever you want in them.
+
+### Non-Standard For Loops
+
+Let's start by creating an infinite loop by leaving each of the 3 statements blank.
+
+{% highlight csharp %}
+// Instead of this:
+while (true) {}
+// You could write this:
+for (; ;) {}
+{% endhighlight %}
+
+That's not really useful though. We could also try leaving out the increment step by just incrementing in the conditional.
+
+{% highlight csharp %}
+for(int i = 0; ++i < 100;)
+{
+    Console.WriteLine(i);
+}
+{% endhighlight %}
+
+Yes, I switched from a post increment to a pre-increment to keep the usual structure, but we're able to skip that third statement now!
+
+Let's get serious by using strings in a for loop instead of numbers. Let's slowly remove letters from a string as part of a for loop.
+
+{% highlight csharp %}
+for (string name = "Brendan"; name.Length > 0; name = name.Substring(1))
+{
+  Console.WriteLine(name);
+}
+{% endhighlight %}
+
+OK, but what if we want to get really crazy. Let's create multiple variables and use them in the loop! We *can* as long as we use tuple construction and deconstruction! **Not Subtle Foreshadowing**
+
+{% highlight csharp %}
+for (var (number, name) = (1, "Brendan"); number < 7; name += number.ToString(), number += 1) {
+    Console.WriteLine(name);
+}
+{% endhighlight %}
 
 ## Tuple Construction and Deconstruction as Constructor Assignment
 
-Something
+As we just saw, you can construct and deconstruct tuples in the same line. Awesome! Now to upset the rest of our time, because we can put our entire constructor in **one line** now!
+
+{% highlight csharp %}
+public Person(string prefix, string first, string middle, string last, string suffix, string nickname, DateTime birthday, string favoriteColor)
+{
+    (Prefix, First, Middle, Last, Suffix, Nickname, Birthday, FavoriteColor) = (prefix, first, middle, last, nickname, suffix, birthday, favoriteColor);
+}
+{% endhighlight %}
+
+Now there's nothing wrong with doing this for a couple related values, but if you start writing the whole thing this way, it gets a lot harder for people to see what's going on. These are also assigned in order, so it would be very easy for me to have these mixed up. Did you notice? It is messed up. Look again!
+
+Yep, nickname and suffix get flipped in this constructor, but it's hard to notice in that mess!
 
 ## Overusing Var
 
-Something
+With all of the complex types we can get by using linq in C#, var was necessary. In fact, it's an awesome addition to the language to not have to specify the type of variable, since the compiler knows the type already.
 
 ## Working With Disposables Without a Using Statement
 
