@@ -9,7 +9,7 @@ tags: ["Programming", "Tips and Tricks", "Advent"]
 permalink: "/post/Ways-Of-Making-CSharp-Mistakes/"
 ---
 
-Programming is hard. Most of us work in teams, building software that other people are going to work with. For that reason, it's important that we try to make things easier for our team. For the 11th of December, I figured I'd make a list of 11 ways of writing C# that will make our code harder for our team to work with.
+Programming is hard. Most of us work in teams, building software that other people are going to work with. For that reason, it's important that we try to make things easier for our team. As this post is scheduled for the 11th of December, I figured I'd make a list of 11 ways of writing C# that will make our code harder for our team to work with, earning us a spot on the naughty list.
 
 Here are 11 things you should **NOT** do in your C# code.
 
@@ -93,6 +93,18 @@ Yep, nickname and suffix get flipped in this constructor, but it's hard to notic
 ## Overusing Var
 
 With all of the complex types we can get by using linq in C#, var was necessary. In fact, it's an awesome addition to the language to not have to specify the type of variable, since the compiler knows the type already.
+
+Let's start by talking about why `var` is good and useful in C# coding. Exhibit A, the GroupBy.
+
+{% highlight csharp %}
+
+    FILL IN EXAMPLE POSSIBLE OF EVENTS GROUPED BY YEAR THEN BY COUNTRY
+
+{% endhighlight %}
+
+It's for complicated types like these that `var` became necessary. In fact, nearly everywhere that GroupBy is found, you're likely to see `var` in the code.
+
+Now, dear reader, you're likely wondering why we wouldn't just use this *everywhere*. That's because knowing the type of a variable can be useful to us as programmers. When you use `var`, you've hidden the information.
 
 ## Working With Disposables Without a Using Statement
 
