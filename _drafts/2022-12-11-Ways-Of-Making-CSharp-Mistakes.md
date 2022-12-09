@@ -112,9 +112,62 @@ Now, dear reader, you're likely wondering why we wouldn't just use this *everywh
 
 {% endhighlight %}
 
+Notice that we can't see the types without putting a cursor on the type. At-a-glance, it's not clear what that type is.
+
 ## Working With Disposable Types Without a Using Statement
 
-Something
+In the C# world, we work with "disposable" types all the time. When we say that, we usually mean that the type implements the IDisposable interface. There's even a language feature called using statements that was built for these. When you create your variable in one, it is supposed to dispose when you reach the ending curly brace.
+
+{% highlight csharp %}
+using (StreamWriter streamWriter = new StreamWriter(filePath, true))
+{
+    streamWriter.WriteLine("Brendan Enrick");
+    streamWriter.WriteLine("C# Advent");
+    streamWriter.WriteLine("2022-12-11");
+}
+{% endhighlight %}
+
+If you want to upset your team, stop using the using statements. Ignore what's special about disposable types. *What could go wrong?*
+
+Well, a lot can go wrong. When a type implements IDisposable, it's so that it can be cleaned up correctly. These are for types that have resources that need to be cleaned up before the type is disposed of. Often these are network connections, file system connections, etc. that we don't want to leave open. If we don't dispose of them correctly, these get left open.
+
+{% highlight csharp %}
+// Normal way - GOOD
+using (SqlConnection connection = new (connectionString))
+{
+    SqlCommand command = new (query, connection);
+    connection.Open();
+    using(SqlDataReader reader = command.ExecuteReader())
+    {
+        while (reader.Read())
+        {
+            // Use reader here.
+        }
+    }
+}
+
+// Skipping those Disposables - BAD
+SqlConnection connection = new (connectionString)
+SqlCommand command = new (query, connection);
+connection.Open();
+SqlDataReader reader = command.ExecuteReader()
+while (reader.Read())
+{
+    // Use reader here.
+}
+// GAHHH!!
+{% endhighlight %}
+
+And if you're thinking that it's nice to not be so nested, please don't use that as an excuse. The language no longer requires {} and nesting with a using statement. It will dispose at the end of the current context.
+
+{% highlight csharp %}
+using (StreamWriter streamWriter = new StreamWriter(filePath, true));
+streamWriter.WriteLine("Brendan Enrick");
+streamWriter.WriteLine("C# Advent");
+streamWriter.WriteLine("2022-12-11");
+{% endhighlight %}
+
+So only skip the using statements if you're **trying** to write bad code.
 
 ## Throwing Exceptions Instead of Returning
 
@@ -150,11 +203,74 @@ var secretTunnel = new SecretTunnel(); // Through the mountain!
 
 There are only two places where a single letter variable can be OK. Even then, it might be better to use a full variable name.
 
-basic for loop and lambda selector where the collection name makes the `x` obvious.
+### Acceptable Single Letter Variables
+
+You'll often find that classic "i" as the variable in a basic for loop. If you're not *using* the i itself, but it's just the number of times you looped, this can be OK.
+
+{% highlight csharp %}
+for (int i = 0; i < greetingCount; i++)
+{
+    Console.WriteLine(greetingMessage);
+}
+{% endhighlight %}
+
+Also, for a lambda selector where the collection name makes the `x` obvious, it *can* be OK. Once you start chaining, LINQ extensions, you're no longer OK.
+
+{% highlight csharp %}
+// This is an OK alternative
+int maxTemperature = dailyForecasts.Max(x => x.Temperature);
+
+// to this
+int maxTemperature = dailyForecasts.Max(forecast => forecast.Temperature);
+{% endhighlight %}
+
+### Unacceptable Single Letter Variables
+
+Pretty much, if you're doing anything other than what's listed above, you've found your way onto the team's naughty list. When you start chaining LINQ extensions in your code, the data will often change from the initial type that started the chain. Unlike a fluent API, where the return value is often the same type that all the methods extend, these will return new and different objects. As a result, the types of those object matter!
+
+Here's a not-too-complex example that shows that even in the simpler cases, it could be nicer to have variable names.
+
+{% highlight csharp %}
+var maxTemperatures =
+    allTemperatures
+    .GroupBy(x => x.DayOfWeek)
+    .Select(y => new { DayOfWeek = y.Key, HighTemp = y.Max(z => z.Temperature) })
+    .OrderyBy(o => o.HighTemp)
+    .ToList();
+{% endhighlight %}
+
+Notice `x`, `y`, `z`, and `o` are all different types. Even if I tried using `g` for the group, there's the risk that it might have an alternate interpretation.
 
 ## Nesting Null Checks
 
-Nesting null checks that could be one with an `&&` or just use a null conditional or null coalescing.
+Want a quick and easy way to make your code harder to read? Nest your conditionals needlessly deep by adding separate checks instead of using `&&` or a quick null conditional or null coalescing operation.
+
+You can end up with code like this:
+
+{% highlight csharp %}
+if (building != null)
+{
+    if (building.Office != null)
+    {
+        if (building.Office.IsAvailable)
+        {
+            if (user.CanReserve)
+            {
+                ReserveOffice(user, building.Office);
+            }
+        }
+    }
+}
+{% endhighlight %}
+
+When you could have just done this, but you'd miss that sweet pyramid of code.
+
+{% highlight csharp %}
+if (building?.Office?.IsAvailable == true && user.CanReserve)
+{
+    ReserveOffice(user, building.Office);
+}
+{% endhighlight %}
 
 ## Using a One-to-One Interface to Class for a Model
 
@@ -164,22 +280,80 @@ For clarity, I'm not saying you can't have interfaces for models. You might have
 
 The problem is when you get `IStudent` for `Student`, `ITeacher` for `Teacher`, and `ILesson` for `Lesson`. None of those objects likely need a mock for testing, since you could just create instances of those models for testing.
 
-Some useful interfaces might be things like, `ISchoolMember` for `Student`, `Teacher`, and `Administrator`, which provides a `SchoolID`.
+Some useful interfaces might be things like, `ISchoolMember` for `Student`, `Teacher`, and `Administrator`, which requires a `SchoolID` property on these objects.
 
 ## Putting Regions Inside Methods
 
-Yes, we saved the worst for last. I won't shame people for using C# in code. Plenty of people use them, but a region inside of a method is begging to be extracted into a method of its own. Have you done this?
+Yes, we saved the worst for last. I won't shame anyone for using a region in their code, however, nearly all uses of them are better replaced by a change t the code.
+
+Plenty of people do use regions, and like being able to define sections of code in those named blocks. A region inside of a method, however, better have a *really* good reason to exist. By labeling that section of code with a region, you're begging for a method to be extracted for that code.
+
+Have you done this? Are you the one?!
 
 ### Region Inside a Method
 
 {% highlight csharp %}
-// Bad Code
+public ProcessResult ProcessStatusUpdate(ChangeLog changes)
+{
+    #region Validate Changes
+    if (changes == null)
+    {
+        throw InvalidChangeLogException(changes);
+    }
+    if (changes.Actions <= MinimumActions)
+    {
+        throw InvalidChangeLogException(changes);
+    }
+    #end region
+
+    #region Print Changes
+    Console.WriteLine(changes.Title);
+    Console.WriteLine(changes.SubTitle);
+    foreach(var changeAction in changes.Actions)
+    {
+        Console.WriteLine(changeAction.Message);
+    }
+    #endregion
+
+    // More code here
+}
 {% endhighlight %}
 
 ### Extracted Method Instead of Region
 
+Instead of the regions, we could've just created methods for those named parts of the code.
+
 {% highlight csharp %}
-// Good Code
+public ProcessResult ProcessStatusUpdate(ChangeLog changes)
+{
+    ValidateChanges(changes);
+
+    PrintChanges(changes);
+
+    // More code here
+}
+
+public void ValidateChanges(ChangeLog changes)
+{
+    if (changes == null)
+    {
+        throw InvalidChangeLogException(changes);
+    }
+    if (changes.Actions <= MinimumActions)
+    {
+        throw InvalidChangeLogException(changes);
+    }
+}
+
+public void PrintChanges(ChangeLog changes)
+{
+    Console.WriteLine(changes.Title);
+    Console.WriteLine(changes.SubTitle);
+    foreach(var changeAction in changes.Actions)
+    {
+        Console.WriteLine(changeAction.Message);
+    }
+}
 {% endhighlight %}
 
 ## Outro
