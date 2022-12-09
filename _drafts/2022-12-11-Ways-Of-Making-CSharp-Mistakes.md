@@ -94,7 +94,7 @@ Yep, nickname and suffix get flipped in this constructor, but it's hard to notic
 
 With all of the complex types we can get by using linq in C#, var was necessary. In fact, it's an awesome addition to the language to not have to specify the type of variable, since the compiler knows the type already.
 
-Let's start by talking about why `var` is good and useful in C# coding. Exhibit A, the GroupBy.
+Let's start by talking about why `var` is good and useful in C# coding. Hint: it's not useful for just avoiding writing types in C# code. It's useful when the type is more complicated than is needed. Exhibit A, the GroupBy.
 
 {% highlight csharp %}
 
@@ -102,11 +102,17 @@ Let's start by talking about why `var` is good and useful in C# coding. Exhibit 
 
 {% endhighlight %}
 
-It's for complicated types like these that `var` became necessary. In fact, nearly everywhere that GroupBy is found, you're likely to see `var` in the code.
+It's for complicated types like these that `var` became necessary. In fact, nearly everywhere that a GroupBy result is stored in a variable, you're likely to see `var` in the code.
 
-Now, dear reader, you're likely wondering why we wouldn't just use this *everywhere*. That's because knowing the type of a variable can be useful to us as programmers. When you use `var`, you've hidden the information.
+Now, dear reader, you're likely wondering why we wouldn't just use this *everywhere*. That's because knowing the type of a variable can be useful to us as programmers. When you use `var`, you've hidden the information. We no longer know the type. If the type was somewhere else on the line, that's probably ok, but if it's not there, it better be super clear what the type is.
 
-## Working With Disposables Without a Using Statement
+{% highlight csharp %}
+
+    FILL IN EXAMPLE OF AMBIGUOUS TYPES HIDDEN BY VAR USAGE
+
+{% endhighlight %}
+
+## Working With Disposable Types Without a Using Statement
 
 Something
 
