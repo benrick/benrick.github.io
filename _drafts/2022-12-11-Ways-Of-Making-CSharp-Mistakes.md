@@ -5,7 +5,7 @@ date: 2022-12-11 00:00:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
-tags: ["Programming", "Tips and Tricks", "Advent"]
+tags: ["Programming", "Tips and Tricks", "Advent", "dotnet", ".NET", "C#", "CSharp"]
 permalink: "/post/Ways-Of-Making-CSharp-Mistakes/"
 ---
 
