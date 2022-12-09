@@ -9,9 +9,11 @@ tags: ["Programming", "Tips and Tricks", "Advent", "dotnet", ".NET", "C#", "CSha
 permalink: "/post/Ways-Of-Making-CSharp-Mistakes/"
 ---
 
-Programming is hard. Most of us work in teams, building software that other people are going to work with. For that reason, it's important that we try to make things easier for our team. As this post is scheduled for the 11th of December, I figured I'd make a list of 11 ways of writing C# that will make our code harder for our team to work with, earning us a spot on the naughty list.
+Programming is hard. Most of us work in teams, building software that other people are going to work with. For that reason, it's important that we try to make things easier for our team.
 
-Here are 11 things you should **NOT** do in your C# code.
+I think, however, it's more fun that this post light-heartedly suggest making the code worse! And as this post is scheduled for the 11th of December, I figured I'd make a list of 11 ways of writing C# that will make our code harder for our team to work with, earning us a spot on the naughty list.
+
+On the 11th day of C# Advent, I give to you, **11 things you should NOT do in your C# code**.
 
 ## Abusing for Loop Expressions
 
@@ -77,7 +79,7 @@ for (var (number, name) = (1, "Brendan"); number < 7; name += number.ToString(),
 
 ## Tuple Construction and Deconstruction as Constructor Assignment
 
-As we just saw, you can construct and deconstruct tuples in the same line. Awesome! Now to upset the rest of our time, because we can put our entire constructor in **one line** now!
+As we just saw, you can construct and deconstruct tuples in the same line. Awesome! Now to upset the rest of our team, because we can put our entire constructor in **one line** now!
 
 {% highlight csharp %}
 public Person(string prefix, string first, string middle, string last, string suffix, string nickname, DateTime birthday, string favoriteColor)
@@ -86,9 +88,11 @@ public Person(string prefix, string first, string middle, string last, string su
 }
 {% endhighlight %}
 
-Now there's nothing wrong with doing this for a couple related values, but if you start writing the whole thing this way, it gets a lot harder for people to see what's going on. These are also assigned in order, so it would be very easy for me to have these mixed up. Did you notice? It is messed up. Look again!
+Now some people might do this in some select places, but if you start writing things this way often, it gets a lot harder for people to see what's going on. These are also deconstructed in order, so it would be very easy for me to have these mixed up especially if parameters get changed or removed.
 
-Yep, nickname and suffix get flipped in this constructor, but it's hard to notice in that mess!
+Did you notice? It is messed up. Look again!
+
+Yep, nickname and suffix get flipped in this constructor! And there won't be a compiler error for this one, since they're the same type.
 
 ## Overusing Var
 
@@ -97,22 +101,42 @@ With all of the complex types we can get by using linq in C#, var was necessary.
 Let's start by talking about why `var` is good and useful in C# coding. Hint: it's not useful for just avoiding writing types in C# code. It's useful when the type is more complicated than is needed. Exhibit A, the GroupBy.
 
 {% highlight csharp %}
+// Clear, but lengthy.
+IEnumerable<IGrouping<DateOnly, Person>> peopleGroupedByBirthdate = people.GroupBy(
+    person => person.Birthdate,
+    person => person);
 
-    FILL IN EXAMPLE POSSIBLE OF EVENTS GROUPED BY YEAR THEN BY COUNTRY
-
+// Less clear, but concise.
+var peopleGroupedByBirthdate = people.GroupBy(
+    person => person.Birthdate,
+    person => person);
 {% endhighlight %}
 
-It's for complicated types like these that `var` became necessary. In fact, nearly everywhere that a GroupBy result is stored in a variable, you're likely to see `var` in the code.
+It's for complicated types like these (and anonymous types) that `var` became necessary. In fact, nearly everywhere that a GroupBy result is stored in a variable, you're likely to see `var` in the code. Sometimes that's because the result needs to get turned into a new anonymous type.
 
-Now, dear reader, you're likely wondering why we wouldn't just use this *everywhere*. That's because knowing the type of a variable can be useful to us as programmers. When you use `var`, you've hidden the information. We no longer know the type. If the type was somewhere else on the line, that's probably ok, but if it's not there, it better be super clear what the type is.
+Now, dear reader, you're likely wondering why we wouldn't just use this *everywhere*. We *can* just write `var` for nearly every variable we create!
+
+That's because knowing the type of a variable can be useful to us as programmers. When you use `var`, you've hidden the information. We no longer know the type. If the type was somewhere else on the line, that's probably ok, but if it's not there, it better be super clear what the type is.
 
 {% highlight csharp %}
-
-    FILL IN EXAMPLE OF AMBIGUOUS TYPES HIDDEN BY VAR USAGE
-
+var author1 = GetAuthor1();
+var author2 = GetAuthor2();
+var authorName = GetAuthorName();
+var authorFullName = GetAuthorFullName();
 {% endhighlight %}
 
-Notice that we can't see the types without putting a cursor on the type. At-a-glance, it's not clear what that type is.
+Notice that we can't tell the type of **any** of these variabled without putting a cursor on the type. At-a-glance, you might guess that `GetAuthorName` and `GetAuthorFullName` return the same type, but it's not clear that they do. Let's see this example without `var`.
+
+{% highlight csharp %}
+Person author1 = GetAuthor1();
+string author2 = GetAuthor2();
+string authorName = GetAuthorName();
+FullName authorFullName = GetAuthorFullName();
+{% endhighlight %}
+
+This is useful for immediately knowing what type of sequence you have, enumerable, list, array, etc. or what other type you have. With the native number types, it would catch your eye immediately if you noticed a `double` used for a financial transaction or for something consistently rounded like an age of a person. If the information isn't at-a-glance, you won't consider it.
+
+And if you're wondering, I have been fighting against this [overreliance on var in C#](https://brendoneus.com/post/Overusing-var-in-C/) for a long time as this 13.5 year old post illustrates.
 
 ## Working With Disposable Types Without a Using Statement
 
@@ -171,15 +195,55 @@ So only skip the using statements if you're **trying** to write bad code.
 
 ## Throwing Exceptions Instead of Returning
 
-Something
+One thing you can do as a programmer to get my attention on a code review is to handle an expected situation by throwing an exception instead of just escaping and returning a value.
 
-## Committing Code which Adds Warnings to the Build
+Did a user forget to enter a value? That's a validation error that we can return, not an exceptional case! We can just return an error result from our method and inform the user of the issue.
 
-Something
+So how could we upset our team? Well, in theory, you don't have to return values from your methods at all! You could throw exceptions for everything!
+
+{% highlight csharp %}
+private void UpdateProfileData(ProfileData data)
+{
+    if (data == null)
+    {
+        throw new ArgumentNullException(nameof(data));
+    }
+    if (string.IsNullOrWhiteSpace(data.FullName))
+    {
+        throw new ArgumentException("Missing Name", nameof(data));
+    }
+
+    // Save changes here
+
+    throw new ProfileDataUpdatedSuccessfully(data); // (╯°□°)╯︵ ┻━┻
+}
+{% endhighlight %}
+
+Never thought of that, did you?! Well now you can write some truly terrible code. These act kind of like events that require that you handle them or your application crashed.
+
+## Suppress All Your Build Warnings instead of Fixing Them
+
+Not much to say here. Some compiler warnings may not be issues, but often they're indicative of a place where an error is likely to go unnoticed. Some of us like the property to treat warnings as errors in dotnet, because it forces us to fix every warning. This keeps the signal to noise ratio low, increasing the chance that we'll catch bugs earlier.
+
+Adding a warning or two to a code library can be necessary sometimes, so they have a `NoWarn` property that you can set in the project, allowing you to specify the warnings to ignore.
+
+If you really want to upset your team, just add another warning to ignore with every commit that created a warning. Then your code will be warning free!
+
+{% highlight xml %}
+<NoWarn>12345,23456,34567,45678,56789</NoWarn>
+{% endhighlight %}
+
+On a more serious note, I've worked with many clients (development teams) whose codebases had hundreds of warnings that just sat there. It would've been difficult to know where to start with fixing them.
+
+If this is your situation, I highly recommend setting up a metric to watch that number and use the [scout rule in programming](https://brendoneus.com/post/Boy-Scout-Rule/) to clean up a warning or two each time you're in a file.
 
 ## Using Unclear Abbreviations for Variable Names
 
-When naming a variable, it's far more important for a reader to know what the variables purpose is. For this reason, we need to avoid ambiguity, which can arise from abbreviations. Even if those abbreviations are common in your codebase, you could have a collision you haven't thought of yet. Adding a bit of clarity now can save you and your team a headache later! It also makes your codebase easier for new people to join if they don't have to learn a list of abbreviations just to get started.
+When naming a variable, it's far more important for a reader to know what the variable's purpose is. If you're trying to make your codebase difficult, you might embrace this ambiguity, which can arise from abbreviations.
+
+Even if an abbreviation is common in your codebase or domain, you could have a collision or just confusion you haven't thought of yet.Clarity can prevent headaches from forming among the development team!
+
+When you have a bunch of this internal, required domain knowledge, it makes your codebase much harder for new people to join, since they'll have to learn a list of abbreviations just to get started.
 
 ### Unclear Variable Names
 
@@ -198,6 +262,20 @@ var secretTunnel = new SecretTunnel(); // Through the mountain!
 {% endhighlight %}
 
 **Note:** For this example, assume these were in different scopes, so the compiler would allow it, but seeing `st` in the code wouldn't tell you which `st` *this* was!
+
+### Real World Examples of Abbreviations
+
+These are some abbreviations I've come across in codebases that aren't what you might first think they are:
+
+```
+"E2E" and it wasn't End-to-End like I thought.
+"IRS" and it wasn't related to taxes.
+"IBM" and it wasn't the computer company.
+"S3" and it wasn't the AWS storage.
+"NES" and it wasn't the video game console.
+"DDL" and it wasn't a DataDefinitionLanguage or a DropDownList.
+"DLL" and it wasn't a DynamicLinkLibrary.
+```
 
 ## Using Single Letter Variables
 
@@ -241,7 +319,7 @@ var maxTemperatures =
 
 Notice `x`, `y`, `z`, and `o` are all different types. Even if I tried using `g` for the group, there's the risk that it might have an alternate interpretation.
 
-## Nesting Null Checks
+## Heavily Nesting Code with Conditionals
 
 Want a quick and easy way to make your code harder to read? Nest your conditionals needlessly deep by adding separate checks instead of using `&&` or a quick null conditional or null coalescing operation.
 
