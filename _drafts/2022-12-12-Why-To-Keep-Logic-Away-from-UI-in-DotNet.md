@@ -13,11 +13,13 @@ permalink: "/post/Why-To-Keep-Logic-Away-from-UI-in-DotNet/"
 
 Hello and welcome! This post is part of the [2022 .NET Advent Calendar](https://dotnet.christmas/) series of posts, but you can enjoy the content without worrying about that!
 
-For this event, I thought I'd make a fun little game for .NET using C#. Now you might be wondering which choice I made for the UI of the application as there are quite a few to choose from in the dotnet ecosystem.
+For this event, I thought I'd build a program that can show why you don't want to have any logic in your controllers, pages, views, forms, etc. in your .NET application. I also figured we'd make it a fun little game.
+
+Now you might be wondering which choice I made for the UI of the application, since I mentioned a few types of front-ends and there are quite a few to choose from in each of those I mentioned above.
 
 I could have chosen: WPF, UWP, WinForms, or even a Console application. This isn't even considering the 3rd party options and variations on the first party ones!
 
-As the title may have given the game away already, I'm not going to mention which UI we're using yet. Why? I don't need it.
+As the title may have given the game away already, I'm not going to mention which UI we're using yet. Why? I don't need to! We can build the game and decide the UI later!
 
 You're likely also wondering which game I chose to make? I decided to make a Minesweeper-style game as I don't even have a copy of it on my Windows PC anymore! A shame!
 
@@ -29,10 +31,10 @@ If you aren't lucky enough to have played minesweeper when it was one of the few
 
 When it loads, you have a grid of blank squares and an indicator of how many bombs are unmarked on the board.
 
-When you left click a sqaure, it will reveal that square (and possibly others).
+When you left click a square, it will reveal that square (and possibly others).
 
 - If the square is a bomb, you lose.
-- If the square is adjacent to a bomb, it will display a number indicating how many of the 8 squares surrrounding it contain bombs (1-8).
+- If the square is adjacent to a bomb, it will display a number indicating how many of the 8 squares surrounding it contain bombs (1-8).
 - Otherwise, the square is blank, and the game will automatically reveal all contiguous blank spaces and the numbered spaces next to them.
 
 When you right click a square, it will mark that space with a flag. This is mostly to remind you that you think a bomb is there. You can remove it by right clicking it again. These are also not required to use in order to win the game.
@@ -57,9 +59,55 @@ Notice that I'm able to create the grid with some basic values without too much 
 
 With this little bit of code, I was able to get a basic test that the board could get created. What was my initial UI? Console Application. Why? I could easily print out the contents of that array to see if the board looked like I expected. Yeah, the test confirmed that it created positive and negative numbers in a 2 dimensional array, but that's not much gameplay tested yet.
 
-## Revealing Spaces
+## Hiding and Revealing Spaces
 
+Before we can play this game, we'll need to hide the spaces, so we can reveal them when the player picks them later. Displaying everything was great for confirming that the application was creating the grid as we expected it.
 
+Since we need to keep track of whether a space has been revealed or not, we either need two grids of data, one with the status and one for the value, or we could upgrade our grid to have an object that knows its value and the revealed state.
+
+To start with, I created a `Cell` class and gave it properties for the `Count` of neighboring bombs and a `Revealed` boolean value to know when it should be displayed.
+
+{% highlight csharp %}
+Code sample
+{% endhighlight %}
+
+Now in order to make it an easier refactoring, I can add some implicit operator methods to the type, so our number operations on it will modify the `Count` property. That looks like this:
+
+{% highlight csharp %}
+Code sample
+{% endhighlight %}
+
+The code where I did this will work on the cells the same way it did when these were numbers:
+
+{% highlight csharp %}
+Code sample
+{% endhighlight %}
+
+## Handling Game Over
+
+Minesweeper wouldn't be much fun if we don't lose by clicking a bomb, so let's make sure that this causes an end game. To solve this, we have a few options. We could send a message then reset the game, or we could wait until the user starts a new game and change our "state" to be "Game Over".
+
+I like the idea of remaining in the "game over" state, so that the player can see the grid and their mistake that lost the game. That means we need to store that somewhere. We could use booleans for things like `IsStarted`, `IsWon`, `IsLost`, etc. to know the state. I think we're only ever going to be in one state at a time, so an enum for this might be the simpler solution. Let's create a `GameState` enum to handle this.
+
+{% highlight csharp %}
+Code sample
+{% endhighlight %}
+
+Now we can adjust the reveal method to trigger a `GameOver` state if we reveal a bomb while we're in the `GamePlaying` state. We can also restrict the player selecting to reveal a space, so that it only happens if we're in the `GamePlaying` state.
+
+{% highlight csharp %}
+Code sample
+{% endhighlight %}
+
+## Handling Winning the Game
+
+We can lose the game, but I think we'd all rather win. It's time to add in the condition to allow a player to win! As we mentioned, that happens when the player has revealed every non-bomb space without losing.
+
+We created the `GameWon` value on the `GameState` enum already, so we can use it now to indicate that the player has won the game.
+
+## Playing the Game without a UI
+
+Now I'll reveal the secret that I was able to run these tests before writing most of the code. My tests just needed to call methods on the `Game` object, because I could automate playing the game without a UI at all. I can do this, because I kept all of the logic out of the UI.
 
 ## Outro
 
