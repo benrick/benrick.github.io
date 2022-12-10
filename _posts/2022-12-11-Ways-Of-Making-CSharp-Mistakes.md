@@ -9,6 +9,8 @@ tags: ["Programming", "Tips and Tricks", "Advent", "dotnet", ".NET", "C#", "CSha
 permalink: "/post/Ways-Of-Making-CSharp-Mistakes/"
 ---
 
+Hello and welcome! This post is part of the [2022 C# Advent Calendar](https://www.csadvent.christmas/) series of posts, but you can enjoy the content without worrying about that! For the series, there will be 2 C# posts every day from 1st until the 24th of December from an awesome group of content creators!
+
 Programming is hard. Most of us work in teams, building software that other people are going to work with. For that reason, it's important that we try to make things easier for our team.
 
 I think, however, it's more fun that this post light-heartedly suggest making the code worse! And as this post is scheduled for the 11th of December, I figured I'd make a list of 11 ways of writing C# that will make our code harder for our team to work with, earning us a spot on the naughty list.
