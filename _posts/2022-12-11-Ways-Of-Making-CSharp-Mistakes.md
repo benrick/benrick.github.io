@@ -13,7 +13,7 @@ Hello and welcome! This post is part of the [2022 C# Advent Calendar](https://ww
 
 Programming is hard. Most of us work in teams, building software that other people are going to work with. For that reason, it's important that we try to make things easier for our team.
 
-I think, however, it's more fun that this post light-heartedly suggest making the code worse! And as this post is scheduled for the 11th of December, I figured I'd make a list of 11 ways of writing C# that will make our code harder for our team to work with, earning us a spot on the naughty list.
+I think, however, it's more fun that this post lightheartedly suggest making the code worse! And as this post is scheduled for the 11th of December, I figured I'd make a list of 11 ways of writing C# that will make our code harder for our team to work with, earning us a spot on the naughty list.
 
 On the 11th day of C# Advent, I give to you, **11 things you should NOT do in your C# code**.
 
@@ -127,7 +127,7 @@ var authorName = GetAuthorName();
 var authorFullName = GetAuthorFullName();
 {% endhighlight %}
 
-Notice that we can't tell the type of **any** of these variabled without putting a cursor on the type. At-a-glance, you might guess that `GetAuthorName` and `GetAuthorFullName` return the same type, but it's not clear that they do. Let's see this example without `var`.
+Notice that we can't tell the type of **any** of these variables without putting a cursor on the type. At-a-glance, you might guess that `GetAuthorName` and `GetAuthorFullName` return the same type, but it's not clear that they do. Let's see this example without `var`.
 
 {% highlight csharp %}
 Person author1 = GetAuthor1();
@@ -235,7 +235,7 @@ If you really want to upset your team, just add another warning to ignore with e
 <NoWarn>12345,23456,34567,45678,56789</NoWarn>
 {% endhighlight %}
 
-On a more serious note, I've worked with many clients (development teams) whose codebases had hundreds of warnings that just sat there. It would've been difficult to know where to start with fixing them.
+On a more serious note, I've worked with many clients (development teams) whose code bases had hundreds of warnings that just sat there. It would've been difficult to know where to start with fixing them.
 
 If this is your situation, I highly recommend setting up a metric to watch that number and use the [scout rule in programming](https://brendoneus.com/post/Boy-Scout-Rule/) to clean up a warning or two each time you're in a file.
 
@@ -267,7 +267,7 @@ var secretTunnel = new SecretTunnel(); // Through the mountain!
 
 ### Real World Examples of Abbreviations
 
-These are some abbreviations I've come across in codebases that aren't what you might first think they are:
+These are some abbreviations I've come across in code bases that aren't what you might first think they are:
 
 ```
 "E2E" and it wasn't End-to-End like I thought.
@@ -315,7 +315,7 @@ var maxTemperatures =
     allTemperatures
     .GroupBy(x => x.DayOfWeek)
     .Select(y => new { DayOfWeek = y.Key, HighTemp = y.Max(z => z.Temperature) })
-    .OrderyBy(o => o.HighTemp)
+    .OrderBy(o => o.HighTemp)
     .ToList();
 {% endhighlight %}
 
@@ -438,7 +438,7 @@ public void PrintChanges(ChangeLog changes)
 
 ## Outro
 
-Thanks for participating in this year's C# Advent! I hope you enjoy the next couple of weeks of these C# posts from members of the developer community.
+Thanks for participating in this year's [C# Advent](https://www.csadvent.christmas/)! I hope you enjoy the next couple of weeks of these C# posts from members of the developer community.
 
 If you don't know me, my name is Brendan Enrick, and I'm a regular speaker at conferences and user groups. I host a live coding streams and create coding videos on my [DevChatter Twitch](https://www.twitch.tv/DevChatter) and [DevChatter YouTube](https://www.YouTube.com/c/DevChatter) channels. You can also follow me as [@Brendoneus](https://twitter.com/brendoneus) on Twitter or [@Brendoneus@Our.DevChatter.com](https://our.devchatter.com/@Brendoneus) on Mastodon.
 
