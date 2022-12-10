@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "11 Ways of Making C# Mistakes"
+title: "11 Ways of Making Your C# Harder to Use"
 date: 2022-12-11 00:00:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
 tags: ["Programming", "Tips and Tricks", "Advent", "dotnet", ".NET", "C#", "CSharp"]
-permalink: "/post/Ways-Of-Making-CSharp-Mistakes/"
+permalink: "/post/Ways-Of-Making-CSharp-Harder/"
 ---
 
 Hello and welcome! This post is part of the [2022 C# Advent Calendar](https://www.csadvent.christmas/) series of posts, but you can enjoy the content without worrying about that! For the series, there will be 2 C# posts every day from 1st until the 24th of December from an awesome group of content creators!
