@@ -61,6 +61,7 @@ public class Game
     {
         Grid = new int[size, size];
         FillWithBombs(0.1);
+        SetHintValues(size);
     }
 
     private void FillWithBombs(double bombPercent)
@@ -74,15 +75,55 @@ public class Game
 
         foreach (var index in locations)
         {
-            _grid[index % _size, index / _size] = _random.Next(-5, 0);
+            Grid[index % _size, index / _size] = _random.Next(-5, 0);
         }
+    }
+
+    public bool IsBomb(int rowIndex, int colIndex)
+    {
+        return Grid[rowIndex, colIndex] < 0;
+    }
+
+    private void SetHintValues(int size)
+    {
+        for (int rowIndex = 0; rowIndex < size; rowIndex++)
+        {
+            for (int colIndex = 0; colIndex < size; colIndex++)
+            {
+                if (IsBomb(rowIndex, colIndex))
+                {
+                    SafeIncrement(rowIndex-1, colIndex);
+                    SafeIncrement(rowIndex+1, colIndex);
+                    SafeIncrement(rowIndex, colIndex-1);
+                    SafeIncrement(rowIndex, colIndex+1);
+
+                    SafeIncrement(rowIndex-1, colIndex-1);
+                    SafeIncrement(rowIndex+1, colIndex+1);
+                    SafeIncrement(rowIndex+1, colIndex-1);
+                    SafeIncrement(rowIndex-1, colIndex+1);
+                }
+            }
+        }
+    }
+
+    private void SafeIncrement(int rowIndex, int colIndex)
+    {
+        if (rowIndex < 0
+            || colIndex < 0
+            || rowIndex >= _size
+            || colIndex >= _size)
+        {
+            return;
+        }
+
+        Grid[rowIndex, colIndex]++;
     }
 }
 {% endhighlight %}
 
 Notice that I'm able to create the grid with some basic values without too much trouble. I randomly placed some bombs and mark the hint values. Efficient? Fancy? Nope. Nope. But it works!
 
-With this little bit of code, I was able to get a basic test that the board could get created. What was my initial UI? Console Application. Why? I could easily print out the contents of that array to see if the board looked like I expected. Yeah, the test confirmed that it created positive and negative numbers in a 2 dimensional array, but that's not much gameplay tested yet.
+With this little bit of code, I was able to get a basic test that the board could get created. What was my initial UI? Console Application. Why? I could easily print out the contents of that array to see if the board looked like I expected. Yeah, the test confirmed that it created positive and negative numbers in a 2 dimensional array, but that's not much gameplay tested yet. Next we'll need to be able to hide and reveal spaces on the board.
 
 ## Hiding and Revealing Spaces
 
@@ -93,19 +134,53 @@ Since we need to keep track of whether a space has been revealed or not, we eith
 To start with, I created a `Cell` class and gave it properties for the `Count` of neighboring bombs and a `Revealed` boolean value to know when it should be displayed.
 
 {% highlight csharp %}
-Code sample
+public class Cell
+{
+    public int Count { get; set; } = 0;
+    public bool Revealed { get; set; } = false;
+
+    public static Cell operator ++(Cell x)
+    {
+        x.Count += 1;
+        return x;
+    }
+}
 {% endhighlight %}
 
 Now in order to make it an easier refactoring, I can add some implicit operator methods to the type, so our number operations on it will modify the `Count` property. That looks like this:
 
 {% highlight csharp %}
-Code sample
+public class Cell
+{
+    public int Count { get; set; } = 0;
+    public bool Revealed { get; set; } = false;
+
+    public static Cell operator ++(Cell x)
+    {
+        x.Count += 1;
+        return x;
+    }
+
+    public static implicit operator int(Cell x) => x.Count;
+    public static implicit operator Cell(int number) => new() { Count = number };
+}
 {% endhighlight %}
 
 The code where I did this will work on the cells the same way it did when these were numbers:
 
 {% highlight csharp %}
-Code sample
+private void SafeIncrement(int rowIndex, int colIndex)
+{
+    if (rowIndex < 0
+        || colIndex < 0
+        || rowIndex >= _size
+        || colIndex >= _size)
+    {
+        return;
+    }
+
+    Grid[rowIndex, colIndex]++;  // Works for int or Cell now!
+}
 {% endhighlight %}
 
 ## Handling Game Over
@@ -115,22 +190,36 @@ Minesweeper wouldn't be much fun if we don't lose by clicking a bomb, so let's m
 I like the idea of remaining in the "game over" state, so that the player can see the grid and their mistake that lost the game. That means we need to store that somewhere. We could use booleans for things like `IsStarted`, `IsWon`, `IsLost`, etc. to know the state. I think we're only ever going to be in one state at a time, so an enum for this might be the simpler solution. Let's create a `GameState` enum to handle this.
 
 {% highlight csharp %}
-Code sample - show GameState enum
+public enum GameState
+{
+    NotStarted,
+    Started,
+    Won,
+    Lost
+}
 {% endhighlight %}
 
-Now we can adjust the reveal method to trigger a `GameOver` state if we reveal a bomb while we're in the `GamePlaying` state. We can also restrict the player selecting to reveal a space, so that it only happens if we're in the `GamePlaying` state.
+Now we can adjust the reveal method to trigger a `Lost` state if we reveal a bomb while we're in the `Started` state. We can also restrict the player selecting to reveal a space, so that it only happens if we're in the `Started` state.
 
 {% highlight csharp %}
-Code sample - Guard the Reveal method to require GameState.GamePlayer
+public void Reveal(int rowIndex, int columnIndex)
+{
+    if (State != GameState.Started) return;
+
+    Cell? cell = Grid.SafeGet(rowIndex, columnIndex);
+    if (cell == null) return;
+
+    cell.Reveal();
+}
 {% endhighlight %}
 
 ## Handling Winning the Game
 
 We can lose the game, but I think we'd all rather win. It's time to add in the condition to allow a player to win! As we mentioned, that happens when the player has revealed every non-bomb space and not revealing any bomb spaces.
 
-As we already created the `GameWon` value on the `GameState` enum, we can use it now to indicate that the player has won the game.
+As we already created the `Won` value on the `GameState` enum, we can use it now to indicate that the player has won the game.
 
-Thankfully, we already locked the revealing of spaces to require that it be in the `GamePlaying` state, which means that we won't have to worry about accidentally clicking a bomb space after we've revealed all of the other spaces.
+Thankfully, we already locked the revealing of spaces to require that it be in the `Started` state, which means that we won't have to worry about accidentally clicking a bomb space after we've revealed all of the other spaces.
 
 {% highlight csharp %}
 Code sample - Triggering game won after all spaces revealed.
