@@ -9,11 +9,11 @@ tags: ["Programming", "Tips and Tricks", "Advent", "dotnet", ".NET", "C#", "CSha
 permalink: "/post/Why-To-Keep-Logic-Away-from-UI-in-DotNet/"
 ---
 
-## Intro
-
 Hello and welcome! This post is part of the [2022 .NET Advent Calendar](https://dotnet.christmas/) series of posts, but you can enjoy the content without worrying about that!
 
 For this event, I thought I'd build a program that can show why you don't want to have any logic in your controllers, pages, views, forms, etc. in your .NET application. I also figured we'd make it a fun little game.
+
+## Picking an Application Front-End
 
 Now you might be wondering which choice I made for the UI of the application, since I mentioned a few types of front-ends and there are quite a few to choose from in each of those I mentioned above.
 
@@ -25,7 +25,7 @@ You're likely also wondering which game I chose to make? I decided to make a Min
 
 Shameless self-promoting side note: I did a coding live stream with Guy Royse (after writing this game) on my [DevChatter programming channel on Twitch](https://www.twitch.tv/devchatter/) where we created a simple, static HTML and JavaScript version of Minesweeper from scratch. You can watch the recording of us [Coding Minesweeper in Static HTML with JavaScript](https://youtu.be/9ssOoL_Wj8I) on YouTube.
 
-## What is Minesweeper
+## What is Minesweeper?
 
 If you aren't lucky enough to have played minesweeper when it was one of the few included games on Windows, I'll explain the basic rules of the game.
 
@@ -90,26 +90,44 @@ Minesweeper wouldn't be much fun if we don't lose by clicking a bomb, so let's m
 I like the idea of remaining in the "game over" state, so that the player can see the grid and their mistake that lost the game. That means we need to store that somewhere. We could use booleans for things like `IsStarted`, `IsWon`, `IsLost`, etc. to know the state. I think we're only ever going to be in one state at a time, so an enum for this might be the simpler solution. Let's create a `GameState` enum to handle this.
 
 {% highlight csharp %}
-Code sample
+Code sample - show GameState enum
 {% endhighlight %}
 
 Now we can adjust the reveal method to trigger a `GameOver` state if we reveal a bomb while we're in the `GamePlaying` state. We can also restrict the player selecting to reveal a space, so that it only happens if we're in the `GamePlaying` state.
 
 {% highlight csharp %}
-Code sample
+Code sample - Guard the Reveal method to require GameState.GamePlayer
 {% endhighlight %}
 
 ## Handling Winning the Game
 
-We can lose the game, but I think we'd all rather win. It's time to add in the condition to allow a player to win! As we mentioned, that happens when the player has revealed every non-bomb space without losing.
+We can lose the game, but I think we'd all rather win. It's time to add in the condition to allow a player to win! As we mentioned, that happens when the player has revealed every non-bomb space and not revealing any bomb spaces.
 
-We created the `GameWon` value on the `GameState` enum already, so we can use it now to indicate that the player has won the game.
+As we already created the `GameWon` value on the `GameState` enum, we can use it now to indicate that the player has won the game.
+
+Thankfully, we already locked the revealing of spaces to require that it be in the `GamePlaying` state, which means that we won't have to worry about accidentally clicking a bomb space after we've revealed all of the other spaces.
+
+{% highlight csharp %}
+Code sample - Triggering game won after all spaces revealed.
+{% endhighlight %}
 
 ## Playing the Game without a UI
 
 Now I'll reveal the secret that I was able to run these tests before writing most of the code. My tests just needed to call methods on the `Game` object, because I could automate playing the game without a UI at all. I can do this, because I kept all of the logic out of the UI.
 
+{% highlight csharp %}
+Code sample - Functional Testing of a win and a loss on a 3x3 map with 3 bombs.
+{% endhighlight %}
+
+If I'd tied code into the UI, I'd have to spin up controllers, views or other context objects, which I'd rather not do in tests. I also haven't tied myself to MVVM, MVC, MVP, etc. either. We can easily add those as wrappers, or directly put the concept on these classes.
+
+## Optional Homework
+
+If you want to try it, I've put the [Minesweeper in C#](https://github.com/DevChatter/elf-sweeper) code on GitHub with a few empty projects that you could wire up a UI for and make buttons to reveal spaces and play the game.
+
 ## Outro
+
+One of my favorite things to do while programming in any language is to try to keep the application code away from the UI, because it gives us so much power of it when it's just in a referenced class library.
 
 Thanks for participating in this year's .NET Advent Calendar! I hope you enjoy the next couple of weeks of these dotnet posts from members of the developer community.
 
