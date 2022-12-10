@@ -52,7 +52,32 @@ Why did I start so simple? Easy, I may not have needed a `Cell` or a `Grid` clas
 My initial game looked a bit like this:
 
 {% highlight csharp %}
-Code sample
+public class Game
+{
+    private readonly int _size;
+    public readonly int[,] Grid { get; }
+
+    public void Start(int size)
+    {
+        Grid = new int[size, size];
+        FillWithBombs(0.1);
+    }
+
+    private void FillWithBombs(double bombPercent)
+    {
+        // Get bombs as a percent of all spaces
+        int bombCount = (int)(Grid.Length * bombPercent);
+        // Get an array of indexes as if the grid were one array.
+        var possibles = Enumerable.Range(0, Grid.Length).ToArray();
+        // Pick a random selection of those indexes to receive bombs.
+        var locations = possibles.OrderBy(x => _random.Next()).Take(bombCount);
+
+        foreach (var index in locations)
+        {
+            _grid[index % _size, index / _size] = _random.Next(-5, 0);
+        }
+    }
+}
 {% endhighlight %}
 
 Notice that I'm able to create the grid with some basic values without too much trouble. I randomly placed some bombs and mark the hint values. Efficient? Fancy? Nope. Nope. But it works!
@@ -123,7 +148,7 @@ If I'd tied code into the UI, I'd have to spin up controllers, views or other co
 
 ## Optional Homework
 
-If you want to try it, I've put the [Minesweeper in C#](https://github.com/DevChatter/elf-sweeper) code on GitHub with a few empty projects that you could wire up a UI for and make buttons to reveal spaces and play the game.
+I built only the UI for the Console Application and the (FILL ME IN). If you want to try it, I've put the [Minesweeper in C#](https://github.com/DevChatter/elf-sweeper) code on GitHub with a few empty projects that you could wire up a UI for and make buttons to reveal spaces and play the game.
 
 ## Outro
 
