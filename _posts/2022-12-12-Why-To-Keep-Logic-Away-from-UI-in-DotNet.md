@@ -283,7 +283,7 @@ If I'd tied code into the UI, I'd have to spin up controllers, views or other co
 
 ## Optional Homework
 
-I built only the interface for the Console Application, but I left an empty WinForms and WPF application referencing the game library. The nice part is that you can build a front-end using any of the front-end technologies in the .NET space. I've put the [Minesweeper in C#](https://github.com/DevChatter/elf-sweeper) code on GitHub with a few empty projects that you could wire up a UI for and make buttons to reveal spaces and play the game.
+I built only the interface for the Console Application, but I left an empty WinForms and WPF application referencing the game library. The nice part is that you can build a front-end using any of the front-end technologies in the .NET space. I've put the [Minesweeper in DotNet with C#](https://github.com/DevChatter/MineSweeper-DotNet) code on GitHub with some empty projects that you could wire up a UI for and make buttons to reveal spaces and play the game.
 
 ## Outro
 
