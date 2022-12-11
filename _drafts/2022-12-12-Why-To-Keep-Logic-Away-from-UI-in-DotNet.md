@@ -210,6 +210,10 @@ public void Reveal(int rowIndex, int columnIndex)
     if (cell == null) return;
 
     cell.Reveal();
+    if (cell.IsBomb)
+    {
+        State = GameState.Lost;
+    }
 }
 {% endhighlight %}
 
@@ -222,7 +226,23 @@ As we already created the `Won` value on the `GameState` enum, we can use it now
 Thankfully, we already locked the revealing of spaces to require that it be in the `Started` state, which means that we won't have to worry about accidentally clicking a bomb space after we've revealed all of the other spaces.
 
 {% highlight csharp %}
-Code sample - Triggering game won after all spaces revealed.
+public void Reveal(int rowIndex, int columnIndex)
+{
+    if (State != GameState.Started) return;
+
+    Cell? cell = Grid.SafeGet(rowIndex, columnIndex);
+    if (cell == null) return;
+
+    cell.Reveal();
+    if (cell.IsBomb)
+    {
+        State = GameState.Lost;
+    }
+    else if (Grid.OnlyBombsLeft())
+    {
+        State = GameState.Won;
+    }
+}
 {% endhighlight %}
 
 ## Playing the Game without a UI
@@ -230,7 +250,33 @@ Code sample - Triggering game won after all spaces revealed.
 Now I'll reveal the secret that I was able to run these tests before writing most of the code. My tests just needed to call methods on the `Game` object, because I could automate playing the game without a UI at all. I can do this, because I kept all of the logic out of the UI.
 
 {% highlight csharp %}
-Code sample - Functional Testing of a win and a loss on a 3x3 map with 3 bombs.
+public class FullGameTests
+{
+    private readonly Game _game = new();
+
+    [Fact]
+    public void ClearAllSpacesSafely()
+    {
+        _game.State.Should().Be(GameState.NotStarted);
+        _game.Start(4, Difficulty.Reindeer);
+        _game.State.Should().Be(GameState.Started);
+
+        ClickAllNonBombs();
+
+        _game.State.Should().Be(GameState.Won);
+    }
+
+    [Fact]
+    public void ClickBombFirst()
+    {
+        _game.State.Should().Be(GameState.NotStarted);
+        _game.Start(4, Difficulty.Reindeer);
+        _game.State.Should().Be(GameState.Started);
+        ClickBomb();
+
+        _game.State.Should().Be(GameState.Lost);
+    }
+}
 {% endhighlight %}
 
 If I'd tied code into the UI, I'd have to spin up controllers, views or other context objects, which I'd rather not do in tests. I also haven't tied myself to MVVM, MVC, MVP, etc. either. We can easily add those as wrappers, or directly put the concept on these classes.
