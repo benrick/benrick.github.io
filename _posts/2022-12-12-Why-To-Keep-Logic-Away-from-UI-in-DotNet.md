@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Why to Keep Logic Away from the UI in DotNet"
+title: "Building Minesweeper - Showing Why Logic Should Not Be in the UI"
 date: 2022-12-12 00:00:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
 tags: ["Programming", "Tips and Tricks", "Advent", "dotnet", ".NET", "C#", "CSharp"]
-permalink: "/post/Why-To-Keep-Logic-Away-from-UI-in-DotNet/"
+permalink: "/post/DotNet-Minesweeper-Keep-Logic-Away-from-UI/"
 ---
 
 Hello and welcome! This post is part of the [2022 .NET Advent Calendar](https://dotnet.christmas/) series of posts, but you can enjoy the content without worrying about that!
