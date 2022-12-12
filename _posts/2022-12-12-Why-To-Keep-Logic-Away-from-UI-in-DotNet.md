@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Minesweeper - Showing Why Logic Should Not Be in the UI"
-date: 2022-12-12 00:00:00 -0400
+date: 2022-12-11 20:00:00 -0400
 comments: true
 published: true
 categories: ["Archive"]
