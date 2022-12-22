@@ -9,13 +9,13 @@ sidebar_sort_order: 70
 
 Welcome to my catalog of katas! I hope you find something to help you!
 
-## Katas
+## [Katas](#katas)
 
 Coding Katas are a great way of practising your coding skills by going through a prescribed set of steps as defined by someone whose coding style you want to learn to replicate. By following each step they took solving the prompt, you can get used to the flow, approach, pattern, and cadence of refactoring.
 
 Those can help, however, there are other exercises that we still call "katas" to help you establish the techniques and concepts that you want to exhibit in your day-to-day coding. In these, we receive a prompt or other instructions for what to code, but don't have a prescribed set of steps to follow, instead allowing us to decide our approach.
 
-### Bowling Game Kata
+### [Bowling Game Kata](#bowling-game-kata)
 
 The Bowling Game Kata is a classic kata with a [walkthrough by Uncle Bob Martin](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata).
 
@@ -44,7 +44,7 @@ Example in C#:
 ```cs
 public void Roll(int pins)
 {
-  // Code here
+  // Your Code here
 }
 ```
 
@@ -53,38 +53,38 @@ Create a parameterless function named `FinalScore`, returning a number, to be ca
 ```cs
 public int FinalScore()
 {
-  // Code here
+  // Your Code here
 }
 ```
 
-### Fizz Buzz Kata
+### [Fizz Buzz Kata](#fizz-buzz-kata)
 
 Details coming soon.
 
-### Gilded Rose Refactoring Kata
+### [Gilded Rose Refactoring Kata](#gilded-rose-refactoring-kata)
 
 Details coming soon.
 
-### Greed Game Kata
+### [Greed Game Kata](#greed-game-kata)
 
 Details coming soon.
 
-### Potter Kata
+### [Potter Kata](#potter-kata)
 
 Details coming soon.
 
-### Prime Factors Kata
+### [Prime Factors Kata](#prime-factors-kata)
 
 Details coming soon.
 
-### String Calculator Kata
+### [String Calculator Kata](#string-calculator-kata)
 
 Details coming soon.
 
-### Tennis Scoring Kata
+### [Tennis Scoring Kata](#tennis-scoring-kata)
 
 Details coming soon.
 
-### Lift Pass Pricing Kata
+### [Lift Pass Pricing Kata](#lift-pass-pricing-kata)
 
 Details coming soon.
