@@ -17,7 +17,7 @@ I think, however, it's more fun that this post lightheartedly suggest making the
 
 On the 11th day of C# Advent, I give to you, **11 things you should NOT do in your C# code**.
 
-## Abusing for Loop Expressions
+## [Abusing for Loop Expressions](#abusing-for-loop-expressions)
 
 The "for" loop exists in many languages. It's a useful structure for creating consistent loops, and it's no different in C#. I'm sure you've seen this a million times:
 
@@ -28,7 +28,7 @@ for(int i = 0; i < 100; i++)
 }
 {% endhighlight %}
 
-### Understanding the For Loop
+### [Understanding the For Loop](#understanding-the-for-loop)
 
 Doing that is OK, but what might upset some people is if you start getting too creative with your loops. Let's jump back and explain the structure of the for loop, so we can discuss how someone might abuse it.
 
@@ -40,7 +40,7 @@ for (before statement; conditional statement; after each statement)
 
 The 3 statements inside of the parentheses have conditions for when they run, but they're just statements like any others you might have in your code. For this reason, you can put whatever you want in them.
 
-### Non-Standard For Loops
+### [Non-Standard For Loops](#non-standard-for-loops)
 
 Let's start by creating an infinite loop by leaving each of the 3 statements blank.
 
@@ -79,7 +79,7 @@ for (var (number, name) = (1, "Brendan"); number < 7; name += number.ToString(),
 }
 {% endhighlight %}
 
-## Tuple Construction and Deconstruction as Constructor Assignment
+## [Tuple Construction and Deconstruction as Constructor Assignment](#tuple-construction-and-deconstruction-as-constructor-assignment)
 
 As we just saw, you can construct and deconstruct tuples in the same line. Awesome! Now to upset the rest of our team, because we can put our entire constructor in **one line** now!
 
@@ -96,7 +96,7 @@ Did you notice? It is messed up. Look again!
 
 Yep, nickname and suffix get flipped in this constructor! And there won't be a compiler error for this one, since they're the same type.
 
-## Overusing Var
+## [Overusing or Underusing Var](#overusing-or-underusing-var)
 
 With all of the complex types we can get by using linq in C#, var was necessary. In fact, it's an awesome addition to the language to not have to specify the type of variable, since the compiler knows the type already.
 
@@ -140,7 +140,7 @@ This is useful for immediately knowing what type of sequence you have, enumerabl
 
 And if you're wondering, I have been fighting against this [overreliance on var in C#](https://brendoneus.com/post/Overusing-var-in-C/) for a long time as this 13.5 year old post illustrates.
 
-## Working With Disposable Types Without a Using Statement
+## [Working With Disposable Types Without a Using Statement](#working-with-disposable-types-without-a-using-statement)
 
 In the C# world, we work with "disposable" types all the time. When we say that, we usually mean that the type implements the IDisposable interface. There's even a language feature called using statements that was built for these. When you create your variable in one, it is supposed to dispose when you reach the ending curly brace.
 
@@ -195,11 +195,11 @@ streamWriter.WriteLine("2022-12-11");
 
 So only skip the using statements if you're **trying** to write bad code.
 
-## Throwing Exceptions Instead of Returning
+## [Throwing Exceptions Instead of Returning](#throwing-exceptions-instead-of-returning)
 
-One thing you can do as a programmer to get my attention on a code review is to handle an expected situation by throwing an exception instead of just escaping and returning a value.
+One thing you can do as a programmer to get my attention on a code review is to handle an expected or likely situation by throwing an exception instead of just escaping and returning a value.
 
-Did a user forget to enter a value? That's a validation error that we can return, not an exceptional case! We can just return an error result from our method and inform the user of the issue.
+Did a user forget to enter a value? That's a validation error that we can return, not an exceptional case! We can (and should) return an error result from our method and inform the user of the issue. If the value were missing during some internal calculatoin, that's a data integrity issue after validation, an exceptional case that might require stopping the code to prevent further issues.
 
 So how could we upset our team? Well, in theory, you don't have to return values from your methods at all! You could throw exceptions for everything!
 
@@ -223,7 +223,7 @@ private void UpdateProfileData(ProfileData data)
 
 Never thought of that, did you?! Well now you can write some truly terrible code. These act kind of like events that require that you handle them or your application crashed.
 
-## Suppress All Your Build Warnings instead of Fixing Them
+## [Suppress All Your Build Warnings instead of Fixing Them](#suppress-all-your-build-warnings-instead-of-fixing-them)
 
 Not much to say here. Some compiler warnings may not be issues, but often they're indicative of a place where an error is likely to go unnoticed. Some of us like the property to treat warnings as errors in dotnet, because it forces us to fix every warning. This keeps the signal to noise ratio low, increasing the chance that we'll catch bugs earlier.
 
@@ -239,7 +239,7 @@ On a more serious note, I've worked with many clients (development teams) whose 
 
 If this is your situation, I highly recommend setting up a metric to watch that number and use the [scout rule in programming](https://brendoneus.com/post/Boy-Scout-Rule/) to clean up a warning or two each time you're in a file.
 
-## Using Unclear Abbreviations for Variable Names
+## [Using Unclear Abbreviations for Variable Names](#using-unclear-abbreviations-for-variable-names)
 
 When naming a variable, it's far more important for a reader to know what the variable's purpose is. If you're trying to make your codebase difficult, you might embrace this ambiguity, which can arise from abbreviations.
 
@@ -247,7 +247,7 @@ Even if an abbreviation is common in your codebase or domain, you could have a c
 
 When you have a bunch of this internal, required domain knowledge, it makes your codebase much harder for new people to join, since they'll have to learn a list of abbreviations just to get started.
 
-### Unclear Variable Names
+### [Unclear Variable Names](#unclear-variable-names)
 
 {% highlight csharp %}
 var st = new SimpleTransfer();
@@ -255,7 +255,7 @@ var st = new ServiceTime();
 var st = new SecretTunnel();
 {% endhighlight %}
 
-### Clear Variable Names
+### [Clear Variable Names](#clear-variable-names)
 
 {% highlight csharp %}
 var simpleTransfer = new SimpleTransfer();
@@ -265,7 +265,7 @@ var secretTunnel = new SecretTunnel(); // Through the mountain!
 
 **Note:** For this example, assume these were in different scopes, so the compiler would allow it, but seeing `st` in the code wouldn't tell you which `st` *this* was!
 
-### Real World Examples of Abbreviations
+### [Real World Examples of Abbreviations](#real-world-examples-of-abbreviations)
 
 These are some abbreviations I've come across in code bases that aren't what you might first think they are:
 
@@ -279,11 +279,11 @@ These are some abbreviations I've come across in code bases that aren't what you
 "DLL" and it wasn't a DynamicLinkLibrary.
 ```
 
-## Using Single Letter Variables
+## [Using Single Letter Variables](#using-single-letter-variables)
 
 There are only two places where a single letter variable can be OK. Even then, it might be better to use a full variable name.
 
-### Acceptable Single Letter Variables
+### [Acceptable Single Letter Variables](#acceptable-single-letter-variables)
 
 You'll often find that classic "i" as the variable in a basic for loop. If you're not *using* the i itself, but it's just the number of times you looped, this can be OK.
 
@@ -304,7 +304,7 @@ int maxTemperature = dailyForecasts.Max(x => x.Temperature);
 int maxTemperature = dailyForecasts.Max(forecast => forecast.Temperature);
 {% endhighlight %}
 
-### Unacceptable Single Letter Variables
+### [Unacceptable Single Letter Variables](#unacceptable-single-letter-variables)
 
 Pretty much, if you're doing anything other than what's listed above, you've found your way onto the team's naughty list. When you start chaining LINQ extensions in your code, the data will often change from the initial type that started the chain. Unlike a fluent API, where the return value is often the same type that all the methods extend, these will return new and different objects. As a result, the types of those object matter!
 
@@ -321,7 +321,7 @@ var maxTemperatures =
 
 Notice `x`, `y`, `z`, and `o` are all different types. Even if I tried using `g` for the group, there's the risk that it might have an alternate interpretation.
 
-## Heavily Nesting Code with Conditionals
+## [Heavily Nesting Code with Conditionals](#heavily-nesting-code-with-conditionals)
 
 Want a quick and easy way to make your code harder to read? Nest your conditionals needlessly deep by adding separate checks instead of using `&&` or a quick null conditional or null coalescing operation.
 
@@ -352,7 +352,7 @@ if (building?.Office?.IsAvailable == true && user.CanReserve)
 }
 {% endhighlight %}
 
-## Using a One-to-One Interface to Class for a Model
+## [Using a One-to-One Interface to Class for a Model](#using-a-one-to-one-interface-to-class-for-a-model)
 
 As people learn about Dependency Inversion and mocking, some take this to the extreme, adding an interface to every class regardless of whether there will be multiple implementations or a need to be mocked.
 
@@ -362,7 +362,7 @@ The problem is when you get `IStudent` for `Student`, `ITeacher` for `Teacher`, 
 
 Some useful interfaces might be things like, `ISchoolMember` for `Student`, `Teacher`, and `Administrator`, which requires a `SchoolID` property on these objects.
 
-## Putting Regions Inside Methods
+## [Putting Regions Inside Methods](#putting-regions-inside-methods)
 
 Yes, we saved the worst for last. I won't shame anyone for using a region in their code, however, nearly all uses of them are better replaced by a change t the code.
 
@@ -370,7 +370,7 @@ Plenty of people do use regions, and like being able to define sections of code 
 
 Have you done this? Are you the one?!
 
-### Region Inside a Method
+### [Region Inside a Method](#region-inside-a-method)
 
 {% highlight csharp %}
 public ProcessResult ProcessStatusUpdate(ChangeLog changes)
@@ -399,7 +399,7 @@ public ProcessResult ProcessStatusUpdate(ChangeLog changes)
 }
 {% endhighlight %}
 
-### Extracted Method Instead of Region
+### [Extracted Method Instead of Region](#extracted-method-instead-of-region)
 
 Instead of the regions, we could've just created methods for those named parts of the code.
 
@@ -436,7 +436,7 @@ public void PrintChanges(ChangeLog changes)
 }
 {% endhighlight %}
 
-## Outro
+## [Outro](#outro)
 
 Thanks for participating in this year's [C# Advent](https://www.csadvent.christmas/)! I hope you enjoy the next couple of weeks of these C# posts from members of the developer community.
 
