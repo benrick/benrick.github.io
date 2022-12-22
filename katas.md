@@ -9,21 +9,19 @@ sidebar_sort_order: 70
 
 Welcome to my catalog of katas! I hope you find something to help you!
 
-## [Katas](#katas)
-
 Coding Katas are a great way of practising your coding skills by going through a prescribed set of steps as defined by someone whose coding style you want to learn to replicate. By following each step they took solving the prompt, you can get used to the flow, approach, pattern, and cadence of refactoring.
 
 Those can help, however, there are other exercises that we still call "katas" to help you establish the techniques and concepts that you want to exhibit in your day-to-day coding. In these, we receive a prompt or other instructions for what to code, but don't have a prescribed set of steps to follow, instead allowing us to decide our approach.
 
-### [Bowling Game Kata](#bowling-game-kata)
+## [Bowling Game Kata](#bowling-game-kata)
 
 The Bowling Game Kata is a classic kata with a [walkthrough by Uncle Bob Martin](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata).
 
-#### Summary
+### Bowling Summary
 
 In this kata, the goal is to score a game of bowling for a single player. We don't need to show or track scores as we go, but only need the final score. Keeping things simple is what makes this an exercise instead of a full project.
 
-##### Basics of Bowling
+#### Basics of Bowling
 
 A player completes a game of bowling after bowling 10 frames. In each frame, the player rolls the ball down the lane 1 or 2 times trying to knock as many of the 10 pins at the end of the lane as possible (pins are reset for each frame). *Note: The player only makes the second roll if there are pins remaining standing after the first.*
 
@@ -35,7 +33,7 @@ If the player knocked down all of the pins on the second roll, this is called a 
 
 In the final frame (10th), a player who rolls a strike or a spare will have extra rolls to complete the frame, because the bonus points need to be added for the strike or spare. Those rolls, however, won't earn bonus points.
 
-#### Instructions
+### Instructions - Bowling Kata
 
 Create a function named `Roll` with a single parameter for the number of pins. This function will be called each time a player rolls a ball.
 
@@ -57,34 +55,70 @@ public int FinalScore()
 }
 ```
 
-### [Fizz Buzz Kata](#fizz-buzz-kata)
+## [Fizz Buzz Kata](#fizz-buzz-kata)
+
+Fizz Buzz is well-known introduction to programming exercises and katas, because it has a simple enough premise that one can learn the approach of the exercises without worrying about the challenge of any code itself.
+
+This kata replicates a simple number game in which you count numbers, but replace some of the numbers with "Fizz", "Buzz", or "FizzBuzz" depending on the divisors of the number. For numbers divisible by 3, replace with "Fizz". For numbers divisible by 5, replace with "Buzz". For those divisible by both, replace with "FizzBuzz".
+
+### Instructions - Fizz Buzz
+
+- Create a function that prints (each on their own lines) the numbers 1 through 100 with the following exceptions:
+  - Numbers divisible by 3 should print "Fizz" instead of the number.
+  - Numbers divisible by 5 should print "Buzz" instead of the number.
+  - Numbers divisible by 3 and 5 should print "FizzBuzz" instead of the number.
+
+```
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+```
+
+### Fizz Buzz Extra Credit
+
+Finished the exercise early and want to add a bit more complexity?
+
+- Numbers containing the digit '3' should print "Fizz" instead of the number.
+- Numbers containing the digit '5' should print "Buzz" instead of the number.
+- Numbers containing the digits '3' and '5' should print "FizzBuzz" instead of the number.
+
+## [Gilded Rose Refactoring Kata](#gilded-rose-refactoring-kata)
 
 Details coming soon.
 
-### [Gilded Rose Refactoring Kata](#gilded-rose-refactoring-kata)
+## [Greed Game Kata](#greed-game-kata)
 
 Details coming soon.
 
-### [Greed Game Kata](#greed-game-kata)
+## [Potter Kata](#potter-kata)
 
 Details coming soon.
 
-### [Potter Kata](#potter-kata)
+## [Prime Factors Kata](#prime-factors-kata)
 
 Details coming soon.
 
-### [Prime Factors Kata](#prime-factors-kata)
+## [String Calculator Kata](#string-calculator-kata)
 
 Details coming soon.
 
-### [String Calculator Kata](#string-calculator-kata)
+## [Tennis Scoring Kata](#tennis-scoring-kata)
 
 Details coming soon.
 
-### [Tennis Scoring Kata](#tennis-scoring-kata)
-
-Details coming soon.
-
-### [Lift Pass Pricing Kata](#lift-pass-pricing-kata)
+## [Lift Pass Pricing Kata](#lift-pass-pricing-kata)
 
 Details coming soon.
