@@ -28,5 +28,7 @@ You can find me in a few places on the Internet:
 - On my [DevChatter YouTube Programming Channel](https://www.youtube.com/c/DevChatter)
 - On my [DevChatter Twitch Programming Channel](https://www.Twitch.tv/DevChatter)
 - On my [Pluralsight Profile](https://www.pluralsight.com/authors/brendan-enrick)
+- On Mastodon [@Brendoneus@our.devchatter.com](https://our.devchatter.com/@Brendoneus)
+- On Twitter [@Brendoneus](https://www.twitter.com/Brendoneus)
 
 Happy Coding!
