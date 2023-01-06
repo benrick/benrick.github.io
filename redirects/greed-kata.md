@@ -1,4 +1,4 @@
 ---
-redirect_to: https://brendoneus.com/katas.html#greed-game-kata
+redirect_to: https://brendoneus.com/katas/#greed-game-kata
 permalink: "/greed-kata/"
 ---
