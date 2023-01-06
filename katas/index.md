@@ -117,7 +117,7 @@ In the Gilded Rose kata, you get to working someone else's code (Yay!) In this k
 >   - Quality increases by 3 when there are 5 days or less
 >  - Quality drops to 0 after the concert
 
-### Instructions - Fizz Buzz
+### Instructions - Gilded Rose
 
 We have recently signed a supplier of conjured items. This requires an update to our system:
 
@@ -127,7 +127,7 @@ Feel free to make any changes to the UpdateQuality method and add any new code a
 
 Just for clarification, an item can never have its Quality increased above 50, however "Sulfuras" is a legendary item and as such its Quality is 80 and it never alters.
 
-### Fizz Buzz Extra Credit
+### Gilded Rose Extra Credit
 
 - Item categories are determined by whether they contain a given string in their name (e.g. "Aged Brie" or "Sulfuras" or "Backstage passes")
 - Any item can thus be conjured, with the resulting effects (e.g. "Conjured Backstage passes")
