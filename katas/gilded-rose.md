@@ -6,7 +6,7 @@ back_page: /katas/index.html
 sidebar_link: false
 ---
 
-In the Gilded Rose kata, you get to working someone else's code (Yay!) In this kata, you'll likely want to use careful refactoring as well as characterization testing to avoid breaking any existing features.
+In the Gilded Rose kata, you get to work with someone else's code! In this kata, you'll likely want to use careful refactoring as well as characterization testing to avoid breaking any existing features.
 
 > "Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a prominent city run by a friendly innkeeper named Allison. We also buy and sell only the finest goods. Unfortunately, our goods are constantly degrading in quality as they approach their sell by date. We have a system in place that updates our inventory for us. It was developed by a no-nonsense type named Leeroy, who has moved on to new adventures. The UpdateQuality() method is called each morning by another part of our system. Your task is to add the new feature to our system so that we can begin selling a new category of items. First an introduction to our system:
 >
@@ -24,7 +24,7 @@ In the Gilded Rose kata, you get to working someone else's code (Yay!) In this k
 > - "Backstage passes", like aged brie, increases in Quality as its SellIn value approaches
 >   - Quality increases by 2 when there are 10 days or less
 >   - Quality increases by 3 when there are 5 days or less
->  - Quality drops to 0 after the concert
+>   - Quality drops to 0 after the concert
 
 ## Instructions
 
@@ -41,7 +41,9 @@ Just for clarification, an item can never have its Quality increased above 50, h
 - Item categories are determined by whether they contain a given string in their name (e.g. "Aged Brie" or "Sulfuras" or "Backstage passes")
 - Any item can thus be conjured, with the resulting effects (e.g. "Conjured Backstage passes")
 
-## Sources
+## Source Code
 
-- Original Source from NotMyself https://github.com/NotMyself/GildedRose
-- A repository of starting code in various languages: https://github.com/emilybache/GildedRose-Refactoring-Kata
+To do this, you'll need to download the source code.
+
+- Original Source in C# from [@TerryHughes](https://twitter.com/TerryHughes) and [@NotMyself](https://twitter.com/NotMyself) [https://github.com/NotMyself/GildedRose](https://github.com/NotMyself/GildedRose)
+- A repository of starting code in various languages: [https://github.com/emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
