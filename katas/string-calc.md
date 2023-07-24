@@ -37,7 +37,7 @@ This kata is designed to help you practice and learn to use TDD in a methodical 
   1. Don't forget to use TDD, there should be a failing test before you make this method work!
 1. Numbers greater than 1000 should be ignored.
 	1. Example: `"2,1001"` returns `2`.
-1. Allow multiple delimiters using this syntax: `"//[delimiter1][delimiter2]\n"`. Example: `"//[|||]\n1|||2|||3"` returns `6`.
+1. Allow multiple delimiters using this syntax: `"//[delimiter1][delimiter2]\n"`. Example: `"//[|][*]\n1|2*3"` returns `6`.
 1. Allow multi-character delimiters. Example: `"//[**]\n1,2**3"` returns `6`.
 
 ## Original Source
