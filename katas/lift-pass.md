@@ -19,7 +19,7 @@ New Feature Request: **We need to be able to request the price for more than one
 ### Suggested Steps
 
 - Create a set of characterization tests using high-level functional testing at the endpoint level.
-- Change the code to make future testing and the addtion of the new feature easier.
+- Change the code to make future testing and the addition of the new feature easier.
 - Create unit tests where possible.
 - Write code to allow multiple passes to be priced with appropriate tests on the new code.
 
